@@ -49,15 +49,15 @@ permalink:  /
 - [Jul 17] Presenting [Visual Dialog](//visualdialog.org) at the [VQA Challenge Workshop](http://visualqa.org/workshop.html), CVPR 2017 ([Video][41]).
 - [Jul 17] Presenting our paper on [Visual Dialog](#/visdial) as a spotlight at CVPR 2017 ([Video][38]). -->
 
-- [May 23] Selected among 200 young researchers to attend the Heidelberg Laureate Forum 2023.
+- [May 23] Selected among 200 young researchers to attend the HLF 2023.
 - [May 23] Work on Visual Concept Learning accepted in CoLLAs 2023.
-- [] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors. 
-- [Aug 22] Joined Master's in Robotics Program at the Robotics Institute, Carnegie Mellon University.
-- [Dec 22] Our work on Talking Face Generation won the Best Demo Paper award at ACM MM Asia.
-- [] Joined Preimage as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
-- [] Joined CLVR Lab, USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.
-- [] Joined DeCLaRe Lab, SUTD as a Research Assistant -- working on vision-language applications.
-- [] Graduated from IIIT-Delhi with Honors.
+- [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors. 
+- [Aug 22] Joined Master's in Robotics Program at the Robotics Institute, CMU.
+- [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
+- [Jan 22] Joined Preimage as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
+- [Oct 20] Joined CLVR Lab, USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.
+- [Aug 20] Joined DeCLaRe Lab, SUTD as a Research Assistant -- working on vision-language applications.
+- [Aug 20] Graduated from IIIT-Delhi with Honors.
 
 <div id="read-more-button">
     <a nohref>Read more</a>
@@ -539,7 +539,7 @@ I like [this map][conquerearth] tracking the places I've been to.
 </script>
 
 ---
-
+<!-- 
 [1]: //mlp.cc.gatech.edu
 [2]: ///www.cc.gatech.edu/~dbatra/
 [3]: //www.cc.gatech.edu/~parikh/
@@ -622,4 +622,4 @@ I like [this map][conquerearth] tracking the places I've been to.
 [sigma-xi-thesis-award]: https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf
 [coc-dissertation-award]: https://sites.gatech.edu/gtcomputingawards2021/graduate-student-awards/
 [thesis-pdf]: https://drive.google.com/file/u/2/d/1b2Gonazl1Os0eLPV9frkucEqSuRroEvD/view?usp=sharing
-[aaai-dissertation-award]: https://aaai.org/Awards/dissertation-award.php
+[aaai-dissertation-award]: https://aaai.org/Awards/dissertation-award.php -->
