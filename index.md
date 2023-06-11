@@ -210,12 +210,12 @@ I like [this map][conquerearth] tracking the places I've been to.
 
 <a name="/publications"></a>
 
-# Publications
+# Conference Publications
 
 <a name="/relate"></a>
-<h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts.</h2>
+<h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
 <p class="pubd">
-    <span class="authors"><b>S. Bhagat*</b>, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
+    <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2301.07302">Paper</a>
@@ -250,24 +250,24 @@ I like [this map][conquerearth] tracking the places I've been to.
 <img src="/img/ocp/oc22.jpg">
 <hr> -->
 
-<a name="/gemnet-oc"></a>
-<h2 class="pubt">GemNet-OC: Developing Graph Neural Networks for Large and Diverse Molecular Simulation Datasets</h2>
+<a name="/faircop"></a>
+<h2 class="pubt">Suspect Identification Framework using Contrastive Relevance Feedback</h2>
 <p class="pubd">
-    <span class="authors">Johannes Gasteiger, Muhammed Shuaibi, Anuroop Sriram, Stephan Günnemann, Zachary Ulissi, C. Lawrence Zitnick, Abhishek Das</span><br>
-    <span class="conf">TMLR 2022</span>
+    <span class="authors">D. Gupta, A. Saini, D. Bhasin, S. Bhagat, S. Uppal, P. Kumaraguru, R. Shah</span><br>
+    <span class="conf">Winter Conference on Applications of Computer Vision (WACV), 2023</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2204.02782">Paper</a>
-        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/gemnet_oc">Code</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/gemnet_oc">Code</a> -->
     </span>
 </p>
 <!-- <img src="/img/ocp/gemnet_oc.jpg"> -->
 <hr>
 
-<a name="/scn"></a>
-<h2 class="pubt">Spherical Channels for Modeling Atomic Interactions</h2>
+<a name="/emogen"></a>
+<h2 class="pubt">Emotional Talking Faces: Making Videos More Expressive and Realistic</h2>
 <p class="pubd">
-    <span class="authors">C. Lawrence Zitnick, Abhishek Das, Adeesh Kolluru, Janice Lan, Muhammed Shuaibi, Anuroop Sriram, Zachary Ulissi, Brandon Wood</span><br>
-    <span class="conf">NeurIPS 2022</span>
+    <span class="authors">S. Goyal, S. Uppal, S. Bhagat, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
+    <span class="conf">ACM Multimedia Asia (MMAsia), 2022 (Won Best Demo Paper Award)</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
         <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
@@ -275,6 +275,72 @@ I like [this map][conquerearth] tracking the places I've been to.
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
+
+<a name="/mgpvae"></a>
+<h2 class="pubt">Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders</h2>
+<p class="pubd">
+    <span class="authors">S. Bhagat*, S. Uppal*, Z. Yin, N. Lim</span><br>
+    <span class="conf">European Conference on Computer Vision (ECCV), 2020</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+<a name="/uav"></a>
+<h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
+<p class="pubd">
+    <span class="authors">S. Bhagat, P.B. Sujit</span><br>
+    <span class="conf">he 2020 International Conference on Unmanned Aircraft Systems (ICUAS), 2020 (Oral)</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+<a name="/c3vqg"></a>
+<h2 class="pubt">C3VQG: Category Consistent Cyclic Visual Question Generation.</h2>
+<p class="pubd">
+    <span class="authors">S. Uppal*, A. Madan*, S. Bhagat*, Y. Yu, R. Shah</span><br>
+    <span class="conf">ACM Multimedia Asia (MMAsia), 2020</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+<a name="/prose"></a>
+<h2 class="pubt">PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning</h2>
+<p class="pubd">
+    <span class="authors">A. Shukla, S. Bhagat*, S. Uppal*, S. Anand, P. Turaga</span><br>
+    <span class="conf">British Machine Vision Conference (BMVC), 2019</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+<a name="/icvgip"></a>
+<h2 class="pubt">Geometry of Deep Generative Models for Disentangled Representations</h2>
+<p class="pubd">
+    <span class="authors">A. Shukla, S. Uppal*, S. Bhagat*, S. Anand, P. Turaga</span><br>
+    <span class="conf">Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2018</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
 
 <!-- <div id="vimeo-embed">
     <iframe src="https://player.vimeo.com/video/193092429?byline=0&portrait=0&color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
