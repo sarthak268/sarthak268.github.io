@@ -212,28 +212,15 @@ I like [this map][conquerearth] tracking the places I've been to.
 
 # Publications
 
-<a name="/adsorbml"></a>
-<h2 class="pubt">AdsorbML: Accelerating Adsorption Energy Calculations with Machine Learning</h2>
+<a name="/relate"></a>
+<h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts.</h2>
 <p class="pubd">
-    <span class="authors">Janice Lan, Aini Palizhati, Muhammed Shuaibi, Brandon M. Wood, Brook Wander, Abhishek Das, Matt Uyttendaele, C. Lawrence Zitnick, Zachary W. Ulissi</span><br>
-    <span class="conf"></span>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2211.16486">Paper</a>
-        <a target="_blank" href="https://github.com/open-catalyst-project/adsorbml">Code</a>
-    </span>
-</p>
-<!-- <img src="/img/ocp/adsorbml.png"> -->
-<hr>
-
-<a name="/pirlnav"></a>
-<h2 class="pubt">PIRLNav: Pretraining with Imitation and RL Finetuning for ObjectNav</h2>
-<p class="pubd">
-    <span class="authors">Ram Ramrakhya, Dhruv Batra, Erik Wijmans, Abhishek Das</span><br>
-    <span class="conf">CVPR 2023, RRL workshop at ICLR 2023</span>
+    <span class="authors"><b>S. Bhagat*</b>, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
+    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2301.07302">Paper</a>
         <a target="_blank" href="https://github.com/Ram81/pirlnav">Code</a>
-        <a target="_blank" href="https://ram81.github.io/projects/pirlnav.html">Website</a>
+        <!-- <a target="_blank" href="https://ram81.github.io/projects/pirlnav.html">Website</a> -->
     </span>
 </p>
 <!-- <img src="/img/habitat/pirlnav.png"> -->
