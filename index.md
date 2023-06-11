@@ -19,7 +19,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-
+<!-- 
 - [Feb 22] Runner-up for the [2020 AAAI/ACM SIGAI Doctoral Dissertation Award][aaai-dissertation-award].
 - [Mar 21] Awarded the [Georgia Tech Sigma Xi Best PhD Thesis Award][sigma-xi-thesis-award].
 - [Mar 21] Awarded the [Georgia Tech College of Computing Dissertation Award][coc-dissertation-award].
@@ -47,7 +47,17 @@ permalink:  /
 - [Dec 17] Awarded the [Snap Inc. Research Fellowship][36]. ([Department's news story][43])
 - [Oct 17] Presenting [Cooperative Visual Dialog Agents](#/visdial-rl) as an oral at ICCV 2017 ([Video][37]).
 - [Jul 17] Presenting [Visual Dialog](//visualdialog.org) at the [VQA Challenge Workshop](http://visualqa.org/workshop.html), CVPR 2017 ([Video][41]).
-- [Jul 17] Presenting our paper on [Visual Dialog](#/visdial) as a spotlight at CVPR 2017 ([Video][38]).
+- [Jul 17] Presenting our paper on [Visual Dialog](#/visdial) as a spotlight at CVPR 2017 ([Video][38]). -->
+
+- [May 23] Selected among 200 young researchers to attend the Heidelberg Laureate Forum 2023.
+- [May 23] Work on Visual Concept Learning accepted in CoLLAs 2023.
+- [] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors. 
+- [Aug 22] Joined Master's in Robotics Program at the Robotics Institute, Carnegie Mellon University.
+- [Dec 22] Our work on Talking Face Generation won the Best Demo Paper award at ACM MM Asia.
+- [] Joined Preimage as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
+- [] Joined CLVR Lab, USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.
+- [] Joined DeCLaRe Lab, SUTD as a Research Assistant -- working on vision-language applications.
+- [] Graduated from IIIT-Delhi with Honors.
 
 <div id="read-more-button">
     <a nohref>Read more</a>

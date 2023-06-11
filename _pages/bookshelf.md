@@ -14,7 +14,54 @@ permalink:  /bookshelf/
     }
 </style>
 
-All of these books are exceptional, for which I consider myself lucky to have read them and to be in the midst of friends who continue to provide a steady stream of recommendations. The ones that truly expanded my thinking at the time of reading are highlighted in blue.
+> “A reader lives a thousand lives before he dies... The man who never reads lives only one.”  
+> – George R.R. Martin
+
+Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys. <br>
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favourites marked with a star.
+
+# Science / History
+
+1. Sapiens by Yuval Noah Harari
+2. The Theory of Everything by Stephen W. Hawking
+3. 21 Lessons from the 21st Century by Yuval Noah Harari
+4. *The Fabric of Reality by David Deutsch
+5. Pale Blue Dot by Carl Sagan
+
+# Self Growth
+
+1. *The Almanack of Naval Ravikant
+2. The Subtle Art of Not Giving a F*ck by Mark Manson
+3. The Compound Effect by Darren Hardy
+4. Ikigai by Francesc Miralles and Hector Garcia
+5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi 
+
+# Autobiography / Biography
+
+1. *Shoe Dog by Phil Knight
+2. Steve Jobs by Walter Isaacson 
+3. Can’t Hurt Me by David Goggins
+4. Becoming by Michelle Obama
+5. Born A Crime by Trevor Noah
+6. Limitless by Radhika Gupta
+7. Rich Dad Poor Dad by Robert T. Kiyosaki
+8. Elon Musk by Ashlee Vance
+
+# Entrepreneurship
+
+1. Hard Things about Hard Things by Ben Horowitz
+2. Zero to One by Peter Thiel
+
+# Misc
+
+1. Think Again by Adam Grant
+2. *What I Know For Sure by Oprah Winfrey 
+3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan
+4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
+5. Do Epic Shit by Ankur Warikoo
+6. Man’s Search for Meaning by  Victor E. Frankl
+
+<!-- All of these books are exceptional, for which I consider myself lucky to have read them and to be in the midst of friends who continue to provide a steady stream of recommendations. The ones that truly expanded my thinking at the time of reading are highlighted in blue.
 
 > “A reader lives a thousand lives before he dies... The man who never reads lives only one.”  
 > – George R.R. Martin
@@ -55,7 +102,7 @@ All of these books are exceptional, for which I consider myself lucky to have re
 
 1. [Gödel, Escher, Bach](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas Hofstadter
 
-1. __[How to Avoid a Climate Disaster](https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster)__ by Bill Gates
+1. __[How to Avoid a Climate Disaster](https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster)__ by Bill Gates -->
 
 <!-- 1. [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 
