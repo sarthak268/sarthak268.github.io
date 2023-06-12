@@ -255,7 +255,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     ICVGIP 2020 Vision India</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
-        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
+        <a target="_blank" href="https://github.com/SUTDBrainLab/MGP-VAE">Code</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -366,7 +366,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="conf">European Conference on Computer Vision (ECCV) Workshops, 2020</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2006.05895.pdf">Paper</a>
-        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+        <a target="_blank" href="https://github.com/sarthak268/DisCont">Code</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
