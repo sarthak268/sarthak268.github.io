@@ -104,64 +104,54 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitr.ac.in"><img src="/img/logos/iitr.jpg"></a>
+            <a href="//"><img src="/img/logos/iiitd.png"></a>
         </div>
         <div class="logo-desc">
-            IIT Roorkee<br>
-            2011 - 2015
+            IIIT Delhi<br>
+            2016 - 2020
         </div>
     </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//qbi.uq.edu.au"><img style="width:120px;" src="/img/logos/uq.png"></a>
+            <a href="//"><img style="width:120px;" src="/img/logos/sutd.png"></a>
         </div>
         <div class="logo-desc">
-            Queensland Brain Institute<br>
-            Summer 2015
+            Singapore University of Technology and Design<br>
+            Summer 2019, Summer 2020
         </div>
     </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//vt.edu"><img src="/img/logos/vt.png"></a>
+            <a href="//"><img src="/img/logos/usc.png"></a>
         </div>
         <div class="logo-desc">
-            Virginia Tech<br>
-            2015 - 2016
+            University of Southern California<br>
+            2020 - 2021
         </div>
     </div>
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/img/logos/gatech.png"></a>
+            <a target="_blank" href="//"><img src="/img/logos/preimage.jpg"></a>
         </div>
         <div class="logo-desc">
-            Georgia Tech<br>
-            2017 - 2020
+            Preimage<br>
+            2021
         </div>
     </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px;" src="/img/logos/fair3.png"></a>
+            <a target="_blank" href="//"><img style="width:120px;" src="/img/logos/cmu.jpg"></a>
         </div>
         <div class="logo-desc">
-            Facebook AI Research<br>
-            S2017, W2018, S2018
+            Carnegie Mellon University<br>
+            2022-
         </div>
     </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//deepmind.com"><img style="width:120px;" src="/img/logos/deepmind.png"></a>
-        </div>
-        <div class="logo-desc">
-            DeepMind<br>
-            Winter 2019
-        </div>
-    </div>
-    <div class="col-xs-3">
+    <!-- <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//www.tesla.com/autopilotAI"><img style="width:120px;" src="/img/logos/tesla.jpg"></a>
@@ -180,7 +170,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             Facebook AI Research<br>
             Present
         </div>
-    </div>
+    </div> -->
 </div>
 
 <!-- During my PhD, I interned thrice at Facebook AI Research — Summer 2017 and Spring 2018
