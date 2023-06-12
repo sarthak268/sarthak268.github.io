@@ -22,7 +22,7 @@ permalink:  /
 
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
 - [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue).
-- [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors. 
+- [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors and intent inference for human-robot collaboration. 
 - [Aug 22] Joined Master's in Robotics Program at the [Robotics Institute, CMU](https://www.ri.cmu.edu/).
 - [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
 - [Jan 22] Joined [Preimage](https://www.preimage.ai/) as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
@@ -255,7 +255,7 @@ I like [this map][conquerearth] tracking the places I've been to.
 <h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, P.B. Sujit</span><br>
-    <span class="conf">he 2020 International Conference on Unmanned Aircraft Systems (ICUAS), 2020 (Oral)</span>
+    <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 (Oral)</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
