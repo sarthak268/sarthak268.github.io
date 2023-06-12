@@ -112,7 +112,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             2022-
         </div>
     </div>
-    <div class="col-xs-3">
+    <!-- <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//"><img src="/img/logos/hlf.jpg"></a>
@@ -121,7 +121,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             HLF<br>
             Young Researcher
         </div>
-    </div>
+    </div> -->
     <!-- <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
