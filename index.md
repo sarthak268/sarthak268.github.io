@@ -92,7 +92,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             2020 - 2021
         </div>
     </div>
-    <div class="col-xs-2">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//"><img src="/img/logos/preimage.jpg"></a>
@@ -102,7 +102,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             2021
         </div>
     </div>
-    <div class="col-xs-2">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//"><img src="/img/logos/cmu.jpg"></a>
