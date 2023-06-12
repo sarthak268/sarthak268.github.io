@@ -179,8 +179,8 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2301.07302">Paper</a>
-        <a target="_blank" href="https://github.com/Ram81/pirlnav">Code</a>
+        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="">Code</a>
         <!-- <a target="_blank" href="https://ram81.github.io/projects/pirlnav.html">Website</a> -->
     </span>
 </p>
@@ -217,7 +217,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">D. Gupta, A. Saini, D. Bhasin, S. Bhagat, S. Uppal, P. Kumaraguru, R. Shah</span><br>
     <span class="conf">Winter Conference on Applications of Computer Vision (WACV), 2023</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2204.02782">Paper</a>
+        <a target="_blank" href="https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_A_Suspect_Identification_Framework_Using_Contrastive_Relevance_Feedback_WACV_2023_paper.pdf">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/gemnet_oc">Code</a> -->
     </span>
 </p>
@@ -230,8 +230,8 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Goyal, S. Uppal, S. Bhagat, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022 (Won Best Demo Paper Award)</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
-        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
+        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -257,7 +257,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Bhagat, P.B. Sujit</span><br>
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 (Oral)</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -271,8 +271,8 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="conf">ACM Multimedia Asia (MMAsia), 2020<br>
     VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020 (Spotlight)</span>    
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
-        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
+        <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3444685.3446302">Paper</a>
+        <a target="_blank" href="https://github.com/sarthak268/c3vqg-official">Code</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -284,7 +284,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">A. Shukla, S. Bhagat*, S. Uppal*, S. Anand, P. Turaga</span><br>
     <span class="conf">British Machine Vision Conference (BMVC), 2019</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/1907.09554.pdf">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -297,7 +297,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">A. Shukla, S. Uppal*, S. Bhagat*, S. Anand, P. Turaga</span><br>
     <span class="conf">Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2018</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3293353.3293422">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -312,7 +312,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Uppal*, S. Bhagat*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
     <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1566253521001512">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -325,7 +325,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Bhagat*, H. Banerjee*, Z. Tse, H. Ren</span><br>
     <span class="conf">Robotics 2019, 8(1), 4</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://www.mdpi.com/2218-6581/8/1/4">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -341,7 +341,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">D. Gupta, D. Bhasin, S. Bhagat, S. Uppal, P. Kumaraguru, R. Shah</span><br>
     <span class="conf">AAAI Student Abstract 2021</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/download/21617/21366">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -355,7 +355,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Bhagat*, V. Udandarao*, S. Uppal*, S. Anand</span><br>
     <span class="conf">European Conference on Computer Vision (ECCV) Workshops, 2020</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2006.05895.pdf">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
