@@ -118,7 +118,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
         </div>
         <div class="logo-desc">
             Singapore University of Technology and Design<br>
-            Summer 2019, Summer 2020
+            Summer 2019, 2020
         </div>
     </div>
     <div class="col-xs-3">
