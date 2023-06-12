@@ -291,6 +291,7 @@ I like [this map][conquerearth] tracking the places I've been to.
 <p class="pubd">
     <span class="authors">S. Bhagat*, S. Uppal*, Z. Yin, N. Lim</span><br>
     <span class="conf">European Conference on Computer Vision (ECCV), 2020</span>
+    <span class="conf">ICVGIP 2020 Vision India</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
         <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
@@ -317,6 +318,7 @@ I like [this map][conquerearth] tracking the places I've been to.
 <p class="pubd">
     <span class="authors">S. Uppal*, A. Madan*, S. Bhagat*, Y. Yu, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2020</span>
+    <span class="conf">VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020 (Spotlight)</span>    
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
         <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a>
@@ -351,6 +353,63 @@ I like [this map][conquerearth] tracking the places I've been to.
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
 
+# Journal Publications
+
+<a name="/infofus"></a>
+<h2 class="pubt">Multimodal Research in Vision and Language: A Review of Current and Emerging Trends</h2>
+<p class="pubd">
+    <span class="authors">S. Uppal*, S. Bhagat*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
+    <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+<a name="/mdpi"></a>
+<h2 class="pubt">Deep Reinforcement Learning for Soft Robotic Applications: Brief Overview with Impending Challenges</h2>
+<p class="pubd">
+    <span class="authors">S. Bhagat*, H. Banerjee*, Z. Tse, H. Ren</span><br>
+    <span class="conf">Robotics 2019, 8(1), 4</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+# Workshop Publications
+
+
+<a name="/contr"></a>
+<h2 class="pubt">Contrastive Personalization Approach to Suspect Identification</h2>
+<p class="pubd">
+    <span class="authors">D. Gupta, D. Bhasin, S. Bhagat, S. Uppal, P. Kumaraguru, R. Shah</span><br>
+    <span class="conf">AAAI Student Abstract 2021</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+
+<a name="/discont"></a>
+<h2 class="pubt">DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors</h2>
+<p class="pubd">
+    <span class="authors">S. Bhagat*, V. Udandarao*, S. Uppal*, S. Anand</span><br>
+    <span class="conf">European Conference on Computer Vision (ECCV) Workshops, 2020</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
 
 <!-- <div id="vimeo-embed">
     <iframe src="https://player.vimeo.com/video/193092429?byline=0&portrait=0&color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
