@@ -14,6 +14,14 @@ permalink:  /misc/
     }
 </style>
 
+## Interests
+
+- Physics (i'm always up for a insightful physics discussion)
+- Football (watch and play)
+- Reading 
+- Travel
+- Gym (i'm still a noob)
+
 ## Reviewer
 
 - Conferences: NeurIPS 2023, WACV 2023
