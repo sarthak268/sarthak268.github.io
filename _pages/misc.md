@@ -16,11 +16,11 @@ permalink:  /misc/
 
 ## Interests
 
-- Physics (i'm always up for a insightful physics discussion)
-- Football (watch and play)
-- Reading 
+- Physics (I'm always up for an insightful physics discussion)
+- Football (watch + play)
+- Reading (I love autobiographies and biographies)
 - Travel
-- Gym (i'm still a noob)
+- Gym (I'm still a noob)
 
 ## Reviewer
 

@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      My Travel Diary
-permalink:  /bookshelf/
+permalink:  /travel/
 ---
 
 <style type="text/css">
