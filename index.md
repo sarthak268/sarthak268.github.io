@@ -114,7 +114,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//"><img style="width:120px;" src="/img/logos/sutd.png"></a>
+            <a href="//"><img src="/img/logos/sutd.png"></a>
         </div>
         <div class="logo-desc">
             Singapore University of Technology and Design<br>
@@ -141,10 +141,10 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             2021
         </div>
     </div>
-    <div class="col-xs-1">
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//"><img style="width:120px;" src="/img/logos/cmu.jpg"></a>
+            <a target="_blank" href="//"><img src="/img/logos/cmu.jpg"></a>
         </div>
         <div class="logo-desc">
             Carnegie Mellon University<br>
