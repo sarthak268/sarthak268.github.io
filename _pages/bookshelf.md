@@ -20,7 +20,7 @@ permalink:  /bookshelf/
 Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys. <br>
 Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favourites marked with a star.
 
-# Science / History
+## Science / History
 
 1. Sapiens by Yuval Noah Harari
 2. The Theory of Everything by Stephen W. Hawking
@@ -28,7 +28,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 4. *The Fabric of Reality by David Deutsch
 5. Pale Blue Dot by Carl Sagan
 
-# Self Growth
+## Self Growth
 
 1. *The Almanack of Naval Ravikant
 2. The Subtle Art of Not Giving a F*ck by Mark Manson
@@ -36,7 +36,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 4. Ikigai by Francesc Miralles and Hector Garcia
 5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi 
 
-# Autobiography / Biography
+## Autobiography / Biography
 
 1. *Shoe Dog by Phil Knight
 2. Steve Jobs by Walter Isaacson 
@@ -47,12 +47,12 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 7. Rich Dad Poor Dad by Robert T. Kiyosaki
 8. Elon Musk by Ashlee Vance
 
-# Entrepreneurship
+## Entrepreneurship
 
 1. Hard Things about Hard Things by Ben Horowitz
 2. Zero to One by Peter Thiel
 
-# Misc
+## Misc
 
 1. Think Again by Adam Grant
 2. *What I Know For Sure by Oprah Winfrey 

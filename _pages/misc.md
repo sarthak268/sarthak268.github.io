@@ -14,17 +14,17 @@ permalink:  /misc/
     }
 </style>
 
-# Reviewer
+## Reviewer
 
 - Conferences: NeurIPS 2023, WACV 2023
 - Journals: IEEE Transactions on AI 2020-21, International Robotics & Automation Journal 2020-21 
 
-# Mentoring
+## Mentoring
 
 - CMU Undergraduate AI Mentoring
 - IIIT Student Mentorship Program
 
-# Responsibilities
+## Responsibilities
 
 - IEEE Student Chapter Founder & Chair
 - Administrator: Robotics Club, IIIT-Delhi
