@@ -141,7 +141,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             2021
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-1">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//"><img style="width:120px;" src="/img/logos/cmu.jpg"></a>
