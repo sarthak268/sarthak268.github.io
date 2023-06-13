@@ -36,3 +36,15 @@ permalink:  /misc/
 
 - IEEE Student Chapter Founder & Chair
 - Administrator: Robotics Club, IIIT-Delhi
+
+## Invited Talks
+
+- [Vision India, ICVGIP’20](https://iitj.ac.in/icvgip2021/2020/visionIndia.php), IIT Jodhpur -- 2020
+- Winter School on AI, IIIT-Delhi -- 2019
+- [Computer Vision and Pattern Discovery Group, Bioinformatics Institute, A*STAR](https://www.a-star.edu.sg/bii/research/ciid/cvpd) -- 2019
+
+## Volunteering
+
+- NeurIPS 2020-21
+- ICML 2020-21
+- ICLR 2021
