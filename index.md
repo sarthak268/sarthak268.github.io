@@ -29,11 +29,13 @@ permalink:  /
 - [Oct 20] Joined [CLVR Lab](https://www.clvrai.com/), USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.
 - [Aug 20] Joined [DeCLaRe Lab](https://declare-lab.net/), SUTD as a Research Assistant -- working on vision-language applications.
 - [Aug 20] Graduated from [IIIT-Delhi](https://www.iiitd.edu.in/) with Honors.
-- [Aug 19] Received Dean's Award for Excellent Academic Performance.
-- [Aug 19] Received Dean's Award for Innovation, Research, and Development.
+- [Aug 19] Received Dean's Award for Excellent Academic Performance for 4 consecutive semesters.
+- [Aug 19] Received Dean's Award for Innovation, Research, and Development for Bachelor's thesis.
 - [May 19] Joined SUTD Brain Lab as a Visiting Researcher -- working on disentangling video sequences using Gaussian process priors.
-- [May 19] [Indian National Academy of Engineering (INAE) Fellowship](https://www.inae.in/#)
+- [May 19] Received [Indian National Academy of Engineering (INAE) Fellowship](https://www.inae.in/#) by IISc.
 - [Aug 18] Placed 6th out of 70 International Teams: [AUVSI SUAS](https://suas-competition.org/), Maryland, USA.
+- [Aug 16] Received Chairman's Merit Scholarshop (4 / 278)
+- [May 15] Received KVPY Fellowship (awarded to top 0.3%)
 
 <div id="read-more-button">
     <a nohref>Read more</a>
