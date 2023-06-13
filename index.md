@@ -351,7 +351,7 @@ I like [this map][conquerearth] tracking the places I've been to.
 <a name="/contr"></a>
 <h2 class="pubt">Geometry of Neural Network based Disentangled Latent Space Models</h2>
 <p class="pubd">
-    <span class="authors">S. Bhagat, S. Uppal, S. Anand</span><br>
+    <span class="authors">Advisors: S. Anand (IIIT-Delhi), P. Turaga (Arizona State University)</span><br>
     <span class="conf">Bachelor's Thesis</span>
     <span class="links">
         <a target="_blank" href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">Thesis</a>
