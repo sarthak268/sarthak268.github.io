@@ -31,6 +31,7 @@ permalink:  /
 - [Aug 20] Graduated from [IIIT-Delhi](https://www.iiitd.edu.in/) with Honors.
 - [Aug 19] Received Dean's Award for Excellent Academic Performance.
 - [Aug 19] Received Dean's Award for Innovation, Research, and Development.
+- [May 19] Joined SUTD Brain Lab as a Visiting Researcher -- working on disentangling video sequences using Gaussian process priors.
 - [May 19] [Indian National Academy of Engineering (INAE) Fellowship](https://www.inae.in/#)
 - [Aug 18] Placed 6th out of 70 International Teams: [AUVSI SUAS](https://suas-competition.org/), Maryland, USA.
 
@@ -341,6 +342,23 @@ I like [this map][conquerearth] tracking the places I've been to.
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
+
+# Thesis
+
+
+<a name="/contr"></a>
+<h2 class="pubt">Geometry of Neural Network based Disentangled Latent Space Models</h2>
+<p class="pubd">
+    <span class="authors">S. Bhagat, S. Uppal, S. Anand</span><br>
+    <span class="conf">Bachelor's Thesis</span>
+    <span class="links">
+        <a target="_blank" href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">Thesis</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
 
 # Workshop Publications
 
