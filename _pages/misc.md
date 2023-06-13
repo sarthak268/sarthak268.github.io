@@ -22,7 +22,7 @@ permalink:  /misc/
 - Travel
 - Gym (I'm still a noob)
 
-## Reviewer
+## Reviewing
 
 - Conferences: NeurIPS 2023, WACV 2023
 - Journals: IEEE Transactions on AI 2020-21, International Robotics & Automation Journal 2020-21 
