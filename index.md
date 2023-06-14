@@ -231,7 +231,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="conf">Winter Conference on Applications of Computer Vision (WACV), 2023</span>
     <span class="links">
         <a target="_blank" href="https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_A_Suspect_Identification_Framework_Using_Contrastive_Relevance_Feedback_WACV_2023_paper.pdf">Paper</a>
-        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/gemnet_oc">Code</a> -->
+        <a target="_blank" href="https://youtu.be/Vf-nd2N5aYM">Video</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/gemnet_oc.jpg"> -->
@@ -245,6 +245,8 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
+        <a target="_blank" href="https://youtu.be/bYPX0zp4MY4">Video</a>
+        <a target="_blank" href="https://midas.iiitd.edu.in/emo/">Project Page</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -259,6 +261,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2001.02408.pdf">Paper</a>
         <a target="_blank" href="https://github.com/SUTDBrainLab/MGP-VAE">Code</a>
+        <a target="_blank" href="https://youtu.be/35aGG1iZ_Vc">Video</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -271,7 +274,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 (Oral)</span>
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
-        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+        <a target="_blank" href="https://youtu.be/4hAEp5aE88A">Video</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -286,6 +289,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3444685.3446302">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/c3vqg-official">Code</a>
+        <a target="_blank" href="https://youtu.be/SuTzKcIRGuw">Video</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
@@ -388,6 +392,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2006.05895.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/DisCont">Code</a>
+        <a target="_blank" href="https://youtu.be/lIYCMHesVBw">Video</a>
     </span>
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
