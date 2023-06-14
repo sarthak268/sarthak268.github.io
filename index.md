@@ -257,7 +257,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="conf">European Conference on Computer Vision (ECCV), 2020<br>
     ICVGIP 2020 Vision India</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.14331">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2001.02408.pdf">Paper</a>
         <a target="_blank" href="https://github.com/SUTDBrainLab/MGP-VAE">Code</a>
     </span>
 </p>
