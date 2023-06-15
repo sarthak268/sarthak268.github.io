@@ -193,8 +193,8 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span>
     <span class="links">
         <a target="_blank" href="">Paper</a>
-        <a target="_blank" href="">Code</a>
-        <!-- <a target="_blank" href="https://ram81.github.io/projects/pirlnav.html">Website</a> -->
+        <a target="_blank" href="https://github.com/sarthak268/sample-efficient-visual-concept-learning">Code</a>
+        <a target="_blank" href="">Video</a>
     </span>
 </p>
 <!-- <img src="/img/habitat/pirlnav.png"> -->

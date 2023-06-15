@@ -36,6 +36,7 @@ permalink:  /misc/
 
 - IEEE Student Chapter Founder & Chair
 - Administrator: Robotics Club, IIIT-Delhi
+- Teaching Assistant: Prototype of Interactive Systems (500+ freshmen students)
 
 ## Invited Talks
 
