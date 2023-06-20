@@ -59,10 +59,14 @@ I completed my B.Tech (with Honors) in ECE from [IIIT-Delhi](https://www.iiitd.a
 
 Previously, I worked as an intern at the [SUTD Brain Lab](https://sutdbrain.wordpress.com/about/) under [Dr. Nengli Lim](https://www.linkedin.com/in/nengli-lim-48a22b14/?originalSubdomain=sg) on the disentanglement of video sequences using Gaussian processes. I have also worked at [Collaborative Robotics Lab (CORAL)](http://robotics.iiitd.edu.in/coral/?page_id=20) and [Multi-robot Autonomy (MOON) Lab](https://sites.google.com/view/m00nlab/home?authuser=0) under [Dr. P.B. Sujit](https://eecs.iiserb.ac.in/faculty_profile.php?id=OQ==&lname=c3VqaXQ=) on target tracking using deep reinforcement learning.
 
-I am mainly interested in unsupervised (or self-supervised) representation learning for visual data, vision for robotics, robot learning.
+I am mainly interested in representation learning for visual data, computer vision for robotics, and robot learning.
 Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 
+<br>
+
 **_If you are interested in research collaboration, please drop me an email._**
+
+<br><br>
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
@@ -125,62 +129,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
             Young Researcher
         </div>
     </div> -->
-    <!-- <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//www.tesla.com/autopilotAI"><img style="width:120px;" src="/img/logos/tesla.jpg"></a>
-        </div>
-        <div class="logo-desc">
-            Tesla Autopilot<br>
-            Summer 2019
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px;" src="/img/logos/fair3.png"></a>
-        </div>
-        <div class="logo-desc">
-            Facebook AI Research<br>
-            Present
-        </div>
-    </div> -->
 </div>
-
-<!-- During my PhD, I interned thrice at Facebook AI Research — Summer 2017 and Spring 2018
-at Menlo Park, working with [Georgia Gkioxari][46],
-[Devi Parikh][47] and [Dhruv Batra][48] on training embodied agents for navigation and
-question-answering in simulated environments (see [embodiedqa.org][40]), and Summer
-2018 at Montréal, working with [Mike Rabbat][55] and [Joelle Pineau][56] on
-<a target="_blank" href="https://arxiv.org/abs/1810.11187">communication protocols in multi-agent reinforcement learning</a>.
-In 2019, I interned at DeepMind in London working on grounded language learning
-with [Felix Hill][felix-hill], [Laura Rimell][laura-rimell],
-and [Stephen Clark][stephen-clark], and at Tesla Autopilot in Palo Alto working on
-differentiable neural architecture search with [Andrej Karpathy][andrej-karpathy].
-
-My PhD research was supported by fellowships from [Facebook][fb-fellow-page],
-[Adobe][39], and [Snap][36].
-
-Prior to joining grad school, I worked on neural coding in zebrafish tectum
-as an intern under [Prof. Geoffrey Goodhill][4] and [Lilach Avitan][5]
-at the [Goodhill Lab][6], Queensland Brain Institute.
-
-I got my Bachelor's at [IIT Roorkee][31] in 2015.
-During my undergrad, I took part in
-Google Summer of Code ([2013][8] and [2014][9]),
-won several competitions ([Yahoo! HackU!][10],
-[Microsoft Code.Fun.Do.][11], Deloitte CCTC [2013][12] and [2014][13]),
-and owe most of my programming/tinkering bent to [SDSLabs][16].
-
-On the side, I built [aideadlin.es][34] (countdowns to a bunch of CV/NLP/ML/AI conference deadlines)
-and [aipaygrad.es][aipaygrad.es] (statistics of industry job offers in AI),
-[neural-vqa][19] and its extension [neural-vqa-attention][35],
-[HackFlowy][20], [graf][21], [Erdős][17], [etc][22].
-I also occasionally dabble in [generative art](/art).
-I like [this map][conquerearth] tracking the places I've been to.
-[Blog posts from a previous life](/archive). -->
-
----
 
 <a name="/publications"></a>
 
@@ -192,7 +141,7 @@ I like [this map][conquerearth] tracking the places I've been to.
     <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2306.09482">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/sample-efficient-visual-concept-learning">Code</a>
         <a target="_blank" href="">Video</a>
     </span>
