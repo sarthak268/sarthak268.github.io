@@ -36,6 +36,11 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 4. Ikigai by Francesc Miralles and Hector Garcia
 5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi 
 
+## Fiction
+
+1. The Alchemist by Paulo Coelho
+2. Life 3.0 by Max Tegmark
+
 ## Autobiography / Biography
 
 1. *Shoe Dog by Phil Knight
@@ -44,13 +49,21 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 4. Becoming by Michelle Obama
 5. Born A Crime by Trevor Noah
 6. Limitless by Radhika Gupta
-7. Rich Dad Poor Dad by Robert T. Kiyosaki
-8. Elon Musk by Ashlee Vance
+7. Elon Musk by Ashlee Vance
 
 ## Entrepreneurship
 
 1. Hard Things about Hard Things by Ben Horowitz
 2. Zero to One by Peter Thiel
+
+## Finance
+
+1. The Intelligent Investor by Benjamin Graham
+2. Think and Grow Rich by Napoleon Hill
+3. Coffee Can Investing by Saurabh Mukherjea
+4. Just Keep Buying by Nick Maggiulli
+5. The Psychology of Money by Morgan Housel
+6. Rich Dad Poor Dad by Robert T. Kiyosaki
 
 ## Misc
 
