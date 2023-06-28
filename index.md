@@ -317,6 +317,17 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 
 # Workshop Publications
 
+<!-- <a name="/contr"></a>
+<h2 class="pubt">Sparse, Multi-Intent Inference for Action Prediction through Value Decomposition</h2>
+<p class="pubd">
+    <span class="authors">J. Campbell, S. Stepputtis, S. Bhagat, Y. Xie, K. Sycara</span><br>
+    <span class="conf">Social Intelligence in Humans and Robots Workshop, RSS 2023</span>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+    </span>
+</p>
+<hr> -->
+
 
 <a name="/contr"></a>
 <h2 class="pubt">Contrastive Personalization Approach to Suspect Identification</h2>
