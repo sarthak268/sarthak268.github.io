@@ -22,9 +22,9 @@ permalink:  /
 
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
 - [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) accepted as one of only 12 oral presentation.
+- [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
 - [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors and intent inference for human-robot collaboration. 
 - [Aug 22] Joined Master's in Robotics Program at the [Robotics Institute, CMU](https://www.ri.cmu.edu/).
-- [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
 - [Jan 22] Joined [Preimage](https://www.preimage.ai/) as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
 - [Oct 20] Joined [CLVR Lab](https://www.clvrai.com/), USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.
 - [Aug 20] Joined [DeCLaRe Lab](https://declare-lab.net/), SUTD as a Research Assistant -- working on vision-language applications.
@@ -139,7 +139,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 <h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
-    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span>
+    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023 (Oral, Top 20% of accepted papers)</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2306.09482">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/sample-efficient-visual-concept-learning">Code</a>
