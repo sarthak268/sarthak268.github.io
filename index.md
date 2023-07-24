@@ -21,7 +21,7 @@ permalink:  /
 # News
 
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
-- [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) accepted as an <b>Oral</b> presentation.
+- [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) accepted as one of only 12 oral presentation.
 - [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors and intent inference for human-robot collaboration. 
 - [Aug 22] Joined Master's in Robotics Program at the [Robotics Institute, CMU](https://www.ri.cmu.edu/).
 - [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
