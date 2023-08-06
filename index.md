@@ -139,7 +139,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 <h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
-    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023 (Oral, Top 20% of accepted papers)</span>
+    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023 (Oral, Top 20% of Accepted Papers)</span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2306.09482">Paper</a>

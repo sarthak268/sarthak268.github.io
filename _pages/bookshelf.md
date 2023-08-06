@@ -35,6 +35,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 3. The Compound Effect by Darren Hardy
 4. Ikigai by Francesc Miralles and Hector Garcia
 5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi 
+6. 12 Rules for Life by Jordan B. Peterson
 
 ## Fiction
 
@@ -55,6 +56,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 1. Hard Things about Hard Things by Ben Horowitz
 2. Zero to One by Peter Thiel
+3. Radical Candor by Kim Scott
 
 ## Finance
 
