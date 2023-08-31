@@ -40,12 +40,14 @@ permalink:  /misc/
 
 ## Invited Talks
 
+- [Oral Talk, Conference on Lifelong Learning Agents (CoLLAs)](https://lifelong-ml.cc/Conferences/2023/acceptedpapers), Montreal -- 2023
 - [Vision India, ICVGIP’20](https://iitj.ac.in/icvgip2021/2020/visionIndia.php), IIT Jodhpur -- 2020
 - Winter School on AI, IIIT-Delhi -- 2019
 - [Computer Vision and Pattern Discovery Group, Bioinformatics Institute, A*STAR](https://www.a-star.edu.sg/bii/research/ciid/cvpd) -- 2019
 
 ## Volunteering
 
+- ICCV 2023
 - NeurIPS 2020-21
 - ICML 2020-21
 - ICLR 2021
