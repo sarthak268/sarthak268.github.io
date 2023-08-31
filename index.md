@@ -20,6 +20,7 @@ permalink:  /
 
 # News
 
+- [Sept 23] Selected as a student volunteer for ICCV 2023, let me know if you're attending too!.
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
 - [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) accepted as one of only 12 oral presentation.
 - [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
