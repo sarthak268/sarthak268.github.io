@@ -381,8 +381,8 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 <h2 class="pubt">DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, V. Udandarao*, S. Uppal*, S. Anand</span><br>
-    <span class="conf">Perception Through Structured Generative Models, European Conference on Computer Vision (ECCV), 2020 <br>
-    ML Interpretability for Scientific Discovery, International Conference on Machine Learning (ICML), 2020.</span>
+    <span class="conf">Perception Through Structured Generative Models, ECCV 2020 <br>
+    ML Interpretability for Scientific Discovery, ICML 2020.</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2006.05895.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/DisCont">Code</a>
