@@ -48,7 +48,11 @@ permalink:  /
 
 # Bio
 
-I am a graduate student at [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I am working at [Advanced Agents - Robotics Technology Lab](https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/) advised by of [Dr. Katia Sycara](https://en.wikipedia.org/wiki/Katia_Sycara).
+I am a graduate student at [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I am working at [Advanced Agents - Robotics Technology Lab](https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/) advised by of [Dr. Katia Sycara](https://en.wikipedia.org/wiki/Katia_Sycara). 
+Currently, I am working on the following problems:
+- Learning of visual (objects and scenes) and abstract (affordances and attributes) concepts using domain knowledge priors.
+- Knowledge-guided short-context action anticipation from human-centric videos.
+- Offline reinforcement learning approach that encodes agent's intentions.
 
 Most recently, I worked as a Deep Learning Engineer at [Preimage](https://preimage.ai/), where I worked on problems involving 3D vision for drone-based photogrammetry.
 
