@@ -336,6 +336,34 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 
 
 <a name="/contr"></a>
+<h2 class="pubt">Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos</h2>
+<p class="pubd">
+    <span class="authors">S. Bhagat, S. Stepputtis, J. Campbell, K. Sycara</span><br>
+    <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+
+<a name="/contr"></a>
+<h2 class="pubt">Emotionally Enhanced Talking Face Generation</h2>
+<p class="pubd">
+    <span class="authors">S. Goyal, S. Bhagat, S. Uppal, Y. Yu, Y. Yin, R. Shah</span><br>
+    <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
+    </span>
+</p>
+<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+
+<a name="/contr"></a>
 <h2 class="pubt">Contrastive Personalization Approach to Suspect Identification</h2>
 <p class="pubd">
     <span class="authors">D. Gupta, D. Bhasin, S. Bhagat, S. Uppal, P. Kumaraguru, R. Shah</span><br>
