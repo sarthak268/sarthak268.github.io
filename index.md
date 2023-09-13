@@ -20,6 +20,7 @@ permalink:  /
 
 # News
 
+- [Sept 23] Presenting two paper in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
 - [Sept 23] Selected as a student volunteer for ICCV 2023, let me know if you're attending too!.
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
 - [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) accepted as one of only 12 oral presentation.
@@ -49,7 +50,7 @@ permalink:  /
 # Bio
 
 I am a graduate student at [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I am working at [Advanced Agents - Robotics Technology Lab](https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/) advised by of [Dr. Katia Sycara](https://en.wikipedia.org/wiki/Katia_Sycara). 
-Currently, I am working on the following problems: (1) Learning of visual (objects and scenes) and abstract (affordances and attributes) concepts using domain knowledge priors, (2) Knowledge-guided short-context action anticipation from human-centric videos, (3) Offline reinforcement learning approach that encodes agent's intentions.
+Currently, I am working on the following problems: (1) learning of visual (objects and scenes) and abstract (affordances and attributes) concepts using domain knowledge priors, (2) knowledge-guided short-context action anticipation from human-centric videos, (3) offline reinforcement learning approach that encodes agent's intentions.
 
 Most recently, I worked as a Deep Learning Engineer at [Preimage](https://preimage.ai/), where I worked on problems involving 3D vision for drone-based photogrammetry.
 
