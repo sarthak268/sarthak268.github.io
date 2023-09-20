@@ -20,7 +20,7 @@ permalink:  /
 
 # News
 
-- [Sept 23] Presenting two paper in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
+- [Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
 - [Sept 23] Selected as a student volunteer for ICCV 2023, let me know if you're attending too!.
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
 - [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) accepted as one of only 12 oral presentation.
@@ -339,7 +339,8 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
     <span class="authors">S. Bhagat, S. Stepputtis, J. Campbell, K. Sycara</span><br>
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2309.05943">Paper</a>
+        <a target="_blank" href="https://youtu.be/_XpmYRK7eQ8">Video</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
@@ -353,7 +354,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
     <span class="authors">S. Goyal, S. Bhagat, S. Uppal, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
