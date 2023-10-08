@@ -355,6 +355,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
+        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
