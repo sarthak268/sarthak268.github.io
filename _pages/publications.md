@@ -14,7 +14,7 @@ permalink:  /publications/
     }
 </style>
 
-# Conference Publications
+## Conference Publications
 
 <a name="/relate"></a>
 <h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
@@ -152,7 +152,7 @@ permalink:  /publications/
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
 
-# Journal Publications
+## Journal Publications
 
 <a name="/infofus"></a>
 <h2 class="pubt">Multimodal Research in Vision and Language: A Review of Current and Emerging Trends</h2>
@@ -180,7 +180,7 @@ permalink:  /publications/
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
 
-# Thesis
+## Thesis
 
 
 <a name="/contr"></a>
@@ -197,7 +197,7 @@ permalink:  /publications/
 <hr>
 
 
-# Workshop Publications
+## Workshop Publications
 
 <!-- <a name="/contr"></a>
 <h2 class="pubt">Sparse, Multi-Intent Inference for Action Prediction through Value Decomposition</h2>
