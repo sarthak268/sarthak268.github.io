@@ -20,6 +20,7 @@ permalink:  /
 
 # News
 
+- [Oct 23] Serving as Reviewer for ICLR'24.
 - [Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
 - [Sept 23] Selected as a student volunteer for ICCV 2023.
 - [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
@@ -353,6 +354,7 @@ Reach out to me at: [sarthakb@andrew.cmu.edu](mailto: sarthakb@andrew.cmu.edu).
 <p class="pubd">
     <span class="authors">S. Goyal, S. Bhagat, S. Uppal, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
+    <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
