@@ -230,7 +230,7 @@ permalink:  /publications/
 <h2 class="pubt">Emotionally Enhanced Talking Face Generation</h2>
 <p class="pubd">
     <span class="authors">S. Goyal, S. Bhagat, S. Uppal, Y. Yu, Y. Yin, R. Shah</span><br>
-    <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
+    <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span><br>
     <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
