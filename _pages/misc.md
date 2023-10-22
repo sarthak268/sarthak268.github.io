@@ -60,4 +60,3 @@ permalink:  /misc/
 ## Volunteering
 
 - Conferences: ICCV 2023, NeurIPS 2020-21, ICML 2020-21, ICLR 2021
-- Others: IIITD's Summer School on AI 
