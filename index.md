@@ -22,10 +22,10 @@ permalink:  /
 
 - [Oct 23] Serving as Reviewer for ICLR'24.
 - [Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
-- [Sept 23] Selected as a student volunteer for ICCV 2023.
-- [May 23] Selected among 200 young researchers to attend the [HLF 2023](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
-- [May 23] Work on Visual Concept Learning accepted in [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/venue) as one of only 12 oral presentation.
-- [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia.
+- [Sept 23] Selected as a student volunteer for ICCV'23.
+- [May 23] Selected among 200 young researchers to attend the [HLF'23](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
+- [May 23] Work on Visual Concept Learning accepted in [CoLLAs'23](https://lifelong-ml.cc/Conferences/2023/venue) as one of only 12 oral presentation.
+- [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia'23.
 - [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors and intent inference for human-robot collaboration. 
 - [Aug 22] Joined Master's in Robotics Program at the [Robotics Institute, CMU](https://www.ri.cmu.edu/).
 - [Jan 22] Joined [Preimage](https://www.preimage.ai/) as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
