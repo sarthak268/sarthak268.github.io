@@ -235,6 +235,7 @@ permalink:  /publications/
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
+        <a target="_blank" href="https://drive.google.com/file/d/1cBbgm4TcKC9HtkH22xKmXzNnuPPgDJ_x/view?usp=share_link">Video</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
