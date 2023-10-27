@@ -75,7 +75,7 @@ permalink:  /publications/
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022 (Won Best Demo Paper Award)</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
-        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
+        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code (220+ stars)</a>
         <a target="_blank" href="https://youtu.be/bYPX0zp4MY4">Video</a>
         <a target="_blank" href="https://midas.iiitd.edu.in/emo/">Project Page</a>
     </span>
@@ -158,7 +158,7 @@ permalink:  /publications/
 <h2 class="pubt">Multimodal Research in Vision and Language: A Review of Current and Emerging Trends</h2>
 <p class="pubd">
     <span class="authors">S. Uppal*, S. Bhagat*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
-    <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span>
+    <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7) (60+ citations)</span>
     <span class="links">
         <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1566253521001512">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
@@ -171,7 +171,7 @@ permalink:  /publications/
 <h2 class="pubt">Deep Reinforcement Learning for Soft Robotic Applications: Brief Overview with Impending Challenges</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, H. Banerjee*, Z. Tse, H. Ren</span><br>
-    <span class="conf">Robotics 2019, 8(1), 4</span>
+    <span class="conf">Robotics 2019, 8(1), 4 (90+ citations)</span>
     <span class="links">
         <a target="_blank" href="https://www.mdpi.com/2218-6581/8/1/4">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
