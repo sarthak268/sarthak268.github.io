@@ -20,7 +20,7 @@ permalink:  /misc/
 - Football (watch + play)
 - Reading (I love autobiographies and biographies)
 - Travel
-- Gym (I'm still a noob)
+- Gym, Chess, Table-Tennis (I'm still a noob)
 
 ## Awards and Honors
 
