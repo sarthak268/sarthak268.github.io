@@ -27,6 +27,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 3. 21 Lessons from the 21st Century by Yuval Noah Harari
 4. *The Fabric of Reality by David Deutsch
 5. Pale Blue Dot by Carl Sagan
+6. Cosmos by Carl Sagan
 
 ## Self Growth
 
@@ -75,6 +76,16 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
 5. Do Epic Shit by Ankur Warikoo
 6. Man’s Search for Meaning by  Victor E. Frankl
+
+<br>
+<br>
+<br>
+<br>
+
+I also love listening to insightful podcasts, some of my favourites include:
+
+1. David Deutsch and Naval Ravikant — The Fabric of Reality And Much More | The Tim Ferriss Show
+2. Joe Rogan Experience #1309 - Naval Ravikant
 
 <!-- All of these books are exceptional, for which I consider myself lucky to have read them and to be in the midst of friends who continue to provide a steady stream of recommendations. The ones that truly expanded my thinking at the time of reading are highlighted in blue.
 

@@ -17,9 +17,9 @@ permalink:  /misc/
 ## Interests
 
 - Physics (I'm always up for an insightful physics discussion)
-- Football (watch + play)
 - Reading (I love autobiographies and biographies)
 - Travel
+- Football (watch + play + fifa)
 - Gym, Chess, Table-Tennis (I'm still a noob)
 
 ## Awards and Honors
