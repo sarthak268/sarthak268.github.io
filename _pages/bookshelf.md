@@ -78,7 +78,6 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 6. Man’s Search for Meaning by  Victor E. Frankl
 
 <br>
-<br>
 
 I also love listening to insightful podcasts, some of my favourites include:
 
