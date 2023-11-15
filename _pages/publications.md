@@ -238,7 +238,7 @@ permalink:  /publications/
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span><br>
     <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
+        <a target="_blank" href="[https://arxiv.org/abs/2303.11548](https://dl.acm.org/doi/10.1145/3607541.3616812)">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
         <a target="_blank" href="https://drive.google.com/file/d/1cBbgm4TcKC9HtkH22xKmXzNnuPPgDJ_x/view?usp=share_link">Video</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
