@@ -20,8 +20,8 @@ permalink:  /publications/
 <h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
-    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023 (Oral)</span><br>
-    <span class="trophy">&#x1F3C6; Top 20% of Accepted Papers</span>
+    <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span><br>
+    <span class="trophy">&#x1F3C6; Oral; Top 20% of Accepted Papers</span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2306.09482">Paper</a>
@@ -77,7 +77,7 @@ permalink:  /publications/
     <span class="trophy">&#x1F3C6; Best Demo Paper Award</span>    
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
-        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code (220+ stars)</a>
+        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code (240+ stars)</a>
         <a target="_blank" href="https://youtu.be/bYPX0zp4MY4">Video</a>
         <a target="_blank" href="https://midas.iiitd.edu.in/emo/">Project Page</a>
     </span>
@@ -104,7 +104,8 @@ permalink:  /publications/
 <h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, P.B. Sujit</span><br>
-    <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 (Oral)</span>
+    <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span>
+    <span class="trophy">&#x1F3C6; Oral; 50+ Citations</span>    
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
         <a target="_blank" href="https://youtu.be/4hAEp5aE88A">Video</a>
