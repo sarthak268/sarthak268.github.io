@@ -24,9 +24,9 @@ permalink:  /publications/
     <span class="trophy">&#x1F3C6; Oral; Top 20% of Accepted Papers</span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/">Website</a>
-        <a target="_blank" href="https://arxiv.org/abs/2306.09482">Paper</a>
+        <a target="_blank" href="https://proceedings.mlr.press/v232/bhagat23a/bhagat23a.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/sample-efficient-visual-concept-learning">Code</a>
-        <a target="_blank" href="">Video</a>
+        <a target="_blank" href="https://youtu.be/wUiWXgg_exU?si=lWnQO6GAnhlyPaWF">Video</a>
     </span>
 </p>
 <!-- <img src="/img/habitat/pirlnav.png"> -->
