@@ -24,9 +24,9 @@ permalink:  /publications/
     <span class="trophy">&#x1F3C6; Oral; Top 20% of Accepted Papers</span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/">Website</a>
-        <a target="_blank" href="https://arxiv.org/abs/2306.09482">Paper</a>
+        <a target="_blank" href="https://proceedings.mlr.press/v232/bhagat23a/bhagat23a.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/sample-efficient-visual-concept-learning">Code</a>
-        <a target="_blank" href="">Video</a>
+        <a target="_blank" href="https://youtu.be/wUiWXgg_exU?si=lWnQO6GAnhlyPaWF">Video</a>
     </span>
 </p>
 <!-- <img src="/img/habitat/pirlnav.png"> -->
@@ -104,7 +104,11 @@ permalink:  /publications/
 <h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, P.B. Sujit</span><br>
+<<<<<<< HEAD
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020</span>
+=======
+    <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
+>>>>>>> 4d428fc10ad412596a8bb936818d30fdb137637d
     <span class="trophy">&#x1F3C6; Oral; 50+ Citations</span>    
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
@@ -238,7 +242,7 @@ permalink:  /publications/
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span><br>
     <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2303.11548">Paper</a>
+        <a target="_blank" href="[https://arxiv.org/abs/2303.11548](https://dl.acm.org/doi/10.1145/3607541.3616812)">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
         <a target="_blank" href="https://drive.google.com/file/d/1cBbgm4TcKC9HtkH22xKmXzNnuPPgDJ_x/view?usp=share_link">Video</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
