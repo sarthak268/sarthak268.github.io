@@ -104,11 +104,7 @@ permalink:  /publications/
 <h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, P.B. Sujit</span><br>
-<<<<<<< HEAD
-    <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020</span>
-=======
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
->>>>>>> 4d428fc10ad412596a8bb936818d30fdb137637d
     <span class="trophy">&#x1F3C6; Oral; 50+ Citations</span>    
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
