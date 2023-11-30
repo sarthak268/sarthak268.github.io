@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      More...
+title:      Miscellaneous
 permalink:  /misc/
 ---
 
@@ -40,3 +40,7 @@ permalink:  /misc/
 - [Vision India, ICVGIP’20](https://iitj.ac.in/icvgip2021/2020/visionIndia.php), IIT Jodhpur -- 2020
 - Winter School on AI, IIIT-Delhi -- 2019
 - [Computer Vision and Pattern Discovery Group, Bioinformatics Institute, A*STAR](https://www.a-star.edu.sg/bii/research/ciid/cvpd) -- 2019
+
+## More...
+
+- [Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)
