@@ -79,7 +79,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 <br>
 
-I also love listening to insightful podcasts, some of my favourites include:
+I also love listening to insightful podcasts/talks, some of my favorites include:
 
 1. David Deutsch and Naval Ravikant - The Tim Ferriss Show
 2. Joe Rogan Experience #1309 - Naval Ravikant
