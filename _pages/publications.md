@@ -77,7 +77,7 @@ permalink:  /publications/
     <span class="trophy">&#x1F3C6; Best Demo Paper Award</span>    
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
-        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code (240+ stars)</a>
+        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code (250+ stars)</a>
         <a target="_blank" href="https://youtu.be/bYPX0zp4MY4">Video</a>
         <a target="_blank" href="https://midas.iiitd.edu.in/emo/">Project Page</a>
     </span>
