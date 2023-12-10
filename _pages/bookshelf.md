@@ -18,7 +18,7 @@ permalink:  /bookshelf/
 > – George R.R. Martin
 
 Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys. <br>
-Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favourites marked with a star.
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are marked with a star.
 
 ## Science / History
 
@@ -28,6 +28,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 4. *The Fabric of Reality by David Deutsch
 5. Pale Blue Dot by Carl Sagan
 6. Cosmos by Carl Sagan
+4. The Beginning of Infinity by David Deutsch
 
 ## Self Growth
 
