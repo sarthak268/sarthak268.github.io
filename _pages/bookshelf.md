@@ -18,7 +18,7 @@ permalink:  /bookshelf/
 > – George R.R. Martin
 
 Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys. <br>
-Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are marked with a star.
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span>.
 
 ## Science / History
 
