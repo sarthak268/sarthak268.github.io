@@ -25,14 +25,14 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 1. Sapiens by Yuval Noah Harari
 2. The Theory of Everything by Stephen W. Hawking
 3. 21 Lessons from the 21st Century by Yuval Noah Harari
-4. *The Fabric of Reality by David Deutsch
+4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span>
 5. Pale Blue Dot by Carl Sagan
 6. Cosmos by Carl Sagan
-4. The Beginning of Infinity by David Deutsch
+4. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span>
 
 ## Self Growth
 
-1. *The Almanack of Naval Ravikant
+1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span>
 2. The Subtle Art of Not Giving a F*ck by Mark Manson
 3. The Compound Effect by Darren Hardy
 4. Ikigai by Francesc Miralles and Hector Garcia
@@ -46,7 +46,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Autobiography / Biography
 
-1. *Shoe Dog by Phil Knight
+1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span>
 2. Steve Jobs by Walter Isaacson 
 3. Can’t Hurt Me by David Goggins
 4. Becoming by Michelle Obama
@@ -72,7 +72,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Misc
 
 1. Think Again by Adam Grant
-2. *What I Know For Sure by Oprah Winfrey 
+2. <span style="background-color: yellow;">What I Know For Sure by Oprah Winfrey</span> 
 3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan
 4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
 5. Do Epic Shit by Ankur Warikoo
