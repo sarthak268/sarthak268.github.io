@@ -24,15 +24,15 @@ permalink:  /misc/
 
 ## Awards and Honors
 
-- Heidelberg Laureate Fellowship 2023: Among 200 selected young researchers to attend the 10th HLF in Germany. 
-- Best Demo Paper Award at ACM MM Asia 2022, held in Tokyo, Japan.
-- Dean’s Award for Excellent Academic Performance, IIIT-Delhi: Received for the last 4 semesters.
-- Chairman's Merit Scholarship, IIIT-Delhi: Awarded to 4/278 students in the batch.
-- Dean’s Award for Innovation, Research, and Development, IIIT-Delhi: Received for B.Tech Thesis.
-- Indian National Academy of Engineering (INAE) Fellowship from Indian Institute of Science (IISc) -- Declined.
+- Heidelberg Laureate Fellowship 2023 
+- Best Demo Paper Award at ACM MM Asia 2022
+- Dean’s Award for Excellent Academic Performance, IIIT-Delhi
+- Chairman's Merit Scholarship, IIIT-Delhi
+- Dean’s Award for Innovation, Research, and Development, IIIT-Delhi
+- Indian National Academy of Engineering (INAE) Fellowship from Indian Institute of Science (IISc) 
 - Placed 6th out of 70 International Teams in AUVSI SUAS 2018, Maryland, USA.
 - Second Place: CanSat Development and Deployment Competition 2018 at Delhi Technological University (DTU)
-- KVPY Scholarship 2015 by Dept. of Science and Technology, Govt. of India (awarded to top 0.3%) -- Declined
+- KVPY Scholarship 2015 by Dept. of Science and Technology, Govt. of India (awarded to top 0.3%) 
 
 ## Invited Talks
 
