@@ -29,10 +29,10 @@ permalink:  /misc/
 - Dean’s Award for Excellent Academic Performance, IIIT-Delhi
 - Chairman's Merit Scholarship, IIIT-Delhi
 - Dean’s Award for Innovation, Research, and Development, IIIT-Delhi
-- Indian National Academy of Engineering (INAE) Fellowship from Indian Institute of Science (IISc) 
-- Placed 6th out of 70 International Teams in AUVSI SUAS 2018, Maryland, USA.
+- Indian National Academy of Engineering (INAE) Fellowship
+- Placed 6/70 International Teams in AUVSI SUAS 2018, Maryland, USA.
 - Second Place: CanSat Development and Deployment Competition 2018 at Delhi Technological University (DTU)
-- KVPY Scholarship 2015 by Dept. of Science and Technology, Govt. of India (awarded to top 0.3%) 
+- KVPY Scholarship 2015
 
 ## Invited Talks
 
