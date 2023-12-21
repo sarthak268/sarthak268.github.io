@@ -31,7 +31,7 @@ permalink:  /misc/
 - Dean’s Award for Innovation, Research, and Development, IIIT-Delhi
 - Indian National Academy of Engineering (INAE) Fellowship
 - Placed 6/70 International Teams in AUVSI SUAS 2018, Maryland, USA.
-- Second Place: CanSat Development and Deployment Competition 2018 at Delhi Technological University (DTU)
+- 2nd Place: CanSat Development and Deployment Competition 2018 at DTU
 - KVPY Scholarship 2015
 
 ## Invited Talks
