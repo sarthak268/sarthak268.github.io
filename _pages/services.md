@@ -16,7 +16,7 @@ permalink:  /services/
 
 ## Reviewing
 
-- Conferences: ICLR 2024, NeurIPS 2023, WACV 2023
+- Conferences: ICML 2024, ICLR 2024, NeurIPS 2023, WACV 2023
 - Journals: IEEE Transactions on AI 2020-21, International Robotics & Automation Journal 2020-21 
 
 ## Mentoring
