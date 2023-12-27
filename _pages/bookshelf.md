@@ -30,7 +30,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 6. Cosmos by Carl Sagan
 4. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span>
 
-## Self Growth
+## Self-Growth
 
 1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span>
 2. The Subtle Art of Not Giving a F*ck by Mark Manson
@@ -53,6 +53,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 5. Born A Crime by Trevor Noah
 6. Limitless by Radhika Gupta
 7. Elon Musk by Ashlee Vance
+8. Pour Your Heart Into It by Howard Schultz
 
 ## Entrepreneurship
 
