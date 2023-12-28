@@ -20,26 +20,26 @@ permalink:  /
 
 # News
 
-- <font size="2">[Dec 23] Serving as Reviewer for ICML'24.</font>
-- <font size="2">[Oct 23] Serving as Reviewer for ICLR'24.</font>
-- <font size="2">[Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.</font>
-- <font size="2">[Sept 23] Selected as a student volunteer for ICCV'23.</font>
-- <font size="2">[May 23] Selected among 200 young researchers to attend the [HLF'23](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).</font>
-- <font size="2">[May 23] Work on Visual Concept Learning accepted in [CoLLAs'23](https://lifelong-ml.cc/Conferences/2023/venue) as one of only 12 oral presentations.</font>
-- <font size="2">[Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia'23.</font>
-- <font size="2">[Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors and intent inference for human-robot collaboration. </font>
-- <font size="2">[Aug 22] Joined Master's in Robotics Program at the [Robotics Institute, CMU](https://www.ri.cmu.edu/).</font>
-- <font size="2">[Jan 22] Joined [Preimage](https://www.preimage.ai/) as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.</font>
-- <font size="2">[Oct 20] Joined [CLVR Lab](https://www.clvrai.com/), USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.</font>
-- <font size="2">[Aug 20] Joined [DeCLaRe Lab](https://declare-lab.net/), SUTD as a Research Assistant -- working on vision-language applications.</font>
-- <font size="2">[Aug 20] Graduated from [IIIT-Delhi](https://www.iiitd.edu.in/) with Honors.</font>
-- <font size="2">[Aug 19] Received Dean's Award for Excellent Academic Performance for 4 consecutive semesters.</font>
-- <font size="2">[Aug 19] Received Dean's Award for Innovation, Research, and Development for Bachelor's thesis.</font>
-- <font size="2">[May 19] Joined SUTD Brain Lab as a Visiting Researcher -- working on disentangling video sequences using Gaussian process priors.</font>
-- <font size="2">[May 19] Received [Indian National Academy of Engineering (INAE) Fellowship](https://www.inae.in/#) by IISc.</font>
-- <font size="2">[Aug 18] Placed 6th out of 70 International Teams: [AUVSI SUAS](https://suas-competition.org/), Maryland, USA.</font>
-- <font size="2">[Aug 16] Received Chairman's Merit Scholarship (4 / 278)</font>
-- <font size="2">[May 15] Received KVPY Fellowship (awarded to top 0.3%)</font>
+- [Dec 23] Serving as Reviewer for ICML'24.
+- [Oct 23] Serving as Reviewer for ICLR'24.
+- [Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
+- [Sept 23] Selected as a student volunteer for ICCV'23.
+- [May 23] Selected among 200 young researchers to attend the [HLF'23](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html).
+- [May 23] Work on Visual Concept Learning accepted in [CoLLAs'23](https://lifelong-ml.cc/Conferences/2023/venue) as one of only 12 oral presentations.
+- [Dec 22] Work on talking face generation won the Best Demo Paper award at ACM MM Asia'23.
+- [Sept 22] Joined AART Lab, CMU -- working on concept learning using domain knowledge priors and intent inference for human-robot collaboration. 
+- [Aug 22] Joined Master's in Robotics Program at the [Robotics Institute, CMU](https://www.ri.cmu.edu/).
+- [Jan 22] Joined [Preimage](https://www.preimage.ai/) as a Deep Learning Research Engineer -- working on Sparse-view 3D Reconstruction.
+- [Oct 20] Joined [CLVR Lab](https://www.clvrai.com/), USC as a Visiting Researcher -- working on continual skill learning and OOD adaptation in robotics.
+- [Aug 20] Joined [DeCLaRe Lab](https://declare-lab.net/), SUTD as a Research Assistant -- working on vision-language applications.
+- [Aug 20] Graduated from [IIIT-Delhi](https://www.iiitd.edu.in/) with Honors.
+- [Aug 19] Received Dean's Award for Excellent Academic Performance for 4 consecutive semesters.
+- [Aug 19] Received Dean's Award for Innovation, Research, and Development for Bachelor's thesis.
+- [May 19] Joined SUTD Brain Lab as a Visiting Researcher -- working on disentangling video sequences using Gaussian process priors.
+- [May 19] Received [Indian National Academy of Engineering (INAE) Fellowship](https://www.inae.in/#) by IISc.
+- [Aug 18] Placed 6th out of 70 International Teams: [AUVSI SUAS](https://suas-competition.org/), Maryland, USA.
+- [Aug 16] Received Chairman's Merit Scholarship (4 / 278)
+- [May 15] Received KVPY Fellowship (awarded to top 0.3%)
 
 <div id="read-more-button">
     <a nohref>Read more</a>
