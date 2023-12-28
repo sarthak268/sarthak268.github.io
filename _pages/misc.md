@@ -19,8 +19,9 @@ permalink:  /misc/
 - Physics (I'm always up for an insightful physics discussion)
 - Reading (I love autobiographies and biographies)
 - Travel
+- Chess (ELO: 1639)
 - Football (watch + play + fifa)
-- Gym, Chess, Table-Tennis (I'm still a noob)
+- Gym, Table-Tennis (I'm still a noob)
 
 ## Awards and Honors
 
