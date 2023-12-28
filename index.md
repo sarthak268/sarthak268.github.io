@@ -20,6 +20,7 @@ permalink:  /
 
 # News
 
+<font size="2">
 - [Dec 23] Serving as Reviewer for ICML'24.
 - [Oct 23] Serving as Reviewer for ICLR'24.
 - [Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.
@@ -40,6 +41,7 @@ permalink:  /
 - [Aug 18] Placed 6th out of 70 International Teams: [AUVSI SUAS](https://suas-competition.org/), Maryland, USA.
 - [Aug 16] Received Chairman's Merit Scholarship (4 / 278)
 - [May 15] Received KVPY Fellowship (awarded to top 0.3%)
+</font>
 
 <div id="read-more-button">
     <a nohref>Read more</a>
