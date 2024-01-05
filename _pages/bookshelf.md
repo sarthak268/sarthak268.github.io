@@ -139,4 +139,5 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 1. [Minimal Selfhood and the Origins of Consciousness](https://www.goodreads.com/book/show/40846077-minimal-selfhood-and-the-origins-of-consciousness) by Rupert Glasgow -->
 
-Have a recommendation? [Let me know!](//twitter.com/@sarthak__bhagat)
+<br>
+<span style="font-size: 85%;">Have a recommendation? [Let me know!](//twitter.com/@sarthak__bhagat)</span><br>
