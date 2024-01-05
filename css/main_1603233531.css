@@ -1,6 +1,6 @@
 body {
-  font-size: 8px;
-  line-height: 15px;
+  font-size: 14px;
+  line-height: 23px;
   font-weight: 300;
   -webkit-font-smoothing: subpixel-antialiased;
   color: #333;
@@ -118,7 +118,7 @@ ul.nav-bar li {
 .page-content .entries span.date {
   float: right;
   color: #91a3b0;
-  font-size: 0.4em;
+  font-size: 0.8em;
   line-height: 2em;
   text-transform: uppercase;
 }
