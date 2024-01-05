@@ -32,61 +32,61 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Self-Growth
 
-1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span>
-2. The Subtle Art of Not Giving a F*ck by Mark Manson
-3. The Compound Effect by Darren Hardy
-4. Ikigai by Francesc Miralles and Hector Garcia
-5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi 
-6. 12 Rules for Life by Jordan B. Peterson
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span></span><br>
+<span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
+<span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
+<span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
+<span style="font-size: 85%;">5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi</span><br>
+<span style="font-size: 85%;">6. 12 Rules for Life by Jordan B. Peterson</span><br>
 
 ## Fiction
 
-1. The Alchemist by Paulo Coelho
-2. Life 3.0 by Max Tegmark
+<span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
+<span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
 
 ## Autobiography / Biography
 
-1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span>
-2. Steve Jobs by Walter Isaacson 
-3. Can’t Hurt Me by David Goggins
-4. Becoming by Michelle Obama
-5. Born A Crime by Trevor Noah
-6. Limitless by Radhika Gupta
-7. Elon Musk by Ashlee Vance
-8. Pour Your Heart Into It by Howard Schultz
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span></span><br>
+<span style="font-size: 85%;">2. Steve Jobs by Walter Isaacson</span><br>
+<span style="font-size: 85%;">3. Can’t Hurt Me by David Goggins</span><br>
+<span style="font-size: 85%;">4. Becoming by Michelle Obama</span><br>
+<span style="font-size: 85%;">5. Born A Crime by Trevor Noah</span><br>
+<span style="font-size: 85%;">6. Limitless by Radhika Gupta</span><br>
+<span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
+<span style="font-size: 85%;">8. Pour Your Heart Into It by Howard Schultz</span><br>
 
 ## Entrepreneurship
 
-1. Hard Things about Hard Things by Ben Horowitz
-2. Zero to One by Peter Thiel
-3. Radical Candor by Kim Scott
+<span style="font-size: 85%;">1. Hard Things about Hard Things by Ben Horowitz</span><br>
+<span style="font-size: 85%;">2. Zero to One by Peter Thiel</span><br>
+<span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
 
 ## Finance
 
-1. The Intelligent Investor by Benjamin Graham
-2. Think and Grow Rich by Napoleon Hill
-3. Coffee Can Investing by Saurabh Mukherjea
-4. Just Keep Buying by Nick Maggiulli
-5. The Psychology of Money by Morgan Housel
-6. Rich Dad Poor Dad by Robert T. Kiyosaki
+<span style="font-size: 85%;">1. The Intelligent Investor by Benjamin Graham</span><br>
+<span style="font-size: 85%;">2. Think and Grow Rich by Napoleon Hill</span><br>
+<span style="font-size: 85%;">3. Coffee Can Investing by Saurabh Mukherjee</span><br>
+<span style="font-size: 85%;">4. Just Keep Buying by Nick Maggiulli</span><br>
+<span style="font-size: 85%;">5. The Psychology of Money by Morgan Housel</span><br>
+<span style="font-size: 85%;">6. Rich Dad Poor Dad by Robert T. Kiyosaki</span><br>
 
 ## Misc
 
-1. Think Again by Adam Grant
-2. <span style="background-color: yellow;">What I Know For Sure by Oprah Winfrey</span> 
-3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan
-4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
-5. Do Epic Shit by Ankur Warikoo
-6. Man’s Search for Meaning by  Victor E. Frankl
+<span style="font-size: 85%;">1. Think Again by Adam Grant</span><br>
+<span style="font-size: 85%;">2. <span style="background-color: yellow;">What I Know For Sure by Oprah Winfrey</span></span><br>
+<span style="font-size: 85%;">3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan</span><br>
+<span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
+<span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
+<span style="font-size: 85%;">6. Man’s Search for Meaning by  Victor E. Frankl</span><br>
 
 <br>
 
-I also love listening to insightful podcasts/talks, some of my favorites include:
+<span style="font-size: 85%;">I also love listening to insightful podcasts/talks, some of my favorites include:</span><br>
 
-1. David Deutsch and Naval Ravikant - The Tim Ferriss Show
-2. Joe Rogan Experience #1309 - Naval Ravikant
-3. Why Rejection is Awesome - Talks at Google (Ep369)
-4. How To Get Rich: Every Episode - Naval
+<span style="font-size: 85%;">1. David Deutsch and Naval Ravikant - The Tim Ferriss Show</span><br>
+<span style="font-size: 85%;">2. Joe Rogan Experience #1309 - Naval Ravikant</span><br>
+<span style="font-size: 85%;">3. Why Rejection is Awesome - Talks at Google (Ep369)</span><br>
+<span style="font-size: 85%;">4. How To Get Rich: Every Episode - Naval</span><br>
 
 <!-- All of these books are exceptional, for which I consider myself lucky to have read them and to be in the midst of friends who continue to provide a steady stream of recommendations. The ones that truly expanded my thinking at the time of reading are highlighted in blue.
 
