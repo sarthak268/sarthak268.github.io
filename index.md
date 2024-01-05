@@ -6,15 +6,15 @@ permalink:  /
 
 <style>
   body {
-    font-size: 16px; /* Set the base font size for the entire document */
+    font-size: 4px; /* Set the base font size for the entire document */
   }
 
   h1 {
-    font-size: 2rem; /* Adjust the font size for headings */
+    font-size: 0.2rem; /* Adjust the font size for headings */
   }
 
   p {
-    font-size: 1.2rem; /* Adjust the font size for paragraphs */
+    font-size: 0.4rem; /* Adjust the font size for paragraphs */
   }
 </style>
 
