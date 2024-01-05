@@ -22,13 +22,13 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Science / History
 
-<span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari</span>
-<span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking</span>
-<span style="font-size: 85%;">3. 21 Lessons from the 21st Century by Yuval Noah Harari</span>
-<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span></span>
-<span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span>
-<span style="font-size: 85%;">6. Cosmos by Carl Sagan</span>
-<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span></span>
+<span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari</span><br>
+<span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking</span><br>
+<span style="font-size: 85%;">3. 21 Lessons from the 21st Century by Yuval Noah Harari</span><br>
+<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span></span><br>
+<span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span><br>
+<span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
+<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span></span><br>
 
 ## Self-Growth
 
