@@ -32,7 +32,7 @@ permalink:  /
 
 <a name="/news"></a>
 
-# News
+## News
 
 - <span style="font-size: 85%;">[Dec 23] Serving as Reviewer for ICML'24.</span>
 - <span style="font-size: 85%;">[Oct 23] Serving as Reviewer for ICLR'24.</span>
@@ -64,7 +64,7 @@ permalink:  /
 
 <a name="/bio"></a>
 
-# Bio
+## Bio
 
 <span style="font-size: 85%;">I am a graduate student at <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. I am working at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. 
 Currently, I am working on the following problems: (1) learning of visual (objects and scenes) and abstract (affordances and attributes) concepts using domain knowledge priors, (2) knowledge-guided short-context action anticipation from human-centric videos, (3) grasping of novel objects using vision-language models, (4) diffusion model-based action anticipation from videos, (5) offline reinforcement learning approach that encodes agent's intentions.</span>
