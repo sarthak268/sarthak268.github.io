@@ -14,22 +14,22 @@ permalink:  /services/
     }
 </style>
 
-## Reviewing
+### Reviewing
 
-- Conferences: ICML 2024, ICLR 2024, NeurIPS 2023, WACV 2023
-- Journals: IEEE Transactions on AI 2020-21, International Robotics & Automation Journal 2020-21 
+<span style="font-size: 85%;">- Conferences: ICML 2024, ICLR 2024, NeurIPS 2023, WACV 2023</span><br>
+<span style="font-size: 85%;">- Journals: IEEE Transactions on AI 2020-21, International Robotics & Automation Journal 2020-21 </span><br>
 
 ## Mentoring
 
-- CMU Undergraduate AI Mentoring
-- IIIT Student Mentorship Program
+<span style="font-size: 85%;">- CMU Undergraduate AI Mentoring</span><br>
+<span style="font-size: 85%;">- IIIT Student Mentorship Program</span><br>
 
-## Responsibilities
+### Responsibilities
 
-- IEEE Student Chapter Founder & Chair
-- Administrator: Robotics Club, IIIT-Delhi
-- Teaching Assistant: Prototype of Interactive Systems (500+ freshmen students)
+<span style="font-size: 85%;">- IEEE Student Chapter Founder & Chair</span><br>
+<span style="font-size: 85%;">- Administrator: Robotics Club, IIIT-Delhi</span><br>
+<span style="font-size: 85%;">- Teaching Assistant: Prototype of Interactive Systems (500+ freshmen students)</span><br>
 
-## Volunteering
+### Volunteering
 
-- Conferences: ICCV 2023, NeurIPS 2020-21, ICML 2020-21, ICLR 2021
+<span style="font-size: 85%;">- Conferences: ICCV 2023, NeurIPS 2020-21, ICML 2020-21, ICLR 2021</span><br>
