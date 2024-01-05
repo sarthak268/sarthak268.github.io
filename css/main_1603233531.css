@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 8px;
   line-height: 23px;
   font-weight: 300;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -36,9 +36,9 @@ h1,h2,h3 {
 }
 
 h1 {
-  font-size: 2.1em;
+  font-size: 1.5em;
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 20px;
   line-height: 35px;
 }
 
@@ -61,7 +61,7 @@ h2 {
 }
 
 .page-header h1 {
-  font-size: 2.6em;
+  font-size: 2.em;
   line-height: 1.3em;
   font-weight: 300;
   color: #1a1a1a;
@@ -118,7 +118,7 @@ ul.nav-bar li {
 .page-content .entries span.date {
   float: right;
   color: #91a3b0;
-  font-size: 0.8em;
+  font-size: 0.4em;
   line-height: 2em;
   text-transform: uppercase;
 }
