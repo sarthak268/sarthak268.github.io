@@ -4,7 +4,7 @@ title:
 permalink:  /
 ---
 
-<style>
+<!-- <style>
   body {
     font-size: 4px; /* Set the base font size for the entire document */
   }
@@ -16,7 +16,7 @@ permalink:  /
   p {
     font-size: 0.4rem; /* Adjust the font size for paragraphs */
   }
-</style>
+</style> -->
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
