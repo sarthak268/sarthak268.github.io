@@ -4,6 +4,20 @@ title:
 permalink:  /
 ---
 
+<style>
+  body {
+    font-size: 16px; /* Set the base font size for the entire document */
+  }
+
+  h1 {
+    font-size: 2rem; /* Adjust the font size for headings */
+  }
+
+  p {
+    font-size: 1.2rem; /* Adjust the font size for paragraphs */
+  }
+</style>
+
 <div class="row">
     <div class="col-sm-6 col-xs-12">
         <img src="/img/cover2.jpg">
