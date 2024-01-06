@@ -17,7 +17,7 @@ permalink:  /publications/
 ## Conference Publications
 
 <a name="/relate"></a>
-<h3 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
+<h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span><br>
@@ -57,7 +57,7 @@ permalink:  /publications/
 <hr> -->
 
 <a name="/faircop"></a>
-<h3 class="pubt">Suspect Identification Framework using Contrastive Relevance Feedback</h2>
+<h2 class="pubt">Suspect Identification Framework using Contrastive Relevance Feedback</h2>
 <p class="pubd">
     <span class="authors">D. Gupta, A. Saini, D. Bhasin, S. Bhagat, S. Uppal, P. Kumaraguru, R. Shah</span><br>
     <span class="conf">Winter Conference on Applications of Computer Vision (WACV), 2023</span>
@@ -70,7 +70,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/emogen"></a>
-<h3 class="pubt">Emotional Talking Faces: Making Videos More Expressive and Realistic</h2>
+<h2 class="pubt">Emotional Talking Faces: Making Videos More Expressive and Realistic</h2>
 <p class="pubd">
     <span class="authors">S. Goyal, S. Uppal, S. Bhagat, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022</span><br>
@@ -86,7 +86,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/mgpvae"></a>
-<h3 class="pubt">Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders</h2>
+<h2 class="pubt">Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat*, S. Uppal*, Z. Yin, N. Lim</span><br>
     <span class="conf">European Conference on Computer Vision (ECCV), 2020<br>
@@ -101,7 +101,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/uav"></a>
-<h3 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
+<h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, P.B. Sujit</span><br>
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
