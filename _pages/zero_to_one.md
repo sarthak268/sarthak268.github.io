@@ -169,6 +169,7 @@ permalink:  /bookshelf/zero_to_one/
     
     > Superior sales and distribution by itself can create a monopoly, even with no product differentiation. The converse is not true.
     > 
+    
     - Two metrics for effective distribution: *Customer Lifetime Value (CLV) > Customer Acquisition Cost (CAC)*
     - *Complex sales:* If the average order price is huge (in millions, like Palantir), the customers want to talk to the CEO not the VP of Sales.
     - *Advertising:* can work for startups, maybe uneconomical, tough to compete with bigger companies with larger budgets.

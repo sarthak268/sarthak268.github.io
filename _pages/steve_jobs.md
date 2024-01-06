@@ -49,7 +49,7 @@ Jobs when convincing Bill Atkinson to join Apple — “We’re inventing the fu
 
 We probably only have the opportunity to do a few things really great and do them well. None of us has any idea how long we’re going to be here, nor do I, but my feeling is I’ve got to accomplish a lot of these things while I’m young.
 
-**Learning 5: Design / Product >>>**
+**Learning 5: Design / Product >>**
 
 Simplicity is the ultimate sophistication.
 
