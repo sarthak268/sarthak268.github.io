@@ -24,8 +24,7 @@ Jan’23
     - Single most powerful pattern in successful people: they find value in expected places by thinking about business from first principles instead of formulas.
 - **The Challenge of the Future**
     
-    > What important truth do very few people agree with you on?
-    > 
+    > What important truth do very few people agree with you on?> 
     - Brilliant thinking is rare, but courage is in even short supply than genius.
     - 0 to 1 vs 1 to n
         - 1 to n: Horizontal progress, easy to imagine because we already know what it looks like, *Globalization*
@@ -33,9 +32,7 @@ Jan’23
     - Startups, positively defined, is the largest group of people you can convince of a plan to build a different future.
 - **Party like it’s 1999**
     
-    > Madness is rare in individuals —  but in groups, parties nations, and ages it is the rule 
-    — Nietzsche.
-    > 
+    > Madness is rare in individuals —  but in groups, parties nations, and ages it is the rule> — Nietzsche. 
     - If you can identify a delusional popular belief, you can find what lies hidden behind it; the contrarian truth.
     - Lessons learnt by entrepreneurs from dot-com crash:
         - Make incremental advances
