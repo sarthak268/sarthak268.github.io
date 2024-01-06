@@ -47,7 +47,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Autobiography / Biography
 
 <span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span></span><br>
-<span style="font-size: 85%;">2. Steve Jobs by Walter Isaacson</span><br>
+<span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span><br>
 <span style="font-size: 85%;">3. Can’t Hurt Me by David Goggins</span><br>
 <span style="font-size: 85%;">4. Becoming by Michelle Obama</span><br>
 <span style="font-size: 85%;">5. Born A Crime by Trevor Noah</span><br>
@@ -58,7 +58,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Entrepreneurship
 
 <span style="font-size: 85%;">1. Hard Things about Hard Things by Ben Horowitz</span><br>
-<span style="font-size: 85%;">2. Zero to One by Peter Thiel</span><br>
+<span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span><br>
 <span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
 
 ## Finance
