@@ -24,7 +24,9 @@ Jan’23
     - Single most powerful pattern in successful people: they find value in expected places by thinking about business from first principles instead of formulas.
 - **The Challenge of the Future**
     
-    > What important truth do very few people agree with you on?> 
+    > What important truth do very few people agree with you on?
+    > 
+    
     - Brilliant thinking is rare, but courage is in even short supply than genius.
     - 0 to 1 vs 1 to n
         - 1 to n: Horizontal progress, easy to imagine because we already know what it looks like, *Globalization*
@@ -32,7 +34,9 @@ Jan’23
     - Startups, positively defined, is the largest group of people you can convince of a plan to build a different future.
 - **Party like it’s 1999**
     
-    > Madness is rare in individuals —  but in groups, parties nations, and ages it is the rule> — Nietzsche. 
+    > Madness is rare in individuals —  but in groups, parties nations, and ages it is the rule
+    > — Nietzsche. 
+    
     - If you can identify a delusional popular belief, you can find what lies hidden behind it; the contrarian truth.
     - Lessons learnt by entrepreneurs from dot-com crash:
         - Make incremental advances
@@ -55,15 +59,16 @@ Jan’23
     - Creative monopolist: give customers more choice by adding entirely new categories of abundance to the world. They aren’t just good for society; they’re powerful engines for making it better.
     - Monopolies drive progress because the promise of years or even decades of monopoly profit provides a powerful incentive to *innovate*.
     
-    > All happy families are alike; each unhappy family is unhappy in its own way. 
-    All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
+    > All happy families are alike; each unhappy family is unhappy in its own way. All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
     > 
+
 - **The Ideology of Competition**
     - We preach competition, internalize its necessity, and enact its commandments; and as a result, we trap ourselves within it — even though the more we compete, the less we gain.
     - If you can’t beat a rival, it may be better to merge. Example: PayPal and Elon Musk’s X.com. There is no middle ground: either don’t throw any punches or strike hard and end it quickly.
     
     > If you can recognize competition as a destructive force instead of a sign of value, you’re already more sane than most.
     > 
+
 - **Last Mover’s Advantage**
     - A great business is defined by its ability to *generate cash flow in the future*, not just in the present. Value of a business today = sum of all money it will make in the future.
     - Technology companies often lose money in the first few years: it takes time to build valuable things, and that means delayed revenue.
@@ -78,12 +83,14 @@ Jan’23
         - *Scaling Up:* Start small and then scale up. Amazon — vision: dominate online retail, started with books
         - *Don’t Disrupt:* If you truly want to make something new, the act of creation is far more important than the old industries that might not like what you create.
     
-    > To succeed, you must study the endgame before everything else. — Capablanca
-    > 
+    > To succeed, you must study the endgame before everything else. 
+    > — Capablanca
+
 - **You are not a Lottery Ticket**
     
-    > Victory awaits him who has everything in order — luck, people call it. — Amundsen
-    > 
+    > Victory awaits him who has everything in order — luck, people call it. 
+    > — Amundsen
+
     - Process trumps substance: when people lack concrete plans to carry out, they use formal rules to assemble a portfolio of various options.
     - Four class of people:
         1. Indefinite Pessimist: Present Europe
@@ -105,6 +112,7 @@ Jan’23
     
     > A startup is the largest endeavor over which you can have definite mastery. You can have agency not just over your own life, but over a small and important part of the world. It begins with rejecting the unjust tyranny of Chance. You are not a lottery ticket.
     > 
+
 - **Follow the Money**
     - Power Law (80-20 Rule / Pareto Principle): 20% of the effort produces 80% of the result. We don’t live in a normal world; we live under a power law.
     - Power Law in VC: A small handful of companies radically outperform all others. If you focus on diversification instead of single minded pursuit of the very few companies that can become overwhelmingly valuable, you’ll miss those rare companies in the first place.
@@ -132,6 +140,7 @@ Jan’23
     
     > A startup messed up at its foundation cannot be fixed. — Thiel’s Law
     > 
+
     - Technical abilities and complementary skill sets matter, but how well the founders know each other and how well they work together matter just as much, Founders should share a prehistory before they start a company together — otherwise they’re just rolling dice.
     - To avoid likely sources of misalignment, its important to distinguish three concepts:
         - Ownership: who legally owns a company’s equity?
@@ -171,6 +180,7 @@ Jan’23
     
     > Everyone has a product to sell — no matter whether you’re an employee, a founder, or an investor. It’s true even if your company consists of just you and your computer. Look around. *If you don’t see any sales-people, you’re the salesman.*
     > 
+
 - **Man and Machine**
     - Everyone of today’s smartphones has thousands of times more processing power than computers that guided astronauts to the moon.
     - Computers are complements for humans, not substitutes. Computers excel at data processing but they struggle to make basic judgements that would be simple for any human.
@@ -196,6 +206,7 @@ Jan’23
     
     > The lesson for founders is that individual prominence and adulation can never be enjoyed except on the condition that it maybe exchanged for individual notoriety and demonization at any moment — so be careful.
     > 
+
     - The single greatest danger for a founder is to become so certain of his own myth that he loses his mind. But an equally insidious danger for every business is to lose all sense of myth and mistake disenchantment for wisdom.
 - **Stagnation or Singularity**
     - Four possibilities:
