@@ -20,7 +20,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/cover2.jpg">
+        <img src="/img/cover3.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Master's in Robotics<br>
@@ -66,8 +66,9 @@ permalink:  /
 
 ## Bio
 
-<span style="font-size: 85%;">I am a graduate student at <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. I am working at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. 
-Currently, I am working on the following problems: (1) learning of visual (objects and scenes) and abstract (affordances and attributes) concepts using domain knowledge priors, (2) knowledge-guided short-context action anticipation from human-centric videos, (3) grasping of novel objects using vision-language models, (4) diffusion model-based action anticipation from videos, (5) offline reinforcement learning approach that encodes agent's intentions.</span>
+<span style="font-size: 85%;">I am a graduate student at <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. 
+
+I am working at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. Currently, I am working on the following problems: (1) learning of visual (objects and scenes) and abstract (affordances and attributes) concepts using domain knowledge priors, (2) knowledge-guided short-context action anticipation from human-centric videos, (3) grasping of novel objects using vision-language models, (4) diffusion model-based action anticipation from videos, (5) offline reinforcement learning approach that encodes agent's intentions.</span>
 
 <span style="font-size: 85%;">Most recently, I worked as a Deep Learning Engineer at <a href="https://preimage.ai/">Preimage</a>, where I worked on problems involving 3D vision for drone-based photogrammetry.
 Previously, I worked as a Visiting Researcher at <a href="https://www.clvrai.com/">Cognitive Learning and Vision for Robotics (CLVR) Lab</a>, <a href="https://www.usc.edu/">University of Southern California (USC), USA</a> under the guidance of <a href="https://viterbi-web.usc.edu/~limjj/">Dr. Joseph Lim</a>. I majorly focused on problems involving adaptation of policies to novel unseen environments and continual learning of skills.
