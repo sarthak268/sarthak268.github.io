@@ -88,9 +88,9 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">3. Why Rejection is Awesome - Talks at Google (Ep369)</span><br>
 <span style="font-size: 85%;">4. How To Get Rich: Every Episode - Naval</span><br>
 
-<span style="font-size: 85%;">Some of my favorite blogs include:</span><br>
+<!-- <span style="font-size: 85%;">Some of my favorite blogs include:</span><br>
 
-<span style="font-size: 85%;">1. <a href="https://paulgraham.com/wealth.html#:~:text=To%20get%20rich%20you%20need,make%20have%20a%20big%20effect.">How To Make Wealth by Paul Graham (May 2004)</a></span><br>
+<span style="font-size: 85%;">1. <a href="https://paulgraham.com/wealth.html#:~:text=To%20get%20rich%20you%20need,make%20have%20a%20big%20effect.">How To Make Wealth by Paul Graham (May 2004)</a></span><br> -->
 
 
 <!-- All of these books are exceptional, for which I consider myself lucky to have read them and to be in the midst of friends who continue to provide a steady stream of recommendations. The ones that truly expanded my thinking at the time of reading are highlighted in blue.
