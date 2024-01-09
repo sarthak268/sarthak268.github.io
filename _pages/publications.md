@@ -27,6 +27,7 @@ permalink:  /publications/
         <a target="_blank" href="https://proceedings.mlr.press/v232/bhagat23a/bhagat23a.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/sample-efficient-visual-concept-learning">Code</a>
         <a target="_blank" href="https://youtu.be/wUiWXgg_exU?si=lWnQO6GAnhlyPaWF">Video</a>
+        <a target="_blank" href="https://x.com/sarthak__bhagat/status/1683235499882975232?t=Qqz9-yZs25yoFErLqCMCBQ&s=35">Thread</a>
     </span>
 </p>
 <!-- <img src="/img/habitat/pirlnav.png"> -->
@@ -224,6 +225,7 @@ permalink:  /publications/
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2309.05943">Paper</a>
         <a target="_blank" href="https://youtu.be/_XpmYRK7eQ8">Video</a>
+        <a target="_blank" href="https://x.com/sarthak__bhagat/status/1708427796769309099?t=vZogy8PIx9xTGl5HyjkOZg&s=35">Thread</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>

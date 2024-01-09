@@ -60,7 +60,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">1. Hard Things about Hard Things by Ben Horowitz</span><br>
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span><br>
 <span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
-<span style="font-size: 85%;">4. Essays by Paul Graham (I know it's not a book)</span><br>
+<span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
 
 ## Finance
 
