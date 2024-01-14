@@ -53,7 +53,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">5. Born A Crime by Trevor Noah</span><br>
 <span style="font-size: 85%;">6. Limitless by Radhika Gupta</span><br>
 <span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
-<span style="font-size: 85%;">8. Pour Your Heart Into It by Howard Schultz</span><br>
+<span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span><br>
 
 ## Entrepreneurship
 
