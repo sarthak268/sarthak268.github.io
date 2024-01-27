@@ -84,7 +84,7 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
 
 <br><br>
 
-<div class="row" id="timeline-logos">
+<!-- <div class="row" id="timeline-logos">
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
@@ -135,17 +135,7 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
             2022-
         </div>
     </div>
-    <!-- <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//"><img src="/img/logos/hlf.jpg"></a>
-        </div>
-        <div class="logo-desc">
-            HLF<br>
-            Young Researcher
-        </div>
-    </div> -->
-</div>
+</div> -->
 
 
 <script src="/js/jquery.min.js"></script>
