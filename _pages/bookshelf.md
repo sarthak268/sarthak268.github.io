@@ -60,8 +60,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">1. Hard Things about Hard Things by Ben Horowitz</span><br>
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span><br>
 <span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
-<span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
-<span style="font-size: 85%;">5. Your Next Five Moves by Patrick Bet-David</span><br>
+<span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span><br>
 
 ## Finance
 
@@ -80,6 +79,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
 <span style="font-size: 85%;">6. Man’s Search for Meaning by  Victor E. Frankl</span><br>
+<span style="font-size: 85%;">7. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
 
 <br>
 
