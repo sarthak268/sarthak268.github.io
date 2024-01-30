@@ -154,20 +154,20 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
-    // Set the initial number of lines to show
+    // Set the number of lines to show initially
     var initialLinesToShow = 5;
 
-    // Hide all elements beyond the specified number of lines
-    $('ul li:gt(' + initialLinesToShow + ')').hide();
-
-    // More button click event
-    $('#more-button > a').click(function() {
-        // Show all hidden elements
-        $('ul li:gt(' + initialLinesToShow + ')').show();
-        
-        // Hide the "More" button
-        $('#more-button').hide();
+    // Hide all paragraphs beyond the specified number of lines
+    $('#more-button').click(function() {
+        $('#bio-content > span:hidden').slice(0, initialLinesToShow).show();
+        if ($('#bio-content > span:hidden').length === 0) {
+            // If there is no more hidden content, hide the "Read More" button
+            $('#more-button').hide();
+        }
     });
+
+    // Initially hide all paragraphs beyond the specified number of lines
+    $('#bio-content > span:gt(' + (initialLinesToShow - 1) + ')').hide();
 </script>
 
 
