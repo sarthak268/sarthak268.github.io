@@ -19,7 +19,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">- Physics (I'm always up for an insightful physics discussion)</span><br>
 <span style="font-size: 85%;">- Reading (I love autobiographies and biographies)</span><br>
 <span style="font-size: 85%;">- Travel</span><br>
-<span style="font-size: 85%;">- Chess (ELO: 1639)</span><br>
+<span style="font-size: 85%;">- Chess (ELO: 1644)</span><br>
 <span style="font-size: 85%;">- Football (watch + play + fifa)</span><br>
 <span style="font-size: 85%;">- Gym, Table-Tennis (I'm still a noob)</span><br>
 

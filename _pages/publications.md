@@ -174,7 +174,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Uppal*, S. Bhagat*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
     <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span><br>
-    <span class="trophy">&#x1F3C6; 60+ citations</span>
+    <!-- <span class="trophy">&#x1F3C6; 60+ citations</span> -->
     <span class="links">
         <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1566253521001512">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
@@ -188,7 +188,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Bhagat*, H. Banerjee*, Z. Tse, H. Ren</span><br>
     <span class="conf">Robotics 2019, 8(1), 4 </span><br>
-    <span class="trophy">&#x1F3C6; 90+ citations</span>
+    <span class="trophy">&#x1F3C6; 100+ citations</span>
     <span class="links">
         <a target="_blank" href="https://www.mdpi.com/2218-6581/8/1/4">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->

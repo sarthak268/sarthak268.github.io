@@ -140,9 +140,9 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
-    $('ul:gt(0) li:gt(12)').hide();
+    $('ul:gt(0) li:gt(5)').hide();
     $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(12)').show();
+        $('ul:gt(0) li:gt(5)').show();
         $('#read-more-button').hide();
     });
 </script>
