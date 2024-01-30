@@ -54,7 +54,6 @@ permalink:  /
 - <span style="font-size: 85%;">[Aug 18] Placed 6th out of 70 International Teams: [AUVSI SUAS](https://suas-competition.org/), Maryland, USA.</span>
 - <span style="font-size: 85%;">[Aug 16] Received Chairman's Merit Scholarship (4 / 278).</span>
 - <span style="font-size: 85%;">[May 15] Received KVPY Fellowship (awarded to top 0.3%).</span>
-</span>
 
 <div id="read-more-button">
     <a nohref>Read more</a>
@@ -77,11 +76,11 @@ Previously, I worked as an intern at the <a href="https://sutdbrain.wordpress.co
 
 <span style="font-size: 85%;">I am mainly interested in representation learning for visual data, computer vision for robotics, and robot learning.
 Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu.edu</a>.</span>
-
+<!-- 
 <div id="more-button">
     <a nohref>More</a>
 </div>
-
+ -->
 
 <br>
 
@@ -152,7 +151,7 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
     });
 </script>
 
-<script src="/js/jquery.min.js"></script>
+<!-- <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
     // Set the number of lines to show initially
     var initialLinesToShow = 5;
@@ -168,7 +167,7 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
 
     // Initially hide all paragraphs beyond the specified number of lines
     $('#bio-content > span:gt(' + (initialLinesToShow - 1) + ')').hide();
-</script>
+</script> -->
 
 
 ---
