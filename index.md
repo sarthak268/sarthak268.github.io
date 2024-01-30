@@ -78,6 +78,11 @@ Previously, I worked as an intern at the <a href="https://sutdbrain.wordpress.co
 <span style="font-size: 85%;">I am mainly interested in representation learning for visual data, computer vision for robotics, and robot learning.
 Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu.edu</a>.</span>
 
+<div id="more-button">
+    <a nohref>More</a>
+</div>
+
+
 <br>
 
 **_If you are interested in research collaboration, please drop me an email._**
@@ -146,6 +151,25 @@ Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu
         $('#read-more-button').hide();
     });
 </script>
+
+<script src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+    // Set the initial number of lines to show
+    var initialLinesToShow = 5;
+
+    // Hide all elements beyond the specified number of lines
+    $('ul li:gt(' + initialLinesToShow + ')').hide();
+
+    // More button click event
+    $('#more-button > a').click(function() {
+        // Show all hidden elements
+        $('ul li:gt(' + initialLinesToShow + ')').show();
+        
+        // Hide the "More" button
+        $('#more-button').hide();
+    });
+</script>
+
 
 ---
 <!-- 
