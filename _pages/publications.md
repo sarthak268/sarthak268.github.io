@@ -174,7 +174,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Uppal*, S. Bhagat*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
     <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span><br>
-    <!-- <span class="trophy">&#x1F3C6; 60+ citations</span> -->
+    <span class="trophy">&#x1F3C6; 50+ citations</span>
     <span class="links">
         <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1566253521001512">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->

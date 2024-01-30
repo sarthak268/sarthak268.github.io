@@ -39,11 +39,6 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi</span><br>
 <span style="font-size: 85%;">6. 12 Rules for Life by Jordan B. Peterson</span><br>
 
-## Fiction
-
-<span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
-<span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
-
 ## Autobiography / Biography
 
 <span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span></span><br>
@@ -55,12 +50,18 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
 <span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span><br>
 
+## Fiction
+
+<span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
+<span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
+
 ## Entrepreneurship
 
 <span style="font-size: 85%;">1. Hard Things about Hard Things by Ben Horowitz</span><br>
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span><br>
 <span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
 <span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span><br>
+<span style="font-size: 85%;">7. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
 
 ## Finance
 
@@ -79,7 +80,6 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
 <span style="font-size: 85%;">6. Man’s Search for Meaning by  Victor E. Frankl</span><br>
-<span style="font-size: 85%;">7. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
 
 <br>
 
