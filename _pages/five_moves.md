@@ -62,3 +62,71 @@ permalink:  /bookshelf/five_moves_ahead/
     Once the problem or opportunity you’re facing can be categorized as offense or defense, it immediately becomes less intimidating. You’ve labeled it, and whether it’s offense or defense, you’ve dealt with both types of issues in the past. Decision making then goes from something scary and unfamiliar to something manageable.
 
 **Move 3: Master Building the Right Team**
+- That paradigm shift— that one decision— changed my life for the better. I stopped asking how other people could make my life better, and instead, I asked: How can I make everybody else’s life better just by the benefits that I offer them? You’ll know you’re succeeding in life when others are winning simply because of their association with you. It could be based on the example you set, your contacts, your coaching, your knowledge, or your tough love. Think about these three questions: 1. What benefits are you currently offering to others? 2. In what way do people improve by associating with you? 3. How many lives have you changed positively in the past year?
+- Some CEOs make the mistake of thinking that recruiting ends once a person joins the company. The reality is that when you recruit top talent, you’ll have to constantly re- recruit that talent.
+- Questions That People Will Ask (and You Must Answer) When They Are Deciding to Work for You 
+    1. What makes your company distinct from your competition? 
+    2. What separates your leadership from that of others? 
+    3. Do you have a code of honor? Do you embody it? 
+    4. What benefits program will they get from being associated with you? 
+    5. Do people constantly see you growing? Can they tell that you are evolving?
+- Your future consigliere is likely someone you already know. The key thing to look for is similar values but different temperaments. If you’re impatient and hotheaded, you want someone who is calm and deliberate. If you’re an introvert, find an extrovert. If your inclination is to be judgmental and unforgiving, find someone who is empathetic and accepting. Regardless of temperament, it’s important for him or her to be calm and in control of his or her emotions.
+- I put so much stock in balance that when I’m in the middle of a big decision, I’ll often invite two different personalities into the boardroom to help process an issue. It’s most effective when the two people are polar opposites. After I present the issue to them, I simply sit there and watch them go back and forth. Occasionally, I’ll ask a question to stoke the fire. I want to make sure I hear the most convincing arguments for all sides of the issue. The clash of two opinions leads me closer to the truth.
+- A Trusted Adviser 
+    1. Is skilled at processing issues, able to think many moves ahead 
+    2. Has values similar to yours but a different temperament (is strong where you are weak) 
+    3. Is calm under pressure 
+    4. Is not afraid to challenge you and point out your blind spots 
+    5. Is loyal, with no personal agenda
+- That’s the lesson I want you to absorb: you’ve got to do due diligence no matter how trustworthy people seem. This is especially true if you’re going to give them access to sensitive information that you don’t want your competitors to have. Spend time with them. Ask them questions. Ask others about them. Observe how they behave. You can never know for sure if people are trustworthy, but you can get a feel for who they are. That may be enough for you to extend trust to them, at least in certain circumstances and in certain areas of the business.
+- Five Questions You Must Answer Before Making Any Big Hire 
+    1. How many and what type of references did you call? Did you talk to other people who worked with the hire about what type of individual he or she is? 
+    2. Is this person likable (the reason you hired him or her) but lacks a significant skill set? 
+    3. Did you conduct a background check to determine if there’s something in his or her past that might be a red flag? 
+    4. Did you question anything iffy on his or her résumé; for instance, if the person was on sabbatical for two years, did you dig deeper to determine why? 
+    5. Does the contract you offered include a 90- to 120- day probationary period? This will give you enough time to evaluate the new hire’s performance. It will also give the new hire time to learn what he or she needs to improve and make an effort to do so.
+- Do you think Bill Gates begrudges all the wealth created by those who worked at Microsoft? Gates didn’t give people equity. Because he was thinking several moves ahead, he granted equity to those who earned it. I read one estimate that Microsoft has created three billionaires (let us not forget Steve Ballmer) and 12,000 millionaires.
+- Here are the keys to creating the most effective compensation structure: 
+    1. Decide what behavior or final result you want to recognize. 
+    2. Study the current compensation structure within your industry. Even if you’re going to disrupt the status quo, you first need to know what the status quo is. 
+    3. Find ways to create three tiers of incentives to strive for. This is much more effective than one all- or- nothing incentive to compete for.
+- What You Must Recognize in Order to Retain Talent People want to be compensated properly for their efforts. Outstanding performers want to participate in the success of the company. People want to know that they’re part of an organization that’s making an impact. People want to be recognized in front of their peers for the work that they do. People want to know that there’s an opportunity for them to grow within the company. People want to be judged based on a clear set of expectations given to them without the goalposts constantly changing.
+- Letting people know where they stand accomplishes three important objectives: 
+    1. They know the specific actions they must take to keep their job. 
+    2. If they fail to perform those specific actions, letting them go will seem fair and objective. 
+    3. You can begin the process of finding someone else to complete their tasks. The best- case scenario is the person will improve and you will have deepened your “bench.” If that doesn’t happen and the person leaves, someone else can step in and take over his or her job seamlessly.
+- How to Build Your Team
+    1. Fire gently. When it comes time to tell people they’re through, you want to do it without histrionics. You don’t have to blame. You don’t have to retaliate when your employee blames you. If you bash the employee, no one will want to work for you, and if the employee bashes you, you’re not going to give him the type of referral that will help him get hired elsewhere. 
+    2. Get right to the point. When you’re firing somebody, don’t drag it out. Though people may be shocked that they’re being fired and emerge from that shock to protest, don’t let the process become protracted. Don’t waste time trying to justify your actions or prove that they deserve to be fired. There’s no point, and you’ll end up wasting time and emotional energy. 
+    3. Be firm yet gentle. Yes, I’m reminding you to be gentle again because I don’t want you to become so firm that you turn into a rock and start battering people. Being firm means getting to the point quickly and not wavering. Remind yourself that this is not a debate but a decision. It didn’t work out. Both of you have to move on. Period. 
+    4. Acknowledge the other person’s feelings. Say something such as “Listen, I understand that this may be a bit of a frustrating and disappointing moment for you. I’ve been let go before, and I can tell you, it’s upsetting. However, I just want to make sure I totally understand your feelings and what you’re thinking.” Listen to what the other person says and then communicate that you “get” the emotion he or she is expressing: “I know you’re angry…” 
+    5. Have a good exit strategy. A bad exit strategy is having one of your people fire the employee you personally hired. This is a guaranteed method to create one pissed- off former employee. But what if you hired John and he worked for Sue? Then you and Sue should be in the room together when you tell John the bad news. And make the exit an interview rather than a summary dismissal. Don’t kick the person out the door but ease him or her out with information and compassion. If you’re firing a supplier who works outside your office, that’s a different story and you may be able to do it through a phone call. But if someone has worked in your office, you need to conduct an in- person interview before he or she leaves. 
+    6. Talk about the person’s strengths. This builds on the last point. Include suggestions about how he or she can leverage his or her strengths to succeed in his or her next job: “You’re really good at X, which means you’d be well suited to do Y.” Turn into an empathetic coach who wants to help the person find his or her next position based on what he or she does well. If you take that approach, even your former employees will be fans of your company. Hire slowly; fire quickly. Take your time to be sure you hire the right people, but when you’re convinced that someone is the wrong person, don’t let the individual linger and hurt productivity and morale.
+- Six Strategies for Replacement and Skill Transfer 
+    1. List your tasks and skills. Make a list of all your tasks and skills and determine which ones you are the best at and which ones you are not. Focus on your strengths, and replace yourself on all the other tasks. 
+    2. Identify who’s seasonal and who’s not. You can’t assume that everybody is going to work for you forever. You need to identify who is there to fill a six- year role and who a six- month role. If you determine that now, you won’t be surprised when someone needs to be replaced. 
+    3. Know the different languages spoken by your sales, support, technical, and executive teams. Sales leaders generate revenue and build a company through their efforts. Employees are hired to support those efforts. You need to know the difference between them. Executives require empowering language that makes them feel autonomous and respected. 
+    4. Know who can maintain the company culture. It is very important that whoever replaces you will fit the culture you established so that the business can keep growing after you leave. 
+    5. Know your company’s practices and procedures. You need to put pen to paper and write down each department’s practices and procedures. Replacements will then have a manual to follow, regardless of their level, making the transfer of specific skills quick and painless. 
+    6. Develop leaders to help spread the right mindset. Have one- on- one conversations with your future leaders to inject the company’s mindset into them now, before they need to replace someone. Your having a mindset of leadership development will also increase the value of your company.
+- When you hire someone, document everything: code of conduct, equity ownership, salary, vesting period, probationary period. If it’s not documented, there will be no plan in place when you do have a conflict. Before agreeing to any major business deal, you want the following to be agreed upon: 
+    1. Liability cap: What’s the most we can lose? 
+    2. Indemnification: You can’t sue me. 
+    3. Finite term: Once it’s over, it’s over.
+- First, recognize that you can categorize people according to the following four trust levels: Stranger, Endorsed, Trusted, Running Mate. 
+    1. Categorize people as Strangers when you have zero experience with them. They may seem trustworthy; they’re charming, friendly, and talk a good game. Instinctively, you may like and trust them. Remember, though, that even homicidal sociopaths can gain people’s trust. Experience is the best teacher. If you don’t have personal knowledge of someone or know an individual who worked with him, put him into the category of Stranger and don’t trust him until you know more about him. 
+    2. The Endorsed category is for people who arrive with a track record. They are recommended by people you trust or possess a résumé that demonstrates their ability to deliver what they promise. You still need to be wary because résumés can be fudged and recommendations may reflect bias or an unwillingness to be completely honest. Still, this category should provide a somewhat greater possibility that an individual is worthy of your trust. 
+    3. Individuals who are Trusted are those with whom you possess personal experience. One way or another, they’ve demonstrated their loyalty, honesty, and reliability. They are more trustworthy than those in the Endorsed category because you’ve witnessed their positive traits, not just heard about them secondhand. 
+    4. The fourth category, Running Mate, is the highest category, and you’re not likely to have more than one individual who fits this description. This is the professional equivalent of your best friend. This is someone whom you can call when you have a problem or an opportunity and who will immediately ask, “What can I do?” If you need someone to help you out of a jam, he or she will move mountains to assist.
+- "he finally found the best solution that worked for him and the families he was counseling: give each of the people closest to you five to fifteen minutes of undivided attention every day."
+- Questions to Ask Yourself to Reach Each Individual 
+    1. What makes this person tick? 
+    2. How does this person want to be loved? 
+    3. What makes this person feel appreciated? 
+    4. What’s the most effective way to show that I care? 
+    5. What action will best “land” on this person?
+
+
+
+
+
