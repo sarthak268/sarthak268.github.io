@@ -34,7 +34,7 @@ permalink:  /
 
 ## News
 
-- <span style="font-size: 85%;">[Dec 23] Serving as Reviewer for ICML'24.</span>
+- <span style="font-size: 85%;">[Dec 23] Serving as Reviewer for ICML'24 and CoLLAs'24.</span>
 - <span style="font-size: 85%;">[Oct 23] Serving as Reviewer for ICLR'24.</span>
 - <span style="font-size: 85%;">[Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.</span>
 - <span style="font-size: 85%;">[Sept 23] Selected as a student volunteer for ICCV'23.</span>
