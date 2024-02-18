@@ -23,9 +23,9 @@ permalink:  /
         <img src="/img/cover3.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Master's in Robotics<br>
-        Carnegie Mellon University<br>
-        sarthakb@andrew.cmu.edu
+        <span style="font-size: 85%;">Master's in Robotics</span><br>
+        <span style="font-size: 85%;">Carnegie Mellon University</span><br>
+        <span style="font-size: 85%;">sarthakb@andrew.cmu.edu</span>
     </div>
 </div>
 <hr>
