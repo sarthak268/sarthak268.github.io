@@ -24,7 +24,7 @@ permalink:  /publications/
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
         <a target="_blank" href="https://youtu.be/OaKrj9vav4E?si=AU-IRS996-DKpE2y">Video</a>
-        <a target="_blank" href="[https://sarthak268.github.io/NeSCA/](https://youtu.be/OaKrj9vav4E?t=57)">Demo</a>
+        <a target="_blank" href="https://youtu.be/OaKrj9vav4E?t=57">Demo</a>
     </span>
 </p>
 <hr>
