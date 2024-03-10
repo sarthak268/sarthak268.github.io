@@ -26,6 +26,9 @@ permalink:  /
         Master's in Robotics<br>
         Carnegie Mellon University<br>
         sarthakb@andrew.cmu.edu
+        <a href="https://twitter.com/your_twitter_profile"><img src="./img/twitter.png" alt="Twitter" style="width: 30px; height: 30px;"></a>
+        <!-- <a href="https://github.com/your_github_profile"><img src="github_logo.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
+        <a href="https://scholar.google.com/citations?user=your_google_scholar_id"><img src="google_scholar_logo.png" alt="Google Scholar" style="width: 30px; height: 30px;"></a> -->
     </div>
 </div>
 <hr>
