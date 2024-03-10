@@ -45,4 +45,4 @@ permalink:  /misc/
 ## More...
 
 <span style="font-size: 85%;">- [Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
-<span style="font-size: 85%;">- [ROS Workspace for testing your obstacle avoidance algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
+<span style="font-size: 85%;">- [ROS workspace for testing your obstacle avoidance algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
