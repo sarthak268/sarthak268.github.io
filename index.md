@@ -26,8 +26,8 @@ permalink:  /
         <span style="font-size: 85%;">Master's in Robotics</span><br>
         <span style="font-size: 85%;">Carnegie Mellon University</span><br>
         <span style="font-size: 85%;">sarthakb@andrew.cmu.edu</span><br>
-        <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 25px;"></a>
-        <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 30px; height: 30px;"></a>
+        <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 20px;"></a>
+        <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 25px; height: 25px;"></a>
         <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./img/google_scholar.jpg" alt="Google Scholar" style="width: 30px; height: 25px;"></a>
     </div>
 </div>
