@@ -17,12 +17,25 @@ permalink:  /publications/
 ## Conference Publications
 
 <a name="/relate"></a>
+<h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
+<p class="pubd">
+    <span class="authors">S. Li, S. Bhagat, S. Stepputtis, J. Campbell, Y. Xie, W. Kim, K. Sycara</span><br>
+    <span class="conf">Under Review, 2024</span><br>
+    <span class="links">
+        <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
+    </span>
+</p>
+<hr>
+
+<a name="/relate"></a>
 <h2 class="pubt">Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">IEEE Robotics and Automation Letters (RA-L) (Under Review), 2024</span><br>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
+        <a target="_blank" href="https://youtu.be/OaKrj9vav4E?si=AU-IRS996-DKpE2y">Video</a>
+        <a target="_blank" href="https://youtu.be/OaKrj9vav4E?t=57">Demo</a>
     </span>
 </p>
 <hr>
@@ -86,10 +99,10 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Goyal, S. Uppal, S. Bhagat, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022</span><br>
-    <span class="trophy">&#x1F3C6; Best Demo Paper Award</span>    
+    <span class="trophy">&#x1F3C6; Best Demo Paper Award; 250+ stars on GitHub</span>    
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
-        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code (250+ stars)</a>
+        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
         <a target="_blank" href="https://youtu.be/bYPX0zp4MY4">Video</a>
         <a target="_blank" href="https://midas.iiitd.edu.in/emo/">Project Page</a>
     </span>
