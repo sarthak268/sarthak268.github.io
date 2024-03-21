@@ -19,7 +19,7 @@ permalink:  /publications/
 <a name="/relate"></a>
 <h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
 <p class="pubd">
-    <span class="authors">S. Li, S. Bhagat, S. Stepputtis, J. Campbell, Y. Xie, W. Kim, K. Sycara</span><br>
+    <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">Under Review, 2024</span><br>
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>

@@ -54,6 +54,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 <span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
 <span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
+<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Lie</span><br>
 
 ## Entrepreneurship
 
@@ -79,7 +80,8 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan</span><br>
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
-<span style="font-size: 85%;">6. Man’s Search for Meaning by  Victor E. Frankl</span><br>
+<span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
+<span style="font-size: 85%;">7. The Rational Optimist by Matt Ridley</span><br>
 
 <br>
 
