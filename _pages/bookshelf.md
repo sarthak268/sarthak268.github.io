@@ -18,7 +18,7 @@ permalink:  /bookshelf/
 > – George R.R. Martin
 
 <span style="font-size: 85%;">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
-Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span>.</span><br>
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span> and some of books I enjoyed highlighted in <span style="background-color: orange;">orange</span>.</span><br>
 
 ## Science / History
 
@@ -81,7 +81,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
-<span style="font-size: 85%;">7. The Rational Optimist by Matt Ridley</span><br>
+<span style="font-size: 85%;">7. <a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span><br>
 
 <br>
 
