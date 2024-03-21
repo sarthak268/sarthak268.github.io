@@ -42,7 +42,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Autobiography / Biography
 
 <span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span></span><br>
-<span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span><br>
+<span style="font-size: 85%;">2. <span style="background-color: orange;"><a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span></span><br>
 <span style="font-size: 85%;">3. Can’t Hurt Me by David Goggins</span><br>
 <span style="font-size: 85%;">4. Becoming by Michelle Obama</span><br>
 <span style="font-size: 85%;">5. Born A Crime by Trevor Noah</span><br>
@@ -76,12 +76,12 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Misc
 
 <span style="font-size: 85%;">1. Think Again by Adam Grant</span><br>
-<span style="font-size: 85%;">2. <span style="background-color: yellow;">What I Know For Sure by Oprah Winfrey</span></span><br>
+<span style="font-size: 85%;">2. <span style="background-color: orange;">What I Know For Sure by Oprah Winfrey</span></span><br>
 <span style="font-size: 85%;">3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan</span><br>
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
-<span style="font-size: 85%;">7. <a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span><br>
+<span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span><br>
 
 <br>
 
