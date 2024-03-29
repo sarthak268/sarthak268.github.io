@@ -23,6 +23,7 @@ permalink:  /publications/
     <span class="conf">Under Review, 2024</span><br>
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
+        <a target="_blank" href="https://arxiv.org/abs/2403.18062">Paper</a>
     </span>
 </p>
 <hr>
