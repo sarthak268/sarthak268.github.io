@@ -100,7 +100,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Goyal, S. Uppal, S. Bhagat, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022</span><br>
-    <span class="trophy">&#x1F3C6; Best Demo Paper Award; 250+ stars on GitHub</span>    
+    <span class="trophy">&#x1F3C6; Best Demo Paper Award; 300+ stars on GitHub</span>    
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
