@@ -16,7 +16,21 @@ permalink:  /publications/
 
 ## Conference Publications
 
-<a name="/relate"></a>
+<a name="/shapegrasp"></a>
+<h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
+<p class="pubd">
+    <span class="authors">D. Kalaria, S. Sharma, S. Bhagat, H. Xue, J. Dolan</span><br>
+    <span class="conf">Under Review, 2024</span><br>
+    <span class="links">
+        <a target="_blank" href="https://sites.google.com/view/wroom-utd/home">Website</a>
+        <a target="_blank" href="https://arxiv.org/abs/2404.08855">Paper</a>
+        <a target="_blank" href="https://github.com/dvij542/OffTerSim">Open-source Simulator</a>
+        <a target="_blank" href="https://mp.weixin.qq.com/s/5G3EnG-R5utIUbmRRjxqIA">Media</a>
+    </span>
+</p>
+<hr>
+
+<a name="/shapegrasp"></a>
 <h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
 <p class="pubd">
     <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
@@ -28,7 +42,7 @@ permalink:  /publications/
 </p>
 <hr>
 
-<a name="/relate"></a>
+<a name="/nesca"></a>
 <h2 class="pubt">Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
