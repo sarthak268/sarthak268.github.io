@@ -243,6 +243,18 @@ permalink:  /publications/
 
 
 <a name="/contr"></a>
+<h2 class="pubt">Symbolic Graph Inference for Compound Scene Understanding</h2>
+<p class="pubd">
+    <span class="authors">A. Mangal, S. Stepputtis, S. Bhagat, J. Campbell, K. Lee, H. Mahjoub, K Sycara</span><br>
+    <span class="conf">Workshop on Ontologies and Standards for Robotics and Automation, ICRA 2024</span>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+    </span>
+</p>
+<hr>
+
+
+<a name="/contr"></a>
 <h2 class="pubt">Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos</h2>
 <p class="pubd">
     <span class="authors">S. Bhagat, S. Stepputtis, J. Campbell, K. Sycara</span><br>
@@ -251,10 +263,8 @@ permalink:  /publications/
         <a target="_blank" href="https://arxiv.org/abs/2309.05943">Paper</a>
         <a target="_blank" href="https://youtu.be/_XpmYRK7eQ8">Video</a>
         <a target="_blank" href="https://x.com/sarthak__bhagat/status/1708427796769309099?t=vZogy8PIx9xTGl5HyjkOZg&s=35">Thread</a>
-        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
-<!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
 
 
