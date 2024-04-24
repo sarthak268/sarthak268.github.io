@@ -255,6 +255,17 @@ permalink:  /publications/
 </p>
 <hr> -->
 
+<a name="/contr">Geometric Shape Reasoning for Zero-Shot Task-Oriented Grasping</a>
+<h2 class="pubt"></h2>
+<p class="pubd">
+    <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
+    <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span>
+    <span class="links">
+        <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
+    </span>
+</p>
+<hr>
+
 
 <a name="/contr"></a>
 <h2 class="pubt">Symbolic Graph Inference for Compound Scene Understanding</h2>
