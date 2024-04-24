@@ -255,8 +255,8 @@ permalink:  /publications/
 </p>
 <hr> -->
 
-<a name="/contr">Geometric Shape Reasoning for Zero-Shot Task-Oriented Grasping</a>
-<h2 class="pubt"></h2>
+<a name="/shapegrasp2"></a>
+<h2 class="pubt">Geometric Shape Reasoning for Zero-Shot Task-Oriented Grasping</h2>
 <p class="pubd">
     <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span>
