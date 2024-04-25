@@ -28,11 +28,15 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span></span><br>
 <span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span><br>
 <span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
-<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span></span><br>
+<span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (Absolutely Mindboggling code
+🤯)</span><br>
+<span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (A Must Read for Physics Enthusiasts)</span><br>
+<span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
+<span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
 
 ## Self-Growth
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span></span><br>
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (Highly Recommended)</span><br>
 <span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
 <span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
 <span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
@@ -54,7 +58,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 <span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
 <span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
-<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Lie</span><br>
+<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Lie (My Favourite Fiction)</span><br>
 
 ## Entrepreneurship
 
