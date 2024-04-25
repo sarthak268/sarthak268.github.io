@@ -28,7 +28,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span></span><br>
 <span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span><br>
 <span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (Absolutely Mindboggling code
+<span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (Absolutely Mindboggling
 🤯)</span><br>
 <span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (A Must Read for Physics Enthusiasts)</span><br>
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
