@@ -15,7 +15,6 @@ permalink:  /bookshelf/aliens/
     }
 </style>
 
-# The Little Book of Aliens
 
 *Fermi’s Paradox*
 
@@ -27,9 +26,7 @@ The logic goes by this: nothing can travel faster than speed of light. Dividing 
 
 Drake defined advanced and technological as possessing radio telescope that could be used for interstellar communications.
 
-$$
-N = R_* * f_p * n_e * f_l * f_i * f_c * L
-$$
+N = R_* f_p * n_e * f_l * f_i * f_c * L
 
 Here, R_* equals number of stars forming each year, f_p fraction of stars with planets, n_e number of planets per solar system with a suitable environment, f_l fraction of planets where life forms, fraction of planets where life evolves to intelligence, f_c fraction of planets where they go onto creating technological civilizations, L average lifespan of those civilizations.
 
