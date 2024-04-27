@@ -21,10 +21,11 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">D. Kalaria, S. Sharma, S. Bhagat, H. Xue, J. Dolan</span><br>
     <span class="conf">Under Review, 2024</span><br>
+    <span class="conf">Workshop Off-road Autonomy, ICRA 2024</span><br>
     <span class="links">
         <a target="_blank" href="https://sites.google.com/view/wroom-utd/home">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2404.08855">Paper</a>
-        <a target="_blank" href="https://github.com/dvij542/OffTerSim">Open-source Simulator</a>
+        <a target="_blank" href="https://github.com/dvij542/OffTerSim">Simulator</a>
         <a target="_blank" href="https://mp.weixin.qq.com/s/5G3EnG-R5utIUbmRRjxqIA">Media</a>
     </span>
 </p>
