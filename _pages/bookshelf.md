@@ -66,7 +66,8 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span><br>
 <span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
 <span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span><br>
-<span style="font-size: 85%;">7. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
+<span style="font-size: 85%;">5. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
+<span style="font-size: 85%;">6. No Rules Rules by Reed Hastings, Erin Meyer</span><br>
 
 ## Finance
 
