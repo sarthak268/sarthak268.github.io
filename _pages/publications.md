@@ -49,6 +49,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Bhagat, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">IEEE Robotics and Automation Letters (RA-L), 2024</span><br>
+    <span class="conf">International Conference on Robotics and Automation (ICRA), 2025</span><br>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
         <a target="_blank" href="https://youtu.be/OaKrj9vav4E?si=AU-IRS996-DKpE2y">Video</a>
