@@ -231,17 +231,26 @@ permalink:  /publications/
 ## Thesis
 
 
-<a name="/contr"></a>
+<a name="/btech"></a>
 <h2 class="pubt">Geometry of Neural Network based Disentangled Latent Space Models</h2>
 <p class="pubd">
     <span class="authors">Advisors: S. Anand (IIIT-Delhi), P. Turaga (Arizona State University)</span><br>
     <span class="conf">Bachelor's Thesis</span>
     <span class="links">
         <a target="_blank" href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">Thesis</a>
-        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
 </p>
-<!-- <img src="/img/ocp/scn.jpg"> -->
+<hr>
+
+<a name="/msr"></a>
+<h2 class="pubt">Enhancing Robot Perception and Interaction Through Structured Domain Knowledge</h2>
+<p class="pubd">
+    <span class="authors">Advisor: Katia Sycara</span><br>
+    <span class="conf">Master's Thesis</span>
+    <span class="links">
+        <a target="_blank" href="">Thesis</a>
+    </span>
+</p>
 <hr>
 
 

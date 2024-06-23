@@ -23,8 +23,10 @@ permalink:  /
         <img src="/img/cover3.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        <span style="font-size: 85%;">Master's in Robotics</span><br>
-        <span style="font-size: 85%;">Carnegie Mellon University</span><br>
+        <!-- <span style="font-size: 85%;">Master's in Robotics</span><br>
+        <span style="font-size: 85%;">Carnegie Mellon University</span><br> -->
+        <span style="font-size: 85%;">Research Engineer</span><br>
+        <span style="font-size: 85%;">Scaled Foundations</span><br>
         <span style="font-size: 85%;">sarthakb@andrew.cmu.edu</span><br>
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 20px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 25px; height: 25px;"></a>
@@ -37,6 +39,9 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[June 24] Joined [Scaled Foundations](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
+- <span style="font-size: 85%;">[June 24] Graduated with a Master's in Robotics from Carnegie Mellon University.</span>
+- <span style="font-size: 85%;">[June 24] Work on action anticipation for effective human-robot collaboration in manipulation tasks accepted to RA-L'24.</span>
 - <span style="font-size: 85%;">[Dec 23] Serving as Reviewer for ICML'24, ICLR'24, and CoLLAs'24.</span>
 - <span style="font-size: 85%;">[Sept 23] Presenting two papers in [CVEU workshop](https://cveu.github.io/) at ICCV 2023 on action anticipation from videos and talking face generation.</span>
 - <span style="font-size: 85%;">[Sept 23] Selected as a student volunteer for ICCV'23.</span>
@@ -67,8 +72,11 @@ permalink:  /
 
 ## Bio
 
+<span style="font-size: 85%;">I am a Research Engineer at <a href="https://scaledfoundations.ai/">Scaled Foundations</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on developing foundational models for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation.</span>
+
 <span style="font-size: 85%;">I graduated with a MS in Robotics from <a href="https://www.ri.cmu.edu/">the Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
 Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. My Master's thesis involved improving robotic perception and interaction through structured domain knowledge priors.</span>
+You can find my Master's thesis <a href="">here</a>.
 <span style="font-size: 85%;"> Before joining CMU, I was a Deep Learning Research Engineer at <a href="https://preimage.ai/">Preimage</a>, where I specialized in problems involving 3D vision for drone-based photogrammetry.</span>
 
 <span style="font-size: 85%;">Previously, I worked as a Visiting Researcher at <a href="https://www.clvrai.com/">Cognitive Learning and Vision for Robotics (CLVR) Lab</a>, <a href="https://www.usc.edu/">University of Southern California (USC), USA</a> under the guidance of <a href="https://viterbi-web.usc.edu/~limjj/">Dr. Joseph Lim</a>. My work there centered on the adaptation of policies to novel unseen environments and continual learning of skills.

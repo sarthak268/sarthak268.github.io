@@ -18,7 +18,7 @@ permalink:  /bookshelf/
 > – George R.R. Martin
 
 <span style="font-size: 85%;">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
-Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span> and some of books I enjoyed highlighted in <span style="background-color: orange;">orange</span>.</span><br>
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span>.</span><br>
 
 ## Science / History
 
@@ -30,23 +30,25 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
 <span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (Absolutely Mindboggling
 🤯)</span><br>
-<span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (A Must Read for Physics Enthusiasts)</span><br>
+<span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (A Must Read for Physics Enthusiasts 🌍)</span><br>
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
+<span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin (My Favorite Biology Book 🧬)</span></span><br>
 
 ## Self-Growth
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (Highly Recommended)</span><br>
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (Highly Recommended 🧠)</span><br>
 <span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
 <span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
 <span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
 <span style="font-size: 85%;">5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi</span><br>
 <span style="font-size: 85%;">6. 12 Rules for Life by Jordan B. Peterson</span><br>
+<span style="font-size: 85%;">7. Give and Take by Adam Grant</span><br>
 
 ## Autobiography / Biography
 
 <span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span></span><br>
-<span style="font-size: 85%;">2. <span style="background-color: orange;"><a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span></span><br>
+<span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span><br>
 <span style="font-size: 85%;">3. Can’t Hurt Me by David Goggins</span><br>
 <span style="font-size: 85%;">4. Becoming by Michelle Obama</span><br>
 <span style="font-size: 85%;">5. Born A Crime by Trevor Noah</span><br>
@@ -81,7 +83,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Misc
 
 <span style="font-size: 85%;">1. Think Again by Adam Grant</span><br>
-<span style="font-size: 85%;">2. <span style="background-color: orange;">What I Know For Sure by Oprah Winfrey</span></span><br>
+<span style="font-size: 85%;">2. What I Know For Sure by Oprah Winfrey</span><br>
 <span style="font-size: 85%;">3. Make Your Own Luck by Bob Miglani and Rehan Yar Khan</span><br>
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
