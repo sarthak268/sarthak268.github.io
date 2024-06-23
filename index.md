@@ -76,7 +76,7 @@ permalink:  /
 
 <span style="font-size: 85%;">I graduated with a MS in Robotics from <a href="https://www.ri.cmu.edu/">the Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
 Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. My Master's thesis involved improving robotic perception and interaction through structured domain knowledge priors.</span>
-You can find my Master's thesis <a href="">here</a>.
+<span style="font-size: 85%;">You can find my Master's thesis <a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">here</a>.</span>
 <span style="font-size: 85%;"> Before joining CMU, I was a Deep Learning Research Engineer at <a href="https://preimage.ai/">Preimage</a>, where I specialized in problems involving 3D vision for drone-based photogrammetry.</span>
 
 <span style="font-size: 85%;">Previously, I worked as a Visiting Researcher at <a href="https://www.clvrai.com/">Cognitive Learning and Vision for Robotics (CLVR) Lab</a>, <a href="https://www.usc.edu/">University of Southern California (USC), USA</a> under the guidance of <a href="https://viterbi-web.usc.edu/~limjj/">Dr. Joseph Lim</a>. My work there centered on the adaptation of policies to novel unseen environments and continual learning of skills.
