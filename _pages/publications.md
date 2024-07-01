@@ -36,7 +36,7 @@ permalink:  /publications/
 <h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
 <p class="pubd">
     <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
-    <span class="conf">EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
+    <span class="conf">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
     <span class="trophy">&#x1F3C6; Oral</span>
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
