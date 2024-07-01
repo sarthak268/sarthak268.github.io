@@ -27,7 +27,7 @@ permalink:  /
         <span style="font-size: 85%;">Carnegie Mellon University</span><br> -->
         <span style="font-size: 85%;">Research Engineer</span><br>
         <span style="font-size: 85%;">Scaled Foundations</span><br>
-        <span style="font-size: 85%;">sarthakb@andrew.cmu.edu</span><br>
+        <span style="font-size: 85%;">sarthak.bhagat@scaledfoundations.ai</span><br>
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 20px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 25px; height: 25px;"></a>
         <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./img/google_scholar.jpg" alt="Google Scholar" style="width: 30px; height: 25px;"></a>
@@ -39,6 +39,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[June 24] Paper on zero-shot task-oriented grasping using LLMs accepted to IROS'24 as an oral presentation.</span>
 - <span style="font-size: 85%;">[June 24] Joined [Scaled Foundations](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
 - <span style="font-size: 85%;">[June 24] Graduated with a Master's in Robotics from Carnegie Mellon University.</span>
 - <span style="font-size: 85%;">[June 24] Work on action anticipation for effective human-robot collaboration in manipulation tasks accepted to RA-L'24.</span>
@@ -86,7 +87,7 @@ During my short stint as a Research Assistant at the <a href="https://declare-la
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> under <a href="https://www.linkedin.com/in/nengli-lim-48a22b14/?originalSubdomain=sg">Dr. Nengli Lim</a>, where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time at <a href="http://robotics.iiitd.edu.in/coral/?page_id=20">Collaborative Robotics Lab (CORAL)</a> and <a href="https://sites.google.com/view/m00nlab/home?authuser=0">Multi-robot Autonomy (MOON) Lab</a> under <a href="https://eecs.iiserb.ac.in/faculty_profile.php?id=OQ==&lname=c3VqaXQ=">Dr. P.B. Sujit</a>, where I contributed to research on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span>
 
 <span style="font-size: 85%;">I am mainly interested in robotics and computer vision.
-Reach out to me at: <a href="mailto:sarthakb@andrew.cmu.edu">sarthakb@andrew.cmu.edu</a>.</span>
+Reach out to me at: <a href="mailto:sarthak.bhagat@scaledfoundations.ai">sarthak.bhagat@scaledfoundations.ai</a>.</span>
 
 <br>
 
