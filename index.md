@@ -39,7 +39,7 @@ permalink:  /
 
 ## News
 
-- <span style="font-size: 85%;">[June 24] Paper on zero-shot task-oriented grasping using LLMs accepted to IROS'24 as an oral presentation.</span>
+- <span style="font-size: 85%;">[July 24] Paper on zero-shot task-oriented grasping using LLMs accepted to IROS'24 as an oral presentation.</span>
 - <span style="font-size: 85%;">[June 24] Joined [Scaled Foundations](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
 - <span style="font-size: 85%;">[June 24] Graduated with a Master's in Robotics from Carnegie Mellon University.</span>
 - <span style="font-size: 85%;">[June 24] Work on action anticipation for effective human-robot collaboration in manipulation tasks accepted to RA-L'24.</span>
