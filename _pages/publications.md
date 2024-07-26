@@ -237,7 +237,7 @@ permalink:  /publications/
     <span class="authors">Advisor: Katia Sycara</span><br>
     <span class="conf">Master's Thesis</span>
     <span class="links">
-        <a target="_blank" href="">Thesis</a>
+        <a target="_blank" href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">Thesis</a>
     </span>
 </p>
 <hr>
