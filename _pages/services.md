@@ -16,8 +16,8 @@ permalink:  /services/
 
 ## Reviewing
 
-<span style="font-size: 85%;">- Conferences: ICML 2024, ICLR 2024, CoLLAs'24, NeurIPS 2023, WACV 2023</span><br>
-<span style="font-size: 85%;">- Journals: IEEE Transactions on AI 2020-21, International Robotics & Automation Journal 2020-21 </span><br>
+<span style="font-size: 85%;">- Conferences: CoRL'24, ICML'24, ICLR'24, CoLLAs'24, NeurIPS'23, WACV'23</span><br>
+<span style="font-size: 85%;">- Journals: IEEE Transactions on AI'20-21, International Robotics & Automation Journal'20-21 </span><br>
 
 ## Mentoring
 
@@ -32,4 +32,4 @@ permalink:  /services/
 
 ## Volunteering
 
-<span style="font-size: 85%;">- Conferences: ICCV 2023, NeurIPS 2020-21, ICML 2020-21, ICLR 2021</span><br>
+<span style="font-size: 85%;">- Conferences: ICCV'23, NeurIPS'20-21, ICML'20-21, ICLR'21</span><br>
