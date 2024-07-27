@@ -17,22 +17,6 @@ permalink:  /publications/
 ## Conference Publications
 
 <a name="/shapegrasp"></a>
-<h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
-<p class="pubd">
-    <span class="authors">D. Kalaria, S. Sharma, S. Bhagat, H. Xue, J. Dolan</span><br>
-    <span class="conf">Under Review, 2024</span><br>
-    <span class="conf">Workshop Off-road Autonomy, ICRA 2024</span><br>
-    <!-- <span class="conf">Workshop on Future of Construction: Lifelong Learning Robots in Changing Construction Sites, ICRA 2024</span><br> -->
-    <span class="links">
-        <a target="_blank" href="https://sites.google.com/view/wroom-utd/home">Website</a>
-        <a target="_blank" href="https://arxiv.org/abs/2404.08855">Paper</a>
-        <a target="_blank" href="https://github.com/dvij542/OffTerSim">Simulator</a>
-        <a target="_blank" href="https://mp.weixin.qq.com/s/5G3EnG-R5utIUbmRRjxqIA">Media</a>
-    </span>
-</p>
-<hr>
-
-<a name="/shapegrasp"></a>
 <h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
 <p class="pubd">
     <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
@@ -265,6 +249,21 @@ permalink:  /publications/
     </span>
 </p>
 <hr> -->
+
+<a name="/wroom"></a>
+<h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
+<p class="pubd">
+    <span class="authors">D. Kalaria, S. Sharma, S. Bhagat, H. Xue, J. Dolan</span><br>
+    <span class="conf">Workshop Off-road Autonomy, ICRA 2024</span><br>
+    <!-- <span class="conf">Workshop on Future of Construction: Lifelong Learning Robots in Changing Construction Sites, ICRA 2024</span><br> -->
+    <span class="links">
+        <a target="_blank" href="https://sites.google.com/view/wroom-utd/home">Website</a>
+        <a target="_blank" href="https://arxiv.org/abs/2404.08855">Paper</a>
+        <a target="_blank" href="https://github.com/dvij542/OffTerSim">Simulator</a>
+        <a target="_blank" href="https://mp.weixin.qq.com/s/5G3EnG-R5utIUbmRRjxqIA">Media</a>
+    </span>
+</p>
+<hr>
 
 <a name="/shapegrasp2"></a>
 <h2 class="pubt">Geometric Shape Reasoning for Zero-Shot Task-Oriented Grasping</h2>
