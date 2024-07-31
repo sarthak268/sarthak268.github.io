@@ -254,7 +254,7 @@ permalink:  /publications/
 <h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
 <p class="pubd">
     <span class="authors">D. Kalaria, S. Sharma, S. Bhagat, H. Xue, J. Dolan</span><br>
-    <span class="conf">Workshop Off-road Autonomy, ICRA 2024</span><br>
+    <span class="conf">Off-road Autonomy Workshop, ICRA 2024</span><br>
     <!-- <span class="conf">Workshop on Future of Construction: Lifelong Learning Robots in Changing Construction Sites, ICRA 2024</span><br> -->
     <span class="links">
         <a target="_blank" href="https://sites.google.com/view/wroom-utd/home">Website</a>
