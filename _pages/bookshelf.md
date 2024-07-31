@@ -33,7 +33,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (A Must Read for Physics Enthusiasts 🌍)</span><br>
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
-<span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin (My Favorite Biology Book 🧬)</span></span><br>
+<span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin</span> (My Favorite Biology Book 🧬)</span><br>
 
 ## Self-Growth
 
