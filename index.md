@@ -39,6 +39,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[Aug 24] Serving as the Program Committee Member at AAAI'25.</span>
 - <span style="font-size: 85%;">[July 24] Paper on zero-shot task-oriented grasping using LLMs accepted to IROS'24 as an oral presentation.</span>
 - <span style="font-size: 85%;">[June 24] Joined [Scaled Foundations](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
 - <span style="font-size: 85%;">[June 24] Graduated with a Master's in Robotics from Carnegie Mellon University.</span>
