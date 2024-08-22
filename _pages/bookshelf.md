@@ -34,6 +34,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
 <span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin</span> (My Favorite Biology Book 🧬)</span><br>
+<span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
 
 ## Self-Growth
 
@@ -90,7 +91,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
 <span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span><br>
 <span style="font-size: 85%;">8. Anti-fragile by Nassim Taleb</span><br>
-<span style="font-size: 85%;">9. When Breath Becomes Air by Paul Kalanithi</span><br>
+<span style="font-size: 85%;">9. <span style="background-color: yellow;">When Breath Becomes Air by Paul Kalanithi</span></span><br>
 <br>
 
 <span style="font-size: 85%;">I also love listening to insightful podcasts/talks, some of my favorites include:</span><br>
