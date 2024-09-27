@@ -16,7 +16,7 @@ permalink:  /services/
 
 ## Reviewing
 
-<span style="font-size: 85%;">- Conferences: AAAI'25, CoRL'24, ICML'24, ICLR'24, CoLLAs'24, NeurIPS'23, WACV'23</span><br>
+<span style="font-size: 85%;">- Conferences: ICRA'25, AAAI'25, CoRL'24, ICML'24, ICLR'24, CoLLAs'24, NeurIPS'23, WACV'23</span><br>
 <span style="font-size: 85%;">- Journals: IEEE Transactions on AI'20-21, International Robotics & Automation Journal'20-21 </span><br>
 
 ## Mentoring
