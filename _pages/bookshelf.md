@@ -57,6 +57,8 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
 <span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span><br>
 <span style="font-size: 85%;">9. <span style="background-color: yellow;">When Breath Becomes Air by Paul Kalanithi</span></span><br>
+<span style="font-size: 85%;">10. Mind Master by Viswanathan Anand</span><br>
+<span style="font-size: 85%;">11. A Shot at History by Abhinav Bindra</span><br>
 
 ## Fiction
 
