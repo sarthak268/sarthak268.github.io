@@ -38,6 +38,7 @@ permalink:  /publications/
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
         <a target="_blank" href="https://ieeexplore.ieee.org/document/10582423">Paper</a>
+        <a target="_blank" href="https://github.com/sarthak268/nesca-pytorch">Code</a>
         <a target="_blank" href="https://x.com/sarthak__bhagat/status/1821757702806368329">Thread</a>
         <a target="_blank" href="https://youtu.be/OaKrj9vav4E?si=AU-IRS996-DKpE2y">Video</a>
         <a target="_blank" href="https://youtu.be/OaKrj9vav4E?t=57">Demo</a>
