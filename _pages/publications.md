@@ -25,6 +25,7 @@ permalink:  /publications/
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2403.18062">Paper</a>
+        <a target="_blank" href="https://x.com/sarthak__bhagat/status/1846760875438604543">Thread</a>
     </span>
 </p>
 <hr>
