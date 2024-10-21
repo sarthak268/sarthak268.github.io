@@ -35,6 +35,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
 <span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin</span> (My Favorite Biology Book 🧬)</span><br>
 <span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
+<span style="font-size: 85%;">11. <span style="background-color: yellow;">Life As No One Knows It by Sara Imari Walker</span> (Life's Emergence from the lens of Assembly Theory 🌿)</span><br>
 
 ## Self-Growth
 
