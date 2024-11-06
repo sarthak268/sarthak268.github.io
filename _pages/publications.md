@@ -287,7 +287,7 @@ permalink:  /publications/
     <span class="authors">A. Mangal, S. Stepputtis, S. Bhagat, J. Campbell, K. Lee, H. Mahjoub, K Sycara</span><br>
     <span class="conf">Workshop on Ontologies and Standards for Robotics and Automation, ICRA 2024</span>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2410.22626">Paper</a>
     </span>
 </p>
 <hr>
