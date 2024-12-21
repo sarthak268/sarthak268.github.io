@@ -106,6 +106,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">3. Why Rejection is Awesome - Talks at Google (Ep369)</span><br>
 <span style="font-size: 85%;">4. How To Get Rich: Every Episode - Naval</span><br>
 <span style="font-size: 85%;">5. Sara Imari Walker #2184 - Joe Rogan</span><br>
+<span style="font-size: 85%;">6. Naval Ravikant: The Beginning of Infinity - Arjun Khemani</span><br>
 
 <!-- <span style="font-size: 85%;">Some of my favorite blogs include:</span><br>
 
