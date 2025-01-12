@@ -46,6 +46,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi</span><br>
 <span style="font-size: 85%;">6. 12 Rules for Life by Jordan B. Peterson</span><br>
 <span style="font-size: 85%;">7. Give and Take by Adam Grant</span><br>
+<span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/winner_effect/">The Winner Effect by Ian Robertson</a></span><br>
 
 ## Autobiography / Biography
 
