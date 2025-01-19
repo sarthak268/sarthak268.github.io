@@ -34,12 +34,10 @@ permalink:  /bookshelf/winner_effect/
 - Most senior person in a meeting -> strech back, clasp hands behind head, stick out elbows, juniors -> hunch forward over table, head thrust out, hands clasped under the table.
 - <b>Key lesson:</b> no matter what I feel outside, if I behave as if the way I want to feel, the feelings will likely follow --> positive feedback loop.
 
-  ### The Enigma of Bill Clinton's Friend
+### The Enigma of Bill Clinton's Friend
 
-  - Mum effect: 'Shoot the messenger' culture often leads to reluctancy in juniors giving bad news to seniors due to their relatively powerlessness. Hence, most battles are led by upper/middle class rather than lower class.
-  - Holding power -> egocentricity, corrosion of ability to detach from one's point of view -> (1) less inclined to see event's from other's perspective, (2) subject to illusion that they can control events too vast and complex to be controllable.
-  - Sex and power are linked to surge in tertosterone -> increase appetute for power and sex -> profound effect on how brain functions.
-  - Power put blinkers on us -- less likely to be put off by distractors in peripheral vision
-  - 
-  - 
-  - 
+- Mum effect: 'Shoot the messenger' culture often leads to reluctancy in juniors giving bad news to seniors due to their relatively powerlessness. Hence, most battles are led by upper/middle class rather than lower class.
+- Holding power -> egocentricity, corrosion of ability to detach from one's point of view -> (1) less inclined to see event's from other's perspective, (2) subject to illusion that they can control events too vast and complex to be controllable.
+- Sex and power are linked to surge in tertosterone -> increase appetute for power and sex -> profound effect on how brain functions.
+- Power put blinkers on us -- less likely to be put off by distractors in peripheral vision
+- 
