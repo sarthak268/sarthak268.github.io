@@ -44,7 +44,7 @@ permalink:  /bookshelf/winner_effect/
 - Noradrenaline: Linked to vigilance, monitoring and response to threat, while dopamine is lined to action towards a goal and reward for achieving it.
 - <i>The Need for power:</i> People are motivated to have an impact on other people -- give orders, make decisions, take control --> action-oriented. Actions can also be in the form of giving -- advice, gifts, and direction. Having an impact involves having a particularly strong concern with your own reputation.
 - Killer instrinct in sports -- shows need for power --> dominating other
-- Signs for need of power: 1) gacial expression, 2) sex -- people with more need for power tend to have more intercourse, 3) leaders have less inclination to seek advice or consensus.
+- Signs for need of power: 1) facial expression, 2) sex -- people with more need for power tend to have more intercourse, 3) leaders have less inclination to seek advice or consensus.
 - World needs leaders with a desire to make an <i>impact</i> -- power in itself is not a bad thing, problem arises when the brain primed with high need for power is over-exposed to actual power.
 - <i>Ideal leader:</i> minimum level of need for power, otherwise responsibilities would be too stressfull.
 - Power makes us more ambitious, aggressive, and focused -> opens more doors to gain more power -> power feedback loop  
