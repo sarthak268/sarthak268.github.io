@@ -48,3 +48,16 @@ permalink:  /bookshelf/winner_effect/
 - World needs leaders with a desire to make an <i>impact</i> -- power in itself is not a bad thing, problem arises when the brain primed with high need for power is over-exposed to actual power.
 - <i>Ideal leader:</i> minimum level of need for power, otherwise responsibilities would be too stressfull.
 - Power makes us more ambitious, aggressive, and focused -> opens more doors to gain more power -> power feedback loop  
+
+### The Mystery of Oscars
+
+- Winning an Oscars or Nobel prize is linked to increased life expectancy.
+- <i>Cognition dissonance:</i> Human mind reduces incompatibility between what it believes and what it feels. Examples: spend time doing volunteer work -> I must care a lot about others, I am married to him -> I must love him
+- Respect and admiration is a potent source of dopamine reward to the brain.
+- <i>Cortisol: first-line stress hormone</i> -- pumps glucose into blood and brain -- also has brain-dulling effect, e.g., people rendered temporarily drunk when they're starstuck. Short term effect: usefully energising, long-term: damaging effects to the body.
+- For employees, feeling a sense of control is important for greater health --> financial benefits to the company to avoid loss of productivity due to health conditions.
+- <i>Learned helplessness:</i> feeling constantly overwhelmed by work -- not under control.
+- It is not the actual control but rather <i>the feeling of being in control</i> that matters. This belief is the antidote to stress -- sort of anti-stress drug, reducing the cortisol pumped into our veins.
+- What is Shame? The recreation inside one's own head of the negative judgement of other people --> ancient tokens of submission / yielding to a superior, e.g., hiding, crouching down, shrinking away, lowering eyes --> withdrawing or disengaging
+-  Conditioned stimuli: an event linked to other physical things. Glimpse of a presentation software open on your laptop -- bad experience with last presentation.
+-  Answer to the Oscar problem lies in <i>safety signals</i> -- antidotes to stress and toxic consequences --> triggers release of Brain-Derived Neurotropic Factor (BDNF). Winning something like Oscars or a Nobel Prize is a <i>safety signal for self</i> -- a sort of lifelong insurance policy that protects from negative evaluations of people -- protects self, defends the body.
