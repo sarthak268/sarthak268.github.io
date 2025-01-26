@@ -62,6 +62,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">10. Mind Master by Viswanathan Anand</span><br>
 <span style="font-size: 85%;">11. A Shot at History by Abhinav Bindra</span><br>
 <span style="font-size: 85%;">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span><br>
+<span style="font-size: 85%;">13. No Dream Is Too High by Buzz Aldrin</span><br>
 
 ## Fiction
 
