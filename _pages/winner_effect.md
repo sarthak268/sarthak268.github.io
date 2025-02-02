@@ -61,3 +61,17 @@ permalink:  /bookshelf/winner_effect/
 - What is Shame? The recreation inside one's own head of the negative judgement of other people --> ancient tokens of submission / yielding to a superior, e.g., hiding, crouching down, shrinking away, lowering eyes --> withdrawing or disengaging
 -  Conditioned stimuli: an event linked to other physical things. Glimpse of a presentation software open on your laptop -- bad experience with last presentation.
 -  Answer to the Oscar problem lies in <i>safety signals</i> -- antidotes to stress and toxic consequences --> triggers release of Brain-Derived Neurotropic Factor (BDNF). Winning something like Oscars or a Nobel Prize is a <i>safety signal for self</i> -- a sort of lifelong insurance policy that protects from negative evaluations of people -- protects self, defends the body.
+
+### Riddle of the Flying CEOs
+
+- In evolution, those who had attention to unexpected as opposed to predictable rewards were more likely to survive -- similarly for unexpected disappointments like empty water hole or fruitless tree --> lottery opertors publicise unexpected wins causing dopamine surges, losses were predicted.
+- Dopamine is the currency for sex, desire, drugs and gambling --> more importantly power
+- Money and status -- switch the same parts of the brain -- recognition and approval of others -- similar to winning a bet or the teasing sexual caress
+- Dopamine -- Goldilocks zone --> too little leads to poor coordination of partner areas of the brain, too much disrupts the coordination and organization of connecte parts of the brain
+- <i>Self-sufficiency:</i> ability to be in control --> makes people focus on personal goals. Less money -> less selfish
+- Self-interest comes to fore --> <i>special-case exceptionalism</i>, e.g. large personal gains in the form of bonuses or personal shares in trading profits magnify self-interest --> weaken the application of moral standards to oneself
+- Hypocrisy -- feature of high power policitians --> inevitable adjunct to power -- natural neural correlate of having control over others.
+- No difference in need for power in men and women -- but men more power-aware, pay attention to signs of power and remember facts about powerful men and women, women have less selective memory
+- S power --> power for society, group, others, P power --> power for self, personal interest
+- S power not only tames p power but it acts as a coolant to the destructive effects of s power.
+- Men typically have more p power and hence most dictators have been men.
