@@ -29,6 +29,7 @@ permalink:  /services/
 <span style="font-size: 85%;">- Program Committee Member, AAAI'25</span><br>
 <span style="font-size: 85%;">- IEEE Student Chapter Founder & Chair</span><br>
 <span style="font-size: 85%;">- Administrator: Robotics Club, IIIT-Delhi</span><br>
+<span style="font-size: 85%;">- Teaching Assistant: Introduction to Robotics at Nvidia GTC'25, San Jose</span><br>
 <span style="font-size: 85%;">- Teaching Assistant: Prototype of Interactive Systems (500+ freshmen students)</span><br>
 
 ## Volunteering
