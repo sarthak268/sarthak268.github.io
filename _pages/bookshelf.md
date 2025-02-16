@@ -47,6 +47,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. 12 Rules for Life by Jordan B. Peterson</span><br>
 <span style="font-size: 85%;">7. Give and Take by Adam Grant</span><br>
 <span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/winner_effect/">The Winner Effect by Ian Robertson</a></span><br>
+<span style="font-size: 85%;">9. Principles by Ray Dalio</span><br>
 
 ## Autobiography / Biography
 
@@ -63,6 +64,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">11. A Shot at History by Abhinav Bindra</span><br>
 <span style="font-size: 85%;">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span><br>
 <span style="font-size: 85%;">13. <a href="https://sarthak268.github.io/bookshelf/no_dream_too_high/">No Dream Is Too High by Buzz Aldrin</a></span><br>
+<span style="font-size: 85%;">14. My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam</span><br>
 
 ## Fiction
 
@@ -99,6 +101,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
 <span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span><br>
 <span style="font-size: 85%;">8. Anti-fragile by Nassim Taleb</span><br>
+
 <br>
 
 <span style="font-size: 85%;">I also love listening to insightful podcasts/talks, some of my favorites include:</span><br>
