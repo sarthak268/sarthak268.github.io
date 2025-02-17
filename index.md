@@ -75,7 +75,7 @@ permalink:  /
 
 ## Bio
 
-<span style="font-size: 85%;">I am a Research Engineer at <a href="https://scaledfoundations.ai/">Scaled Foundations</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on developing foundational models for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation.</span>
+<span style="font-size: 85%;">I am a Research Engineer at <a href="https://scaledfoundations.ai/">Scaled Foundations</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on developing foundational models for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation. I was the <i>7th employee</i> at the company and the <i>first hire for the robotics team</i>.</span>
 
 <span style="font-size: 85%;">I graduated with a MS in Robotics from <a href="https://www.ri.cmu.edu/">the Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
 Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. My Master's thesis involved improving robotic perception and interaction through structured domain knowledge priors.</span>
