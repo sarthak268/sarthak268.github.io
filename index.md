@@ -39,7 +39,7 @@ permalink:  /
 
 ## News
 
-- <span style="font-size: 85%;">[Feb 25] Attending Nvidia GTC'25 in San Jose.</span>
+- <span style="font-size: 85%;">[Feb 25] Attending Nvidia GTC'25 in San Jose from March 17-21.</span>
 - <span style="font-size: 85%;">[Aug 24] Serving as a Program Committee Member at AAAI'25.</span>
 - <span style="font-size: 85%;">[July 24] Paper on zero-shot task-oriented grasping using LLMs accepted to IROS'24 as an oral presentation.</span>
 - <span style="font-size: 85%;">[June 24] Joined [Scaled Foundations](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
