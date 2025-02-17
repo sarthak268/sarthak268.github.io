@@ -83,17 +83,14 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 <span style="font-size: 85%;"> Before joining CMU, I was a Deep Learning Research Engineer at <a href="https://preimage.ai/">Preimage</a>, where I specialized in problems involving 3D vision for drone-based photogrammetry.</span>
 
 <span style="font-size: 85%;">Previously, I worked as a Visiting Researcher at <a href="https://www.clvrai.com/">Cognitive Learning and Vision for Robotics (CLVR) Lab</a>, <a href="https://www.usc.edu/">University of Southern California (USC), USA</a> under the guidance of <a href="https://viterbi-web.usc.edu/~limjj/">Dr. Joseph Lim</a>. My work there centered on the adaptation of policies to novel unseen environments and continual learning of skills.
-During my short stint as a Research Assistant at the <a href="https://declare-lab.net/index">Deep Cognition and Language Research Lab</a>, <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design, Singapore</a> advised by <a href="https://sporia.info/index">Dr. Soujanya Poria</a>, I focused on zero-shot visual classification and vision & language applications.</span>
+During my short stint as a Research Assistant at the <a href="https://declare-lab.net/index">Deep Cognition and Language Research Lab</a>, <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design, Singapore</a> advised by <a href="https://sporia.info/index">Dr. Soujanya Poria</a>, I focused on vision & language models.</span>
 
 <span style="font-size: 85%;">I graduated with my B.Tech (with Honors) from <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a>. My Bachelor's Thesis, completed under <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> in collaboration with <a href="https://pavanturaga.com/">Dr. Pavan Turaga, Geometric Media Lab</a> (Arizona State University, USA) at the <a href="https://cai.iiitd.ac.in/">Infosys Center of Artificial Intelligence</a>, involved unsupervised representation learning to disentangle multiple factors of variation in images. You can find my Bachelor's thesis <a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">here</a>.
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> under <a href="https://www.linkedin.com/in/nengli-lim-48a22b14/?originalSubdomain=sg">Dr. Nengli Lim</a>, where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time at <a href="http://robotics.iiitd.edu.in/coral/?page_id=20">Collaborative Robotics Lab (CORAL)</a> and <a href="https://sites.google.com/view/m00nlab/home?authuser=0">Multi-robot Autonomy (MOON) Lab</a> under <a href="https://eecs.iiserb.ac.in/faculty_profile.php?id=OQ==&lname=c3VqaXQ=">Dr. P.B. Sujit</a>, where I contributed to research on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span>
 
-<span style="font-size: 85%;">I am mainly interested in robotics and computer vision.
-Reach out to me at: <a href="mailto:sarthak.bhagat@scaledfoundations.ai">sarthak.bhagat@scaledfoundations.ai</a>.</span>
-
 <br>
 
-<span style="font-size: 85%;">**_If you are interested in research collaboration, please drop me an email._**</span>
+<span style="font-size: 85%;">If you are interested in research collaboration, please drop me an email at: <a href="mailto:sarthak.bhagat@scaledfoundations.ai">sarthak.bhagat@scaledfoundations.ai</a>.</span>
 
 <br><br>
 
