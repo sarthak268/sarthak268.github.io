@@ -16,7 +16,7 @@ permalink:  /100_things/
 
 Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>, I decided to make my own list of 100 things that I want to do before I die.
 
-<span style="font-size: 85%;">1. Climb Himalayas</span><br>
+<span style="font-size: 85%;">1. Climb the Himalayas</span><br>
 <span style="font-size: 85%;">2. Hot Air Balloon in Cappadocia</span><br>
 <span style="font-size: 85%;">3. Broadway show in New York</span><br>
 <span style="font-size: 85%;">4. African Safari in Masai Mara</span><br>
@@ -33,7 +33,7 @@ Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>,
 <span style="font-size: 85%;">15. Watch Aurora with someone I love</span><br>
 <span style="font-size: 85%;">16. Experience zero gravity</span><br>
 <span style="font-size: 85%;">17. Attend a football game in Europe</span><br>
-<span style="font-size: 85%;">18. <s>Solo backpacking in another country</s> (France, Germany)</span><br>
+<span style="font-size: 85%;">18. <s>Solo backpacking in another country</s> (Paris in France, Heidelberg in Germany)</span><br>
 <span style="font-size: 85%;">19. <s>Foreign Internship</s> (Singapore in third year of undergrad)</span><br>
 <span style="font-size: 85%;">20. Attend a Coldplay concert</span><br>
 <span style="font-size: 85%;">21. Hike Amazon Rainforest</span><br>
