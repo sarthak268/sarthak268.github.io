@@ -16,7 +16,7 @@ permalink:  /100_things/
 
 Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>, I decided to make my own list of 100 things that I want to do before I die.
 
-<span style="font-size: 85%;">1. Climb Mount Everest</span><br>
+<span style="font-size: 85%;">1. Climb Himalayas</span><br>
 <span style="font-size: 85%;">2. Hot Air Balloon in Cappadocia</span><br>
 <span style="font-size: 85%;">3. Broadway show in New York</span><br>
 <span style="font-size: 85%;">4. African Safari in Masai Mara</span><br>
@@ -69,7 +69,7 @@ Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>,
 <span style="font-size: 85%;">51. Float in the Dead Sea</span><br>
 <span style="font-size: 85%;">52. Swim in the Great Barrier Reef</span><br>
 <span style="font-size: 85%;">53. <s>Attend a Rave</s> (Hocus Pocus, Miami)</span><br>
-<span style="font-size: 85%;">54. Swimming with Whale Sharks</span><br>
+<span style="font-size: 85%;">54. Give a TED talk</span><br>
 <span style="font-size: 85%;">55. <s>Desert Safari in Dubai</s></span><br>
 <span style="font-size: 85%;">56. Caves in Vietnam</span><br>
 <span style="font-size: 85%;">57. Go to Banff National Park</span><br>
@@ -83,8 +83,8 @@ Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>,
 <span style="font-size: 85%;">65. Tour the Colosseum</span><br>
 <span style="font-size: 85%;">66. <s>Tour the Louvre Museum</s></span><br>
 <span style="font-size: 85%;">67. Michelin Star Date</span><br>
-<span style="font-size: 85%;">68. </span><br>
-<span style="font-size: 85%;">69. </span><br>
+<span style="font-size: 85%;">68. Swimming with Whale Sharks</span><br>
+<span style="font-size: 85%;">69. Swimming with Dolphins</span><br>
 <span style="font-size: 85%;">70. </span><br>
 <span style="font-size: 85%;">71. </span><br>
 <span style="font-size: 85%;">72. </span><br>
