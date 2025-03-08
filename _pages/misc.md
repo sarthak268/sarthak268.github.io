@@ -17,7 +17,7 @@ permalink:  /misc/
 ## Interests
 
 <span style="font-size: 85%;">- Reading (Autobiographies, biographies, science, self-help, almost anything)</span><br>
-<span style="font-size: 85%;">- Physics (Always up for an insightful physics discussion)</span><br>
+<span style="font-size: 85%;">- Physics, Astronomy, Robotics (Always up for an insightful physics discussion)</span><br>
 <span style="font-size: 85%;">- [Travel](https://sarthak268.github.io/travel/)</span><br>
 <span style="font-size: 85%;">- Startups (Love discussing about startups, [reach out](https://x.com/sarthak__bhagat) if you wanna chat!)</span><br>
 <span style="font-size: 85%;">- Chess (ELO: 1644)</span><br>
