@@ -65,6 +65,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span><br>
 <span style="font-size: 85%;">13. <a href="https://sarthak268.github.io/bookshelf/no_dream_too_high/">No Dream Is Too High by Buzz Aldrin</a></span><br>
 <span style="font-size: 85%;">14. My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam</span><br>
+<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/einstein/">Einstein by Steven Gimbel</a></span><br>
 
 ## Fiction
 
