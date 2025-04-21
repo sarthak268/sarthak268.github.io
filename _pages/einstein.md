@@ -39,3 +39,15 @@ Axiom: constancy of speed of light in vacuum for all observers, not matter their
 Lorentz transformations: how lengths and durations will be measured by different observers and show relationship between them. Lengths contract when measured by observers who are moving with respect to the thing being measured. If you're traveling with speed of light, then size of all things squish to nothing but only in the direction you're traveling. Similarly, faster you travel slower time moves for you. Not only lengths and time, but also differences in mass of the electron. Faster you go, heavier it becomes. At speed of light it becomes infinity heavy, giving it infinite kinetic energy. For this reason, "velocities greater than speed of light have no possibility of existence".
 
 The energy of the body that gives off the light is reduced by an amount that has nothing to do with the composition of the body. If a body gives off the energy L in form of radiation, its mass is diminished by l/C^2, hence, the famous equation, E = mc^2. The mass of the body is a measure of its energy content.
+
+<i> Gravity and theory of relativity</i>
+
+Newton: gravitation is a force between objects and vast reaches across space, but it is not derived from space. Gravitational field is just a set of values of gravitational pull at every point in the space; i.e., for every point there is a number and an arrow for the direction.
+
+Einstein: gravity differs from all other forces. Happiest thought of Einstein was that gravitation and acceleration were different ways of looking at the same thing. If a scale reads zero, you could be accelerating in a gravitational field or at rest where there is no gravity. There is no way to tell the difference, so the two must be different senses of the same physical state.
+
+Light moves in the shortest path in space, which is a straight line if the space is flat but if the space is curved, then the shortest distance will also be curved --> the effect of gravity is to bend the space through which light travels.
+
+The bending of light might be observed but it would have to involve light travelling very close to a massive object, something as heavy as a star. Such a phenamenon might be viewed during a solar eclipse.
+
+If theory of relativity was successful, you could input the location and amount of mass and energy in the universe and get out a unique and complete description of the curvature of space-time at every single point -- that is, you should be able to absolutely determine the way the gravitational pull would affect an object if it were situated anywhere in the universe.
