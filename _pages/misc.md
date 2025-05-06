@@ -26,6 +26,7 @@ permalink:  /misc/
 
 ## Awards and Honors
 
+<span style="font-size: 85%;">- AI Startup School, Y Combinator, 2025 </span><br>
 <span style="font-size: 85%;">- Heidelberg Laureate Fellowship 2023 </span><br>
 <span style="font-size: 85%;">- Best Demo Paper Award at ACM MM Asia 2022</span><br>
 <span style="font-size: 85%;">- Dean’s Award for Excellent Academic Performance, IIIT-Delhi</span><br>
