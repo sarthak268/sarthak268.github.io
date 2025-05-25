@@ -39,6 +39,8 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[May 25] Received the best paper award at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25.</span>
+- <span style="font-size: 85%;">[April 25] Selected to attend the Y Combinator Startup School.</span>
 - <span style="font-size: 85%;">[March 25] Attending ICRA'25 in Atlanta presenting my work on action anticipation for tabletop manipulation.</span>
 - <span style="font-size: 85%;">[Feb 25] Attending Nvidia GTC'25 in San Jose on March 17.</span>
 - <span style="font-size: 85%;">[Aug 24] Serving as a Program Committee Member at AAAI'25.</span>
