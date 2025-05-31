@@ -39,6 +39,7 @@ permalink:  /misc/
 
 ## Invited Talks
 
+<span style="font-size: 85%;">- Oral Talk, ICRA, Atlanta -- 2025</span><br>
 <span style="font-size: 85%;">- Neural-Symbolic Paper Reading, CMU -- 2023</span><br>
 <span style="font-size: 85%;">- [Oral Talk, Conference on Lifelong Learning Agents (CoLLAs)](https://lifelong-ml.cc/Conferences/2023/acceptedpapers), Montreal -- 2023</span><br>
 <span style="font-size: 85%;">- [Vision India, ICVGIP’20](https://iitj.ac.in/icvgip2021/2020/visionIndia.php), IIT Jodhpur -- 2020</span><br>
