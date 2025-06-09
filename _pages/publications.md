@@ -209,7 +209,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Bhagat*, H. Banerjee*, Z. Tse, H. Ren</span><br>
     <span class="conf">Robotics 2019, 8(1), 4 </span><br>
-    <span class="trophy">&#x1F3C6; 100+ citations</span>
+    <span class="trophy">&#x1F3C6; 150+ citations</span>
     <span class="links">
         <a target="_blank" href="https://www.mdpi.com/2218-6581/8/1/4">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
