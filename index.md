@@ -39,6 +39,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[Feb 25] Attending SIGGRAPH'25 in Vancouver on Aug 11 for an [NVIDIA DLI Training Session](https://www.linkedin.com/posts/nvidiarobotics_robotics-nvidiajetson-siggraph2025-activity-7354625984786022400-J3MF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACD00ZkB9iontjqOH7QSB4KzR7THKzgVUbQ).</span>
 - <span style="font-size: 85%;">[May 25] Received the best paper award at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25.</span>
 - <span style="font-size: 85%;">[April 25] Selected to attend the Y Combinator Startup School.</span>
 - <span style="font-size: 85%;">[March 25] Attending ICRA'25 in Atlanta presenting my work on action anticipation for tabletop manipulation.</span>
