@@ -4,27 +4,11 @@ title:
 permalink:  /
 ---
 
-<!-- <style>
-  body {
-    font-size: 4px; /* Set the base font size for the entire document */
-  }
-
-  h1 {
-    font-size: 0.2rem; /* Adjust the font size for headings */
-  }
-
-  p {
-    font-size: 0.4rem; /* Adjust the font size for paragraphs */
-  }
-</style> -->
-
 <div class="row">
     <div class="col-sm-6 col-xs-12">
         <img src="/img/cover3.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        <!-- <span style="font-size: 85%;">Master's in Robotics</span><br>
-        <span style="font-size: 85%;">Carnegie Mellon University</span><br> -->
         <span style="font-size: 85%;">Research Engineer</span><br>
         <span style="font-size: 85%;">General Robotics</span><br>
         <span style="font-size: 85%;">sarthak.bhagat@generalrobotics.company</span><br>
@@ -79,7 +63,7 @@ permalink:  /
 
 ## Bio
 
-<span style="font-size: 85%;">I am a Research Engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on skill learning for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation. I was the <i>7th employee</i> at the company and the <i>first hire for the robotics team</i>.</span>
+<span style="font-size: 85%;">I am a Research Engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on skill learning for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation. I lead our sim2real reinforcement learning efforts, co-led the GRID-Isaac integration, and head all work involving Isaac Sim and customer engagements. I was the <i>7th employee</i> at the company and the <i>first hire for the robotics team</i>.</span>
 
 <span style="font-size: 85%;">I graduated with a MS in Robotics from <a href="https://www.ri.cmu.edu/">the Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
 Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. <a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">My Master's thesis</a> involved improving robotic perception and interaction through structured domain knowledge priors.</span>
