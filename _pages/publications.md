@@ -37,6 +37,8 @@ permalink:  /publications/
     <span class="authors">S. Bhagat, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">IEEE Robotics and Automation Letters (RA-L), 2024</span><br>
     <span class="conf">International Conference on Robotics and Automation (ICRA), 2025</span><br>
+    <span class="conf">Workshop on Nonverbal Cues for Human-Robot Cooperative Intelligence, ICRA 2025</span><br>
+    <span class="trophy">&#x1F3C6; Best Paper Award</span>    
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
         <a target="_blank" href="https://ieeexplore.ieee.org/document/10582423">Paper</a>
@@ -255,23 +257,6 @@ permalink:  /publications/
 </p>
 <hr> -->
 
-<a name="/nesca"></a>
-<h2 class="pubt">Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation</h2>
-<p class="pubd">
-    <span class="authors">S. Bhagat, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
-    <span class="conf">Workshop on Nonverbal Cues for Human-Robot Cooperative Intelligence, ICRA 2025</span><br>
-    <span class="trophy">&#x1F3C6; Best Paper Award</span>
-    <span class="links">
-        <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
-        <a target="_blank" href="https://ieeexplore.ieee.org/document/10582423">Paper</a>
-        <a target="_blank" href="https://github.com/sarthak268/nesca-pytorch">Code</a>
-        <a target="_blank" href="https://x.com/sarthak__bhagat/status/1821757702806368329">Thread</a>
-        <a target="_blank" href="https://youtu.be/OaKrj9vav4E?si=AU-IRS996-DKpE2y">Video</a>
-        <a target="_blank" href="https://youtu.be/OaKrj9vav4E?t=57">Demo</a>
-    </span>
-</p>
-<hr>
-
 <a name="/wroom"></a>
 <h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
 <p class="pubd">
@@ -379,3 +364,4 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
