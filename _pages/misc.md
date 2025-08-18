@@ -41,7 +41,7 @@ permalink:  /misc/
 ## Invited Talks
 
 <span style="font-size: 85%;">- [From Pixels to Action: Rapidly Building and Adapting AI Robot Behaviors with GRID](https://www.linkedin.com/posts/nvidiarobotics_robotics-nvidiajetson-siggraph2025-activity-7354625984786022400-J3MF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACD00ZkB9iontjqOH7QSB4KzR7THKzgVUbQ), SIGGRAPH, Vancouver -- 2025</span><br>
-<span style="font-size: 85%;">- [Introduction to Robot Simulation: Learn How to Develop, Simulate, and Deploy Scalable Robot Intelligence](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/), GTC, San Francisco -- 2025</span><br>
+<span style="font-size: 85%;">- [Introduction to Robot Simulation](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/), GTC, San Francisco -- 2025</span><br>
 <span style="font-size: 85%;">- Oral Talk, ICRA, Atlanta -- 2025</span><br>
 <span style="font-size: 85%;">- Neural-Symbolic Paper Reading, CMU -- 2023</span><br>
 <span style="font-size: 85%;">- [Oral Talk, Conference on Lifelong Learning Agents (CoLLAs)](https://lifelong-ml.cc/Conferences/2023/acceptedpapers), Montreal -- 2023</span><br>
@@ -54,6 +54,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">- [Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span style="font-size: 85%;">- [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
 <span style="font-size: 85%;">- [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
+
 
 
 
