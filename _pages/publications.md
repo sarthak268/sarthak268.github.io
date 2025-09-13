@@ -21,6 +21,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
+    <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span>
     <span class="trophy">&#x1F3C6; Oral</span>
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
@@ -67,30 +68,6 @@ permalink:  /publications/
 <!-- <img src="/img/habitat/pirlnav.png"> -->
 <hr>
 
-<!-- <a name="/oc22"></a>
-<h2 class="pubt">The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide Electrocatalysis</h2>
-<p class="pubd">
-    <span class="authors">Richard Tran*, Janice Lan*, Muhammed Shuaibi*, Siddharth Goyal*, Brandon M. Wood*, Abhishek Das, Javier Heras-Domingo, Adeesh Kolluru, Ammar Rizvi, Nima Shoghi, Anuroop Sriram, Zachary Ulissi, C. Lawrence Zitnick</span><br>
-    <span class="conf"></span>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2206.08917">Paper</a>
-        <a target="_blank" href="https://github.com/open-catalyst-project/ocp">Code</a>
-        <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/blob/main/DATASET.md#open-catalyst-2022-oc22">Dataset</a>
-    </span>
-    <div class="row pressdiv" style="margin: 5px 0 0 0; line-height: 1.4em;">
-        <a style="border-bottom: 0;" target="_blank" href="https://ai.facebook.com/blog/accelerating-renewable-energy-with-a-new-data-set-for-green-hydrogen-fuel/">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/fair2.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"... new dataset for green hydrogen fuel" by Janice, Siddharth, Ammar, Larry</span>
-            </div>
-        </a>
-    </div>
-</p>
-<img src="/img/ocp/oc22.jpg">
-<hr> -->
-
 <a name="/faircop"></a>
 <h2 class="pubt">Suspect Identification Framework using Contrastive Relevance Feedback</h2>
 <p class="pubd">
@@ -109,6 +86,8 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Goyal, S. Uppal, S. Bhagat, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022</span><br>
+    <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span><br>
+    <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span>
     <span class="trophy">&#x1F3C6; Best Demo Paper Award; 300+ stars on GitHub</span>    
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
@@ -246,17 +225,6 @@ permalink:  /publications/
 
 ## Workshop Publications
 
-<!-- <a name="/contr"></a>
-<h2 class="pubt">Sparse, Multi-Intent Inference for Action Prediction through Value Decomposition</h2>
-<p class="pubd">
-    <span class="authors">J. Campbell, S. Stepputtis, S. Bhagat, Y. Xie, K. Sycara</span><br>
-    <span class="conf">Social Intelligence in Humans and Robots Workshop, RSS 2023</span>
-    <span class="links">
-        <a target="_blank" href="">Paper</a>
-    </span>
-</p>
-<hr> -->
-
 <a name="/wroom"></a>
 <h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
 <p class="pubd">
@@ -271,18 +239,6 @@ permalink:  /publications/
     </span>
 </p>
 <hr>
-
-<a name="/shapegrasp2"></a>
-<h2 class="pubt">Geometric Shape Reasoning for Zero-Shot Task-Oriented Grasping</h2>
-<p class="pubd">
-    <span class="authors">S. Li, S. Bhagat, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
-    <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span>
-    <span class="links">
-        <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
-    </span>
-</p>
-<hr>
-
 
 <a name="/contr"></a>
 <h2 class="pubt">Symbolic Graph Inference for Compound Scene Understanding</h2>
@@ -308,24 +264,6 @@ permalink:  /publications/
     </span>
 </p>
 <hr>
-
-
-<a name="/contr"></a>
-<h2 class="pubt">Emotionally Enhanced Talking Face Generation</h2>
-<p class="pubd">
-    <span class="authors">S. Goyal, S. Bhagat, S. Uppal, Y. Yu, Y. Yin, R. Shah</span><br>
-    <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span><br>
-    <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span>
-    <span class="links">
-        <a target="_blank" href="[https://arxiv.org/abs/2303.11548](https://dl.acm.org/doi/10.1145/3607541.3616812)">Paper</a>
-        <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
-        <a target="_blank" href="https://drive.google.com/file/d/1cBbgm4TcKC9HtkH22xKmXzNnuPPgDJ_x/view?usp=share_link">Video</a>
-        <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
-    </span>
-</p>
-<!-- <img src="/img/ocp/scn.jpg"> -->
-<hr>
-
 
 <a name="/contr"></a>
 <h2 class="pubt">Contrastive Personalization Approach to Suspect Identification</h2>
@@ -364,4 +302,5 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
