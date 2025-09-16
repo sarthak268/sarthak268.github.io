@@ -16,6 +16,20 @@ permalink:  /publications/
 
 ## Conference Publications
 
+<a name="/dreamcontrol"></a>
+<h2 class="pubt">DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion</h2>
+<p class="pubd">
+    <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, S. Bhagat, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
+    <span class="conf">Under Review</span><br>
+    <span class="links">
+        <a target="_blank" href="">Website</a>
+        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="">Code</a>
+        <a target="_blank" href="">Thread</a>
+    </span>
+</p>
+<hr>
+
 <a name="/shapegrasp"></a>
 <h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
 <p class="pubd">
@@ -302,6 +316,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
