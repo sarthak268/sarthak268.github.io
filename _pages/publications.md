@@ -22,10 +22,11 @@ permalink:  /publications/
     <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, S. Bhagat, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
     <span class="conf">Under Review</span><br>
     <span class="links">
-        <a target="_blank" href="">Website</a>
+        <a target="_blank" href="https://genrobo.github.io/DreamControl/">Website</a>
         <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">Blog</a>
         <a target="_blank" href="">Code</a>
-        <a target="_blank" href="">Thread</a>
+        <a target="_blank" href="https://x.com/akapoor_av8r/status/1968696450726142056">Thread</a>
     </span>
 </p>
 <hr>
@@ -316,6 +317,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
