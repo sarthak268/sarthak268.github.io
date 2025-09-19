@@ -23,9 +23,8 @@ permalink:  /publications/
     <span class="conf">Under Review</span><br>
     <span class="links">
         <a target="_blank" href="https://genrobo.github.io/DreamControl/">Website</a>
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2509.14353">Paper</a>
         <a target="_blank" href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">Blog</a>
-        <a target="_blank" href="">Code</a>
         <a target="_blank" href="https://x.com/akapoor_av8r/status/1968696450726142056">Thread</a>
     </span>
 </p>
@@ -317,6 +316,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
