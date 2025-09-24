@@ -21,6 +21,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, S. Bhagat, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
     <span class="conf">Under Review</span><br>
+    <span class="conf">Workshop on Crossroads of Control: Model-based vs Learning-based Control, Humanoids, 2025</span><br>
     <span class="links">
         <a target="_blank" href="https://genrobo.github.io/DreamControl/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2509.14353">Paper</a>
@@ -317,6 +318,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
