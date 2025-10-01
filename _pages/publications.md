@@ -14,7 +14,7 @@ permalink:  /publications/
     }
 </style>
 
-## Conference Publications
+## Reports
 
 <a name="/agenticrobotics"></a>
 <h2 class="pubt">Agentic Architectures for Robotics: Design Principles and Model Abilities</h2>
@@ -27,6 +27,8 @@ permalink:  /publications/
     </span>
 </p>
 <hr>
+
+## Conference Publications
 
 <a name="/dreamcontrol"></a>
 <h2 class="pubt">DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion</h2>
@@ -330,6 +332,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
