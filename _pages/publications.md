@@ -16,6 +16,18 @@ permalink:  /publications/
 
 ## Conference Publications
 
+<a name="/agenticrobotics"></a>
+<h2 class="pubt">Agentic Architectures for Robotics: Design Principles and Model Abilities</h2>
+<p class="pubd">
+    <span class="authors">General Robotics</span><br>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://www.generalrobotics.company/post/agentic-robotics">Blog</a>
+        <a target="_blank" href="https://x.com/genrobotics_ai/status/1973421349646618954">Thread</a>
+    </span>
+</p>
+<hr>
+
 <a name="/dreamcontrol"></a>
 <h2 class="pubt">DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion</h2>
 <p class="pubd">
@@ -318,6 +330,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
