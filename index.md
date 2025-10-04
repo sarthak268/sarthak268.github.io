@@ -76,10 +76,10 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span> -->
 
 <span style="font-size: 85%;">Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></span><br>
-<span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team </span><br>
-<span style="font-size: 85%;">• Led sim2real reinforcement learning <a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">(1)</a></span><br>
-<span style="font-size: 85%;">• Led technical customer engagements</span><br>
-<span style="font-size: 85%;">• Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a></span><br>
+<span style="font-size: 55%;">• 6th employee at the company and the first hire for the robotics team </span><br>
+<span style="font-size: 55%;">• Led sim2real reinforcement learning <a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">(1)</a></span><br>
+<span style="font-size: 55%;">• Led technical customer engagements</span><br>
+<span style="font-size: 55%;">• Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a></span><br>
 
 <span style="font-size: 85%;">Master's in Robotics, CMU</span><br>
 <span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">thesis</a>)</span><br>
