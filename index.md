@@ -64,7 +64,7 @@ permalink:  /
 
 ## Bio
 
-<span style="font-size: 85%;">I am a research engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on skill learning for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation. I lead sim2real reinforcement learning efforts (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">1</a>), skill learning for arms, humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">2</a>), and quadrupeds in IsaacSim (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">3,</a> <a href="https://x.com/NVIDIARobotics/status/1910102079818936647">4</a>) and technical customer engagements. I was the <i>7th employee</i> at the company and the <i>first hire for the robotics team</i>.</span>
+<!-- <span style="font-size: 85%;">I am a research engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on skill learning for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation. I lead sim2real reinforcement learning efforts (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">1</a>), skill learning for arms, humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">2</a>), and quadrupeds in IsaacSim (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">3,</a> <a href="https://x.com/NVIDIARobotics/status/1910102079818936647">4</a>) and technical customer engagements. I was the <i>7th employee</i> at the company and the <i>first hire for the robotics team</i>.</span>
 
 <span style="font-size: 85%;">I graduated with a MS in Robotics from <a href="https://www.ri.cmu.edu/">the Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
 Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/">Advanced Agents - Robotics Technology Lab</a> advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>. <a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">My Master's thesis</a> involved improving robotic perception and interaction through structured domain knowledge priors.</span>
@@ -73,7 +73,37 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 <span style="font-size: 85%;">Previously, I worked as a visiting researcher at <a href="https://www.clvrai.com/">Cognitive Learning and Vision for Robotics (CLVR) Lab</a> (USC) with <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a>. My work there centered on the adaptation of policies to novel unseen environments and continual learning of skills.
 
 <span style="font-size: 85%;">I graduated with my B.Tech (with Honors) from <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a>. I completed my <a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">Bachelor's thesis</a> under <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> in collaboration with <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a> (Arizona State University). My thesis involved unsupervised representation learning to disentangle multiple factors of variation in images. 
-I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span>
+I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span> -->
+
+<span style="font-size: 85%;">
+Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a>
+- 6th employee at the company and the first hire for the robotics team 
+- Led sim2real reinforcement learning <a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">(1)</a>
+- Led technical customer engagements
+- Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a>
+</span>
+
+Master's in Robotics, CMU
+- Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">thesis</a>)
+- Advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>
+
+Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a>
+- 3D vision for drone-based photogrammetry
+
+<a href="https://www.clvrai.com/">CLVR Lab</a>, USC
+- Adaptation of policies to novel unseen environments 
+- Continual learning of skills
+- Advised by <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a>
+
+SUTD Brain Lab
+- Disentanglement of video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">5</a>)
+
+B.Tech (with honors), IIIT Delhi
+- Unsupervised representation learning to disentangle multiple factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>)
+- Advised by <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> and <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a>
+- Worked on target tracking using deep reinforcement learning (<a href="https://ieeexplore.ieee.org/document/9213856/;jsessionid=838C4FB5F524000212D040D9F9DCDFE3">paper</a>)
+- Part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demonstration</a>)
+
 
 <span style="font-size: 85%;">Interesting in collaborating, advice, or chatting? Drop me an email at: <a href="mailto:sarthak.bhagat@generalrobotics.company">sarthak.bhagat@generalrobotics.company</a>.</span>
 
