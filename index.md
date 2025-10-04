@@ -88,8 +88,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• 3D vision for drone-based photogrammetry</span><br>
 
 <span style="font-size: 85%;"><a href="https://www.clvrai.com/">CLVR Lab</a>, USC</span><br>
-<span style="font-size: 85%;">• Adaptation of policies to novel unseen environments </span><br>
-<span style="font-size: 85%;">• Continual learning of skills</span><br>
+<span style="font-size: 85%;">• Adaptation of policies to novel unseen environments, continual learning of skills </span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a></span><br>
 
 <span style="font-size: 85%;">SUTD Brain Lab</span><br>
