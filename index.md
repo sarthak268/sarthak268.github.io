@@ -79,7 +79,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team </span><br>
 <span style="font-size: 85%;">• Led sim2real reinforcement learning <a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">(1)</a></span><br>
 <span style="font-size: 85%;">• Led technical customer engagements</span><br>
-<span style="font-size: 85%;">• Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a></span><br>
+<span style="font-size: 85%;">• Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="https://www.generalrobotics.company/post/agentic-robotics">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a></span><br>
 
 <span style="font-size: 85%;">Master's in Robotics, CMU</span><br>
 <span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">thesis</a>)</span><br>
