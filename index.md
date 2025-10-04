@@ -99,7 +99,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• Unsupervised representation learning to disentangle multiple factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>)</span><br>
 <span style="font-size: 85%;">• Advised by <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> and <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a></span><br>
 <span style="font-size: 85%;">• Worked on target tracking using deep reinforcement learning (<a href="https://ieeexplore.ieee.org/document/9213856/;jsessionid=838C4FB5F524000212D040D9F9DCDFE3">paper</a>)</span><br>
-<span style="font-size: 85%;">• Part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demonstration</a>)</span><br>
+<span style="font-size: 85%;">• Part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demo</a>)</span><br>
 
 <span style="font-size: 85%;">Interesting in collaborating, advice, or chatting? Drop me an email at: <a href="mailto:sarthak.bhagat@generalrobotics.company">sarthak.bhagat@generalrobotics.company</a>.</span>
 
