@@ -80,8 +80,7 @@ Research Engineer, <a href="https://www.generalrobotics.company/">General Roboti
 - 6th employee at the company and the first hire for the robotics team 
 - Led sim2real reinforcement learning <a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">(1)</a>
 - Led technical customer engagements
-- Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a>
-</span>
+- Worked on humanoids <a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">(2)</a>, quads, manipulators, agents <a href="">(3)</a>, everything IsaacSim <a href="https://x.com/genrobotics_ai/status/1892250420711481524">(4)</a></span>
 
 Master's in Robotics, CMU
 - Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">thesis</a>)
