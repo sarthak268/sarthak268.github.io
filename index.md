@@ -93,7 +93,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• Advised by <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a></span><br>
 
 <h6> SUTD Brain Lab </h6>
-<span style="font-size: 85%;">• Disentanglement of video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</span><br>
+<span style="font-size: 85%;">• Disentanglement of video sequences using Gaussian process priors (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</span><br>
 
 <h6> B.Tech (with honors), IIIT Delhi </h6>
 <span style="font-size: 85%;">• Unsupervised representation learning to disentangle multiple factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>)</span><br>
