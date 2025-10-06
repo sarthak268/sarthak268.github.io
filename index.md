@@ -75,26 +75,27 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 <span style="font-size: 85%;">I graduated with my B.Tech (with Honors) from <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a>. I completed my <a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">Bachelor's thesis</a> under <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> in collaboration with <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a> (Arizona State University). My thesis involved unsupervised representation learning to disentangle multiple factors of variation in images. 
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span> -->
 
+<br>
 <h6> Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team </span><br>
 <span style="font-size: 85%;">• Led sim2real reinforcement learning (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), technical customer engagements</span><br>
 <span style="font-size: 85%;">• Worked on humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quads, manipulators, agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>), everything IsaacSim (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
 
-<span style="font-size: 85%;">Master's in Robotics, CMU</span><br>
+<h6> Master's in Robotics, CMU </h6>
 <span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">thesis</a>)</span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a></span><br>
 
-<span style="font-size: 85%;">Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a></span><br>
+<h6> Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a> </h6>
 <span style="font-size: 85%;">• 3D vision for drone-based photogrammetry</span><br>
 
-<span style="font-size: 85%;"><a href="https://www.clvrai.com/">CLVR Lab</a>, USC</span><br>
+<h6> <a href="https://www.clvrai.com/">CLVR Lab</a>, USC </h6>
 <span style="font-size: 85%;">• Adaptation of policies to novel unseen environments, continual learning of skills </span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a></span><br>
 
-<span style="font-size: 85%;">SUTD Brain Lab</span><br>
+<h6> SUTD Brain Lab</span> </h6>
 <span style="font-size: 85%;">• Disentanglement of video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</span><br>
 
-<span style="font-size: 85%;">B.Tech (with honors), IIIT Delhi</span><br>
+<h6> B.Tech (with honors), IIIT Delhi </h6>
 <span style="font-size: 85%;">• Unsupervised representation learning to disentangle multiple factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>)</span><br>
 <span style="font-size: 85%;">• Advised by <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> and <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a></span><br>
 <span style="font-size: 85%;">• Worked on target tracking using deep reinforcement learning (<a href="https://ieeexplore.ieee.org/document/9213856/;jsessionid=838C4FB5F524000212D040D9F9DCDFE3">paper</a>)</span><br>
