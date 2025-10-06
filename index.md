@@ -24,7 +24,7 @@ permalink:  /
 ## News
 
 - <span style="font-size: 85%;">[Sept 25] Presenting at the Scaleup Summit in SF.</span>
-- <span style="font-size: 85%;">[Aug 25] Presenting [NVIDIA DLI Training Session](https://www.linkedin.com/posts/nvidiarobotics_robotics-nvidiajetson-siggraph2025-activity-7354625984786022400-J3MF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACD00ZkB9iontjqOH7QSB4KzR7THKzgVUbQ) at SIGGRAPH'25 in Vancouver.</span>
+- <span style="font-size: 85%;">[Aug 25] Presenting [NVIDIA DLI Training Session](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/) at SIGGRAPH'25 in Vancouver.</span>
 - <span style="font-size: 85%;">[May 25] Received the best paper award at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25.</span>
 - <span style="font-size: 85%;">[April 25] Selected to attend the Y Combinator Startup School.</span>
 - <span style="font-size: 85%;">[March 25] Attending ICRA'25 in Atlanta presenting my work on action anticipation for tabletop manipulation.</span>
@@ -82,7 +82,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• Worked on humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quads, manipulators, agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>), everything IsaacSim (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
 
 <h6> Master's in Robotics, CMU </h6>
-<span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/app/uploads/2024/06/Sarthak_MSR_Thesis.pdf">thesis</a>)</span><br>
+<span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">thesis</a>)</span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a></span><br>
 
 <h6> Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a> </h6>
