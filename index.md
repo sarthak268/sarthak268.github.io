@@ -92,7 +92,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• Adaptation of policies to novel unseen environments, continual learning of skills </span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a></span><br>
 
-<h6> SUTD Brain Lab</span> </h6>
+<h6> SUTD Brain Lab </h6>
 <span style="font-size: 85%;">• Disentanglement of video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</span><br>
 
 <h6> B.Tech (with honors), IIIT Delhi </h6>
@@ -100,6 +100,8 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• Advised by <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> and <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a></span><br>
 <span style="font-size: 85%;">• Worked on target tracking using deep reinforcement learning (<a href="https://ieeexplore.ieee.org/document/9213856/;jsessionid=838C4FB5F524000212D040D9F9DCDFE3">paper</a>)</span><br>
 <span style="font-size: 85%;">• Part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demo</a>)</span><br>
+
+<br>
 
 <span style="font-size: 85%;">Interesting in collaborating, advice, or chatting? Drop me an email at: <a href="mailto:sarthak.bhagat@generalrobotics.company">sarthak.bhagat@generalrobotics.company</a>.</span>
 
