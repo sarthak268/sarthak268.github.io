@@ -79,7 +79,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <h6> Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team </span><br>
 <span style="font-size: 85%;">• Led sim2real reinforcement learning (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), technical customer engagements</span><br>
-<span style="font-size: 85%;">• Led the integration of Isaac Sim into the <a href="https://grid.generalrobotics.dev/">GRID platform</a>, enabling large-scale simulation and training for 3,000+ users (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
+<span style="font-size: 85%;">• Led the integration of Isaac Sim into the <a href="https://grid.generalrobotics.dev/">GRID platform</a> with 3,000+ active users (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
 <span style="font-size: 85%;">• Worked on humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quads, manipulators, agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</span><br>
 
 <h6> Master's in Robotics, CMU </h6>
