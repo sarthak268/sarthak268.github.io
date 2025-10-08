@@ -37,7 +37,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
 <span style="font-size: 85%;">13. <span style="background-color: yellow;">Life As No One Knows It by Sara Imari Walker</span> (Life's Emergence from the lens of Assembly Theory 🌿)</span><br>
 <span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shephard and Deke Slayton</a></span><br>
-<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a></span><br>
+<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (Space + Economics)</span><br>
 
 ## Self-Growth
 
