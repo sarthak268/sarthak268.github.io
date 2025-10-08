@@ -18,7 +18,7 @@ permalink:  /misc/
 
 <span style="font-size: 85%;">• Reading (Autobiographies, biographies, science, self-help, almost anything)</span><br>
 <span style="font-size: 85%;">• Physics, Astronomy, Robotics (Always up for an insightful physics discussion)</span><br>
-<span style="font-size: 85%;">• [Travel](https://sarthak268.github.io/travel/)</span><br>
+<span style="font-size: 85%;">• [Traveling](https://sarthak268.github.io/travel/) & Hiking</span><br>
 <span style="font-size: 85%;">• Startups (Love discussing about startups, [reach out](https://x.com/sarthak__bhagat) if you wanna chat!)</span><br>
 <span style="font-size: 85%;">• Chess (ELO: 1644)</span><br>
 <span style="font-size: 85%;">• Football (watch + play + fifa)</span><br>
@@ -54,6 +54,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">• [Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span style="font-size: 85%;">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
 <span style="font-size: 85%;">• [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
+
 
 
 
