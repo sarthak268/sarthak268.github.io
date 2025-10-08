@@ -32,7 +32,7 @@ permalink:  /
 - <span style="font-size: 85%;">[Feb 25] Attending Nvidia GTC'25 in San Jose on March 17.</span>
 - <span style="font-size: 85%;">[Aug 24] Serving as a Program Committee Member at AAAI'25.</span>
 - <span style="font-size: 85%;">[July 24] Paper on zero-shot task-oriented grasping using LLMs accepted to IROS'24 as an oral presentation.</span>
-- <span style="font-size: 85%;">[June 24] Joined [Scaled Foundations](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
+- <span style="font-size: 85%;">[June 24] Joined [General Robotics](https://scaledfoundations.ai/) as a Research Engineer working on building safe general robot intelligence.</span>
 - <span style="font-size: 85%;">[June 24] Graduated with a Master's in Robotics from Carnegie Mellon University.</span>
 - <span style="font-size: 85%;">[June 24] Work on action anticipation for effective human-robot collaboration in manipulation tasks accepted to RA-L'24.</span>
 - <span style="font-size: 85%;">[Dec 23] Serving as Reviewer for ICML'24, ICLR'24, and CoLLAs'24.</span>
