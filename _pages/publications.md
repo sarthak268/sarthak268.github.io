@@ -166,7 +166,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Uppal*, A. Madan*, S. Bhagat*, Y. Yu, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2020<br>
-    VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020</span>    
+    VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020</span><br>  
     <span class="trophy">&#x1F3C6; Spotlight</span>
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3444685.3446302">Paper</a>
@@ -336,6 +336,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
