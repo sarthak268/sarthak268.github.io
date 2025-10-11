@@ -52,9 +52,10 @@ permalink:  /misc/
 
 ## More...
 
-<span style="font-size: 85%;">• [Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
+<span style="font-size: 85%;">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span style="font-size: 85%;">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
 <span style="font-size: 85%;">• [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
+
 
 
 
