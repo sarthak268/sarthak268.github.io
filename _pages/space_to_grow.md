@@ -36,5 +36,17 @@ permalink:  /bookshelf/space_to_grow/
 - Proven market-oriented approach to space can work; most valuable private company
 - Musk realized we needed a Moore's law in space: cost per pound to space is constantly decreasing
 - Ideology: <b>Failure</b> is an option here. Learn from failure, improve the prototype and test it again
+- 6 years of failed attempts and 3 failed launches --> 4th attempt was successful, and the company took off
+- Three ingredients of success:
+    - <i>Iteration:</i> became famous for blowing up things, came up with the simplest, lightest and cheapest solution, removing all overengineered parts (for reliablity), published a video compilation of failures, risk-embracing combined with Musk's sense of urgency
+    - <i>Vertical Integration:</i> brought production of critical components -- especially those central to the performance or requiring high rates of iteration -- in-house and buy off-the-shelf where cost-vs-performance favoured, ~70% of components were in-house
+    - <i>Economies of Scale:</i> designed reusable rockets, virtuous cycle of lower costs leading to greater demand allowing more efficient scales
+    - <i>Culture:</i> single mission: reaching Mars while others tried winning contracts, engineers at all levels are responsible for developing part of the rocket or its engines, not told how to do it, just expected to work tirelessly and make it happen, attracts the best of the best
+- Two key drivers:
+    - Starlink: constellation of LEO satellites (initially ~60) to provide low-latency, high bandwidth global broadband internet targeting rural communities and areas with low connectivity, motivation for Starlink was to fund going to Mars
+    - Starship: Three ways in which it is revolutionizing space (both needing each other):
+        - <i>Size:</i> James Webb Space Telescope (JWST) has autonomous unfolding which is an engineering marvel but investment worth millions which would have not been required if we had Starship
+        - <i>Fully Reuasable:</i> Cylindrical firsst stage booster and winged upper stage which is designed to be refueled in space
+        - <i>Launch Costs:</i> $200 per kg (~99% lower compared to the Shuttle), once operational can increase cadence to 3/day, <i>lofting 15M kgs into orbit in an year</i>, introducing completely new usecases like high-speed point-to-point travel, etc.       
  
-
+<br>
