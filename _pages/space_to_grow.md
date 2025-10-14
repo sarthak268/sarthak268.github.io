@@ -47,6 +47,9 @@ permalink:  /bookshelf/space_to_grow/
     - Starship: Three ways in which it is revolutionizing space (both needing each other):
         - <i>Size:</i> James Webb Space Telescope (JWST) has autonomous unfolding which is an engineering marvel but investment worth millions which would have not been required if we had Starship
         - <i>Fully Reuasable:</i> Cylindrical firsst stage booster and winged upper stage which is designed to be refueled in space
-        - <i>Launch Costs:</i> $200 per kg (~99% lower compared to the Shuttle), once operational can increase cadence to 3/day, <i>lofting 15M kgs into orbit in an year</i>, introducing completely new usecases like high-speed point-to-point travel, etc.       
+        - <i>Launch Costs:</i> $200 per kg (~99% lower compared to the Shuttle), once operational can increase cadence to 3/day, <i>lofting 15M kgs into orbit in an year</i>, introducing completely new usecases like high-speed point-to-point travel, etc.
+- One the demand-supply curve, lower the cost means shifting the equilibrium line -- the total gain to the society is measured by the gain in area under the demand-supply curve
+> #### Why do talented people want to work in space and start revolutionary companies?
+> It's because they want to devote their talents and efforts to a vision bigger than any other, a vision for a future of unlimited opportunity. If space business wasn't about those visions, it would truly be just another (very hard) business, and those talents and efforts go elsewhere. Efforts like SpaceX attract the brightest, most innovative minds and to combine them -- in an effort that is bold enough and challenging enough to make the most of their talents and efforts -- is inseparable from the authentic commitment to having goals like Mars in sight. If chosen well, such an ambitious goal directs those talents and efforts toward advancing technologies and business models that generate value along the way, today. 
  
 <br>
