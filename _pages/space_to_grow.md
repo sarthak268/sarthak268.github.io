@@ -35,9 +35,9 @@ permalink:  /bookshelf/space_to_grow/
 - Driven cost of launching down by 90%; $62M per launch or $2800 per kg ~ 5% of what it cost the shuttle --> launching is the first step to building anything in space
 - Proven market-oriented approach to space can work; most valuable private company
 - Musk realized we needed a Moore's law in space: cost per pound to space is constantly decreasing
-- Ideology: <b>Failure</b> is an option here. Learn from failure, improve the prototype and test it again
+- Ideology: <i>Failure</i> is an option here. Learn from failure, improve the prototype and test it again
 - 6 years of failed attempts and 3 failed launches --> 4th attempt was successful, and the company took off
-- Three ingredients of success:
+- Four ingredients of success:
     - <i>Iteration:</i> became famous for blowing up things, came up with the simplest, lightest and cheapest solution, removing all overengineered parts (for reliablity), published a video compilation of failures, risk-embracing combined with Musk's sense of urgency
     - <i>Vertical Integration:</i> brought production of critical components -- especially those central to the performance or requiring high rates of iteration -- in-house and buy off-the-shelf where cost-vs-performance favoured, ~70% of components were in-house
     - <i>Economies of Scale:</i> designed reusable rockets, virtuous cycle of lower costs leading to greater demand allowing more efficient scales
@@ -49,7 +49,7 @@ permalink:  /bookshelf/space_to_grow/
         - <i>Fully Reuasable:</i> Cylindrical firsst stage booster and winged upper stage which is designed to be refueled in space
         - <i>Launch Costs:</i> $200 per kg (~99% lower compared to the Shuttle), once operational can increase cadence to 3/day, <i>lofting 15M kgs into orbit in an year</i>, introducing completely new usecases like high-speed point-to-point travel, etc.
 - One the demand-supply curve, lower the cost means shifting the equilibrium line -- the total gain to the society is measured by the gain in area under the demand-supply curve
-> #### Why do talented people want to work in space and start revolutionary companies?
+> Why do talented people want to work in space and start revolutionary companies?
 > It's because they want to devote their talents and efforts to a vision bigger than any other, a vision for a future of unlimited opportunity. If space business wasn't about those visions, it would truly be just another (very hard) business, and those talents and efforts go elsewhere. Efforts like SpaceX attract the brightest, most innovative minds and to combine them -- in an effort that is bold enough and challenging enough to make the most of their talents and efforts -- is inseparable from the authentic commitment to having goals like Mars in sight. If chosen well, such an ambitious goal directs those talents and efforts toward advancing technologies and business models that generate value along the way, today. 
  
 <br>
