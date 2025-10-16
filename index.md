@@ -81,7 +81,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team</span><br>
 <span style="font-size: 85%;">• Led sim2real reinforcement learning (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), technical customer engagements</span><br>
 <span style="font-size: 85%;">• Led the integration of Isaac Sim into the <a href="https://grid.generalrobotics.dev/">GRID platform</a> with 3,000+ active users and 10+ enterprise clients (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
-<span style="font-size: 85%;">• Worked on humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quads, manipulators (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</span><br>
+<span style="font-size: 85%;">• Worked on humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds, manipulator arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</span><br>
 
 <h6> Master's in Robotics, CMU </h6>
 <span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">thesis</a>)</span><br>
