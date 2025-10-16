@@ -33,7 +33,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (a must read for physics enthusiasts 🌍)</span><br>
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
-<span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin</span> (my favorite Biology book 🧬)</span><br>
+<span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin</span> (my favorite biology book 🧬)</span><br>
 <span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
 <span style="font-size: 85%;">13. <span style="background-color: yellow;">Life As No One Knows It by Sara Imari Walker</span> (life's emergence from the lens of Assembly theory 🌿)</span><br>
 <span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shephard and Deke Slayton</a></span><br>
@@ -41,7 +41,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Self-Growth
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (highly Recommended 🧠)</span><br>
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (highly recommended 🧠)</span><br>
 <span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
 <span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
 <span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
@@ -74,7 +74,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 <span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
 <span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
-<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Lie (My Favourite Fiction)</span><br>
+<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Lie (my favourite fiction)</span><br>
 
 ## Entrepreneurship
 
