@@ -77,7 +77,7 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span> -->
 
 <br>
-<h6> Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
+<h6> Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team</span><br>
 <span style="font-size: 85%;">• Led sim2real reinforcement learning (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), technical customer engagements</span><br>
 <span style="font-size: 85%;">• Led the integration of Isaac Sim into the <a href="https://grid.generalrobotics.dev/">GRID platform</a> with 3,000+ active users and 10+ enterprise clients (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
