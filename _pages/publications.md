@@ -21,7 +21,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">General Robotics</span><br>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://genrobo.github.io/Agentic-Robotics/paper.pdf">Paper</a>
         <a target="_blank" href="https://www.generalrobotics.company/post/agentic-robotics">Blog</a>
         <a target="_blank" href="https://x.com/genrobotics_ai/status/1973421349646618954">Thread</a>
     </span>
@@ -334,6 +334,7 @@ permalink:  /publications/
         $('#read-more-button').hide();
     });
 </script>
+
 
 
 
