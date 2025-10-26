@@ -37,5 +37,6 @@ permalink:  /bookshelf/lords_of_cosmos/
 - Humans are the only species that can bring about any transformation that is allowed by the laws of physics. If there were a thing that we can't achieve no matter what knowledge we bring to bear, then there is another (testable) law of physics that says we can't do that.
 
 Knowledge Centered History of Everything
+![Alt text](img/timeline_of_cosmos.jpg)
 
  
