@@ -38,7 +38,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">13. <span style="background-color: yellow;">Life As No One Knows It by Sara Imari Walker</span> (life's emergence from the lens of Assembly theory 🌿)</span><br>
 <span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shephard and Deke Slayton</a></span><br>
 <span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (space + economics)</span><br>
-<span style="font-size: 85%;">16. <a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span><br>
+<span style="font-size: 85%;">16. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's materials)</span><br>
 
 ## Self-Growth
 
