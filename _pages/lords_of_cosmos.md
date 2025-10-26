@@ -25,5 +25,17 @@ permalink:  /bookshelf/lords_of_cosmos/
     - Disable source of new ideas -- human creativity -- exploit childen's psychology to entrench themselves in their minds
 - Dynamic societis: e.g. Athens during the "Golden Age" or "Age of Pericles" -- Plato and Aristotle 
     - Idea of Platonism and Idealism, and ideas about learning by studying and interacting emerged
-    - Memes survived by criticism 
+    - Memes survived by criticism
+- Enemies of Civilization:
+    - Socialism: advocates centralized institutions to take means of production away from citizens, believe weath is fixed pie.
+    - Environmentalism (or degrowth movement): advocates that humanity minimize its impact on the environment by having fewer children, consuming less energy, and releasing less carbon into the atmosphere
+    -   Scientism: false idea that scientific knowledge trumps all other kinds of knowledge, that science can give us answers to all our questions
+    -   Relativism: the idea that there is no difference between right and wrong, good and evil
+    -   Dogmatism: idea that is considered, implicitly, or explicitly uncriticizable, the final truth, known with certainity, never to be changed
+    -   Doomererism: idea that humanity has no shot at continuing to make progress, or that our extinction is just around the corner, we are just one innovation away from guaranteeing our decline
+- Transformation that Nature allow for (including star becoming a black hole, heilum atoms fusing to become carbon and iron inside the star, particles or antiparticles colliding and producing high energy photons) << Transformation that life can cause (human genome alone can cause hundred thousand different proteins)
+- Humans are the only species that can bring about any transformation that is allowed by the laws of physics. If there were a thing that we can't achieve no matter what knowledge we bring to bear, then there is another (testable) law of physics that says we can't do that.
+
+Knowledge Centered History of Everything
+
  
