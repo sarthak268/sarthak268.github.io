@@ -77,7 +77,7 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span> -->
 
 <br>
-<h6> Research Engineer, <a href="https://www.1x.tech/">1x</a></h6>
+<h6> Research Engineer, <a href="https://www.1x.tech/">1x Tech</a></h6>
 <span style="font-size: 85%;">• RL for Manipulation</span><br>
 
 <h6> Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
