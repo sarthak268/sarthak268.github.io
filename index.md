@@ -10,7 +10,7 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         <span style="font-size: 85%;">Research Engineer</span><br>
-        <span style="font-size: 85%;">1x</span><br>
+        <span style="font-size: 85%;">1x Tech</span><br>
         <span style="font-size: 85%;">sarthak.bhagat@1x.tech</span><br>
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 20px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 25px; height: 25px;"></a>
