@@ -10,8 +10,8 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         <span style="font-size: 85%;">Research Engineer</span><br>
-        <span style="font-size: 85%;">General Robotics</span><br>
-        <span style="font-size: 85%;">sarthak.bhagat@generalrobotics.company</span><br>
+        <span style="font-size: 85%;">1x</span><br>
+        <span style="font-size: 85%;">sarthak.bhagat@1x.tech</span><br>
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 20px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 25px; height: 25px;"></a>
         <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./img/google_scholar.jpg" alt="Google Scholar" style="width: 30px; height: 25px;"></a>
@@ -23,6 +23,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[Sept 25] Joined 1x Technologies as a Research Engineer to work on RL for manipulation.</span>
 - <span style="font-size: 85%;">[Sept 25] Presenting at the Scaleup Summit in SF.</span>
 - <span style="font-size: 85%;">[Aug 25] Presenting [NVIDIA DLI Training Session](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/) at SIGGRAPH'25 in Vancouver.</span>
 - <span style="font-size: 85%;">[May 25] Received the best paper award at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25.</span>
@@ -76,6 +77,9 @@ Here, I worked at <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent
 I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Brain Lab</a> where I worked on the disentanglement of video sequences using Gaussian processes. Additionally, I spent some time working with <a href="https://moonlab.iiserb.ac.in/people.html">Dr. P.B. Sujit</a> on target tracking using deep reinforcement learning. During my undergrad, I was also a part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE (formerly Swarath)</a> (demonstration of our vehicle in action available <a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">here</a>).</span> -->
 
 <br>
+<h6> Research Engineer, <a href="https://www.1x.tech/">1x Technologies</a></h6>
+<span style="font-size: 85%;">• RL for Manipulation</span><br>
+
 <h6> Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team</span><br>
 <span style="font-size: 85%;">• Led sim2real reinforcement learning (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>) and technical customer engagements</span><br>
