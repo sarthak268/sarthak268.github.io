@@ -39,4 +39,13 @@ permalink:  /bookshelf/lords_of_cosmos/
 Knowledge Centered History of Everything
 ![Alt text](img/timeline_of_cosmos.jpg)
 
- 
+ - First generation of stars produced mostly helium in their furnaces, but later generations of stars creater heavier, more complex elements in their nuclear fusion reactors, such as C, O, N, Fe. And when some stars died in violent explosions called supernovae, they vomitted their creations across the sky.
+ - Abiogenesis: the origin of life -- a new seed that end the Great Monotony.
+     - Some genes came together in a collaborative effort while each individual entity retained its identity.
+     - World's first organisms formed this way -- boundary b/w catalysts inside and outside world
+     - Key properties: compartmentalization, metabolisms, integrated software and hardware
+ - Genes are like good explanation -- hard to vary while retaining functionality -- information causes itself to remain instantiated even as they migrate systems -- both are <i>knowledge</i>
+     - Without knowldge universe was capable of small no. of objects -- dawn of knowledge -- "phase transition" -- diversity of physical systems increases exponentially
+     - DNA produced more novelty than rest of the universe in billions of years -- every tooth and claw DNA produced is but a grain in the sand as compared with what genetic code is capable of producing
+ - Endosymbiosysis: one prokaryotic cell swallowed the other, duo went onto replicate as a single unit -- more complex than either parent --> archae consuming a bacteria 
+
