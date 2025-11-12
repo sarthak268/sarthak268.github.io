@@ -47,5 +47,13 @@ Knowledge Centered History of Everything
  - Genes are like good explanation -- hard to vary while retaining functionality -- information causes itself to remain instantiated even as they migrate systems -- both are <i>knowledge</i>
      - Without knowldge universe was capable of small no. of objects -- dawn of knowledge -- "phase transition" -- diversity of physical systems increases exponentially
      - DNA produced more novelty than rest of the universe in billions of years -- every tooth and claw DNA produced is but a grain in the sand as compared with what genetic code is capable of producing
- - Endosymbiosysis: one prokaryotic cell swallowed the other, duo went onto replicate as a single unit -- more complex than either parent --> archae consuming a bacteria 
+ - Endosymbiosysis: one prokaryotic cell swallowed the other, duo went onto replicate as a single unit -- more complex than either parent --> archae consuming a bacteria
+ - Universal explainers: humans -- capable of explaining anything that can be explained, creating endless stream of knowledge, causing any physical transformation that laws of Nature allow for
+ - There is only one kind of individual -- any person is capable of making progress, experiencing any physically possible qualia, and generating knowledge -- <i>egalitarianism</i> -- people are equal not in terms of skill, genes, interests, race, wealth, etc. but with respect to their ability to generate new knowledge and continuously solve endless stream of problems that define their lives
+ - Computation is <i>substrate independent</i> -- the most fundamental properties and regularities that define computation do not depend on the particular hardware in which computation takes place
+     - Turing developed an abstract machine (a-machine) that consisted of an infinite strip of tape divided into regular cells, a head that reads and writes symbols into the cell and moves left and right, and a state register that defines the a-machine's current state and determines the head's next move.
+     - Conjectured "anything is computable by any algorithmic process can be computed by a Turing's machine"
+     - It follows that if something can be computed by a Turing's machine, then nothing can execute the algorithm
+     - Offered world's first theoritical model of a universal computer
+ - Information is physical -- conforms to laws of Nature, much as atoms and life forms and stars do
 
