@@ -61,5 +61,28 @@ permalink:  /bookshelf/space_to_grow/
 - Constellations uses a tech that measures the distortion of GPS signals as they pass through the atmosphere, revealing information about temperature, pressure, water vaporm and more to improve forecast accuracy and better predict extreme weather events
 - In the same way that every company is today is a tech company, the need for persistent global monitoring and coordination will see every company of tomorrow be a space company 
 
+### Stations
+
+- Objects in orbit experience microgravity, a state of weightlessness -- its not because gravity is weaker in orbit, a common misconception (it's 90% that on the surface), but objects are moving so fast that they're in perpetual free fall around the planet
+    - Microgravity removes convection, sedimentation, and buoyancy that warp and disrupt physical and chemical processes
+    - Diffusion becomes dominant process -- a gentler mixing that enables perfect, uniform, and precise structures at the atomic level
+    - Possible to create larger, purer materials (fiber optic cables, semiconductors, protein crystals for pharma) and use 3d printing to create delicate and complex structures that requires buttressing in our gravity (artificial organs)
+- Harvest resources from asteroids or the Moon, harnessing solar power from space -- space stations could be where we manufacture rocket fuel, satellites, and spacecraft
+- ISS --> cost $4 billion in annual upkeep on top of the estimated $100 billion for initial construction -- half of NASA's annual budget
+- Axiom
+    - Build habitat modules that would attach to ISS in 2026
+    - Customers: 1) dozen of nations with space agencies, 2) bring cloud computing to its station, 3) space tourism industry by offering a destination as well as a flight
+- Space station competition: Northrop Grumman (govt. customers, flight proved systems), Starlab led by Voyager Space, Nanoracks, Lockheed Martin (replaced by Airbus) (first science park in space), Orbital Reef led by Blue Origin and partners like Boeing (mixed use business park)
+- Currently financially not viable -- no customers --> no business usecase --> no stations and no stations --> no usecase for figuring out how to use them
+- Le Chatelier principle: commercial space stations --> invent new ways to use them
+- Opportunities:
+    - ISS offerred free but limited option for decades -- once retired the obstacle is removed and business case for commercial space station emerges
+    - Problem of coordination -- whole is greater than the sum, contribution to creating a whole is risky and expensive for any part --> pull parts together requires high tolerance of risk, long investment horizons, and someone to make it happen
+- Why its different this time around?
+    1. Never been a private sector push for commercial space station at the scale and scope we're seeing today, each concept is designed with commericial applications in mind that will build on NASA's foundation support
+    2. Lauches to orbit are becoming cheaper and more avilable than ever -- trends likely to continue -- economics of building and supplying space stations is becoming less forbiding. Competition will push each team to find attractive use cases -- keep costs low, incorporate latest technologies, and work with broad set of private sector partners
+    3. Presence of China's Tiangong gives US commerical stations geopolitical tailwinds
+    4. Growing ecosystem of complementary technologies -- including reentry vehicles, small scale orbital R&D experiments, in-space connectivity, and computing (e.g., Varda Space Industries --autonomous one-meter diameter capsule that conduct R&D and manufacturing of pharma components)
+- Commericial revolution --> two dreams: we would not just go to space, but also go to stay
  
 <br>
