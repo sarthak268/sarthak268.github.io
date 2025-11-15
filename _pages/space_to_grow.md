@@ -84,5 +84,22 @@ permalink:  /bookshelf/space_to_grow/
     3. Presence of China's Tiangong gives US commerical stations geopolitical tailwinds
     4. Growing ecosystem of complementary technologies -- including reentry vehicles, small scale orbital R&D experiments, in-space connectivity, and computing (e.g., Varda Space Industries --autonomous one-meter diameter capsule that conduct R&D and manufacturing of pharma components)
 - Commericial revolution --> two dreams: we would not just go to space, but also go to stay
+
+### Artemis 
+- Series of missions that will return humans to the Moon for the first time in over half a century
+- Initial plans: rover, mobile home, stationary cabin, several small camps -- scientific and commercial R&D
+- Lunar south pole: potenially hundreds of kgs of frozen water -- can be converted to rocket fuel
+- Moon focused companies:
+    - Provide basic infra on Moon (3d printing constructions firm ICON, Crescent Space inside Lockheed Martin)  
+    - Transportation (Intuitive Machines, Lunar Outpost, Venturi Astrolab)
+    - Mining Materials (Interlune) -- isotope He-3 could be used as fuel source for nuclear fusion
+
+### Astroscale
+- Kessler syndrome: worst case scenario -- domino effect causes LEO to reach a tipping point beyond collisions are ever increasing and unstoppable
+- Externalities: side effects of productive activities that aren't reflected in prices -- though operating at a scale, a level of complexity, and in an environment that make it challenging to apply conventional solutions
+- Market isn't charging our modern space cows enough for overgrazing + essential to remove debris already in space
+- Origin of Astroscale: initial interest --> joined finance, founded IT firms --> 40th birthday --> space industry needed someone passionate about space but is from the outside --> attended conferences, chatted with experts, read 300+ journal papers --> active debris removal (ADR)
+- Strategy: 1) develop cost effective ADR, 2) business case for the tech, 3) inform and help shape international policies are space debris
+- Plans to: open "end of life" services for satellites, satellite life extension and refueling
  
 <br>
