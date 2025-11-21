@@ -108,7 +108,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 
 <br>
 
-<span style="font-size: 85%;">Interesting in collaborating, advice, or chatting? Drop me an email at: <a href="mailto:sarthak.bhagat@generalrobotics.company">sarthak.bhagat@generalrobotics.company</a>.</span>
+<span style="font-size: 85%;">Interested in collaborating, advice, or chatting? Drop me an email at: <a href="mailto:sarthak.bhagat@1x.tech">sarthak.bhagat@1x.tech</a>.</span>
 
 <br><br>
 
