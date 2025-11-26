@@ -106,6 +106,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
 <span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span><br>
 <span style="font-size: 85%;">8. Anti-fragile by Nassim Taleb</span><br>
+<span style="font-size: 85%;">8. We Are All Stardust by Stefan Klein</span><br>
 
 <br>
 
