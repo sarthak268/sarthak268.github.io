@@ -35,7 +35,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">• Dean’s Award for Innovation, Research, and Development, IIIT-Delhi</span><br>
 <span style="font-size: 85%;">• Indian National Academy of Engineering (INAE) Fellowship</span><br>
 <span style="font-size: 85%;">• Placed 6/70 International Teams in AUVSI SUAS 2018, Maryland, USA</span><br>
-<span style="font-size: 85%;">• 2nd Place: CanSat Development and Deployment Competition 2018 at DTU</span><br>
+<span style="font-size: 85%;">• 2nd Place: CanSat Development and Deployment Competition 2017 at DTU</span><br>
 <span style="font-size: 85%;">• KVPY Scholarship 2015</span><br>
 
 ## Invited Talks
@@ -55,6 +55,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span style="font-size: 85%;">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
 <span style="font-size: 85%;">• [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
+
 
 
 
