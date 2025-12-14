@@ -14,7 +14,7 @@ permalink:  /100_things/
     }
 </style>
 
-Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>, I decided to make my own list of 100 things that I want to do before I die.
+<span style="font-size: 85%;">Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>, I decided to make my own list of 100 things that I want to do before I die.</span>
 
 <span style="font-size: 85%;">1. Climb the Himalayas</span><br>
 <span style="font-size: 85%;">2. Hot Air Balloon in Cappadocia</span><br>
