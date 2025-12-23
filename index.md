@@ -108,7 +108,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 
 <br>
 
-<span style="font-size: 85%;">Interested in collaborating, advice, or chatting? Drop me an email at: <a href="mailto:sarthakbhagatoutreach@gmail.com">sarthakbhagatoutreach@gmail.com</a>.</span>
+<span style="font-size: 85%;">Interested in collaborating, advice, or chatting? Arrange a <a href="https://topmate.io/sarthak_bhagat">call with me</a> (preferred) or drop me an email at: <a href="mailto:sarthakbhagatoutreach@gmail.com">sarthakbhagatoutreach@gmail.com</a>.</span>
 
 <br><br>
 
