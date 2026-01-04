@@ -74,7 +74,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">56. Caves in Vietnam</span><br>
 <span style="font-size: 85%;">57. Go to Banff National Park</span><br>
 <span style="font-size: 85%;">58. Guest Lecture in a University</span><br>
-<span style="font-size: 85%;">59. Visit 20 National Parks in the US (11 / 20)</span><br>
+<span style="font-size: 85%;">59. Visit 20 National Parks in the US (13 / 20)</span><br>
 <span style="font-size: 85%;">60. Solo Hike</span><br>
 <span style="font-size: 85%;">61. Shark Cage Diving</span><br>
 <span style="font-size: 85%;">62. <s>Wine at Napa Valley</s></span><br>
