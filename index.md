@@ -23,7 +23,7 @@ permalink:  /
 
 ## News
 
-- <span style="font-size: 85%;">[Nov 25] Joined 1x as a research engineer to work on RL for manipulation.</span>
+- <span style="font-size: 85%;">[Nov 25] Joined 1x as a research engineer to work on manipulation for NEO.</span>
 - <span style="font-size: 85%;">[Sept 25] Presenting at the Scaleup Summit in SF.</span>
 - <span style="font-size: 85%;">[Aug 25] Presenting [NVIDIA DLI Training Session](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/) at SIGGRAPH'25 in Vancouver.</span>
 - <span style="font-size: 85%;">[May 25] Received the best paper award at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25.</span>
@@ -78,7 +78,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 
 <br>
 <h6> Research Engineer, <a href="https://www.1x.tech/">1x Technologies</a></h6>
-<span style="font-size: 85%;">• RL for manipulation (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>)</span><br>
+<span style="font-size: 85%;">• Robot Learning for Manipulation (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>)</span><br>
 
 <h6> Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team</span><br>
