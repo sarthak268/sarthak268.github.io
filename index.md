@@ -23,6 +23,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[Dec 25] Gave an AMA session on Robotics at my alma mater, IIIT Delhi.</span>
 - <span style="font-size: 85%;">[Nov 25] Joined 1x as a research engineer to work on manipulation for NEO.</span>
 - <span style="font-size: 85%;">[Sept 25] Presenting at the Scaleup Summit in San Francisco.</span>
 - <span style="font-size: 85%;">[Aug 25] Presenting [NVIDIA DLI Training Session](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/) at SIGGRAPH'25 in Vancouver.</span>
