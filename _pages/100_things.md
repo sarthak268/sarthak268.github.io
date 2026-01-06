@@ -63,8 +63,8 @@ permalink:  /100_things/
 <span style="font-size: 85%;">45. <s>Sunset at Taj Mahal</s></span><br>
 <span style="font-size: 85%;">46. Attend a Traditional Tea Ceremony</span><br>
 <span style="font-size: 85%;">47. Stay in an Overwater Bungalow</span><br>
-<span style="font-size: 85%;">48. Go Dog Sledding in Lapland </span><br>
-<span style="font-size: 85%;">49. <s>Go Whale Watching</s> (Channel Islands NP, CA)</span><br>
+<span style="font-size: 85%;">48. Go dog sledding in Lapland </span><br>
+<span style="font-size: 85%;">49. <s>Go whale watching</s> (Channel Islands NP, CA)</span><br>
 <span style="font-size: 85%;">50. Party at Rio carnival</span><br>
 <span style="font-size: 85%;">51. Float in the Dead Sea</span><br>
 <span style="font-size: 85%;">52. Swim in the Great Barrier Reef</span><br>
