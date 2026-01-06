@@ -51,7 +51,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">33. Read 1000 books</span><br>
 <span style="font-size: 85%;">34. Visit all continents (3 / 10)</span><br>
 <span style="font-size: 85%;">35. Week-long cruise</span><br>
-<span style="font-size: 85%;">36. <s>Route 66 East to West Coast</s> (Pittsburgh to San Franscisco)</span><br>
+<span style="font-size: 85%;">36. <s>Route 66 East to West Coast</s> (Pittsburgh to San Francisco)</span><br>
 <span style="font-size: 85%;">37. Visit all US states</span><br>
 <span style="font-size: 85%;">38. Visit all Indian states</span><br>
 <span style="font-size: 85%;">39. Dine in the sky on Burj Khalifa</span><br>
