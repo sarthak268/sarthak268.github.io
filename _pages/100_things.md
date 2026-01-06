@@ -90,14 +90,14 @@ permalink:  /100_things/
 <span style="font-size: 85%;">72. Camp in a desert</span><br>
 <span style="font-size: 85%;">73. See a comet</span><br>
 <span style="font-size: 85%;">74. <s>Watch a meteor shower</s> (Geminids near Pittsburgh)</span><br>
-<span style="font-size: 85%;">75. Run a half marathon</span><br>
-<span style="font-size: 85%;">76. Learn a foreign language</span><br>
+<span style="font-size: 85%;">75. Run a marathon</span><br>
+<span style="font-size: 85%;">76. Watch a rocket launch live</span><br>
 <span style="font-size: 85%;">77. Stargazing in Hawaii</span><br>
 <span style="font-size: 85%;">78. Watch a football game in Spain</span><br>
 <span style="font-size: 85%;">79. Be on a news channel or on a newspaper</span><br>
 <span style="font-size: 85%;">80. Walk on the Great Wall of China</span><br>
 <span style="font-size: 85%;">81. See Earth from space</span><br>
-<span style="font-size: 85%;">82. Watch a rocket launch live</span><br>
+<span style="font-size: 85%;">82. </span><br>
 <span style="font-size: 85%;">83. </span><br>
 <span style="font-size: 85%;">84. </span><br>
 <span style="font-size: 85%;">85. </span><br>
