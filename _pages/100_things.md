@@ -30,7 +30,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">12. North Pole</span><br>
 <span style="font-size: 85%;">13. South Pole</span><br>
 <span style="font-size: 85%;">14. Live in a tree house</span><br>
-<span style="font-size: 85%;">15. Watch Aurora with someone I love</span><br>
+<span style="font-size: 85%;">15. <s>Watch Aurora with someone I love</s></span><br>
 <span style="font-size: 85%;">16. Experience zero gravity</span><br>
 <span style="font-size: 85%;">17. Attend a football game in Europe</span><br>
 <span style="font-size: 85%;">18. <s>Solo backpacking in another country</s> (Heidelberg in Germany)</span><br>
