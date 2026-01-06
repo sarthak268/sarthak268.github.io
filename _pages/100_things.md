@@ -97,7 +97,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">79. Be on a news channel or on a newspaper</span><br>
 <span style="font-size: 85%;">80. Walk on the Great Wall of China</span><br>
 <span style="font-size: 85%;">81. See Earth from space</span><br>
-<span style="font-size: 85%;">82. </span><br>
+<span style="font-size: 85%;">82. See the Northern Lights in Alaska</span><br>
 <span style="font-size: 85%;">83. </span><br>
 <span style="font-size: 85%;">84. </span><br>
 <span style="font-size: 85%;">85. </span><br>
