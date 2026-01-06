@@ -39,7 +39,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">21. Hike Amazon rainforest</span><br>
 <span style="font-size: 85%;">22. Skii in Switzerland</span><br>
 <span style="font-size: 85%;">23. Hike Grand Canyon</span><br>
-<span style="font-size: 85%;">24. Sky Diving</span><br>
+<span style="font-size: 85%;">24. Sky diving</span><br>
 <span style="font-size: 85%;">25. <s>Bungee Jumping</s> (Pokhara, Nepal)</span><br>
 <span style="font-size: 85%;">26. Write a biography</span><br>
 <span style="font-size: 85%;">27. <s>Publish in a top-tier conference</s> (ECCV'20)</span><br>
