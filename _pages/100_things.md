@@ -61,8 +61,8 @@ permalink:  /100_things/
 <span style="font-size: 85%;">43. Paragliding</span><br>
 <span style="font-size: 85%;">44. Walk the Great Wall of China</span><br>
 <span style="font-size: 85%;">45. <s>Sunset at Taj Mahal</s></span><br>
-<span style="font-size: 85%;">46. Attend a Traditional Tea Ceremony</span><br>
-<span style="font-size: 85%;">47. Stay in an Overwater Bungalow</span><br>
+<span style="font-size: 85%;">46. Attend a traditional tea ceremony</span><br>
+<span style="font-size: 85%;">47. Stay in an overwater bungalow</span><br>
 <span style="font-size: 85%;">48. Go dog sledding in Lapland </span><br>
 <span style="font-size: 85%;">49. <s>Go whale watching</s> (Channel Islands NP, CA)</span><br>
 <span style="font-size: 85%;">50. Party at Rio carnival</span><br>
@@ -82,9 +82,9 @@ permalink:  /100_things/
 <span style="font-size: 85%;">64. <s>Visit a tulip farm</s> (Roozengaarde, WA)</span><br>
 <span style="font-size: 85%;">65. Tour the Colosseum</span><br>
 <span style="font-size: 85%;">66. <s>Tour the Louvre museum</s></span><br>
-<span style="font-size: 85%;">67. Michelin Star Date</span><br>
+<span style="font-size: 85%;">67. Michelin star date</span><br>
 <span style="font-size: 85%;">68. Psychedlic or mind expanding retreats</span><br>
-<span style="font-size: 85%;">69. Try Sandboarding</span><br>
+<span style="font-size: 85%;">69. Try sandboarding</span><br>
 <span style="font-size: 85%;">70. Sleep on the beach under the sky</span><br>
 <span style="font-size: 85%;">71. Author a patent</span><br>
 <span style="font-size: 85%;">72. Camp in a desert</span><br>
