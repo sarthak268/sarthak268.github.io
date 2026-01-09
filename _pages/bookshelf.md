@@ -121,6 +121,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Naval Ravikant: The Beginning of Infinity - Arjun Khemani</span><br>
 <span style="font-size: 85%;">7. Joe Rogan Experience #2217 - Brian Cox</span><br>
 <span style="font-size: 85%;">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span><br>
+<span style="font-size: 85%;">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span><br>
 
 <br>
 <span style="font-size: 85%;">Have a recommendation? [Let me know!](//twitter.com/@sarthak__bhagat)</span><br>
