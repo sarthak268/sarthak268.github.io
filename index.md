@@ -80,7 +80,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <br>
 <h6> Research Engineer, <a href="https://www.1x.tech/">1x Technologies</a></h6>
 <span style="font-size: 85%;">• Robot learning for dexterous manipulation for <a href="https://www.1x.tech/neo">NEO</a></span><br>
-<span style="font-size: 85%;">• Redwood (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>): our end-to-end mobile manipulation stack</span><br>
+<span style="font-size: 85%;">• Redwood (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>): our end-to-end VLA-driven mobile manipulation stack</span><br>
 
 <h6> Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
 <span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team</span><br>
