@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      Lex Fridman Podcast \#252 -- Elon Musk
+title:      Lex Fridman Podcast #252 -- Elon Musk
 
 permalink:  /bookshelf/lex_elon_252/
 ---
