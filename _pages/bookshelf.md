@@ -123,7 +123,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span><br>
 <span style="font-size: 85%;">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span><br>
 
-Some of my favourite documentaries:
+<span style="font-size: 85%;">Some of my favorite documentaries include:</span><br>
 
 <span style="font-size: 85%;">1. <a href="https://youtu.be/d95J8yzvjbQ?si=rX04eGo_SIrlgyZZ">The Thinking Game</a></span><br>
 
