@@ -17,13 +17,13 @@ permalink:  /misc/
 ## Interests
 
 <span style="font-size: 85%;">• Reading (autobiographies, biographies, science, self-help, almost anything)</span><br>
-<span style="font-size: 85%;">• Physics, Astronomy, Robotics (always up for an insightful physics discussion)</span><br>
-<span style="font-size: 85%;">• Photography ([follow me!](https://www.instagram.com/shot.by.sarthak/))</span><br>
+<span style="font-size: 85%;">• Physics, astronomy, robotics (always up for an insightful physics discussion)</span><br>
 <span style="font-size: 85%;">• [Traveling](https://sarthak268.github.io/travel/) & Hiking</span><br>
 <span style="font-size: 85%;">• Startups (love discussing about startups, [reach out](https://x.com/sarthak__bhagat) if you wanna chat!)</span><br>
 <span style="font-size: 85%;">• Chess (ELO: 1644)</span><br>
 <span style="font-size: 85%;">• Football (watch + play + fifa)</span><br>
-<span style="font-size: 85%;">• Gym, Table-Tennis, Tennis (I'm still a noob)</span><br>
+<span style="font-size: 85%;">• Gym, table tennis, tennis (I'm still a noob)</span><br>
+<span style="font-size: 85%;">• Photography ([follow me!](https://www.instagram.com/shot.by.sarthak/))</span><br>
 
 ## Awards and Honors
 
