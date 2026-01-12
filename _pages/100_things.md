@@ -74,11 +74,11 @@ permalink:  /100_things/
 <span style="font-size: 85%;">56. Caves in Vietnam</span><br>
 <span style="font-size: 85%;">57. Go to Banff National Park</span><br>
 <span style="font-size: 85%;">58. Guest lecture in a university</span><br>
-<span style="font-size: 85%;">59. Visit 20 national parks in the US (13 / 20)</span><br>
+<span style="font-size: 85%;">59. Visit 20 national parks in the US (14 / 20)</span><br>
 <span style="font-size: 85%;">60. Solo hike</span><br>
 <span style="font-size: 85%;">61. Shark cage diving</span><br>
 <span style="font-size: 85%;">62. <s>Wine at Napa Valley</s></span><br>
-<span style="font-size: 85%;">63. Visit 10+ ski resorts (2 / 10)</span><br>
+<span style="font-size: 85%;">63. Visit 10+ ski resorts (2 / 5)</span><br>
 <span style="font-size: 85%;">64. <s>Visit a tulip farm</s> (Roozengaarde, WA)</span><br>
 <span style="font-size: 85%;">65. Tour the Colosseum</span><br>
 <span style="font-size: 85%;">66. <s>Tour the Louvre museum</s></span><br>
