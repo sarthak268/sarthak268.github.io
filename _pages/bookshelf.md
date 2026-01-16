@@ -107,7 +107,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span><br>
 <span style="font-size: 85%;">8. Anti-fragile by Nassim Taleb</span><br>
 <span style="font-size: 85%;">9. We Are All Stardust by Stefan Klein</span><br>
-<span style="font-size: 85%;">10. When the Heavens went Sale by Ashlee Vance</span><br>
+<span style="font-size: 85%;">10. <span style="background-color: yellow;">When the Heavens went Sale by Ashlee Vance</span></span><br>
 
 <br>
 
