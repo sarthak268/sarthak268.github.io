@@ -22,7 +22,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">4. African safari in Masai Mara</span><br>
 <span style="font-size: 85%;">5. Visit the Pyramids of Giza</span><br>
 <span style="font-size: 85%;">6. Learn scuba diving</span><br>
-<span style="font-size: 85%;">7. Learn skiing</span><br>
+<span style="font-size: 85%;">7. <s>Learn skiing</s> (Summit at Snoqualmie, WA) <s>and snowboarding</s> (Sierra at Tahoe, CA)</span><br>
 <span style="font-size: 85%;">8. Get a pilot's license</span><br>
 <span style="font-size: 85%;">9. <s>Visit Eiffel Tower</s> (Thanks to ICCV'23)</span><br>
 <span style="font-size: 85%;">10. Sakura season in Japan</span><br>
@@ -78,7 +78,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">60. Solo hike</span><br>
 <span style="font-size: 85%;">61. Shark cage diving</span><br>
 <span style="font-size: 85%;">62. <s>Wine at Napa Valley</s></span><br>
-<span style="font-size: 85%;">63. Visit 10+ ski resorts (2 / 5)</span><br>
+<span style="font-size: 85%;">63. Visit 10+ ski resorts (3 / 10)</span><br>
 <span style="font-size: 85%;">64. <s>Visit a tulip farm</s> (Roozengaarde, WA)</span><br>
 <span style="font-size: 85%;">65. Tour the Colosseum</span><br>
 <span style="font-size: 85%;">66. <s>Tour the Louvre museum</s></span><br>
