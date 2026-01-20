@@ -18,7 +18,7 @@ permalink:  /misc/
 
 <span style="font-size: 85%;">• Reading - biographies, physics, philosophy, business. Check out my [bookshelf](https://sarthak268.github.io/bookshelf/).</span><br>
 <span style="font-size: 85%;">• Physics & astronomy - black holes, quantum mechanics, the origin of the universe.</span><br>
-<span style="font-size: 85%;">• [Traveling](https://sarthak268.github.io/travel/) & hiking - 14 US national parks and counting.</span><br>
+<span style="font-size: 85%;">• [Traveling](https://sarthak268.github.io/travel/) & hiking</span><br>
 <span style="font-size: 85%;">• Startups - fascinated by how things get built from zero. [Let's chat!](https://x.com/sarthak__bhagat)</span><br>
 <span style="font-size: 85%;">• Chess - ELO 1644. Always looking for a game.</span><br>
 <span style="font-size: 85%;">• Football - watching, playing, and FIFA</span><br>

@@ -80,33 +80,33 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <br>
 <h6> Research Engineer, <a href="https://www.1x.tech/">1x Technologies</a></h6>
 <span style="font-size: 85%;">• Robot learning for manipulation with <a href="https://www.1x.tech/neo">NEO</a></span><br>
-<span style="font-size: 85%;">• Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>): our end-to-end VLA-driven mobile manipulation stack</span><br>
+<span style="font-size: 85%;">• Building Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</span><br>
 
 <h6> Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a> </h6>
-<span style="font-size: 85%;">• 6th employee at the company and the first hire for the robotics team</span><br>
-<span style="font-size: 85%;">• Led sim2real reinforcement learning (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>) and technical customer engagements</span><br>
-<span style="font-size: 85%;">• Co-led integration of Isaac Sim into <a href="https://grid.generalrobotics.dev/">GRID platform</a> with 3000+ active users and 10+ enterprise clients (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
-<span style="font-size: 85%;">• Worked on humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds, manipulator arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</span><br>
+<span style="font-size: 85%;">• Employee #6, first hire for the robotics team</span><br>
+<span style="font-size: 85%;">• Led sim2real RL efforts (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>) - getting policies from simulation to the real world</span><br>
+<span style="font-size: 85%;">• Co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> - now used by 3000+ users and 10+ enterprise clients (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">post</a>)</span><br>
+<span style="font-size: 85%;">• Humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds, arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</span><br>
 
 <h6> Master's in Robotics, CMU </h6>
-<span style="font-size: 85%;">• Improving robotic perception and interaction through structured domain knowledge priors (<a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">thesis</a>)</span><br>
+<span style="font-size: 85%;">• Improving robotic perception and interaction using structured domain knowledge (<a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">thesis</a>)</span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a></span><br>
 
 <h6> Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a> </h6>
-<span style="font-size: 85%;">• 3D vision for drone-based photogrammetry</span><br>
+<span style="font-size: 85%;">• Reconstructing 3D scenes from sparse drone images</span><br>
 
 <h6> <a href="https://www.clvrai.com/">CLVR Lab</a>, USC </h6>
-<span style="font-size: 85%;">• Adaptation of policies to novel unseen environments, continual learning of skills </span><br>
+<span style="font-size: 85%;">• Adapting robot policies to new environments without forgetting old skills</span><br>
 <span style="font-size: 85%;">• Advised by <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a></span><br>
 
 <h6> SUTD Brain Lab </h6>
-<span style="font-size: 85%;">• Disentanglement of video sequences using Gaussian process priors (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</span><br>
+<span style="font-size: 85%;">• Disentangling video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</span><br>
 
 <h6> B.Tech (with honors), IIIT Delhi </h6>
-<span style="font-size: 85%;">• Unsupervised representation learning to disentangle multiple factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>)</span><br>
+<span style="font-size: 85%;">• Disentangling factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>)</span><br>
 <span style="font-size: 85%;">• Advised by <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> and <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a></span><br>
-<span style="font-size: 85%;">• Worked on target tracking using deep reinforcement learning (<a href="https://ieeexplore.ieee.org/abstract/document/9213856">paper</a>)</span><br>
-<span style="font-size: 85%;">• Part of the autonomous driving team, <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demo</a>)</span><br>
+<span style="font-size: 85%;">• Target tracking with deep RL (<a href="https://ieeexplore.ieee.org/abstract/document/9213856">paper</a>)</span><br>
+<span style="font-size: 85%;">• Part of autonomous driving team <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demo</a>)</span><br>
 
 <br>
 
