@@ -14,9 +14,9 @@ permalink:  /travel/
     }
 </style>
 
-> “How can I leave my mark on the world, I thought, unless I get out there first and see it?”  
+> "How can I leave my mark on the world, I thought, unless I get out there first and see it?"
 > – Phil Knight, Shoe Dog
 
-A map depicting the places around the world I have been to.
+A map of everywhere I've been so far. Working on filling in the gaps.
 
 <img src="/img/travel.png">

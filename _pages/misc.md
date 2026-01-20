@@ -16,29 +16,29 @@ permalink:  /misc/
 
 ## Interests
 
-<span style="font-size: 85%;">• Reading (autobiographies, biographies, science, self-help, almost anything)</span><br>
-<span style="font-size: 85%;">• Physics, astronomy, robotics (always up for an insightful physics discussion)</span><br>
+<span style="font-size: 85%;">• Reading - autobiographies, science, self-help, basically anything. See my [bookshelf](https://sarthak268.github.io/bookshelf/).</span><br>
+<span style="font-size: 85%;">• Physics & astronomy - always up for a good conversation about black holes or quantum mechanics</span><br>
 <span style="font-size: 85%;">• [Traveling](https://sarthak268.github.io/travel/) & hiking</span><br>
-<span style="font-size: 85%;">• Startups (love discussing about startups, [reach out](https://x.com/sarthak__bhagat) if you wanna chat!)</span><br>
+<span style="font-size: 85%;">• Startups - fascinated by how things get built from zero. [Let's chat!](https://x.com/sarthak__bhagat)</span><br>
 <span style="font-size: 85%;">• Chess (ELO: 1644)</span><br>
-<span style="font-size: 85%;">• Football (watch + play + fifa)</span><br>
-<span style="font-size: 85%;">• Gym + all kinds of racket sports (I'm still a noob)</span><br>
-<span style="font-size: 85%;">• Photography ([places through my lens!](https://www.instagram.com/shot.by.sarthak/))</span><br>
-<span style="font-size: 85%;">• Chasing good food & hidden gems ([my food diary!](https://beliapp.co/app/sarthakbhagat))</span><br>
+<span style="font-size: 85%;">• Football - watching, playing, and FIFA</span><br>
+<span style="font-size: 85%;">• Gym + racket sports (still a noob)</span><br>
+<span style="font-size: 85%;">• Photography - [places through my lens](https://www.instagram.com/shot.by.sarthak/)</span><br>
+<span style="font-size: 85%;">• Food hunting - always looking for hidden gems ([my food diary](https://beliapp.co/app/sarthakbhagat))</span><br>
 
 ## Awards and Honors
 
-<span style="font-size: 85%;">• AI Startup School, Y Combinator, 2025 </span><br>
-<span style="font-size: 85%;">• Best Paper Award at NoC Workshop, ICRA 2025</span><br>
-<span style="font-size: 85%;">• Heidelberg Laureate Fellowship 2023 </span><br>
-<span style="font-size: 85%;">• Best Demo Paper Award at ACM MM Asia 2022</span><br>
-<span style="font-size: 85%;">• Dean’s Award for Excellent Academic Performance, IIIT-Delhi</span><br>
-<span style="font-size: 85%;">• Chairman's Merit Scholarship, IIIT-Delhi</span><br>
-<span style="font-size: 85%;">• Dean’s Award for Innovation, Research, and Development, IIIT-Delhi</span><br>
-<span style="font-size: 85%;">• Indian National Academy of Engineering (INAE) Fellowship</span><br>
-<span style="font-size: 85%;">• Placed 6/70 International Teams in AUVSI SUAS 2018, Maryland, USA</span><br>
-<span style="font-size: 85%;">• 2nd Place: CanSat Development and Deployment Competition 2017 at DTU</span><br>
-<span style="font-size: 85%;">• KVPY Scholarship 2015</span><br>
+<span style="font-size: 85%;">• Y Combinator AI Startup School, 2025</span><br>
+<span style="font-size: 85%;">• Best Paper Award, NoC Workshop @ ICRA 2025</span><br>
+<span style="font-size: 85%;">• Heidelberg Laureate Fellowship, 2023 - got to meet Turing and Fields Medal winners</span><br>
+<span style="font-size: 85%;">• Best Demo Paper, ACM MM Asia 2022</span><br>
+<span style="font-size: 85%;">• Dean's Award for Academic Performance, IIIT-Delhi (4 semesters)</span><br>
+<span style="font-size: 85%;">• Chairman's Merit Scholarship, IIIT-Delhi (top 4 / 278)</span><br>
+<span style="font-size: 85%;">• Dean's Award for Innovation, R&D, IIIT-Delhi</span><br>
+<span style="font-size: 85%;">• INAE Fellowship from IISc</span><br>
+<span style="font-size: 85%;">• 6th / 70 international teams, AUVSI SUAS 2018, Maryland</span><br>
+<span style="font-size: 85%;">• 2nd Place, CanSat Competition 2017, DTU</span><br>
+<span style="font-size: 85%;">• KVPY Scholarship, 2015 (top 0.3%)</span><br>
 
 ## Invited Talks
 
