@@ -25,11 +25,10 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari</span><br>
 <span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking</span><br>
 <span style="font-size: 85%;">3. 21 Lessons from the 21st Century by Yuval Noah Harari</span><br>
-<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span></span><br>
+<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span> (four strands: quantum physics, epistemology, computation, evolution 🧩)</span><br>
 <span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span><br>
 <span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (absolutely mindboggling
-🤯)</span><br>
+<span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (changed how I think about progress 🤯)</span><br>
 <span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (a must read for physics enthusiasts 🌍)</span><br>
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
@@ -37,12 +36,12 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
 <span style="font-size: 85%;">13. <span style="background-color: yellow;">Life As No One Knows It by Sara Imari Walker</span> (life's emergence from the lens of Assembly theory 🌿)</span><br>
 <span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shephard and Deke Slayton</a></span><br>
-<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (space + economics)</span><br>
-<span style="font-size: 85%;">16. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's materials)</span><br>
+<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (space + economics 📈)</span><br>
+<span style="font-size: 85%;">16. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's ideas ✨)</span><br>
 
 ## Self-Growth
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (highly recommended 🧠)</span><br>
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (wealth and happiness distilled 🧠)</span><br>
 <span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
 <span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
 <span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
@@ -55,7 +54,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Autobiography / Biography
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span></span><br>
+<span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span> (the grittiest founder story 👟)</span><br>
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span><br>
 <span style="font-size: 85%;">3. Can’t Hurt Me by David Goggins</span><br>
 <span style="font-size: 85%;">4. Becoming by Michelle Obama</span><br>
@@ -63,7 +62,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Limitless by Radhika Gupta</span><br>
 <span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
 <span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span><br>
-<span style="font-size: 85%;">9. <span style="background-color: yellow;">When Breath Becomes Air by Paul Kalanithi</span></span><br>
+<span style="font-size: 85%;">9. <span style="background-color: yellow;">When Breath Becomes Air by Paul Kalanithi</span> (beautiful and heartbreaking 💔)</span><br>
 <span style="font-size: 85%;">10. Mind Master by Viswanathan Anand</span><br>
 <span style="font-size: 85%;">11. A Shot at History by Abhinav Bindra</span><br>
 <span style="font-size: 85%;">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span><br>
@@ -75,7 +74,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 <span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
 <span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
-<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Lie (my favourite fiction)</span><br>
+<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Liu (mind-bending sci-fi 🌌)</span><br>
 
 ## Entrepreneurship
 
@@ -83,9 +82,9 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span><br>
 <span style="font-size: 85%;">3. Radical Candor by Kim Scott</span><br>
 <span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span><br>
-<span style="font-size: 85%;">5. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book)</span><br>
+<span style="font-size: 85%;">5. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book 🤷)</span><br>
 <span style="font-size: 85%;">6. No Rules Rules by Reed Hastings, Erin Meyer</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;">That Will Never Work by Marc Randolph</span></span><br>
+<span style="font-size: 85%;">7. <span style="background-color: yellow;">That Will Never Work by Marc Randolph</span> (Netflix's chaotic origin story 📺)</span><br>
 
 ## Finance
 
@@ -104,14 +103,14 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span><br>
+<span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span> (why the future is brighter than we think 🌅)</span><br>
 <span style="font-size: 85%;">8. Anti-fragile by Nassim Taleb</span><br>
 <span style="font-size: 85%;">9. We Are All Stardust by Stefan Klein</span><br>
-<span style="font-size: 85%;">10. <span style="background-color: yellow;">When the Heavens went Sale by Ashlee Vance</span></span><br>
+<span style="font-size: 85%;">10. <span style="background-color: yellow;">When the Heavens Went on Sale by Ashlee Vance</span> (the new space race 🚀)</span><br>
 
 <br>
 
-<span style="font-size: 85%;">I also love listening to insightful podcasts/talks, some of my favorites include:</span><br>
+<span style="font-size: 85%;">When I'm not reading, I'm probably listening to one of these podcasts or talks:</span><br>
 
 <span style="font-size: 85%;">1. David Deutsch and Naval Ravikant - The Tim Ferriss Show</span><br>
 <span style="font-size: 85%;">2. Joe Rogan Experience #1309 - Naval Ravikant</span><br>
@@ -123,9 +122,9 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span><br>
 <span style="font-size: 85%;">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span><br>
 
-<span style="font-size: 85%;">Some of my favorite documentaries include:</span><br>
+<span style="font-size: 85%;">And a few documentaries that left a mark:</span><br>
 
 <span style="font-size: 85%;">1. <a href="https://youtu.be/d95J8yzvjbQ?si=rX04eGo_SIrlgyZZ">The Thinking Game</a></span><br>
 
 <br>
-<span style="font-size: 85%;">Have a recommendation? [Let me know!](//twitter.com/@sarthak__bhagat)</span><br>
+<span style="font-size: 85%;">Got a book I should read? [I'm all ears.](//twitter.com/@sarthak__bhagat)</span><br>

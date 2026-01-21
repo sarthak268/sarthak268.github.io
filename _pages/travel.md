@@ -17,6 +17,6 @@ permalink:  /travel/
 > "How can I leave my mark on the world, I thought, unless I get out there first and see it?"
 > – Phil Knight, Shoe Dog
 
-A map of everywhere I've been so far. Working on filling in the gaps.
+<span style="font-size: 85%;">Here's everywhere I've wandered so far. Still plenty of pins left to drop.</span>
 
 <img src="/img/travel.png">

@@ -23,7 +23,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">• Chess - ELO 1644. Always looking for a game.</span><br>
 <span style="font-size: 85%;">• Football - watching, playing, and FIFA</span><br>
 <span style="font-size: 85%;">• Gym + racket sports (still a noob)</span><br>
-<span style="font-size: 85%;">• Photography - [places through my lens](https://www.instagram.com/shot.by.sarthak/)</span><br>
+<span style="font-size: 85%;">• Photography - <a href="https://www.instagram.com/shot.by.sarthak/" target="_blank">places through my lens</a></span><br>
 <span style="font-size: 85%;">• Food - chasing good food & hidden gems ([my food diary](https://beliapp.co/app/sarthakbhagat))</span><br>
 
 ## Awards and Honors
@@ -53,7 +53,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">• Winter School on AI, IIIT-Delhi -- 2019</span><br>
 <span style="font-size: 85%;">• [Computer Vision and Pattern Discovery Group, Bioinformatics Institute, A*STAR](https://www.a-star.edu.sg/bii/research/ciid/cvpd) -- 2019</span><br>
 
-## More...
+## Odds & Ends
 
 <span style="font-size: 85%;">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span style="font-size: 85%;">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
