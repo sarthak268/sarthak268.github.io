@@ -20,7 +20,7 @@ permalink:  /bookshelf/
 <span style="font-size: 85%;">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
 Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span>.</span><br>
 
-## Science / History
+## Science & History
 
 <span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari</span><br>
 <span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking</span><br>
@@ -39,7 +39,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (space + economics 📈)</span><br>
 <span style="font-size: 85%;">16. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's ideas ✨)</span><br>
 
-## Self-Growth
+## Personal Growth
 
 <span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (wealth and happiness distilled 🧠)</span><br>
 <span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
@@ -52,7 +52,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">9. Principles by Ray Dalio</span><br>
 <span style="font-size: 85%;">10. The Art of Thinking Clearly by Rolf Dobelli</span><br>
 
-## Autobiography / Biography
+## Biographies & Memoirs
 
 <span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span> (the grittiest founder story 👟)</span><br>
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span><br>
@@ -86,7 +86,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. No Rules Rules by Reed Hastings, Erin Meyer</span><br>
 <span style="font-size: 85%;">7. <span style="background-color: yellow;">That Will Never Work by Marc Randolph</span> (Netflix's chaotic origin story 📺)</span><br>
 
-## Finance
+## Finance & Investing
 
 <span style="font-size: 85%;">1. The Intelligent Investor by Benjamin Graham</span><br>
 <span style="font-size: 85%;">2. Think and Grow Rich by Napoleon Hill</span><br>
@@ -95,7 +95,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">5. The Psychology of Money by Morgan Housel</span><br>
 <span style="font-size: 85%;">6. Rich Dad Poor Dad by Robert T. Kiyosaki</span><br>
 
-## Misc
+## Eclectic Picks
 
 <span style="font-size: 85%;">1. Think Again by Adam Grant</span><br>
 <span style="font-size: 85%;">2. What I Know For Sure by Oprah Winfrey</span><br>
