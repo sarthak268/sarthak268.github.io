@@ -6,6 +6,9 @@ permalink:  /bookshelf/five_moves_ahead/
 ---
 
 <style type="text/css">
+    .post-content {
+        font-size: 85%;
+    }
     strong {
         color: #3498db;
         font-weight: 400;

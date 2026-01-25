@@ -6,6 +6,9 @@ permalink:  /bookshelf/winner_effect/
 ---
 
 <style type="text/css">
+    .post-content {
+        font-size: 85%;
+    }
     strong {
         color: #3498db;
         font-weight: 400;
