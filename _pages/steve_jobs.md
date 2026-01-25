@@ -6,7 +6,7 @@ permalink:  /bookshelf/steve_jobs/
 ---
 
 <style type="text/css">
-    .post-content {
+    .post .post-content {
         font-size: 85%;
     }
     strong {

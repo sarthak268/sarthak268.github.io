@@ -6,7 +6,7 @@ permalink:  /bookshelf/five_moves_ahead/
 ---
 
 <style type="text/css">
-    .post-content {
+    .post .post-content {
         font-size: 85%;
     }
     strong {

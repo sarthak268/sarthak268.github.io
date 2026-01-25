@@ -6,7 +6,7 @@ permalink:  /bookshelf/einstein/
 ---
 
 <style type="text/css">
-    .post-content {
+    .post .post-content {
         font-size: 85%;
     }
     strong {

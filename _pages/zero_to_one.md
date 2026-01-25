@@ -5,7 +5,7 @@ permalink:  /bookshelf/zero_to_one/
 ---
 
 <style type="text/css">
-    .post-content {
+    .post .post-content {
         font-size: 85%;
     }
     strong {

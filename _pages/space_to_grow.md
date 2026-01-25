@@ -6,7 +6,7 @@ permalink:  /bookshelf/space_to_grow/
 ---
 
 <style type="text/css">
-    .post-content {
+    .post .post-content {
         font-size: 85%;
     }
     strong {
