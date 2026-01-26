@@ -6,11 +6,20 @@ permalink:  /bookshelf/
 
 <style type="text/css">
     strong {
-        color: #3498db;
+        color: var(--accent-blue);
         font-weight: 400;
     }
     blockquote {
         padding: 0px 23px;
+    }
+    .highlight-book {
+        background-color: #fef08a;
+        padding: 1px 3px;
+        border-radius: 2px;
+    }
+    [data-theme="dark"] .highlight-book {
+        background-color: #854d0e;
+        color: #fef9c3;
     }
 </style>
 
@@ -18,30 +27,30 @@ permalink:  /bookshelf/
 > – George R.R. Martin
 
 <span style="font-size: 85%;">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
-Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are highlighted in <span style="background-color: yellow;">yellow</span>.</span><br>
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are <span class="highlight-book">highlighted</span>.</span><br>
 
 ## Science & History
 
 <span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari</span><br>
 <span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking</span><br>
 <span style="font-size: 85%;">3. 21 Lessons from the 21st Century by Yuval Noah Harari</span><br>
-<span style="font-size: 85%;">4. <span style="background-color: yellow;">The Fabric of Reality by David Deutsch</span> (four strands: quantum physics, epistemology, computation, evolution 🧩)</span><br>
+<span style="font-size: 85%;">4. <span class="highlight-book">The Fabric of Reality by David Deutsch</span> (four strands: quantum physics, epistemology, computation, evolution 🧩)</span><br>
 <span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span><br>
 <span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;">The Beginning of Infinity by David Deutsch</span> (changed how I think about progress 🤯)</span><br>
-<span style="font-size: 85%;">8. <span style="background-color: yellow;">Reality is not what it seems by Carlo Rovelli</span> (a must read for physics enthusiasts 🌍)</span><br>
+<span style="font-size: 85%;">7. <span class="highlight-book">The Beginning of Infinity by David Deutsch</span> (changed how I think about progress 🤯)</span><br>
+<span style="font-size: 85%;">8. <span class="highlight-book">Reality is not what it seems by Carlo Rovelli</span> (a must read for physics enthusiasts 🌍)</span><br>
 <span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
 <span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
-<span style="font-size: 85%;">11. <span style="background-color: yellow;">The Selfish Gene by Richard Dawkin</span> (my favorite biology book 🧬)</span><br>
+<span style="font-size: 85%;">11. <span class="highlight-book">The Selfish Gene by Richard Dawkin</span> (my favorite biology book 🧬)</span><br>
 <span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
-<span style="font-size: 85%;">13. <span style="background-color: yellow;">Life As No One Knows It by Sara Imari Walker</span> (life's emergence from the lens of Assembly theory 🌿)</span><br>
+<span style="font-size: 85%;">13. <span class="highlight-book">Life As No One Knows It by Sara Imari Walker</span> (life's emergence from the lens of Assembly theory 🌿)</span><br>
 <span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shephard and Deke Slayton</a></span><br>
 <span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (space + economics 📈)</span><br>
-<span style="font-size: 85%;">16. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's ideas ✨)</span><br>
+<span style="font-size: 85%;">16. <span class="highlight-book"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's ideas ✨)</span><br>
 
 ## Personal Growth
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">The Almanack of Naval Ravikant</span> (wealth and happiness distilled 🧠)</span><br>
+<span style="font-size: 85%;">1. <span class="highlight-book">The Almanack of Naval Ravikant</span> (wealth and happiness distilled 🧠)</span><br>
 <span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
 <span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
 <span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
@@ -54,7 +63,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Biographies & Memoirs
 
-<span style="font-size: 85%;">1. <span style="background-color: yellow;">Shoe Dog by Phil Knight</span> (the grittiest founder story 👟)</span><br>
+<span style="font-size: 85%;">1. <span class="highlight-book">Shoe Dog by Phil Knight</span> (the grittiest founder story 👟)</span><br>
 <span style="font-size: 85%;">2. <a href="https://sarthak268.github.io/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span><br>
 <span style="font-size: 85%;">3. Can’t Hurt Me by David Goggins</span><br>
 <span style="font-size: 85%;">4. Becoming by Michelle Obama</span><br>
@@ -62,7 +71,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Limitless by Radhika Gupta</span><br>
 <span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
 <span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span><br>
-<span style="font-size: 85%;">9. <span style="background-color: yellow;">When Breath Becomes Air by Paul Kalanithi</span> (beautiful and heartbreaking 💔)</span><br>
+<span style="font-size: 85%;">9. <span class="highlight-book">When Breath Becomes Air by Paul Kalanithi</span> (beautiful and heartbreaking 💔)</span><br>
 <span style="font-size: 85%;">10. Mind Master by Viswanathan Anand</span><br>
 <span style="font-size: 85%;">11. A Shot at History by Abhinav Bindra</span><br>
 <span style="font-size: 85%;">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span><br>
@@ -85,7 +94,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. <a href="https://sarthak268.github.io/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span><br>
 <span style="font-size: 85%;">5. <a href="https://sarthak268.github.io/bookshelf/zero_to_one/">Essays by Paul Graham</a> (I know it's not a book 🤷)</span><br>
 <span style="font-size: 85%;">6. No Rules Rules by Reed Hastings, Erin Meyer</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;">That Will Never Work by Marc Randolph</span> (Netflix's chaotic origin story 📺)</span><br>
+<span style="font-size: 85%;">7. <span class="highlight-book">That Will Never Work by Marc Randolph</span> (Netflix's chaotic origin story 📺)</span><br>
 
 ## Finance & Investing
 
@@ -104,10 +113,10 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">4. Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</span><br>
 <span style="font-size: 85%;">5. Do Epic Shit by Ankur Warikoo</span><br>
 <span style="font-size: 85%;">6. Man’s Search for Meaning by Victor E. Frankl</span><br>
-<span style="font-size: 85%;">7. <span style="background-color: yellow;"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span> (why the future is brighter than we think 🌅)</span><br>
+<span style="font-size: 85%;">7. <span class="highlight-book"><a href="https://sarthak268.github.io/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span> (why the future is brighter than we think 🌅)</span><br>
 <span style="font-size: 85%;">8. Anti-fragile by Nassim Taleb</span><br>
 <span style="font-size: 85%;">9. <a href="https://sarthak268.github.io/bookshelf/stardust/">We Are All Stardust by Stefan Klein</a></span><br>
-<span style="font-size: 85%;">10. <span style="background-color: yellow;">When the Heavens Went on Sale by Ashlee Vance</span> (the new space race 🚀)</span><br>
+<span style="font-size: 85%;">10. <span class="highlight-book">When the Heavens Went on Sale by Ashlee Vance</span> (the new space race 🚀)</span><br>
 
 <br>
 

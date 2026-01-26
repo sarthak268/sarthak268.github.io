@@ -64,6 +64,22 @@
 
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/main_1603233531.css">
+        <script>
+            // Initialize theme before page renders to prevent flash
+            (function() {
+                const savedTheme = localStorage.getItem('theme');
+                const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+                if (theme === 'dark') {
+                    document.documentElement.setAttribute('data-theme', 'dark');
+                }
+                // Update meta theme-color
+                const metaTheme = document.querySelector('meta[name="theme-color"]');
+                if (metaTheme) {
+                    metaTheme.content = theme === 'dark' ? '#1a1a2e' : '#ffffff';
+                }
+            })();
+        </script>
         <!--[if IE 7]>
             <html class="ie7">
             <link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
@@ -135,6 +151,12 @@
                             <!-- <li><a target="_blank" href="//x.abhishekdas.com">Tumblr</a></li> -->
                             <!-- <li class="hide-link-on-small-screens"><a target="_blank" href="//mastodon.social/web/accounts/1011404">Mastodon</a></li> -->
                             <!-- <li class="hide-link-on-small-screens"><a target="_blank" href="//instagram.com/abhshkdz">Instagram</a></li> -->
+                            <li>
+                                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+                                    <span class="icon-moon">&#9790;</span>
+                                    <span class="icon-sun">&#9788;</span>
+                                </button>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -164,6 +186,40 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
 
+        </script>
+
+        <!-- Dark mode toggle script -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const themeToggle = document.getElementById('theme-toggle');
+
+                function setTheme(theme) {
+                    if (theme === 'dark') {
+                        document.documentElement.setAttribute('data-theme', 'dark');
+                    } else {
+                        document.documentElement.removeAttribute('data-theme');
+                    }
+                    localStorage.setItem('theme', theme);
+                    // Update meta theme-color
+                    const metaTheme = document.querySelector('meta[name="theme-color"]');
+                    if (metaTheme) {
+                        metaTheme.content = theme === 'dark' ? '#1a1a2e' : '#ffffff';
+                    }
+                }
+
+                themeToggle.addEventListener('click', function() {
+                    const currentTheme = document.documentElement.getAttribute('data-theme');
+                    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                    setTheme(newTheme);
+                });
+
+                // Listen for system theme changes
+                window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+                    if (!localStorage.getItem('theme')) {
+                        setTheme(e.matches ? 'dark' : 'light');
+                    }
+                });
+            });
         </script>
     </body>
 </html>
