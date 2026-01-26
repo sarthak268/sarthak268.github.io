@@ -33,7 +33,7 @@ permalink:  /bookshelf/starbucks/
     - No great achievement happens by luck.
 - Luck is the Residue of Design
     - The most important commodity for a company is the *relationship of trust and confidence it has with its employees*. If their believe they’re not rewarded fairly for their work, the company’s future is compromised.
-    - Debt is **not** the best way to fund a company. Founders often take debt to retain control of the company but rather the best way to do that is by performing well and pleasing shareholders, even if his/her share is below 50%. Debt can greatly limit the possibility of future growth and innovation.
+    - Debt is *not* the best way to fund a company. Founders often take debt to retain control of the company but rather the best way to do that is by performing well and pleasing shareholders, even if his/her share is below 50%. Debt can greatly limit the possibility of future growth and innovation.
     
     > This is my moment. If I don’t seize the opportunity, if I don’t step out of my comfort zone and risk it all, if I let too much time tick on, my moment will pass. What if? Why didn’t I?
     > 
@@ -44,7 +44,7 @@ permalink:  /bookshelf/starbucks/
     - It’s one thing to dream, but when the moment is right, you’ve got to be willing to leave what’s familiar and go out to find your own sound.
 - Naysayers Never Built A Great Enterprise
     - Being an underdog can be invigorating. Part of me relished the fact that so many people said that my plan couldn’t be done. No matter how many times people put me down, I believed strongly that I could pull it off. I was so confident of winning that I enjoyed being in a position where people’s expectation were so low that I knew I could beat them.
-    - If you stopped being a scrappy underdog, fighting against the odds, you risk the worst fate of all: **mediocrity**.
+    - If you stopped being a scrappy underdog, fighting against the odds, you risk the worst fate of all: *mediocrity*.
     - People who succeed have an incredible drive to do something. They spend their energy to take the gamble. In this world, relatively few people are willing to take a large gamble.
     - If you ask any of the initial investors why they took the risk, almost all of them will tell you that they invested in me, not the idea. They believed because I believed, and they prospered because they trusted someone in whom nobody had confidence.
 - The Imprinting of the Company’s Values

@@ -12,9 +12,9 @@ permalink:  /
         <span style="font-size: 85%;">Research Engineer</span><br>
         <span style="font-size: 85%;">1x Technologies</span><br>
         <span style="font-size: 85%;">sarthak.bhagat@1x.tech</span><br>
-        <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" style="width: 30px; height: 20px;"></a>
-        <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" style="width: 25px; height: 25px;"></a>
-        <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./img/google_scholar.jpg" alt="Google Scholar" style="width: 30px; height: 25px;"></a>
+        <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" class="social-icon" style="width: 30px; height: 20px;"></a>
+        <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" class="social-icon" style="width: 25px; height: 25px;"></a>
+        <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./img/google_scholar.jpg" alt="Google Scholar" class="social-icon" style="width: 30px; height: 25px;"></a>
     </div>
 </div>
 <hr>

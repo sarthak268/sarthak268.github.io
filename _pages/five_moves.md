@@ -19,11 +19,11 @@ permalink:  /bookshelf/five_moves_ahead/
     }
 </style>
 
-**Before Your First Move**
+*Before Your First Move*
 
 - Most people don’t think more than one or two moves ahead. Those people are amateurs and flame out quickly in business. Effective strategy is about making a move and being prepared to launch another series of moves based on how the market or your competition reacts. You must think beyond your first strike to execute an effective strategy. When you start to get really good, you anticipate how others will react and can deploy a series of moves that are nearly impossible to counteract.
 
-**Move 1: Master Knowing Yourself**
+*Move 1: Master Knowing Yourself*
 
 - If you’re a visionary, blow up a picture of Walt Disney or Steve Jobs and put it in a prominent place. Have a little fun with it. If looking at Walt Disney doesn’t inspire you, keep a picture of Mickey Mouse or a stuffed Mickey in your office. If you’re building an e- commerce company, ask, “What would Jeff Bezos do?” If you’re running an investment firm, ask, “What would Warren Buffett do?” If you’re running a media company, ask, “What would Oprah Winfrey do?” Our heroes inspire us. That’s why it’s so powerful to surround yourself with them. The more we see them and the more we see them looking at us, the greater our chances of acting heroically.
 - The most dangerous unhappy people I’ve met are those who are both extremely ambitious and extremely lazy. What this combination produces is envy, which is a deadly sin that will make your life a living hell. These are people who think big and want to do something big, but they’re not willing to put in the work to earn it. They’ll cheat. They’ll throw you under the bus. They’re constantly looking for shortcuts. And if someone else has what they want, it eats away at their very soul.
@@ -33,7 +33,7 @@ permalink:  /bookshelf/five_moves_ahead/
 - One thing I can tell you with certainty is that becoming an entrepreneur cannot be about the money. I know that sounds odd to say when you’re focused on becoming a millionaire or billionaire. If your motivation is only money, you’ll stop at some point. You’ll become lazy or complacent. If you want to be an entrepreneur, your reason has to go beyond wealth. The pain of owning a business is too great to tolerate just for money.
 - Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant by W. Chan Kim and Renée Mauborgne, professors at INSEAD in Fontainebleau, France, was published in 2004. This book was the key resource that led me to find a game in which I could win. The premise of the book is that rather than competing in games where you’re an underdog, find unexplored new markets in which you can win— and ultimately make the competition irrelevant.
 
-**Move 2: Master the Ability to Reason**
+*Move 2: Master the Ability to Reason*
 
 - You’re going to have moments when you feel as though the world is coming to an end. An amateur panics, but a grand master doesn’t. Before he does anything, he must first “process” what’s happening. He has to do so while staying on an even keel. This is why stoicism is both so important and so challenging— and why Marcus Aurelius and Seneca are sages who have stood the test of time. Emotion can get the best of all of us and cloud our judgment. Sadly, I’ve learned this lesson the hard way too many times. It’s why my answer about the key to success for people at all levels of business is “Know how to process issues.” Life is always happening; the way you respond is based on how you process issues.
 - Building a business requires you to slay many dragons. Problems are inevitable; you’d better get a grip on solving them. To do so, you must be processing issues constantly. 
@@ -65,7 +65,7 @@ permalink:  /bookshelf/five_moves_ahead/
     2. Defense. The opportunity to solve a problem, to stop losing money, or to stop moving backward in some way. The choices here frequently involve legal matters such as compliance and protection against competitors or market corrections. <br>
     Once the problem or opportunity you’re facing can be categorized as offense or defense, it immediately becomes less intimidating. You’ve labeled it, and whether it’s offense or defense, you’ve dealt with both types of issues in the past. Decision making then goes from something scary and unfamiliar to something manageable.
 
-**Move 3: Master Building the Right Team**
+*Move 3: Master Building the Right Team*
 - That paradigm shift— that one decision— changed my life for the better. I stopped asking how other people could make my life better, and instead, I asked: How can I make everybody else’s life better just by the benefits that I offer them? You’ll know you’re succeeding in life when others are winning simply because of their association with you. It could be based on the example you set, your contacts, your coaching, your knowledge, or your tough love. Think about these three questions: 1. What benefits are you currently offering to others? 2. In what way do people improve by associating with you? 3. How many lives have you changed positively in the past year?
 - Some CEOs make the mistake of thinking that recruiting ends once a person joins the company. The reality is that when you recruit top talent, you’ll have to constantly re- recruit that talent.
 - Questions That People Will Ask (and You Must Answer) When They Are Deciding to Work for You 

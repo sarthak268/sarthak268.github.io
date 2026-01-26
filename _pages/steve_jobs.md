@@ -19,7 +19,7 @@ permalink:  /bookshelf/steve_jobs/
     }
 </style>
 
-**Learning 1: Nobody’s Perfect**
+*Learning 1: Nobody’s Perfect*
 
 He had a nasty edge to his personality that hindered him more than it helped him. But it did, at times, serve a purpose. Dozens of colleagues whom Jobs most abused ended their litany of horror stories by saying that he got them to do things they never dreamed possible.
 
@@ -27,7 +27,7 @@ He doesn’t have social graces, such as putting himself in other people’s sho
 
 It had been a grueling ride, and many egos had been bruised by Job’s obnoxious and rough management style. But neither Raskin nor Wozniak nor Sculley nor anyone else at the company could have pulled off the creation of the Macintosh.
 
-**Learning 2: You have to be Irrationally Passionate (not Necessarily Extraordinarily Smart) to Build Something Revolutionary**
+*Learning 2: You have to be Irrationally Passionate (not Necessarily Extraordinarily Smart) to Build Something Revolutionary*
 
 He didn’t invent many things outright, but he was a master at putting together ideas, art, and technology in ways that invented the future.
 
@@ -35,13 +35,13 @@ He had neither Ellison’s conspicuous consumption needs nor Gates’ philanthro
 
 Steve had a way of motivating by looking at the bigger picture. Jobs had a passion for making great products, not just a profitable one. The goal was never to beat the competition, or to make a lot of money. It was to do the greatest thing possible, or even a little greater.
 
-**Learning 3: It’s all about the Execution**
+*Learning 3: It’s all about the Execution*
 
 The Apple raid on Xerox  PARC is sometimes described as one of the biggest heists in the chronicles of the industry. They just grabbed defeat from the greatest victory in the computer industry. Xerox could have owned the entire computer industry.
 
 “Great Artists Steal”: In the annals of innovation, new ideas are only part of the equation. Execution is just as important.
 
-**Learning 4: Make a dent in the Universe**
+*Learning 4: Make a dent in the Universe*
 
 Some leaders push innovations by being good at the big picture. Others do so by mastering the details. Jobs did both, relentlessly.
 
@@ -53,7 +53,7 @@ Jobs when convincing Bill Atkinson to join Apple — “We’re inventing the fu
 
 We probably only have the opportunity to do a few things really great and do them well. None of us has any idea how long we’re going to be here, nor do I, but my feeling is I’ve got to accomplish a lot of these things while I’m young.
 
-**Learning 5: Design / Product >>**
+*Learning 5: Design / Product >>*
 
 Simplicity is the ultimate sophistication.
 

@@ -25,9 +25,9 @@
 }
 
 [data-theme="dark"] {
-  --bg-primary: #1a1a2e;
-  --bg-secondary: #16213e;
-  --bg-code: #0f0f23;
+  --bg-primary: #121212;
+  --bg-secondary: #1e1e1e;
+  --bg-code: #0a0a0a;
   --text-primary: #e4e4e7;
   --text-heading: #f4f4f5;
   --text-secondary: #a1a1aa;
@@ -41,9 +41,9 @@
   --border-medium: #4b5563;
   --border-code: #374151;
   --code-text: #f472b6;
-  --top-strip: #60a5fa;
-  --link-bg: #374151;
-  --highlight-bg: #1e1e2e;
+  --top-strip: #3498db;
+  --link-bg: #2a2a2a;
+  --highlight-bg: #1a1a1a;
   --error-bg: #3f1f1f;
   --deleted-bg: #3f1f1f;
   --inserted-bg: #1f3f1f;
@@ -136,6 +136,9 @@ h2 {
 
 ul.nav-bar {
   padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 ul.nav-bar li {
@@ -143,6 +146,11 @@ ul.nav-bar li {
   list-style: none;
   padding-right: 10px;
   font-size: 0.9em;
+}
+
+ul.nav-bar li.theme-toggle-wrapper {
+  margin-left: auto;
+  padding-right: 0;
 }
 
 .nav-bar a {
@@ -619,6 +627,15 @@ pre code {
 
 [data-theme="dark"] img:hover {
   opacity: 1;
+}
+
+/* Social icons - invert in dark mode */
+.social-icon {
+  transition: filter 0.3s ease;
+}
+
+[data-theme="dark"] .social-icon {
+  filter: invert(1);
 }
 
 /* Dark mode for blockquotes */

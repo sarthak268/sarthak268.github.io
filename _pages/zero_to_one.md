@@ -18,13 +18,13 @@ permalink:  /bookshelf/zero_to_one/
     }
 </style>
 
-- **Zero to One**
+- *Zero to One*
     - Every moment in business happens once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
     - The act of creation is singular, as in the moment of creation, and the result is something fresh and strange.
     - Humans are distinguished from other species by our ability to work miracles. We call these miracles *technology*.
     - The paradox of teaching entrepreneurship: such a formula doesn’t exist; because every innovation is new and unique.
     - Single most powerful pattern in successful people: they find value in expected places by thinking about business from first principles instead of formulas.
-- **The Challenge of the Future**
+- *The Challenge of the Future*
     
     > What important truth do very few people agree with you on?
     > 
@@ -34,7 +34,7 @@ permalink:  /bookshelf/zero_to_one/
         - 1 to n: Horizontal progress, easy to imagine because we already know what it looks like, *Globalization*
         - 0 to 1: Vertical progress, harder to imagine because it requires doing something nobody else has ever done, *Technology*
     - Startups, positively defined, is the largest group of people you can convince of a plan to build a different future.
-- **Party like it’s 1999**
+- *Party like it’s 1999*
     
     > Madness is rare in individuals —  but in groups, parties nations, and ages it is the rule
     > — Nietzsche. 
@@ -51,7 +51,7 @@ permalink:  /bookshelf/zero_to_one/
         - Competitive markets destroy profits
         - Sales matters just as much as the product
     - Before you start a business, always ask the question: how much of what you know about business is shaped by mistaken reactions to past mistakes?
-- **All Happy Companies are Different**
+- *All Happy Companies are Different*
     - The business version of our contrarian question: *what valuable company is nobody building?*
     - So-called perfectly competitive markets achieve equilibrium when producer supply meets consumer demand. Under perfect competition, in the long run *no company makes an economic profit*.
     - Capitalism and competition are opposites. Capitalism is premised on the accumulation of profits, but under perfect competition all profits get competed away.
@@ -64,14 +64,14 @@ permalink:  /bookshelf/zero_to_one/
     > All happy families are alike; each unhappy family is unhappy in its own way. All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
     > 
 
-- **The Ideology of Competition**
+- *The Ideology of Competition*
     - We preach competition, internalize its necessity, and enact its commandments; and as a result, we trap ourselves within it — even though the more we compete, the less we gain.
     - If you can’t beat a rival, it may be better to merge. Example: PayPal and Elon Musk’s X.com. There is no middle ground: either don’t throw any punches or strike hard and end it quickly.
     
     > If you can recognize competition as a destructive force instead of a sign of value, you’re already more sane than most.
     > 
 
-- **Last Mover’s Advantage**
+- *Last Mover’s Advantage*
     - A great business is defined by its ability to *generate cash flow in the future*, not just in the present. Value of a business today = sum of all money it will make in the future.
     - Technology companies often lose money in the first few years: it takes time to build valuable things, and that means delayed revenue.
     - If you focus on near-term growth above all else, you miss the important question: *will this business still be around a decade from now?*
@@ -88,7 +88,7 @@ permalink:  /bookshelf/zero_to_one/
     > To succeed, you must study the endgame before everything else. 
     > — Capablanca
 
-- **You are not a Lottery Ticket**
+- *You are not a Lottery Ticket*
     
     > Victory awaits him who has everything in order — luck, people call it. 
     > — Amundsen
@@ -115,7 +115,7 @@ permalink:  /bookshelf/zero_to_one/
     > A startup is the largest endeavor over which you can have definite mastery. You can have agency not just over your own life, but over a small and important part of the world. It begins with rejecting the unjust tyranny of Chance. You are not a lottery ticket.
     > 
 
-- **Follow the Money**
+- *Follow the Money*
     - Power Law (80-20 Rule / Pareto Principle): 20% of the effort produces 80% of the result. We don’t live in a normal world; we live under a power law.
     - Power Law in VC: A small handful of companies radically outperform all others. If you focus on diversification instead of single minded pursuit of the very few companies that can become overwhelmingly valuable, you’ll miss those rare companies in the first place.
     - *The biggest secret in VC is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined.*
@@ -125,7 +125,7 @@ permalink:  /bookshelf/zero_to_one/
     - Life is not a portfolio: not for a startup founder, and not for any individual.
     - If anything, too many people are starting their own companies today. People who understand the power law wo; hesitate more when it comes to founding a new venture: they know how tremendously successful they could become by joining the very best company while it’s growing fast.
     - Power law means that differences *between* companies will dwarf the differences in roles *inside* companies.
-- **Secrets**
+- *Secrets*
     - If there are many secrets left in the world, there are probably many world-changing companies yet to be started.
     - Four social trends have conspired to root out belief in secrets:
         - Incrementalism: e.g. academics chase large number of trivial publications rather than new frontiers.
@@ -138,7 +138,7 @@ permalink:  /bookshelf/zero_to_one/
         - *Secrets about people:*  things people don’t know about themselves or things they hide because they don’t want others to know
     - *Are there any fields that matter but haven’t been standardized or institutionalized?* Example: Nutrition matters for everybody, but you can’t major in it at Harvard. Most top scientists go into other fields. We know more about the physics of faraway stars than we know about human nutrition.
     - *Who do you tell?* There’s always a golden mean between telling nobody and telling everybody — that’s a company. Every great business is built around a secret that’s hidden from the outside.
-- **Foundations**
+- *Foundations*
     
     > A startup messed up at its foundation cannot be fixed. — Thiel’s Law
     > 
@@ -156,7 +156,7 @@ permalink:  /bookshelf/zero_to_one/
     - Tradeoff: Giving equal shares — arbitrary and unfair from the start since people have different talent and responsibilities, granting different amounts — cause resentment. Best to keep it a secret.
     - Equity is a powerful tool precisely because of its limitations. It can’t create perfect incentives, but it’s the best way for a founder to keep everyone in the company broadly aligned.
     - Founding moment: lasts as long as company is creating new things — can be extended indefinitely.
-- **The Mechanics Mafia**
+- *The Mechanics Mafia*
     - If you can’t count durable relationships among the fruits of your time at work, you haven’t invested your time well — even in purely financial terms.
     - Recruiting is core competency for any company. It should never be outsourced.
     - Question to ask: *Why should someone join your company as its 20th engineer when she could go work at Google for more money and prestige?* Valuable stock, smart people, or pressing problem — most common answers.
@@ -165,7 +165,7 @@ permalink:  /bookshelf/zero_to_one/
     - Everyone at your company should be different in the same way — a tribe of like-minded people fiercely devoted to the company’s mission.
     - *One the inside, every individual should be sharply distinguished by her work.*
     - Cults: Cultures of total dedication that look crazy from outside. Best startups maybe considered slightly less extreme than a cult. Better be a cult than a mafia.
-- **If You Build It, Will They Come?**
+- *If You Build It, Will They Come?*
     - Engineers are biased towards building cool stuff rather than selling it. But customers will not come just because you build it. You have to make that happen, it’s harder than it looks.
     - Advertisement doesn’t exist to make you buy a product right away; it exists to embed subtle impressions that will drive sales later. Anyone who can’t acknowledge its likely effect on himself is doubly deceived.
     - If anything, people overestimate the relative difficulty of science and engineering, because the challenges of those fields are obvious. What nerds miss is that it takes hard work to make sales look easy.
@@ -184,11 +184,11 @@ permalink:  /bookshelf/zero_to_one/
     > Everyone has a product to sell — no matter whether you’re an employee, a founder, or an investor. It’s true even if your company consists of just you and your computer. Look around. *If you don’t see any sales-people, you’re the salesman.*
     > 
 
-- **Man and Machine**
+- *Man and Machine*
     - Everyone of today’s smartphones has thousands of times more processing power than computers that guided astronauts to the moon.
     - Computers are complements for humans, not substitutes. Computers excel at data processing but they struggle to make basic judgements that would be simple for any human.
     - Computers can find patterns that elude humans, but they don’t know how to compare patterns from different sources or how to interpret complex behaviors. Actionable insights can only come from human analysts.
-- **Seeing Green**
+- *Seeing Green*
     - *Questionnaire (with an amazing case study on cleantech startups vs Tesla):*
         - Engineering Question: Can you create breakthrough technology instead of incremental improvements?
         - Timing Question: Is now right time to start your particular business?
@@ -199,7 +199,7 @@ permalink:  /bookshelf/zero_to_one/
         - Secret Question: Have you identified a unique opportunity that others don’t see?
     - No sector will ever be so important that merely participating in it will be enough to build a great company.
     - *Could successful energy startups be founded after the cleantech crash just after Web 2.0 startups successfully launched amid the debris of the dot-com?*
-- **Founder’s Paradox**
+- *Founder’s Paradox*
     - The normal distribution of traits is a bell-shaped curve with end being:
         - weak/nerd, idiot, savant, disagreeable, outside, poor, villain, infamous
         - strong/athlete, polymath, charismatic, insider, rich, hero, famous
@@ -211,7 +211,7 @@ permalink:  /bookshelf/zero_to_one/
     > 
 
     - The single greatest danger for a founder is to become so certain of his own myth that he loses his mind. But an equally insidious danger for every business is to lose all sense of myth and mistake disenchantment for wisdom.
-- **Stagnation or Singularity**
+- *Stagnation or Singularity*
     - Four possibilities:
         - *Recurrent collapse*
         - *Plateau*

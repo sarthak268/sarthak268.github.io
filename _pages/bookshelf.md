@@ -8,6 +8,7 @@ permalink:  /bookshelf/
     strong {
         color: var(--accent-blue);
         font-weight: 400;
+        font-style: italic;
     }
     blockquote {
         padding: 0px 23px;
