@@ -53,7 +53,7 @@ permalink:  /misc/
 <span style="font-size: 85%;">• Winter School on AI, IIIT-Delhi -- 2019</span><br>
 <span style="font-size: 85%;">• [Computer Vision and Pattern Discovery Group, Bioinformatics Institute, A*STAR](https://www.a-star.edu.sg/bii/research/ciid/cvpd) -- 2019</span><br>
 
-## Odds & Ends
+## Side Quests
 
 <span style="font-size: 85%;">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span style="font-size: 85%;">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
