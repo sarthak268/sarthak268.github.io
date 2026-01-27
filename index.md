@@ -62,9 +62,7 @@ permalink:  /
 
 <hr>
 
-<a name="/bio"></a>
-
-## Bio
+## How I Got Here
 
 <!-- <span style="font-size: 85%;">I am a research engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>, where I work on advancing robot intelligence using machine learning, making robots safer and more efficient. I focus on skill learning for robotics, enabling advanced sensing, reasoning, and action capabilities for productive and safe robot operation. I lead sim2real reinforcement learning efforts (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">1</a>), skill learning for arms, humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">2</a>), and quadrupeds in IsaacSim (<a href="https://x.com/genrobotics_ai/status/1892250420711481524">3,</a> <a href="https://x.com/NVIDIARobotics/status/1910102079818936647">4</a>) and technical customer engagements. I was the <i>7th employee</i> at the company and the <i>first hire for the robotics team</i>.</span>
 
