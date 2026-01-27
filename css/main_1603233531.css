@@ -654,3 +654,139 @@ a {
 *, *::before, *::after {
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
+
+/* Timeline styles */
+.timeline {
+  position: relative;
+  padding: 10px 0;
+  margin-top: 10px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--border-medium);
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 30px;
+  padding-bottom: 0;
+  margin-bottom: -4px;
+}
+
+.timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: 2px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--text-muted);
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 0 0 1px var(--border-medium);
+}
+
+.timeline-date {
+  display: none;
+}
+
+.timeline-content {
+  background: var(--bg-secondary);
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: 1px solid var(--border-light);
+  display: block;
+  margin-bottom: 0;
+}
+
+.timeline-content * {
+  visibility: visible;
+}
+
+.timeline-title {
+  font-size: 85%;
+  font-weight: 500;
+  color: var(--text-heading);
+  margin: 0 0 -3px 0;
+  line-height: 1.2;
+}
+
+.timeline-title a {
+  color: var(--accent-link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.timeline-title a:hover {
+  border-bottom-color: var(--accent-link);
+}
+
+.timeline-subtitle {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 10px;
+}
+
+.timeline-details {
+  margin: -5px 0 0 0;
+  padding-left: 14px;
+  font-size: 85%;
+  color: var(--text-primary);
+  line-height: 1.3;
+  list-style: disc;
+  display: block !important;
+}
+
+.timeline-details li {
+  margin-bottom: 0;
+  display: list-item !important;
+  list-style-type: disc;
+  color: var(--text-primary);
+}
+
+.timeline-details li:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-details a {
+  color: var(--accent-link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.timeline-details a:hover {
+  border-bottom-color: var(--accent-link);
+}
+
+/* Responsive adjustments for timeline */
+@media (max-width: 640px) {
+  .timeline::before {
+    left: 6px;
+  }
+
+  .timeline-item {
+    padding-left: 30px;
+  }
+
+  .timeline-dot {
+    width: 14px;
+    height: 14px;
+  }
+
+  .timeline-content {
+    padding: 12px 14px;
+  }
+
+  .timeline-title {
+    font-size: 15px;
+  }
+}
