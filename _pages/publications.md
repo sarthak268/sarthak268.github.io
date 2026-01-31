@@ -34,7 +34,7 @@ permalink:  /publications/
 <h2 class="pubt">DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion</h2>
 <p class="pubd">
     <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, S. Bhagat, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
-    <span class="conf">Under Review</span><br>
+    <span class="conf"><a target="_blank" href="https://2026.ieee-icra.org/">International Conference on Robotics and Automation (ICRA), 2026</a></span><br>
     <span class="conf">Workshop on Crossroads of Control: Model-based vs Learning-based Control, Humanoids, 2025</span><br>
     <span class="trophy">&#x1F3C6; 100+ stars on GitHub</span>
     <span class="links">
