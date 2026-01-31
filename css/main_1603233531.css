@@ -790,3 +790,98 @@ a {
     font-size: 15px;
   }
 }
+
+/* Talks Timeline - compact year-based layout */
+.talks-timeline {
+  position: relative;
+  padding-left: 50px;
+  margin-top: 10px;
+}
+
+.talks-timeline::before {
+  content: '';
+  position: absolute;
+  left: 32px;
+  top: 8px;
+  bottom: 8px;
+  width: 1px;
+  background: var(--border-medium);
+}
+
+.talks-year {
+  position: relative;
+  margin-bottom: 6px;
+}
+
+.talks-year:last-child {
+  margin-bottom: 0;
+}
+
+.talks-year-marker {
+  position: absolute;
+  left: -58px;
+  top: 0;
+  width: 32px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-align: right;
+}
+
+.talks-year-marker::after {
+  content: '';
+  position: absolute;
+  left: 37px;
+  top: 5px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-blue);
+}
+
+.talks-year-items {
+  padding-left: 0;
+}
+
+.post-content .talks-timeline .talks-item,
+.talks-timeline .talks-item {
+  font-size: 85%;
+  line-height: 1.2 !important;
+  margin-bottom: 8px !important;
+  padding: 0;
+  color: var(--text-primary);
+}
+
+.talks-item::before {
+  content: '• ';
+  color: var(--text-muted);
+}
+
+.talks-item a {
+  color: var(--accent-link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.talks-item a:hover {
+  border-bottom-color: var(--accent-link);
+}
+
+@media (max-width: 640px) {
+  .talks-timeline {
+    padding-left: 55px;
+  }
+
+  .talks-timeline::before {
+    left: 38px;
+  }
+
+  .talks-year-marker {
+    left: -55px;
+    font-size: 11px;
+  }
+
+  .talks-year-marker::after {
+    left: 35px;
+  }
+}
