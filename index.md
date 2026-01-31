@@ -31,6 +31,7 @@ permalink:  /
 - <span style="font-size: 85%;">[April 25] Got into Y Combinator Startup School. Learning from the best in the game.</span>
 - <span style="font-size: 85%;">[March 25] At ICRA'25 in Atlanta - presenting work on predicting what humans will do before they do it.</span>
 - <span style="font-size: 85%;">[Feb 25] GTC'25 in San Jose - where GPU nerds unite.</span>
+- <span style="font-size: 85%;">[Dec 24] Co-developed [GRID](https://grid.generalrobotics.dev/)'s Isaac Sim integration - now powering 3000+ active users and multiple enterprise clients. Turns out robots need a playground too ([announcement](https://x.com/genrobotics_ai/status/1892250420711481524)).</span>
 - <span style="font-size: 85%;">[Aug 24] Serving as a Program Committee Member at AAAI'25.</span>
 - <span style="font-size: 85%;">[July 24] Paper on zero-shot task-oriented grasping via LLM-guided semantic part segmentation accepted as oral at IROS'24.</span>
 - <span style="font-size: 85%;">[June 24] Joined [General Robotics](https://scaledfoundations.ai/) as employee #6. Building safe general robot intelligence from the ground up.</span>
