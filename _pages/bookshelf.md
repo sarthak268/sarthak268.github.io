@@ -32,27 +32,27 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Science & History
 
-<span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari</span><br>
-<span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking</span><br>
-<span style="font-size: 85%;">3. 21 Lessons from the 21st Century by Yuval Noah Harari</span><br>
-<span style="font-size: 85%;">4. <span class="highlight-book">The Fabric of Reality by David Deutsch</span> (four strands: quantum physics, epistemology, computation, evolution 🧩)</span><br>
-<span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan</span><br>
+<span style="font-size: 85%;">1. Sapiens by Yuval Noah Harari: tracing human history from hunter-gatherers to the digital age 🌍</span><br>
+<span style="font-size: 85%;">2. The Theory of Everything by Stephen W. Hawking: from the Big Bang to black holes — the universe explained 🌌</span><br>
+<span style="font-size: 85%;">3. 21 Lessons from the 21st Century by Yuval Noah Harari: navigating the biggest challenges facing humanity today 🧭</span><br>
+<span style="font-size: 85%;">4. <span class="highlight-book">The Fabric of Reality by David Deutsch</span>: the entanglement between the four strands of reality: quantum physics, epistemology, computation, evolution 🧩</span><br>
+<span style="font-size: 85%;">5. Pale Blue Dot by Carl Sagan: a grand tour of the solar system and our tiny place in the cosmos 🪐</span><br>
 <span style="font-size: 85%;">6. Cosmos by Carl Sagan</span><br>
 <span style="font-size: 85%;">7. <span class="highlight-book">The Beginning of Infinity by David Deutsch</span> (changed how I think about progress 🤯)</span><br>
-<span style="font-size: 85%;">8. <span class="highlight-book">Reality is not what it seems by Carlo Rovelli</span> (a must read for physics enthusiasts 🌍)</span><br>
-<span style="font-size: 85%;">9. The Red Queen by Matt Ridley</span><br>
-<span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span><br>
-<span style="font-size: 85%;">11. <span class="highlight-book">The Selfish Gene by Richard Dawkin</span> (my favorite biology book 🧬)</span><br>
-<span style="font-size: 85%;">12. Cycles of Time by Roger Penrose</span><br>
-<span style="font-size: 85%;">13. <span class="highlight-book">Life As No One Knows It by Sara Imari Walker</span> (life's emergence from the lens of Assembly theory 🌿)</span><br>
-<span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shephard and Deke Slayton</a></span><br>
-<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierrl and Brendan Rosseau</a> (space + economics 📈)</span><br>
-<span style="font-size: 85%;">16. <span class="highlight-book"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span> (a distillation of Deutsch's ideas ✨)</span><br>
+<span style="font-size: 85%;">8. <span class="highlight-book">Reality is not what it seems by Carlo Rovelli</span>: shattering intuitions about space, time, and the nature of reality 🌍</span><br>
+<span style="font-size: 85%;">9. The Red Queen by Matt Ridley: why sex exists and how it drives the evolutionary arms race 🧬</span><br>
+<span style="font-size: 85%;">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a>: the science behind the search for life beyond Earth 👽</span><br>
+<span style="font-size: 85%;">11. <span class="highlight-book">The Selfish Gene by Richard Dawkins</span>: genes are the puppet masters, we are their survival machines — my favorite biology book 🧬</span><br>
+<span style="font-size: 85%;">12. Cycles of Time by Roger Penrose: a radical vision of the universe cycling through infinite Big Bangs — a challenging read ♾️</span><br>
+<span style="font-size: 85%;">13. <span class="highlight-book">Life As No One Knows It by Sara Imari Walker</span>: life's emergence from the lens of Assembly theory 🌿</span><br>
+<span style="font-size: 85%;">14. <a href="https://sarthak268.github.io/bookshelf/moon_shot/">Moon Shot by Alan Shepard and Deke Slayton</a>: the race to the moon told by the astronauts who lived it 🚀</span><br>
+<span style="font-size: 85%;">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierl and Brendan Rosseau</a>: how economics shapes the future of the space industry 📈</span><br>
+<span style="font-size: 85%;">16. <span class="highlight-book"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span>: a distillation of Deutsch's ideas from his books and works ✨</span><br>
 
 ## Personal Growth
 
-<span style="font-size: 85%;">1. <span class="highlight-book">The Almanack of Naval Ravikant</span> (wealth and happiness distilled 🧠)</span><br>
-<span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson</span><br>
+<span style="font-size: 85%;">1. <span class="highlight-book">The Almanack of Naval Ravikant</span>: a blueprint for building wealth and finding inner peace 🧠</span><br>
+<span style="font-size: 85%;">2. The Subtle Art of Not Giving a F*ck by Mark Manson: choosing what to care about in a world that demands too much 🎯</span><br>
 <span style="font-size: 85%;">3. The Compound Effect by Darren Hardy</span><br>
 <span style="font-size: 85%;">4. Ikigai by Francesc Miralles and Hector Garcia</span><br>
 <span style="font-size: 85%;">5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi</span><br>
@@ -72,7 +72,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span style="font-size: 85%;">6. Limitless by Radhika Gupta</span><br>
 <span style="font-size: 85%;">7. Elon Musk by Ashlee Vance</span><br>
 <span style="font-size: 85%;">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span><br>
-<span style="font-size: 85%;">9. <span class="highlight-book">When Breath Becomes Air by Paul Kalanithi</span> (beautiful and heartbreaking 💔)</span><br>
+<span style="font-size: 85%;">9. <span class="highlight-book">When Breath Becomes Air by Paul Kalanithi</span>: a neurosurgeon's meditation on mortality and what makes life worth living 💔</span><br>
 <span style="font-size: 85%;">10. Mind Master by Viswanathan Anand</span><br>
 <span style="font-size: 85%;">11. A Shot at History by Abhinav Bindra</span><br>
 <span style="font-size: 85%;">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span><br>
@@ -83,9 +83,9 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 ## Fiction
 
-<span style="font-size: 85%;">1. The Alchemist by Paulo Coelho</span><br>
-<span style="font-size: 85%;">2. Life 3.0 by Max Tegmark</span><br>
-<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Liu (mind-bending sci-fi 🌌)</span><br>
+<span style="font-size: 85%;">1. The Alchemist by Paulo Coelho: a timeless fable about pursuing your personal legend ✨</span><br>
+<span style="font-size: 85%;">2. Life 3.0 by Max Tegmark: a thought experiment on AI and the future of intelligence 🤖</span><br>
+<span style="font-size: 85%;">3. The Three-Body Problem by Cixin Liu: a mind-bending first contact story that reshapes how you see the cosmos 🌌</span><br>
 
 ## Entrepreneurship
 
