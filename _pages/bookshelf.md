@@ -80,14 +80,14 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">6. Limitless by Radhika Gupta: overcoming setbacks to lead one of India's top asset managers 🇮🇳</span>
 <span class="book-entry">7. Elon Musk by Ashlee Vance: Tesla, SpaceX, and the making of a relentless visionary 🚀</span>
 <span class="book-entry">8. <a href="https://sarthak268.github.io/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a>: how passion for coffee built a global empire ☕</span>
-<span class="book-entry">9. <span class="highlight-book">When Breath Becomes Air by Paul Kalanithi</span>: a neurosurgeon's meditation on mortality and what makes life worth living 💔</span>
+<span class="book-entry">9. <span class="highlight-book">When Breath Becomes Air by Paul Kalanithi</span>: a neurosurgeon's reflection on mortality and what makes life worth living 💔</span>
 <span class="book-entry">10. Mind Master by Viswanathan Anand: chess, strategy, and the mental game from a world champion ♟️</span>
 <span class="book-entry">11. A Shot at History by Abhinav Bindra: India's first individual Olympic gold — the pursuit of perfection 🎯</span>
 <span class="book-entry">12. <a href="https://sarthak268.github.io/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a>: mental models and worldly wisdom from Buffett's partner 📚</span>
 <span class="book-entry">13. <a href="https://sarthak268.github.io/bookshelf/no_dream_too_high/">No Dream Is Too High by Buzz Aldrin</a>: life lessons from the second man to walk on the moon 🌙</span>
 <span class="book-entry">14. My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam: India's missile man on dreams, perseverance, and service 🇮🇳</span>
 <span class="book-entry">15. <a href="https://sarthak268.github.io/bookshelf/einstein/">Einstein by Steven Gimbel</a>: the life and mind behind relativity ⚛️</span>
-<span class="book-entry">16. Unseen by Megha Vishwanath: the making of Zomato 🍽️</span><br>
+<span class="book-entry">16. Unseen by Megha Vishwanath: Deepinder Goyal and Zomato's journey from scrappy startup to food-tech giant 🍽️</span><br>
 
 ## Fiction
 
