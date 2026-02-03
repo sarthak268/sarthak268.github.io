@@ -43,9 +43,9 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">2. The Theory of Everything by Stephen W. Hawking: from the Big Bang to black holes — the universe explained 🌌</span>
 <span class="book-entry">3. 21 Lessons from the 21st Century by Yuval Noah Harari: navigating today's biggest challenges 🧭</span>
 <span class="book-entry">4. <span class="highlight-book">The Fabric of Reality by David Deutsch</span>: the entanglement between the four strands of reality: quantum physics, epistemology, computation, evolution 🧩</span>
-<span class="book-entry">5. Pale Blue Dot by Carl Sagan: a grand tour of the solar system and our tiny place in the cosmos 🪐</span>
-<span class="book-entry">6. Cosmos by Carl Sagan</span>
-<span class="book-entry">7. <span class="highlight-book">The Beginning of Infinity by David Deutsch</span>: why progress is unbounded and all problems are soluble through conjecture, criticism, and good explanations (changed how I think about progress 🤯)</span>
+<span class="book-entry">5. Pale Blue Dot by Carl Sagan: a humbling reflection on Earth as a tiny speck in the cosmic arena 🌍</span>
+<span class="book-entry">6. Cosmos by Carl Sagan: a grand tour of the universe and humanity's journey to understand it 🪐</span>
+<span class="book-entry">7. <span class="highlight-book">The Beginning of Infinity by David Deutsch</span>: why progress is unbounded and all problems are soluble through conjecture, criticism, and good explanations 🤯</span>
 <span class="book-entry">8. <span class="highlight-book">Reality is not what it seems by Carlo Rovelli</span>: shattering intuitions about space, time, and the nature of reality 🌍</span>
 <span class="book-entry">9. The Red Queen by Matt Ridley: why sex exists and how it drives the evolutionary arms race 🧬</span>
 <span class="book-entry">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a>: the science behind the search for life beyond Earth 👽</span>
@@ -56,18 +56,19 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">15. <a href="https://sarthak268.github.io/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierl and Brendan Rosseau</a>: how economics shapes the future of the space industry 📈</span>
 <span class="book-entry">16. <span class="highlight-book"><a href="https://sarthak268.github.io/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span>: a distillation of Deutsch's ideas from his books and works ✨</span><br>
 
-## Personal Growth
+## Mindset & Wisdom
 
 <span class="book-entry">1. <span class="highlight-book">The Almanack of Naval Ravikant</span>: a blueprint for building wealth and finding inner peace 🧠</span>
-<span class="book-entry">2. The Subtle Art of Not Giving a F*ck by Mark Manson: choosing what to care about in a world that demands too much 🎯</span>
-<span class="book-entry">3. The Compound Effect by Darren Hardy: small choices, repeated daily, lead to radical results 📈</span>
-<span class="book-entry">4. Ikigai by Francesc Miralles and Hector Garcia: the Japanese secret to a long and purposeful life 🌸</span>
-<span class="book-entry">5. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi: freedom begins when you stop seeking approval — a conversational read 🦋</span>
-<span class="book-entry">6. 12 Rules for Life by Jordan B. Peterson: stand up straight, tell the truth, and take responsibility 🏛️</span>
-<span class="book-entry">7. Give and Take by Adam Grant: givers vs takers — why generosity wins in the long run 🤝</span>
-<span class="book-entry">8. <a href="https://sarthak268.github.io/bookshelf/winner_effect/">The Winner Effect by Ian Robertson</a>: how winning rewires the brain and breeds more winning 🏆</span>
-<span class="book-entry">9. Principles by Ray Dalio: pain + reflection = progress — Dalio's formula for life and work 📐</span>
-<span class="book-entry">10. The Art of Thinking Clearly by Rolf Dobelli: survivorship bias, sunk cost fallacy, confirmation bias, and 96 other thinking traps 🧠</span><br>
+<span class="book-entry">2. The Anthology of Balaji by Eric Jorgenson: technology, networks, and building the future — a distillation of Balaji's ideas 🌐</span>
+<span class="book-entry">3. The Subtle Art of Not Giving a F*ck by Mark Manson: choosing what to care about in a world that demands too much 🎯</span>
+<span class="book-entry">4. The Compound Effect by Darren Hardy: small choices, repeated daily, lead to radical results 📈</span>
+<span class="book-entry">5. Ikigai by Francesc Miralles and Hector Garcia: the Japanese secret to a long and purposeful life 🌸</span>
+<span class="book-entry">6. The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi: freedom begins when you stop seeking approval — a conversational read 🦋</span>
+<span class="book-entry">7. 12 Rules for Life by Jordan B. Peterson: stand up straight, tell the truth, and take responsibility 🏛️</span>
+<span class="book-entry">8. Give and Take by Adam Grant: givers vs takers — why generosity wins in the long run 🤝</span>
+<span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/winner_effect/">The Winner Effect by Ian Robertson</a>: how winning rewires the brain and breeds more winning 🏆</span>
+<span class="book-entry">10. Principles by Ray Dalio: pain + reflection = progress — Dalio's formula for life and work 📐</span>
+<span class="book-entry">11. The Art of Thinking Clearly by Rolf Dobelli: survivorship bias, sunk cost fallacy, confirmation bias, and 96 other thinking traps 🧠</span><br>
 
 ## Biographies & Memoirs
 
