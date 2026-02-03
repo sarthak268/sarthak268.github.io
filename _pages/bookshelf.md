@@ -45,7 +45,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">4. <span class="highlight-book">The Fabric of Reality by David Deutsch</span>: the entanglement between the four strands of reality: quantum physics, epistemology, computation, evolution 🧩</span>
 <span class="book-entry">5. Pale Blue Dot by Carl Sagan: a grand tour of the solar system and our tiny place in the cosmos 🪐</span>
 <span class="book-entry">6. Cosmos by Carl Sagan</span>
-<span class="book-entry">7. <span class="highlight-book">The Beginning of Infinity by David Deutsch</span> (changed how I think about progress 🤯)</span>
+<span class="book-entry">7. <span class="highlight-book">The Beginning of Infinity by David Deutsch</span>: why progress is unbounded and all problems are soluble through conjecture, criticism, and good explanations (changed how I think about progress 🤯)</span>
 <span class="book-entry">8. <span class="highlight-book">Reality is not what it seems by Carlo Rovelli</span>: shattering intuitions about space, time, and the nature of reality 🌍</span>
 <span class="book-entry">9. The Red Queen by Matt Ridley: why sex exists and how it drives the evolutionary arms race 🧬</span>
 <span class="book-entry">10. <a href="https://sarthak268.github.io/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a>: the science behind the search for life beyond Earth 👽</span>
