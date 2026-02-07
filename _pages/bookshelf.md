@@ -59,7 +59,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 ## Mindset & Wisdom
 
 <span class="book-entry">1. <span class="highlight-book">The Almanack of Naval Ravikant</span>: a blueprint for building wealth and finding inner peace 🧠</span>
-<span class="book-entry">2. The Anthology of Balaji by Eric Jorgenson: technology, networks, and building the future — a distillation of Balaji's ideas 🌐</span>
+<span class="book-entry">2. [The Anthology of Balaji by Eric Jorgenson](/bookshelf/anthology_of_balaji/): technology as a force for good, life extension, crypto, network states, and building the future — a distillation of Balaji's boldest ideas 🌐</span>
 <span class="book-entry">3. The Subtle Art of Not Giving a F*ck by Mark Manson: choosing what to care about in a world that demands too much 🎯</span>
 <span class="book-entry">4. The Compound Effect by Darren Hardy: small choices, repeated daily, lead to radical results 📈</span>
 <span class="book-entry">5. Ikigai by Francesc Miralles and Hector Garcia: the Japanese secret to a long and purposeful life 🌸</span>
