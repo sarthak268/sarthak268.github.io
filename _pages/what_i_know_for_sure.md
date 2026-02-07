@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      What I Know For Sure by Oprah Winfrey
+permalink:  /bookshelf/what_i_know_for_sure/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Oprah's wisdom on life, love, and purpose ✨*

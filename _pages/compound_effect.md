@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      The Compound Effect by Darren Hardy
+permalink:  /bookshelf/compound_effect/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Small choices, repeated daily, lead to radical results 📈*

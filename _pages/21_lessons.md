@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      21 Lessons from the 21st Century by Yuval Noah Harari
+permalink:  /bookshelf/21_lessons/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Navigating today's biggest challenges 🧭*

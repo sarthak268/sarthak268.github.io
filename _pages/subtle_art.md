@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      The Subtle Art of Not Giving a F*ck by Mark Manson
+permalink:  /bookshelf/subtle_art/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Choosing what to care about in a world that demands too much 🎯*

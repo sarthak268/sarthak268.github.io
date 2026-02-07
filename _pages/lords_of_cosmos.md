@@ -19,6 +19,8 @@ permalink:  /bookshelf/lords_of_cosmos/
     }
 </style>
 
+*A distillation of Deutsch's ideas from his books and works ✨*
+
 - Timeline: 
     - 14 billion years ago: Big Bang created space, time, and energy
     - 12-13 billion years ago to present: no fundamentally new astronomical objects have emerged

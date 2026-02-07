@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      Becoming by Michelle Obama
+permalink:  /bookshelf/becoming/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*From Chicago's South Side to the White House 🌟*

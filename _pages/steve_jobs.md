@@ -19,7 +19,9 @@ permalink:  /bookshelf/steve_jobs/
     }
 </style>
 
-*Learning 1: Nobody’s Perfect*
+*The man who bent reality to build Apple 🍎*
+
+*Learning 1: Nobody's Perfect*
 
 He had a nasty edge to his personality that hindered him more than it helped him. But it did, at times, serve a purpose. Dozens of colleagues whom Jobs most abused ended their litany of horror stories by saying that he got them to do things they never dreamed possible.
 

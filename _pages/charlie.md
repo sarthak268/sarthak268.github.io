@@ -19,6 +19,8 @@ permalink:  /bookshelf/charlie/
     }
 </style>
 
+*Mental models and worldly wisdom from Buffett's partner 📚*
+
 ### Be Interdisciplinary
 
 - Have a checklist framework to solving problems with deep knowledge about various fundamental concepts in hard and soft sciences

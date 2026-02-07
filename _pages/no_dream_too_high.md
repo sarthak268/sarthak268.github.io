@@ -19,6 +19,8 @@ permalink:  /bookshelf/no_dream_too_high/
     }
 </style>
 
+*Life lessons from the second man to walk on the moon 🌙*
+
 - The sky is not the limit ... there are footprints on the Moon!
 - Keep your mind open to possibilities
 - Show me your friends and I will show you your future

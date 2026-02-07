@@ -19,6 +19,8 @@ permalink:  /bookshelf/five_moves_ahead/
     }
 </style>
 
+*Think like a chess grandmaster in business and life ♟️*
+
 *Before Your First Move*
 
 - Most people don’t think more than one or two moves ahead. Those people are amateurs and flame out quickly in business. Effective strategy is about making a move and being prepared to launch another series of moves based on how the market or your competition reacts. You must think beyond your first strike to execute an effective strategy. When you start to get really good, you anticipate how others will react and can deploy a series of moves that are nearly impossible to counteract.

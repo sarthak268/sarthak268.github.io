@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      The Art of Thinking Clearly by Rolf Dobelli
+permalink:  /bookshelf/art_of_thinking_clearly/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Survivorship bias, sunk cost fallacy, confirmation bias, and 96 other thinking traps 🧠*

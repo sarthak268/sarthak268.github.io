@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      Rich Dad Poor Dad by Robert T. Kiyosaki
+permalink:  /bookshelf/rich_dad_poor_dad/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Assets vs liabilities — a mindset shift on money 💵*

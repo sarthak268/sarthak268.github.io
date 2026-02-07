@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      The Three-Body Problem by Cixin Liu
+permalink:  /bookshelf/three_body_problem/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*A mind-bending first contact story that reshapes how you see the cosmos — hard sci-fi at its best 🌌*

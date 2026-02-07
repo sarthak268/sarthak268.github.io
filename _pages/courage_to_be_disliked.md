@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi
+permalink:  /bookshelf/courage_to_be_disliked/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Freedom begins when you stop seeking approval — a conversational read 🦋*

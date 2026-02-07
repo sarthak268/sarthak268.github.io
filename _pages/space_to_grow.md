@@ -19,6 +19,8 @@ permalink:  /bookshelf/space_to_grow/
     }
 </style>
 
+*How economics shapes the future of the space industry 📈*
+
 ### The Inflection Point
 
 - Russia's early lead: Sputnik 1 - world's first artificial satellite, Yuri Gagarin - first human in space

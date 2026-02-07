@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      When Breath Becomes Air by Paul Kalanithi
+permalink:  /bookshelf/when_breath_becomes_air/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*A neurosurgeon's reflection on mortality and what makes life worth living 💔*

@@ -19,6 +19,8 @@ permalink:  /bookshelf/rational_optimist/
     }
 </style>
 
+*Why the future is brighter than we think 🌅*
+
 ### What is special about humans?
 
 - It’s not huge brains, complex languages, lots of technology — Neanderthals had three.

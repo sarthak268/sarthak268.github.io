@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      The Beginning of Infinity by David Deutsch
+permalink:  /bookshelf/beginning_of_infinity/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*Why progress is unbounded and all problems are soluble through conjecture, criticism, and good explanations 🤯*

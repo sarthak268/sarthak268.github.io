@@ -18,6 +18,8 @@ permalink:  /bookshelf/zero_to_one/
     }
 </style>
 
+*How to build the future by creating something new 🚀*
+
 - *Zero to One*
     - Every moment in business happens once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
     - The act of creation is singular, as in the moment of creation, and the result is something fresh and strange.

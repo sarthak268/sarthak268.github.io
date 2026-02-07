@@ -1,8 +1,7 @@
 ---
 layout:     page
-title:      Paul Graham Essays
-
-permalink:  /bookshelf/paul_graham/
+title:      My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam
+permalink:  /bookshelf/my_journey_kalam/
 ---
 
 <style type="text/css">
@@ -19,4 +18,4 @@ permalink:  /bookshelf/paul_graham/
     }
 </style>
 
-*Startup wisdom from YC's godfather — not a book, but essential 🤷*
+*India's missile man on dreams, perseverance, and service 🇮🇳*

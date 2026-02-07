@@ -18,6 +18,8 @@ permalink:  /bookshelf/anthology_of_balaji/
     }
 </style>
 
+*Technology as a force for good, life extension, crypto, network states, and building the future — a distillation of Balaji's boldest ideas 🌐*
+
 ## Part I — Technology
 
 - **The Value of Technology    - Building What Money Can't Buy

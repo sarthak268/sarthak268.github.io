@@ -19,6 +19,8 @@ permalink:  /bookshelf/starbucks/
     }
 </style>
 
+*How passion for coffee built a global empire ☕*
+
 - A Strong Legacy Makes You Sustainable
     - Every company must stand for something. Starbucks stood for good coffee, especially for the dark-roasted flavor. That’s what differentiated it and made it authentic.
     - You don’t just give the customer what they ask for. If you offer them something they’re not accustomed to, something so far superior that it takes a while to develop their palates, you can create a sense of discovery and excitement and loyalty that will bond them to you.

@@ -19,6 +19,8 @@ permalink:  /bookshelf/winner_effect/
     }
 </style>
 
+*How winning rewires the brain and breeds more winning 🏆*
+
 ### The Mystery of Picasso's Son
 
 - Motivation and intrinsic drive are key indicators for sucess
