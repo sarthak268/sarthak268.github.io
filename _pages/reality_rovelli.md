@@ -22,7 +22,7 @@ permalink:  /bookshelf/reality_rovelli/
 
 If in some cataclysm all scientific knowledge were to be destroyed and only one sentence passed on to the next generation of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis — all things are made of atoms, little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.
 
-## Zeno's Paradox
+### Zeno's Paradox
 
 The most famous of Zeno's paradoxes is presented in the form of a brief fable: the tortoise challenge. The tortoise challenges Achilles to a race, starting out with a 10 m advantage. Will Achilles manage to catch up with the tortoise? Zeno argues that rigorous logic dictates that he will never be able to do so. Before catching up, in effect, Achilles needs to cover 10 m, and in order to do this he will take a certain amount of time. During this time the tortoise will still have advanced a few centimeters. To cover these centimeters Achilles will have to take a little more time, but meanwhile the tortoise will have advanced further, and so on to infinity. Achilles therefore requires an infinite number of intervals to reach the tortoise — an infinite number of times.
 
@@ -30,23 +30,23 @@ At the end you will obtain an infinite number of small pieces of string. The sum
 
 The solution lies in the idea of the continuum: arbitrarily small times may exist, an infinite number of which make up a finite time.
 
-## Brownian Motion
+### Brownian Motion
 
 If we observe attentively very small particles, such as a speck of dust or a grain of pollen suspended in still air or in a liquid, we see them tremble and dance. Pushed by this trembling, they move randomly, zigzagging, and so they drift slowly, gradually moving away from their starting point. This motion of particles in a fluid is called Brownian motion, after a biologist who described it in detail in the 19th century.
 
 There are an enormous number of molecules of air. On average, as many hit the granule from the left as those that hit it from the right. If the air's molecules were infinitely small and infinitely numerous, the effect of collisions from the right and from the left would cancel out at each instant, and the granule would not move. But the finite size of molecules — the fact that they are present in finite rather than infinite number — causes there to be fluctuations. That is to say, the collisions never balance out exactly; they only balance out on average.
 
-## Maxwell's Laws
+### Maxwell's Laws
 
 He computes the speed at which the undulations of Faraday's lines move, and the results turn out to be the same as for light. Why? Maxwell understands: because light is nothing other than this rapid trembling of Faraday's lines!
 
 What is color? Put simply, it is the frequency, or the speed of oscillation, of the electromagnetic wave that light is. If the wave vibrates more rapidly, the light is bluer; if it vibrates a little more slowly, the light is redder.
 
-## The Key Theories
+### The Key Theories
 
 The deepening of our understanding of the world is based on two theories: general relativity and quantum mechanics. Both demand a daring revaluation of our conventional ideas about the world — space and time in relativity, matter and energy in quantum theory.
 
-## Einstein in 1905: Theory of Relativity
+### Einstein in 1905: Theory of Relativity
 
 Between the past and the future of an event (for example, between the past and the future of you, where you are, and the moment in which you are reading), there exists an intermediate zone, an expanded present — a zone that is neither past nor future. The duration of this intermediate zone, which is neither in your past nor in your future, is very small and depends on where an event takes place relative to you. The greater the distance of the event from you, the longer the duration of the extended present.
 
@@ -66,7 +66,7 @@ This implies that mass by itself is not conserved, and energy as it was understo
 
 The present is like the flatness of the Earth: an illusion. We imagine a flat Earth because of the limitations of our senses, because we cannot see much beyond our noses. Had our brain and our senses been more precise, had we easily perceived time in nanoseconds, we would never have made up the idea of a present extending everywhere. We would have easily recognized the intermediate zone between our past and future. We would have realized that saying "here and now" makes sense, but that saying "now" to designate events happening throughout the universe makes no sense.
 
-## Einstein in 1915
+### Einstein in 1915
 
 The world is not made of space + particles + electromagnetic field + gravitational field. The world is made up of particles + fields, and nothing else. There is no need to add space as an extra ingredient. Newton's space is the gravitational field. Or vice versa, which amounts to saying the same thing: the gravitational field is space.
 
