@@ -54,7 +54,7 @@ On the Moon, the duration of the expanded present is a few seconds, and on Mars 
 
 In technical terms, we say that Einstein had understood that "absolute simultaneity" does not exist: there is no collection of events in the universe which exists "now."
 
-**Spacetime:** the set of all past and future events, but also those that are neither past nor future; these do not form a single instant — they have themselves a duration.
+Spacetime: the set of all past and future events, but also those that are neither past nor future; these do not form a single instant — they have themselves a duration.
 
 In the Andromeda galaxy, the duration of this expanded present is 2 million years. Everything that happens during these two million years is neither past nor future with respect to ourselves.
 
