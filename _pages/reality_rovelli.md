@@ -118,15 +118,15 @@ Quantum mechanics, with its fields and particles, offers today a spectacularly e
 
 Quantum mechanics has taught us the nature of things: granularity, indeterminacy, and the relational structure of the world.
 
-### Quanta 1: Information Is Finite
+#### Quanta 1: Information Is Finite
 
 The granularity of matter and light is at the heart of quantum theory. We make measurements on a physical system and find that the system is in a particular state. For instance, we measure the amplitude of the oscillations of a pendulum and find that it has a certain value, say somewhere between 5 and 6 cm. Before quantum mechanics, we would have said that since there are an infinite number of possible values between 5 and 6 cm, there are infinite possible states of motion in which the pendulum could find itself. Quantum mechanics tells us that between 5 and 6 cm there is a finite number of possible values of the amplitude; hence our missing information about the pendulum is finite.
 
-### Quanta 2: Indeterminacy
+#### Quanta 2: Indeterminacy
 
 How do we compute the probability that an electron in a certain initial position A will reappear after a given time in one or another final position B? In the 1950s, Richard Feynman suggests a method of making this calculation. Consider all possible trajectories from A to B — that is to say, all possible trajectories the electron can follow. Each trajectory determines a number. The probability is obtained from the sum of all of these numbers. This technique for computing the probability of a quantum event is called Feynman's sum over paths, or Feynman's integral.
 
-### Quanta 3: Reality Is Relational
+#### Quanta 3: Reality Is Relational
 
 The theory does not describe things as they are: it describes how things occur and how they interact with each other. It doesn't describe where there is a particle, but how the particle shows itself to others. The world of existent things is reduced to a realm of possible interactions. Reality is reduced to interaction. Reality is reduced to relation.
 
