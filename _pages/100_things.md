@@ -99,7 +99,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">81. See Earth from space</span><br>
 <span style="font-size: 85%;">82. Northern Lights in Alaska</span><br>
 <span style="font-size: 85%;">83. Meet Elon Musk</span><br>
-<span style="font-size: 85%;">84. </span><br>
+<span style="font-size: 85%;">84. Meet Demis Hassabis</span><br>
 <span style="font-size: 85%;">85. </span><br>
 <span style="font-size: 85%;">86. </span><br>
 <span style="font-size: 85%;">87. </span><br>
