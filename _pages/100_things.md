@@ -77,7 +77,7 @@ permalink:  /100_things/
 <span style="font-size: 85%;">59. Visit 20 national parks in the US (14 / 20)</span><br>
 <span style="font-size: 85%;">60. Go on a solo hike</span><br>
 <span style="font-size: 85%;">61. Go shark cage diving</span><br>
-<span style="font-size: 85%;">62. <s>Wine at Napa Valley</s></span><br>
+<span style="font-size: 85%;">62. <s>Wine at Napa Valley</s> (Castello di Amorosa)</span><br>
 <span style="font-size: 85%;">63. Visit 10+ ski resorts (3 / 10)</span><br>
 <span style="font-size: 85%;">64. <s>Visit a tulip farm</s> (endless colors at Roozengaarde, WA)</span><br>
 <span style="font-size: 85%;">65. Tour the Colosseum</span><br>
