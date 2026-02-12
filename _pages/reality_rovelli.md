@@ -162,4 +162,6 @@ It means that we in reality never measure time itself: we always measure physica
 
 We must learn to think of the world not as changes in time but in some other way. Things change only in relation to one another. At a fundamental level, there is no time. Our sense of the common passage of time is only an approximation which holds at our macroscopic scale. It derives from the fact that we perceive the world in a coarse-grained fashion.
 
+*What Is Our World Made Of?*
+
 ![Reality Is Not What It Seems](img/reality_rovelli.jpg)
