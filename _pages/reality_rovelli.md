@@ -139,3 +139,27 @@ To summarize, the discovery of three features of the world:
 3. Relationality: the events of nature are always interactions. All events of a system occur in relation to another system.
 
 Properties of things manifest themselves in a granular manner only in the moment of interaction — that is to say, at the edges of the processes — and are such only in relation to other things. They cannot be predicted in an unequivocal way, but only in a probabilistic one.
+
+### What Is Unknown in Current Physics?
+
+*Spacetime Is Quantum*
+
+In most situations we can neglect quantum mechanics or general relativity or both. The Moon is too large to be sensitive to minute quantum granularity, so we can forget the quanta when describing its movements. On the other hand, an atom is too light to cause space to curve to a significant degree, and when we describe it we forget the curvature of space. But there are situations where both curvature of space and quantum granularity matter, and for those we do not yet have a physics that works.
+
+*Time Does Not Exist*
+
+Time does not pass in the same way everywhere in the world. In some places it flows more quickly, in others more slowly. The closer you get to the Earth, where gravity is more intense, the slower time passes.
+
+Think of time as if there were a great cosmic clock that marks the life of the universe. We have known for more than a century that we must think of time instead as a localized phenomenon: every object in the universe has its own time, running at a pace determined by the local gravitational field.
+
+But even this notion of localized time no longer works when we take the quantum nature of the field into account. Quantum events are no longer ordered by the passage of time at the Planck scale. Time, in a sense, ceases to exist.
+
+What does it mean to say that time does not exist?
+
+First, the absence of the variable time from the fundamental equations does not imply that everything is immobile and that change does not happen. On the contrary, it means that change is ubiquitous. Only: elementary processes cannot be ordered in a succession of instants. The passing of time is intrinsic to the world; it is born of the world itself, out of the relations between quantum events which are the world and which themselves generate their own time.
+
+It means that we in reality never measure time itself: we always measure physical variables A, B, C, ... and compare one variable with another — that is to say, we measure the functions A(B), B(C), C(A), ... and so on. We can count how many beats for each oscillation, how many oscillations for every tick of my stopwatch, how many ticks of my stopwatch between intervals of the clock on the bell tower, ...
+
+We must learn to think of the world not as changes in time but in some other way. Things change only in relation to one another. At a fundamental level, there is no time. Our sense of the common passage of time is only an approximation which holds at our macroscopic scale. It derives from the fact that we perceive the world in a coarse-grained fashion.
+
+![Reality Is Not What It Seems](img/reality_rovelli.jpg)
