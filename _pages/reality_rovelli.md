@@ -109,3 +109,33 @@ The theory also gives information on which value of the spectrum will manifest i
 Dirac's quantum mechanics allows us to do two things. (1) The first is to calculate which values a physical variable may assume. This is called the spectrum of a variable; it captures the granular nature of things. When an object (atom, electromagnetic field, molecule, pendulum, stone, star) interacts with something else, the values computed are those which its variables can assume in the interaction. (2) The second thing that Dirac's quantum mechanics allows us to do is to compute the probability that this or that value of a variable appears in the next interaction. This is called the calculation of an amplitude of transition. (3) Probability expresses the third feature of the theory: indeterminacy — the fact that it does not give unique predictions, only probabilistic ones.
 
 This is Dirac's quantum mechanics: a recipe for calculating the spectra of variables, and a recipe for calculating the probability that one in the spectrum will appear during an interaction.
+
+Dirac discovers an ulterior profound simplification of our description of nature: the convergence of the notion of particles used by Newton and the notion of fields introduced by Faraday. The equations of Dirac determine the values a variable can take. Applied to the energy of Faraday's lines, they tell us that this energy can only take on certain values and not others. Since the energy of the electromagnetic field can only take on certain values, the field behaves like a set of packets of energy. These are precisely the quanta of energy introduced by Planck and Einstein 30 years earlier. The circle closes and the story is complete. The equations of the theory written by Dirac account for the nature of light which Planck and Einstein had intuited.
+
+The general form of quantum theory compatible with special relativity is thus called quantum field theory, and it forms the basis of today's particle physics. Particles are quanta of a field, just as photons are quanta of light. All fields display a granular structure in their interactions.
+
+Quantum mechanics, with its fields and particles, offers today a spectacularly effective description of nature. The world is not made up of fields and particles, but of a single type of entity: the quantum field. There are no longer particles which move in space with the passage of time, but quantum fields whose elementary events happen in spacetime. The world is strange but simple.
+
+Quantum mechanics has taught us the nature of things: granularity, indeterminacy, and the relational structure of the world.
+
+### Quanta 1: Information Is Finite
+
+The granularity of matter and light is at the heart of quantum theory. We make measurements on a physical system and find that the system is in a particular state. For instance, we measure the amplitude of the oscillations of a pendulum and find that it has a certain value, say somewhere between 5 and 6 cm. Before quantum mechanics, we would have said that since there are an infinite number of possible values between 5 and 6 cm, there are infinite possible states of motion in which the pendulum could find itself. Quantum mechanics tells us that between 5 and 6 cm there is a finite number of possible values of the amplitude; hence our missing information about the pendulum is finite.
+
+### Quanta 2: Indeterminacy
+
+How do we compute the probability that an electron in a certain initial position A will reappear after a given time in one or another final position B? In the 1950s, Richard Feynman suggests a method of making this calculation. Consider all possible trajectories from A to B — that is to say, all possible trajectories the electron can follow. Each trajectory determines a number. The probability is obtained from the sum of all of these numbers. This technique for computing the probability of a quantum event is called Feynman's sum over paths, or Feynman's integral.
+
+### Quanta 3: Reality Is Relational
+
+The theory does not describe things as they are: it describes how things occur and how they interact with each other. It doesn't describe where there is a particle, but how the particle shows itself to others. The world of existent things is reduced to a realm of possible interactions. Reality is reduced to interaction. Reality is reduced to relation.
+
+Galileo understood that speed is not an object of its own: it is the property of motion of an object with respect to another object. Einstein extended relativity to time: we can say that two events are simultaneous only relative to a given motion. Quantum mechanics extends this relativity in a radical way: all variable aspects of an object exist only in relation to other objects. It is only in interactions that nature draws the world.
+
+To summarize, the discovery of three features of the world:
+
+1. Granularity: the information in the state of a system is finite and limited by Planck's constant.
+2. Indeterminacy: the future is not determined unequivocally by the past. Even the most rigid regularities we see are ultimately statistical.
+3. Relationality: the events of nature are always interactions. All events of a system occur in relation to another system.
+
+Properties of things manifest themselves in a granular manner only in the moment of interaction — that is to say, at the edges of the processes — and are such only in relation to other things. They cannot be predicted in an unequivocal way, but only in a probabilistic one.
