@@ -42,7 +42,7 @@ permalink:  /publications/
 <h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
 <p class="pubd">
     <span class="authors">S. Li, <u>S. Bhagat</u>, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
-    <span class="conf">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
+    <span class="conf">International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
     <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span><br>
     <span class="trophy">&#x1F3C6; Oral</span>
     <span class="links">
@@ -58,7 +58,7 @@ permalink:  /publications/
 <h2 class="pubt">Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation</h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
-    <span class="conf">IEEE Robotics and Automation Letters (RA-L), 2024</span><br>
+    <span class="conf">Robotics and Automation Letters (RA-L), 2024</span><br>
     <span class="conf">International Conference on Robotics and Automation (ICRA), 2025</span><br>
     <span class="conf">Workshop on Nonverbal Cues for Human-Robot Cooperative Intelligence, ICRA 2025</span><br>
     <span class="trophy">&#x1F3C6; Best Paper Award</span>    
