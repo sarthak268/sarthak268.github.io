@@ -5,20 +5,6 @@ title:      The Winner Effect by Ian Robertson
 permalink:  /bookshelf/winner_effect/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *How winning rewires the brain and breeds more winning 🏆*
 
 ### The Mystery of Picasso's Son

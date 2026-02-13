@@ -5,20 +5,6 @@ title:      We Are All Stardust by Stefan Klein
 permalink:  /bookshelf/stardust/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *Conversations with scientists on life's biggest questions ⭐*
 
 A collection of conversations with leading scientists and thinkers exploring the biggest questions about life, the universe, and what it means to be human.

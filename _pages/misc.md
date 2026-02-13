@@ -4,27 +4,17 @@ title:      Miscellaneous
 permalink:  /misc/
 ---
 
-<style type="text/css">
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 ## Interests
 
-<span style="font-size: 85%;">• Reading - biographies, physics, philosophy, business. Check out my [bookshelf](https://sarthak268.github.io/bookshelf/).</span><br>
-<span style="font-size: 85%;">• Physics & astronomy - black holes, quantum mechanics, the origin of the universe.</span><br>
-<span style="font-size: 85%;">• [Traveling](https://sarthak268.github.io/travel/) & hiking - chasing mountains, sunsets, and places off the beaten path.</span><br>
-<span style="font-size: 85%;">• Startups - fascinated by how things get built from zero. [Let's chat!](https://x.com/sarthak__bhagat)</span><br>
-<span style="font-size: 85%;">• Chess - ELO 1644. Always looking for a game.</span><br>
-<span style="font-size: 85%;">• Football - watching, playing, and FIFA</span><br>
-<span style="font-size: 85%;">• Gym + racket sports (still a noob)</span><br>
-<span style="font-size: 85%;">• Photography - <a href="https://www.instagram.com/shot.by.sarthak/" target="_blank">places through my lens</a></span><br>
-<span style="font-size: 85%;">• Food - chasing good food & hidden gems ([my food diary](https://beliapp.co/app/sarthakbhagat))</span><br>
+<span class="list-item">• Reading - biographies, physics, philosophy, business. Check out my [bookshelf](https://sarthak268.github.io/bookshelf/).</span><br>
+<span class="list-item">• Physics & astronomy - black holes, quantum mechanics, the origin of the universe.</span><br>
+<span class="list-item">• [Traveling](https://sarthak268.github.io/travel/) & hiking - chasing mountains, sunsets, and places off the beaten path.</span><br>
+<span class="list-item">• Startups - fascinated by how things get built from zero. [Let's chat!](https://x.com/sarthak__bhagat)</span><br>
+<span class="list-item">• Chess - ELO 1644. Always looking for a game.</span><br>
+<span class="list-item">• Football - watching, playing, and FIFA</span><br>
+<span class="list-item">• Gym + racket sports (still a noob)</span><br>
+<span class="list-item">• Photography - <a href="https://www.instagram.com/shot.by.sarthak/" target="_blank">places through my lens</a></span><br>
+<span class="list-item">• Food - chasing good food & hidden gems ([my food diary](https://beliapp.co/app/sarthakbhagat))</span><br>
 
 ## Awards and Honors
 
@@ -119,9 +109,9 @@ permalink:  /misc/
 
 ## Side Quests
 
-<span style="font-size: 85%;">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
-<span style="font-size: 85%;">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
-<span style="font-size: 85%;">• [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
+<span class="list-item">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
+<span class="list-item">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
+<span class="list-item">• [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
 
 
 

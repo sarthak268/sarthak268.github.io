@@ -4,38 +4,13 @@ title:      Bookshelf
 permalink:  /bookshelf/
 ---
 
-<style type="text/css">
-    strong {
-        color: var(--accent-blue);
-        font-weight: 400;
-        font-style: italic;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-    .highlight-book {
-        background-color: #fef08a;
-        padding: 1px 3px;
-        border-radius: 2px;
-    }
-    [data-theme="dark"] .highlight-book {
-        background-color: #854d0e;
-        color: #fef9c3;
-    }
-    .book-entry {
-        display: block;
-        padding-left: 1.8em;
-        text-indent: -1.8em;
-        margin-bottom: 0;
-        font-size: 85%;
-    }
-</style>
-
 > "A reader lives a thousand lives before he dies... The man who never reads lives only one."
 > – George R.R. Martin
 
-<span style="font-size: 85%;">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
+<span class="list-item">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
 Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are <span class="highlight-book">highlighted</span>.</span><br>
+
+<br>
 
 ## Science & History
 
@@ -54,7 +29,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">13. <span class="highlight-book"><a href="/bookshelf/life_assembly/">Life As No One Knows It by Sara Imari Walker</a></span></span>
 <span class="book-entry">14. <a href="/bookshelf/moon_shot/">Moon Shot by Alan Shepard and Deke Slayton</a></span>
 <span class="book-entry">15. <a href="/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierl and Brendan Rosseau</a></span>
-<span class="book-entry">16. <span class="highlight-book"><a href="/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span></span><br>
+<span class="book-entry">16. <span class="highlight-book"><a href="/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span></span>
 
 ## Mindset & Wisdom
 
@@ -68,7 +43,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">8. <a href="/bookshelf/give_and_take/">Give and Take by Adam Grant</a></span>
 <span class="book-entry">9. <a href="/bookshelf/winner_effect/">The Winner Effect by Ian Robertson</a></span>
 <span class="book-entry">10. <a href="/bookshelf/principles/">Principles by Ray Dalio</a></span>
-<span class="book-entry">11. <a href="/bookshelf/art_of_thinking_clearly/">The Art of Thinking Clearly by Rolf Dobelli</a></span><br>
+<span class="book-entry">11. <a href="/bookshelf/art_of_thinking_clearly/">The Art of Thinking Clearly by Rolf Dobelli</a></span>
 
 ## Biographies & Memoirs
 
@@ -87,13 +62,13 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">13. <a href="/bookshelf/no_dream_too_high/">No Dream Is Too High by Buzz Aldrin</a></span>
 <span class="book-entry">14. <a href="/bookshelf/my_journey_kalam/">My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam</a></span>
 <span class="book-entry">15. <a href="/bookshelf/einstein/">Einstein by Steven Gimbel</a></span>
-<span class="book-entry">16. <a href="/bookshelf/unseen/">Unseen by Megha Vishwanath</a></span><br>
+<span class="book-entry">16. <a href="/bookshelf/unseen/">Unseen by Megha Vishwanath</a></span>
 
 ## Fiction
 
 <span class="book-entry">1. <a href="/bookshelf/alchemist/">The Alchemist by Paulo Coelho</a></span>
 <span class="book-entry">2. <a href="/bookshelf/life_3/">Life 3.0 by Max Tegmark</a></span>
-<span class="book-entry">3. <a href="/bookshelf/three_body_problem/">The Three-Body Problem by Cixin Liu</a></span><br>
+<span class="book-entry">3. <a href="/bookshelf/three_body_problem/">The Three-Body Problem by Cixin Liu</a></span>
 
 ## Entrepreneurship
 
@@ -103,7 +78,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">4. <a href="/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span>
 <span class="book-entry">5. <a href="/bookshelf/paul_graham/">Essays by Paul Graham</a></span>
 <span class="book-entry">6. <a href="/bookshelf/no_rules_rules/">No Rules Rules by Reed Hastings, Erin Meyer</a></span>
-<span class="book-entry">7. <span class="highlight-book"><a href="/bookshelf/that_will_never_work/">That Will Never Work by Marc Randolph</a></span></span><br>
+<span class="book-entry">7. <span class="highlight-book"><a href="/bookshelf/that_will_never_work/">That Will Never Work by Marc Randolph</a></span></span>
 
 ## Finance & Investing
 
@@ -112,7 +87,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">3. <a href="/bookshelf/coffee_can_investing/">Coffee Can Investing by Saurabh Mukherjee</a></span>
 <span class="book-entry">4. <a href="/bookshelf/just_keep_buying/">Just Keep Buying by Nick Maggiulli</a></span>
 <span class="book-entry">5. <a href="/bookshelf/psychology_of_money/">The Psychology of Money by Morgan Housel</a></span>
-<span class="book-entry">6. <a href="/bookshelf/rich_dad_poor_dad/">Rich Dad Poor Dad by Robert T. Kiyosaki</a></span><br>
+<span class="book-entry">6. <a href="/bookshelf/rich_dad_poor_dad/">Rich Dad Poor Dad by Robert T. Kiyosaki</a></span>
 
 ## Eclectic Picks
 
@@ -125,11 +100,11 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">7. <span class="highlight-book"><a href="/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span>
 <span class="book-entry">8. <a href="/bookshelf/antifragile/">Antifragile by Nassim Taleb</a></span>
 <span class="book-entry">9. <a href="/bookshelf/stardust/">We Are All Stardust by Stefan Klein</a></span>
-<span class="book-entry">10. <span class="highlight-book"><a href="/bookshelf/when_heavens_went_on_sale/">When the Heavens Went on Sale by Ashlee Vance</a></span></span><br>
+<span class="book-entry">10. <span class="highlight-book"><a href="/bookshelf/when_heavens_went_on_sale/">When the Heavens Went on Sale by Ashlee Vance</a></span></span>
 
 <br>
 
-<span style="font-size: 85%;">When I'm not reading, I'm probably listening to one of these podcasts or talks:</span><br>
+<span class="list-item">When I'm not reading, I'm probably listening to one of these podcasts or talks:</span><br>
 
 <span class="book-entry">1. David Deutsch and Naval Ravikant - The Tim Ferriss Show</span>
 <span class="book-entry">2. Joe Rogan Experience #1309 - Naval Ravikant</span>
@@ -139,11 +114,11 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">6. Naval Ravikant: The Beginning of Infinity - Arjun Khemani</span>
 <span class="book-entry">7. Joe Rogan Experience #2217 - Brian Cox</span>
 <span class="book-entry">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span>
-<span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span><br>
+<span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span>
 
-<span style="font-size: 85%;">And a few documentaries that left a mark:</span><br>
+<span class="list-item">And a few documentaries that left a mark:</span><br>
 
-<span class="book-entry">1. <a href="https://youtu.be/d95J8yzvjbQ?si=rX04eGo_SIrlgyZZ">The Thinking Game</a>: the story of DeepMind and Demis Hassabis 🧠</span><br>
+<span class="book-entry">1. <a href="https://youtu.be/d95J8yzvjbQ?si=rX04eGo_SIrlgyZZ">The Thinking Game</a>: the story of DeepMind and Demis Hassabis 🧠</span>
 
 <br>
-<span style="font-size: 85%;">Got a book I should read? [I'm all ears.](//twitter.com/@sarthak__bhagat)</span><br>
+<span class="list-item">Got a book I should read? [I'm all ears.](//twitter.com/@sarthak__bhagat)</span><br>

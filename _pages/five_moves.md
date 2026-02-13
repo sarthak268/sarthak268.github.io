@@ -5,20 +5,6 @@ title:      Your Next Five Moves by Patrick Bet-David
 permalink:  /bookshelf/five_moves_ahead/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *Think like a chess grandmaster in business and life ♟️*
 
 *Before Your First Move*

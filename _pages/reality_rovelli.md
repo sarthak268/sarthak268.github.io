@@ -4,20 +4,6 @@ title:      Reality is not what it seems by Carlo Rovelli
 permalink:  /bookshelf/reality_rovelli/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *Shattering intuitions about space, time, and the nature of reality 🌍*
 
 If in some cataclysm all scientific knowledge were to be destroyed and only one sentence passed on to the next generation of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis — all things are made of atoms, little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.

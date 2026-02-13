@@ -5,20 +5,6 @@ title:      Pour Your Heart Into It by Howard Schultz
 permalink:  /bookshelf/starbucks/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *How passion for coffee built a global empire ☕*
 
 - A Strong Legacy Makes You Sustainable

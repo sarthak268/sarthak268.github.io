@@ -4,20 +4,6 @@ title:      Zero To One by Peter Thiel
 permalink:  /bookshelf/zero_to_one/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *How to build the future by creating something new 🚀*
 
 - *Zero to One*

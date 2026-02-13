@@ -5,20 +5,6 @@ title:      Moon Shot by Alan Shephard and Deke Slayton
 permalink:  /bookshelf/moon_shot/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *The race to the moon told by the astronauts who lived it 🚀*
 
 - The Americans had hired German rocketry experts who worked for Hitler for their space program intended to launch satellites and land on the Moon. They were passionate about using their expertise for space exploration and looking at Germany loosing the World War were exploring which country to work for.

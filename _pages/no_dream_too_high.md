@@ -5,20 +5,6 @@ title:      No Dream Is Too High
 permalink:  /bookshelf/no_dream_too_high/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *Life lessons from the second man to walk on the moon 🌙*
 
 - The sky is not the limit ... there are footprints on the Moon!

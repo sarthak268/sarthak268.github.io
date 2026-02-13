@@ -4,33 +4,6 @@ title:       Publications
 permalink:  /publications/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li,
-    .post .post-content .pubd,
-    .post .post-content .pubd span {
-        font-size: 14px !important;
-    }
-    .post .post-content span.conf,
-    .post .post-content span.trophy {
-        font-size: 12px !important;
-    }
-    .post section h2 {
-        font-size: 15px !important;
-        margin: 15px 0 8px !important;
-    }
-    .post section h2.pubt {
-        font-size: 14px !important;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 ## Reports
 
 <a name="/agenticrobotics"></a>

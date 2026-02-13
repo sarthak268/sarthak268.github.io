@@ -5,20 +5,6 @@ title:      Lords of the Cosmos by Arjun Khemani and Logan Chipkin
 permalink:  /bookshelf/lords_of_cosmos/
 ---
 
-<style type="text/css">
-    .post .post-content p,
-    .post .post-content li {
-        font-size: 14px;
-    }
-    strong {
-        color: #3498db;
-        font-weight: 400;
-    }
-    blockquote {
-        padding: 0px 23px;
-    }
-</style>
-
 *A distillation of Deutsch's ideas from his books and works ✨*
 
 - Timeline: 

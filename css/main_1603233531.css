@@ -231,10 +231,11 @@ ul.nav-bar li.theme-toggle-wrapper {
 }
 
 .post h1 {
-  font-size: 1.4em;
+  font-size: 22px;
   line-height: 1.3em;
   font-weight: 300;
   color: var(--text-heading);
+  margin-bottom: 20px;
 }
 
 .post h2.excerpt {
@@ -248,7 +249,7 @@ ul.nav-bar li.theme-toggle-wrapper {
 
 .post section {
   line-height: 26px;
-  font-size: 16px;
+  font-size: 15px;
   font-family: 'Roboto', sans-serif;
   color: var(--text-primary);
 }
@@ -261,13 +262,13 @@ ul.nav-bar li.theme-toggle-wrapper {
 }
 
 .post section h2 {
-  font-size: 1.4em;
+  font-size: 18px;
   line-height: 1.1;
+  margin-top: 12px;
+  margin-bottom: 0;
   margin-left: -25px;
   border-left: 5px solid var(--border-light);
   padding-left: 20px;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 .post section h3 {
@@ -275,7 +276,7 @@ ul.nav-bar li.theme-toggle-wrapper {
 }
 
 .post section p {
-  font-size: 16px;
+  font-size: 15px;
   margin: 1em 0;
   text-align: left;
 }
@@ -403,12 +404,45 @@ a:hover, a:focus {
 span.authors {
   color: var(--text-muted);
   margin: 5px 0;
-  font-size: 14px; }
+  font-size: 13px; }
 
 span.conf {
   color: var(--accent-conf);
   font-weight: 500;
-  font-size: 14px; }
+  font-size: 12px; }
+
+span.trophy {
+  font-size: 12px; }
+
+/* Common page styles */
+.post section strong {
+  color: var(--accent-blue);
+  font-weight: 400;
+}
+
+.post section blockquote {
+  padding: 0px 23px;
+}
+
+/* Bookshelf styles */
+.highlight-book {
+  background-color: #fef08a;
+  padding: 1px 3px;
+  border-radius: 2px;
+}
+
+[data-theme="dark"] .highlight-book {
+  background-color: #854d0e;
+  color: #fef9c3;
+}
+
+.book-entry {
+  display: block;
+  padding-left: 1.8em;
+  text-indent: -1.8em;
+  margin-bottom: 0;
+  font-size: 85%;
+}
 
 #vimeo-embed {
   position: relative;
@@ -850,6 +884,11 @@ a {
   margin-bottom: 8px !important;
   padding: 0;
   color: var(--text-primary);
+}
+
+.list-item {
+  font-size: 85%;
+  line-height: 1.2;
 }
 
 .talks-item::before {
