@@ -11,6 +11,10 @@ permalink:  /publications/
     .post .post-content .pubd span {
         font-size: 14px !important;
     }
+    .post .post-content span.conf,
+    .post .post-content span.trophy {
+        font-size: 12px !important;
+    }
     .post section h2 {
         font-size: 15px !important;
         margin: 15px 0 8px !important;
