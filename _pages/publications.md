@@ -8,13 +8,13 @@ permalink:  /publications/
     .post .post-content p,
     .post .post-content li,
     .post .post-content .pubd {
-        font-size: 14px;
+        font-size: 14px !important;
     }
     .post section h2 {
-        font-size: 18px;
+        font-size: 18px !important;
     }
     .post section h2.pubt {
-        font-size: 15px;
+        font-size: 15px !important;
     }
     strong {
         color: #3498db;
