@@ -78,7 +78,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span><br>
-    <span class="trophy">&#x1F3C6; Oral; Top 20% of Accepted Papers</span>
+    <span class="trophy">&#x1F3C6; Oral; Top 12 Publications</span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/">Website</a>
         <a target="_blank" href="https://proceedings.mlr.press/v232/bhagat23a/bhagat23a.pdf">Paper</a>
