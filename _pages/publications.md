@@ -7,14 +7,16 @@ permalink:  /publications/
 <style type="text/css">
     .post .post-content p,
     .post .post-content li,
-    .post .post-content .pubd {
+    .post .post-content .pubd,
+    .post .post-content .pubd span {
         font-size: 14px !important;
     }
     .post section h2 {
-        font-size: 18px !important;
+        font-size: 15px !important;
+        margin: 15px 0 8px !important;
     }
     .post section h2.pubt {
-        font-size: 15px !important;
+        font-size: 14px !important;
     }
     strong {
         color: #3498db;
