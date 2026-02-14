@@ -424,6 +424,53 @@ span.trophy {
   padding: 0px 23px;
 }
 
+/* Bookshelf collapsible sections */
+.bookshelf-section {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.bookshelf-section summary {
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.1;
+  color: var(--text-heading);
+  margin-top: 12px;
+  margin-bottom: 0;
+  margin-left: -25px;
+  border-left: 5px solid var(--border-light);
+  padding-left: 20px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.bookshelf-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.bookshelf-section summary::before {
+  content: '▸';
+  display: inline-block;
+  margin-right: 6px;
+  font-size: 14px;
+  transition: transform 0.2s ease;
+}
+
+.bookshelf-section[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.bookshelf-section .list-item {
+  display: block;
+  margin-top: 6px;
+}
+
+.bookshelf-section p {
+  margin-top: 0;
+}
+
 /* Bookshelf styles */
 .highlight-book {
   background-color: #fef08a;
@@ -440,7 +487,7 @@ span.trophy {
   display: block;
   padding-left: 1.8em;
   text-indent: -1.8em;
-  margin-bottom: 0;
+  margin-bottom: 4px;
   font-size: 85%;
   line-height: 1.2;
 }
