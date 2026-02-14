@@ -86,7 +86,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
             <ul class="timeline-details">
                 <li>Reinforcement learning for manipulation with <a href="https://www.1x.tech/neo">NEO</a></li>
                 <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</li>
-                <li>1x World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>)</li>
+                <li>1x World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - a 14B parameter video generation model that imagines the future, then acts on it using an inverse dynamics model</li>
             </ul>
         </div>
     </div>
