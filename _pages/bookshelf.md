@@ -144,6 +144,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span>
 <span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span>
 <span class="book-entry">10. <a href="https://open.spotify.com/episode/3KSOxrjalScxHFQF9u8M46">Lex Fridman Podcast #468 - Janna Levin</a></span>
+<span class="book-entry">11. Hardcore History: Supernova in the East - Dan Carlin</span>
 </p>
 </details>
 
