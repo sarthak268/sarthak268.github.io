@@ -134,17 +134,17 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <summary>🎙️ Podcasts & Talks</summary>
 <span class="list-item">When I'm not reading, I'm probably listening to one of these podcasts or talks:</span>
 <p>
-<span class="book-entry">1. David Deutsch and Naval Ravikant - The Tim Ferriss Show</span>
-<span class="book-entry">2. Joe Rogan Experience #1309 - Naval Ravikant</span>
-<span class="book-entry">3. Why Rejection is Awesome - Talks at Google (Ep369)</span>
-<span class="book-entry">4. How To Get Rich: Every Episode - Naval</span>
-<span class="book-entry">5. Sara Imari Walker #2184 - Joe Rogan</span>
-<span class="book-entry">6. Naval Ravikant: The Beginning of Infinity - Arjun Khemani</span>
-<span class="book-entry">7. Joe Rogan Experience #2217 - Brian Cox</span>
+<span class="book-entry">1. <a href="https://open.spotify.com/episode/6nE2aDcXQye5R402hYIbGI">David Deutsch and Naval Ravikant - The Tim Ferriss Show</a></span>
+<span class="book-entry">2. <a href="https://open.spotify.com/episode/3ijkVfaht5kcFPvHcCbYYD">Joe Rogan Experience #1309 - Naval Ravikant</a></span>
+<span class="book-entry">3. <a href="https://open.spotify.com/episode/2f1cO0R0P2UOTI5rCcg0qH">Why Rejection is Awesome - Talks at Google (Ep369)</a></span>
+<span class="book-entry">4. <a href="https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m">How To Get Rich: Every Episode - Naval</a></span>
+<span class="book-entry">5. <a href="https://open.spotify.com/episode/1ikGgmQzkw1OsCxKcHwlxq">Sara Imari Walker #2184 - Joe Rogan</a></span>
+<span class="book-entry">6. <a href="https://open.spotify.com/episode/1hGNQQhkuoewA6TNK3KOAc">Naval Ravikant: The Beginning of Infinity - Arjun Khemani</a></span>
+<span class="book-entry">7. <a href="https://open.spotify.com/episode/67fjltTOUn6ypGqXHcPRXi">Joe Rogan Experience #2217 - Brian Cox</a></span>
 <span class="book-entry">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span>
 <span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span>
 <span class="book-entry">10. <a href="https://open.spotify.com/episode/3KSOxrjalScxHFQF9u8M46">Lex Fridman Podcast #468 - Janna Levin</a></span>
-<span class="book-entry">11. Hardcore History: Supernova in the East - Dan Carlin</span>
+<span class="book-entry">11. <a href="https://open.spotify.com/episode/2lqNevhLx08QPmvCLjhS4g">Hardcore History: Supernova in the East - Dan Carlin</a></span>
 </p>
 </details>
 
