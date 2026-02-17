@@ -73,6 +73,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">14. <a href="/bookshelf/my_journey_kalam/">My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam</a></span>
 <span class="book-entry">15. <a href="/bookshelf/einstein/">Einstein by Steven Gimbel</a></span>
 <span class="book-entry">16. <a href="/bookshelf/unseen/">Unseen by Megha Vishwanath</a></span>
+<span class="book-entry">17. <a href="/bookshelf/surely_youre_joking/">Surely You're Joking, Mr. Feynman! by Richard P. Feynman</a></span>
 </p>
 </details>
 
