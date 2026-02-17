@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/cover3.jpg">
+        <img src="/img/me.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         <span style="font-size: 85%;">Research Engineer</span><br>
