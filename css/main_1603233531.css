@@ -722,6 +722,13 @@ pre code {
 
 [data-theme="dark"] .social-icon-color {
   filter: none;
+  background-color: transparent;
+}
+
+[data-theme="dark"] .social-icon-scholar {
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 2px;
 }
 
 /* Dark mode for blockquotes */
