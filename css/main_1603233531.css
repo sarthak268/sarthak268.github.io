@@ -729,6 +729,7 @@ pre code {
   background-color: #fff;
   border-radius: 50%;
   padding: 2px;
+  box-sizing: content-box;
 }
 
 /* Dark mode for blockquotes */
