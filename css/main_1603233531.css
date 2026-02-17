@@ -720,6 +720,10 @@ pre code {
   filter: invert(1);
 }
 
+[data-theme="dark"] .social-icon-color {
+  filter: none;
+}
+
 /* Dark mode for blockquotes */
 blockquote {
   border-left-color: var(--border-medium);
