@@ -128,6 +128,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">8. <a href="/bookshelf/antifragile/">Antifragile by Nassim Taleb</a></span>
 <span class="book-entry">9. <a href="/bookshelf/stardust/">We Are All Stardust by Stefan Klein</a></span>
 <span class="book-entry">10. <span class="highlight-book"><a href="/bookshelf/when_heavens_went_on_sale/">When the Heavens Went on Sale by Ashlee Vance</a></span></span>
+<span class="book-entry">11. <a href="/bookshelf/moonwalking_with_einstein/">Moonwalking with Einstein by Joshua Foer</a></span>
 </p>
 </details>
 
