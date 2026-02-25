@@ -227,7 +227,7 @@ permalink:  /publications/
 <a name="/msr"></a>
 <h2 class="pubt">Enhancing Robot Perception and Interaction Through Structured Domain Knowledge</h2>
 <p class="pubd">
-    <span class="authors">Advisor: Katia Sycara</span><br>
+    <span class="authors">Advisor: Katia Sycara (Carnegie Mellon University)</span><br>
     <span class="conf">Master's Thesis</span>
     <span class="links">
         <a target="_blank" href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">Thesis</a>
