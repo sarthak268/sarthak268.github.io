@@ -6,10 +6,12 @@ permalink:  /services/
 
 ## Reviewing
 
-<span class="list-item">• Conferences</span><br>
-<span class="list-item">&emsp;ICRA'25-26 · AAAI'25 · CoRL'24 · ICML'24 · ICLR'24 · CoLLAs'24 · NeurIPS'23 · WACV'23</span><br>
-<span class="list-item">• Journals</span><br>
-<span class="list-item">&emsp;RA-L'24-26</span><br>
+<span class="list-item">• Robotics</span><br>
+<span class="list-item">&emsp;ICRA'25-26 · CoRL'24 · RA-L'24-26</span><br>
+<span class="list-item">• AI / Machine Learning</span><br>
+<span class="list-item">&emsp;AAAI'25 · ICML'24 · ICLR'24 · CoLLAs'24 · NeurIPS'23</span><br>
+<span class="list-item">• Computer Vision</span><br>
+<span class="list-item">&emsp;WACV'23</span><br>
 
 ## Mentoring
 
@@ -21,8 +23,9 @@ permalink:  /services/
 <span class="list-item">• Program Committee Member, AAAI'25</span><br>
 <span class="list-item">• IEEE Student Chapter Founder & Chair</span><br>
 <span class="list-item">• Administrator: Robotics Club, IIIT-Delhi</span><br>
-<span class="list-item">• Teaching Assistant: Introduction to Robot Simulation at Nvidia GTC'25, San Jose [(Recording)](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/)</span><br>
-<span class="list-item">• Teaching Assistant: Prototype of Interactive Systems (500+ freshmen students)</span><br>
+<span class="list-item">• Teaching Assistant</span><br>
+<span class="list-item">&emsp;Introduction to Robot Simulation at Nvidia GTC'25, San Jose [(Recording)](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/)</span><br>
+<span class="list-item">&emsp;Prototype of Interactive Systems (500+ freshmen students)</span><br>
 
 ## Volunteering
 
