@@ -24,7 +24,7 @@ permalink:  /services/
 <span class="list-item">• IEEE Student Chapter Founder & Chair</span><br>
 <span class="list-item">• Administrator: Robotics Club, IIIT-Delhi</span><br>
 <span class="list-item">• Teaching Assistant</span><br>
-<span class="list-item">&emsp;Introduction to Robot Simulation at Nvidia GTC'25, San Jose [(Recording)](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/)</span><br>
+<span class="list-item">&emsp;Introduction to Robot Simulation, Nvidia GTC'25 [(Recording)](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/)</span><br>
 <span class="list-item">&emsp;Prototype of Interactive Systems (500+ freshmen students)</span><br>
 
 ## Volunteering
