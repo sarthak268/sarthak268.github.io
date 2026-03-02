@@ -10,7 +10,7 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         <span style="font-size: 85%;">Research Engineer</span><br>
-        <span style="font-size: 85%;">1x Technologies</span><br>
+        <span style="font-size: 85%;">1X Technologies</span><br>
         <span style="font-size: 85%;">sarthak.bhagat@1x.tech</span><br>
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" class="social-icon" style="width: 24px; height: 16px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" class="social-icon" style="width: 20px; height: 20px;"></a>
@@ -26,7 +26,7 @@ permalink:  /
 
 - <span style="font-size: 85%;">[Jan 26] [DreamControl](https://genrobo.github.io/DreamControl/) accepted to ICRA'26! Teaching humanoids to interact with scenes like humans do - diffusion meets whole-body control ([thread](https://x.com/sarthak__bhagat/status/1968742625369809366)).</span>
 - <span style="font-size: 85%;">[Dec 25] Went back to where it all started - gave an AMA on robotics at IIIT Delhi. Full circle moment.</span>
-- <span style="font-size: 85%;">[Nov 25] Joined [1x](https://www.1x.tech/) to work on robot manipulation with [NEO](https://www.1x.tech/neo). Excited to be building the future of humanoids.</span>
+- <span style="font-size: 85%;">[Nov 25] Joined [1X](https://www.1x.tech/) to work on robot manipulation with [NEO](https://www.1x.tech/neo). Excited to be building the future of humanoids.</span>
 - <span style="font-size: 85%;">[Sept 25] Presented our General Robotics work at the Scaleup Summit in SF.</span>
 - <span style="font-size: 85%;">[Aug 25] Teaching robots at SIGGRAPH'25 in Vancouver via [NVIDIA DLI](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/). The irony of teaching humans to teach machines.</span>
 - <span style="font-size: 85%;">[May 25] Our paper won best paper at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25! The reviewers were kind.</span>
@@ -83,10 +83,10 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2024 - Present</div>
         <div class="timeline-content">
-            <div class="timeline-title">Research Engineer, <a href="https://www.1x.tech/">1x Technologies</a></div>
+            <div class="timeline-title">Research Engineer, <a href="https://www.1x.tech/">1X Technologies</a></div>
             <ul class="timeline-details">
                 <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</li>
-                <li>Contributor to 1x World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video generation model that imagines the future, then acts on it</li>
+                <li>Contributor to 1X World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video generation model that imagines the future, then acts on it</li>
                 <li>Reinforcement learning for manipulation with <a href="https://www.1x.tech/neo">NEO</a></li>
             </ul>
         </div>
