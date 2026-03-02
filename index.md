@@ -85,9 +85,9 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Research Engineer, <a href="https://www.1x.tech/">1x Technologies</a></div>
             <ul class="timeline-details">
-                <li>Reinforcement learning for manipulation with <a href="https://www.1x.tech/neo">NEO</a></li>
                 <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</li>
                 <li>Contributor to 1x World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video generation model that imagines the future, then acts on it</li>
+                <li>Reinforcement learning for manipulation with <a href="https://www.1x.tech/neo">NEO</a></li>
             </ul>
         </div>
     </div>
@@ -98,7 +98,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
             <div class="timeline-title">Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></div>
             <ul class="timeline-details">
                 <li>Employee #6, first hire for the robotics team</li>
-                <li>Led sim2real RL efforts (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
+                <li>Head of sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
                 <li>Humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds, arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agents (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</li>
             </ul>
         </div>
