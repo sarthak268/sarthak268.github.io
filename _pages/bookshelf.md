@@ -148,6 +148,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span>
 <span class="book-entry">10. <a href="https://open.spotify.com/episode/3KSOxrjalScxHFQF9u8M46">Lex Fridman Podcast #468 - Janna Levin</a></span>
 <span class="book-entry">11. <a href="https://open.spotify.com/episode/2lqNevhLx08QPmvCLjhS4g">Hardcore History: Supernova in the East - Dan Carlin</a></span>
+<span class="book-entry">12. <a href="https://open.spotify.com/episode/3CUzPLZC4OEj9aROCEiEAe">Joe Rogan Experience #1003 - Sean Carroll</a></span>
 </p>
 </details>
 
