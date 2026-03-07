@@ -54,6 +54,7 @@ permalink:  /
 - <span style="font-size: 85%;">[Aug 19] Dean's Award for Academic Performance - 4 semesters in a row.</span>
 - <span style="font-size: 85%;">[Aug 19] Dean's Award for Innovation, R&D for my Bachelor's thesis.</span>
 - <span style="font-size: 85%;">[May 19] Summer at SUTD Brain Lab in Singapore - untangling the mess inside video data with Gaussian processes.</span>
+- <span style="font-size: 85%;">[Dec 18] Research intern at Medical Mechatronics Lab & Advanced Robotics Center, NUS with [Dr. Hongliang Ren](https://www.eng.nus.edu.sg/bme/staff/ren-hongliang/).</span>
 - <span style="font-size: 85%;">[May 19] [INAE Fellowship](https://www.inae.in/#) from IISc.</span>
 - <span style="font-size: 85%;">[Aug 18] 6th out of 70 international teams at [AUVSI SUAS](https://suas-competition.org/) in Maryland. Our drone didn't crash!</span>
 - <span style="font-size: 85%;">[Aug 16] Chairman's Merit Scholarship - top 4 out of 278 students.</span>
