@@ -24,6 +24,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;">[March 26] Member of the [AI Circle](https://www.ai-circle.org/).</span>
 - <span style="font-size: 85%;">[Jan 26] [DreamControl](https://genrobo.github.io/DreamControl/) accepted to ICRA'26! Teaching humanoids to interact with scenes like humans do - diffusion meets whole-body control ([thread](https://x.com/sarthak__bhagat/status/1968742625369809366)).</span>
 - <span style="font-size: 85%;">[Dec 25] Went back to where it all started - gave an AMA on robotics at IIIT Delhi. Full circle moment.</span>
 - <span style="font-size: 85%;">[Nov 25] Joined [1X](https://www.1x.tech/) to work on robot manipulation with [NEO](https://www.1x.tech/neo). Excited to be building the future of humanoids.</span>
