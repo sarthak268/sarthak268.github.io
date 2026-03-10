@@ -14,7 +14,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
 <details class="bookshelf-section">
 <summary>🔬 Science & History</summary>
-<span class="list-item">Exploring the cosmos, evolution, and the forces that shaped our world. I get endlessly lost in these — most of them I've re-read, and I'm always re-reading something from this shelf.</span>
+<span class="list-item">Exploring the cosmos, evolution, and the forces that shaped our world. I get endlessly lost in these — most of them I've re-read, and I'm always re-reading something from this shelf. I know I've highlighted way too many here, but this is my favorite pastime.</span>
 <p>
 <span class="book-entry">1. <a href="/bookshelf/sapiens/">Sapiens by Yuval Noah Harari</a></span>
 <span class="book-entry">2. <a href="/bookshelf/theory_of_everything/">The Theory of Everything by Stephen W. Hawking</a></span>
@@ -32,7 +32,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">14. <a href="/bookshelf/moon_shot/">Moon Shot by Alan Shepard and Deke Slayton</a></span>
 <span class="book-entry">15. <a href="/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierl and Brendan Rosseau</a></span>
 <span class="book-entry">16. <span class="highlight-book"><a href="/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span></span>
-<span class="book-entry">17. <a href="/bookshelf/space_time_motion/">Space, Time, and Motion (The Biggest Ideas Series) by Sean Carroll</a></span>
+<span class="book-entry">17. <span class="highlight-book"><a href="/bookshelf/space_time_motion/">Space, Time, and Motion (The Biggest Ideas Series) by Sean Carroll</a></span></span>
 </p>
 </details>
 
