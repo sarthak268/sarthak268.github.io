@@ -76,6 +76,12 @@ permalink:  /misc/
 
 <div class="talks-timeline">
     <div class="talks-year">
+        <div class="talks-year-marker">2026</div>
+        <div class="talks-year-items">
+            <div class="talks-item"><a href="https://luma.com/lez0njlh">Frontier Physical AI</a>, GTC, San Jose</div>
+        </div>
+    </div>
+    <div class="talks-year">
         <div class="talks-year-marker">2025</div>
         <div class="talks-year-items">
             <div class="talks-item">AMA on Robotics, IIIT Delhi</div>
