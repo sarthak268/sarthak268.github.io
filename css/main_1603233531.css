@@ -943,6 +943,20 @@ a {
   line-height: 1.2;
 }
 
+/* News date badges */
+.news-date {
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-right: 2px;
+  border-bottom: 1px solid var(--border-medium);
+  padding-bottom: 0px;
+  font-family: inherit;
+}
+.news-date::after {
+  content: ':';
+  margin-left: 1px;
+}
+
 .talks-item::before {
   content: '• ';
   color: var(--text-muted);
