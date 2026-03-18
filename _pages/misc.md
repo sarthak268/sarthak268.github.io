@@ -122,6 +122,10 @@ permalink:  /misc/
 <span class="list-item">• [Animal Detection in Camera-Trap Images using RetinaNet](https://github.com/sarthak268/Animal-Detection)</span><br>
 <span class="list-item">• [Implementation of Popular Swarm Intelligence Models](https://github.com/sarthak268/Swarm_Intelligence_Models)</span><br>
 <span class="list-item">• [Learning to Paint using Model-Based Deep RL](https://github.com/sarthak268/learning-to-paint-using-modelbased-drl)</span><br>
+<span class="list-item">• [Audio Classification using LSTM](https://github.com/sarthak268/Audio_Classification_using_LSTM)</span><br>
+<span class="list-item">• [YOLO-based Obstacle Avoidance for Drone Delivery](https://github.com/sarthak268/Obstacle_Avoidance_for_Drone_Delivery)</span><br>
+<span class="list-item">• [Urban Environment Simulator for Target Tracking](https://github.com/sarthak268/Target-Tracking-Simulator)</span><br>
+<span class="list-item">• [Embedded Logic and Design Labs](https://github.com/sarthak268/Embedded_Logic_and_Design)</span><br>
 
 
 
