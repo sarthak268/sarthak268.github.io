@@ -1,7 +1,7 @@
 ---
 layout:     page
-title:      Services
-permalink:  /services/
+title:      Activity
+permalink:  /activity/
 ---
 
 ## Invited Talks
