@@ -90,7 +90,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
             <ul class="timeline-details">
                 <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</li>
                 <li>Contributor to 1X World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video generation model that imagines the future, then acts on it</li>
-                <li>RL for manipulation, WM inference stack</li>
+                <li>RL for manipulation, WM inference stack, whole-body controller</li>
             </ul>
         </div>
     </div>
@@ -101,7 +101,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
             <div class="timeline-title">Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></div>
             <ul class="timeline-details">
                 <li>Employee #6, first hire for the robotics team</li>
-                <li>Head of sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
+                <li>Head of sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), head of technical BD, co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
                 <li>Humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds, manipulator arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agentic AI for robotic skill composition (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</li>
             </ul>
         </div>
