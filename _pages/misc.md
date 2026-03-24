@@ -78,9 +78,6 @@ permalink:  /misc/
 <span class="list-item">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
 <span class="list-item">• [Collaborate: Open-Source Project Management App](https://github.com/sarthak268/collaborate-app)</span><br>
 <span class="list-item">• [ROS Workspace for Testing your Obstacle Avoidance Algorithms](https://github.com/sarthak268/Obstacle_Avoidance_for_UAV)</span><br>
-<span class="list-item">• [Implementation of Popular Swarm Intelligence Models](https://github.com/sarthak268/Swarm_Intelligence_Models)</span><br>
-<span class="list-item">• [Learning to Paint using Model-Based Deep RL](https://github.com/sarthak268/learning-to-paint-using-modelbased-drl)</span><br>
-<span class="list-item">• [Embedded Logic and Design Labs](https://github.com/sarthak268/Embedded_Logic_and_Design)</span><br>
 
 
 
