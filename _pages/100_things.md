@@ -20,7 +20,7 @@ permalink:  /100_things/
 <span class="list-item">12. Visit the North Pole</span><br>
 <span class="list-item">13. Visit the South Pole</span><br>
 <span class="list-item">14. Stay in a tree house</span><br>
-<span class="list-item">15. <s>Watch Aurora with someone I love</s></span><br>
+<span class="list-item">15. <s>Watch Aurora with someone I love</s> (went for red rocks, got northern lights — Arches National Park)</span><br>
 <span class="list-item">16. Experience zero gravity</span><br>
 <span class="list-item">17. Attend a football game in Europe</span><br>
 <span class="list-item">18. <s>Solo backpacking in another country</s> (wandered through Heidelberg, Germany)</span><br>
@@ -52,7 +52,7 @@ permalink:  /100_things/
 <span class="list-item">44. Walk the Great Wall of China</span><br>
 <span class="list-item">45. <s>Sunset at Taj Mahal</s></span><br>
 <span class="list-item">46. Attend a traditional tea ceremony</span><br>
-<span class="list-item">47. <s>Watch magic in Vegas</s> (David Copperfield)</span><br>
+<span class="list-item">47. <s>Watch magic in Vegas</s> (David Copperfield — some of us never stopped believing in magic)</span><br>
 <span class="list-item">48. Stay in an overwater bungalow</span><br>
 <span class="list-item">49. Go dog sledding in Lapland </span><br>
 <span class="list-item">50. <s>Go whale watching</s> (spotted humpbacks at Channel Islands NP, CA)</span><br>
