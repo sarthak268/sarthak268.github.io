@@ -59,7 +59,7 @@ permalink:  /100_things/
 <span class="list-item">51. Party at Rio carnival</span><br>
 <span class="list-item">52. Float in the Dead Sea</span><br>
 <span class="list-item">53. Swim in the Great Barrier Reef</span><br>
-<span class="list-item">54. <s>Attend a rave</s> (Hocus Pocus, Miami)</span><br>
+<span class="list-item">54. <s>Attend a rave</s> (Hocus Pocus, Miami — now I get it)</span><br>
 <span class="list-item">55. Give a TED talk</span><br>
 <span class="list-item">56. <s>Desert safari in Dubai</s></span><br>
 <span class="list-item">57. Explore the caves in Vietnam</span><br>
@@ -68,7 +68,7 @@ permalink:  /100_things/
 <span class="list-item">60. Visit 20 national parks in the US (15 / 20)</span><br>
 <span class="list-item">61. Go on a solo hike</span><br>
 <span class="list-item">62. Go shark cage diving</span><br>
-<span class="list-item">63. <s>Wine at Napa Valley</s> (Castello di Amorosa)</span><br>
+<span class="list-item">63. <s>Wine at Napa Valley</s> (Castello di Amorosa — turns out I'm a wine person now)</span><br>
 <span class="list-item">64. Visit 10+ ski resorts (3 / 10)</span><br>
 <span class="list-item">65. <s>Visit a tulip farm</s> (endless colors at Roozengaarde, WA)</span><br>
 <span class="list-item">66. Tour the Colosseum</span><br>
@@ -86,7 +86,7 @@ permalink:  /100_things/
 <span class="list-item">78. Stargazing in Hawaii</span><br>
 <span class="list-item">79. Watch a football game in Spain</span><br>
 <span class="list-item">80. Get featured in a news channel or newspaper</span><br>
-<span class="list-item">81. <s>Have a centibillionaire come see your work</s> (Jeff Bezos)</span><br>
+<span class="list-item">81. <s>Have a centibillionaire come see your work</s> (Jeff Bezos — can't say more)</span><br>
 <span class="list-item">82. See Earth from space</span><br>
 <span class="list-item">83. Northern Lights in Alaska</span><br>
 <span class="list-item">84. Meet Elon Musk</span><br>
