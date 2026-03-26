@@ -414,6 +414,19 @@ span.conf {
 span.trophy {
   font-size: 12px; }
 
+span.cite-count {
+  font-size: 11px;
+  color: var(--text-muted);
+  display: inline;
+  margin-left: 12px; }
+
+span.cite-count img, span.cite-count .gs-icon {
+  width: 12px;
+  height: 12px;
+  vertical-align: -1px;
+  margin-right: 2px;
+  opacity: 0.7; }
+
 /* Common page styles */
 .post section strong {
   color: var(--accent-blue);

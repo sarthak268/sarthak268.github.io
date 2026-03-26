@@ -35,11 +35,12 @@ permalink:  /publications/
         <a target="_blank" href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">Blog</a>
         <a target="_blank" href="https://x.com/akapoor_av8r/status/1968696450726142056">Thread</a>
     </span>
+
 </p>
 <hr>
 
 <a name="/shapegrasp"></a>
-<h2 class="pubt">ShapeGrasp: Zero-Shot Object Grasping with LLMs via Geometric Decomposition</h2>
+<h2 class="pubt">ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition</h2>
 <p class="pubd">
     <span class="authors">S. Li, <u>S. Bhagat</u>, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
@@ -51,6 +52,7 @@ permalink:  /publications/
         <a target="_blank" href="https://github.com/samwli/ShapeGrasp">Code</a>
         <a target="_blank" href="https://x.com/sarthak__bhagat/status/1846760875438604543">Thread</a>
     </span>
+
 </p>
 <hr>
 
@@ -70,6 +72,7 @@ permalink:  /publications/
         <a target="_blank" href="https://youtu.be/OaKrj9vav4E?si=AU-IRS996-DKpE2y">Video</a>
         <a target="_blank" href="https://youtu.be/OaKrj9vav4E?t=57">Demo</a>
     </span>
+
 </p>
 <hr>
 
@@ -86,12 +89,13 @@ permalink:  /publications/
         <a target="_blank" href="https://x.com/sarthak__bhagat/status/1683235499882975232?t=Qqz9-yZs25yoFErLqCMCBQ&s=35">Thread</a>
         <a target="_blank" href="https://youtu.be/wUiWXgg_exU?si=lWnQO6GAnhlyPaWF">Video</a>
     </span>
+
 </p>
 <!-- <img src="/img/habitat/pirlnav.png"> -->
 <hr>
 
 <a name="/faircop"></a>
-<h2 class="pubt">Suspect Identification Framework using Contrastive Relevance Feedback</h2>
+<h2 class="pubt">FaIRCoP: Facial Image Retrieval using Contrastive Personalization</h2>
 <p class="pubd">
     <span class="authors">D. Gupta, A. Saini, D. Bhasin, <u>S. Bhagat</u>, S. Uppal, P. Kumaraguru, R. Shah</span><br>
     <span class="conf">Winter Conference on Applications of Computer Vision (WACV), 2023</span>
@@ -99,6 +103,7 @@ permalink:  /publications/
         <a target="_blank" href="https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_A_Suspect_Identification_Framework_Using_Contrastive_Relevance_Feedback_WACV_2023_paper.pdf">Paper</a>
         <a target="_blank" href="https://youtu.be/Vf-nd2N5aYM">Video</a>
     </span>
+
 </p>
 <!-- <img src="/img/ocp/gemnet_oc.jpg"> -->
 <hr>
@@ -117,6 +122,7 @@ permalink:  /publications/
         <a target="_blank" href="https://youtu.be/bYPX0zp4MY4">Video</a>
         <a target="_blank" href="https://midas.iiitd.edu.in/emo/">Project Page</a>
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -125,13 +131,14 @@ permalink:  /publications/
 <h2 class="pubt">Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders</h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, S. Uppal*, Z. Yin, N. Lim</span><br>
-    <span class="conf">European Conference on Computer Vision (ECCV), 2020<br>
-    ICVGIP 2020 Vision India</span>
+    <span class="conf">European Conference on Computer Vision (ECCV), 2020</span><br>
+    <span class="conf">ICVGIP 2020 Vision India</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2001.02408.pdf">Paper</a>
         <a target="_blank" href="https://github.com/SUTDBrainLab/MGP-VAE">Code</a>
         <a target="_blank" href="https://youtu.be/35aGG1iZ_Vc">Video</a>
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -141,11 +148,12 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, P.B. Sujit</span><br>
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
-    <span class="trophy">&#x1F3C6; Oral; 50+ Citations</span>    
+    <span class="trophy">&#x1F3C6; Oral</span>
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
         <a target="_blank" href="https://youtu.be/4hAEp5aE88A">Video</a>
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -154,14 +162,15 @@ permalink:  /publications/
 <h2 class="pubt">C3VQG: Category Consistent Cyclic Visual Question Generation.</h2>
 <p class="pubd">
     <span class="authors">S. Uppal*, A. Madan*, <u>S. Bhagat</u>*, Y. Yu, R. Shah</span><br>
-    <span class="conf">ACM Multimedia Asia (MMAsia), 2020<br>
-    VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020</span><br>  
+    <span class="conf">ACM Multimedia Asia (MMAsia), 2020</span><br>
+    <span class="conf">VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020</span><br>  
     <span class="trophy">&#x1F3C6; Spotlight</span>
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3444685.3446302">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/c3vqg-official">Code</a>
         <a target="_blank" href="https://youtu.be/SuTzKcIRGuw">Video</a>
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -175,6 +184,7 @@ permalink:  /publications/
         <a target="_blank" href="https://arxiv.org/pdf/1907.09554.pdf">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -188,6 +198,7 @@ permalink:  /publications/
         <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3293353.3293422">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -199,11 +210,11 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors">S. Uppal*, <u>S. Bhagat</u>*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
     <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span><br>
-    <span class="trophy">&#x1F3C6; 150+ citations</span>
     <span class="links">
         <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1566253521001512">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -213,11 +224,11 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, H. Banerjee*, Z. Tse, H. Ren</span><br>
     <span class="conf">Robotics 2019, 8(1), 4 </span><br>
-    <span class="trophy">&#x1F3C6; 150+ citations</span>
     <span class="links">
         <a target="_blank" href="https://www.mdpi.com/2218-6581/8/1/4">Paper</a>
         <!-- <a target="_blank" href="https://github.com/Open-Catalyst-Project/ocp/tree/main/ocpmodels/models/scn">Code</a> -->
     </span>
+
 </p>
 <!-- <img src="/img/ocp/scn.jpg"> -->
 <hr>
@@ -306,8 +317,8 @@ permalink:  /publications/
 <h2 class="pubt">DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors</h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, V. Udandarao*, S. Uppal*, S. Anand</span><br>
-    <span class="conf">Perception Through Structured Generative Models, ECCV 2020 <br>
-    ML Interpretability for Scientific Discovery, ICML 2020.</span>
+    <span class="conf">Perception Through Structured Generative Models, ECCV 2020</span><br>
+    <span class="conf">ML Interpretability for Scientific Discovery, ICML 2020.</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2006.05895.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/DisCont">Code</a>
@@ -324,6 +335,71 @@ permalink:  /publications/
         $('ul:gt(0) li:gt(12)').show();
         $('#read-more-button').hide();
     });
+
+    // Fetch citation counts from Google Scholar
+    (function() {
+        var SCHOLAR_ID = 'SLRQlXEAAAAJ';
+        var PROXY_URL = 'https://api.codetabs.com/v1/proxy?quest=';
+        var scholarURL = 'https://scholar.google.com/citations?hl=en&user=' + SCHOLAR_ID + '&view_op=list_works&sortby=pubdate&pagesize=100';
+
+        // Manual mapping for papers whose page title differs from Scholar title
+        var titleAliases = {
+};
+
+        function normalize(str) {
+            return str.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 40);
+        }
+
+        fetch(PROXY_URL + encodeURIComponent(scholarURL))
+            .then(function(r) { return r.text(); })
+            .then(function(html) {
+                var parser = new DOMParser();
+                var doc = parser.parseFromString(html, 'text/html');
+                var rows = doc.querySelectorAll('tr.gsc_a_tr');
+                var citations = {};
+                rows.forEach(function(row) {
+                    var titleEl = row.querySelector('.gsc_a_at');
+                    var citeEl = row.querySelector('.gsc_a_ac');
+                    if (titleEl && citeEl) {
+                        var title = titleEl.textContent.trim();
+                        var count = parseInt(citeEl.textContent.trim()) || 0;
+                        citations[normalize(title)] = count;
+                    }
+                });
+
+                var pubTitles = document.querySelectorAll('h2.pubt');
+                pubTitles.forEach(function(el) {
+                    var pageTitle = el.textContent.trim();
+                    var key = normalize(pageTitle);
+                    var matched = null;
+                    var aliasKey = titleAliases[key.substring(0, 60)] || null;
+                    for (var scholarKey in citations) {
+                        if (key.substring(0, 30) === scholarKey.substring(0, 30) ||
+                            scholarKey.indexOf(key.substring(0, 25)) !== -1 ||
+                            key.indexOf(scholarKey.substring(0, 25)) !== -1 ||
+                            (aliasKey && scholarKey.indexOf(aliasKey) !== -1)) {
+                            matched = citations[scholarKey];
+                            break;
+                        }
+                    }
+                    if (matched !== null && matched > 0) {
+                        var pubd = el.nextElementSibling;
+                        if (pubd && pubd.classList.contains('pubd')) {
+                            var confSpan = pubd.querySelector('.conf');
+                            if (confSpan) {
+                                var badge = document.createElement('span');
+                                badge.className = 'cite-count';
+                                badge.innerHTML = ' <img src="/img/google_scholar.png" alt="Citations">' + matched;
+                                confSpan.appendChild(badge);
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(function(err) {
+                console.log('Could not fetch Scholar citations:', err);
+            });
+    })();
 </script>
 
 
