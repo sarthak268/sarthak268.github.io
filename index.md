@@ -5,17 +5,17 @@ permalink:  /
 ---
 
 <div class="row">
-    <div class="col-sm-6 col-xs-12">
+    <div class="col-sm-4 col-xs-12">
         <img src="/img/me.jpg">
     </div>
-    <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
+    <div class="col-sm-8 col-xs-12" style="margin-bottom: 0;">
         <span style="font-size: 85%;">Research Engineer</span><br>
         <span style="font-size: 85%;">1X Technologies</span><br>
-        <span style="font-size: 85%;">sarthak.bhagat@1x.tech</span><br>
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.jpg" alt="Twitter" class="social-icon" style="width: 24px; height: 16px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" class="social-icon" style="width: 20px; height: 20px;"></a>
         <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./img/google_scholar.png" alt="Google Scholar" class="social-icon social-icon-color" style="width: 24px; height: 20px;"></a>
         <a href="https://www.linkedin.com/in/sarthak-bhagat-1b5206135/" target="_blank"><img src="./img/linkedin.png" alt="LinkedIn" class="social-icon social-icon-color" style="width: 20px; height: 20px;"></a>
+        <p style="font-size: 85%; margin-top: 44px;">Driven by a relentless curiosity about the nature of reality, I aim to push the boundaries of human consciousness and understanding. Humanity stands at the earliest stage of its journey, with the potential to evolve into a civilization that shapes the universe itself. I seek to pursue questions so fundamental that their answers redefine our understanding of existence. Human creativity is not just a tool for discovery, but a force capable of expanding what is possible. Science remains the most powerful path to truth, and at the intersection of AI and science lies the opportunity to accelerate discovery and unlock entirely new frontiers of knowledge.</p>
     </div>
 </div>
 <hr>
