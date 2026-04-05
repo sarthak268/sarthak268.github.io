@@ -24,24 +24,24 @@ permalink:  /
 
 ## News
 
-- <span style="font-size: 85%;"><span class="news-date">March 26</span> Speaking on a panel at [GTC 2026](https://luma.com/lez0njlh) on building AI systems that perceive, reason, and act in the real world - with folks working on humanoids, embodied agents, and physical AI ([thread](https://x.com/sarthak__bhagat/status/2034825450326040960)).</span>
-- <span style="font-size: 85%;"><span class="news-date">March 26</span> Joined the [AI Circle](https://www.ai-circle.org/) - a community of researchers and builders pushing the frontiers of AI.</span>
-- <span style="font-size: 85%;"><span class="news-date">Jan 26</span> [DreamControl](https://genrobo.github.io/DreamControl/) accepted to ICRA'26! Teaching humanoids to interact with scenes like humans do - diffusion meets whole-body control ([thread](https://x.com/sarthak__bhagat/status/1968742625369809366)).</span>
-- <span style="font-size: 85%;"><span class="news-date">Dec 25</span> Went back to where it all started - gave an AMA on robotics at IIIT Delhi. Full circle moment.</span>
-- <span style="font-size: 85%;"><span class="news-date">Nov 25</span> Joined [1X](https://www.1x.tech/) to work on robot manipulation with [NEO](https://www.1x.tech/neo). Excited to be building the future of humanoids.</span>
-- <span style="font-size: 85%;"><span class="news-date">Sept 25</span> Presented our General Robotics work at the Scaleup Summit in SF.</span>
-- <span style="font-size: 85%;"><span class="news-date">Aug 25</span> Teaching robots at SIGGRAPH'25 in Vancouver via [NVIDIA DLI](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/). The irony of teaching humans to teach machines.</span>
-- <span style="font-size: 85%;"><span class="news-date">May 25</span> Our paper won best paper at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25! The reviewers were kind.</span>
-- <span style="font-size: 85%;"><span class="news-date">April 25</span> Got into Y Combinator Startup School. Learning from the best in the game.</span>
-- <span style="font-size: 85%;"><span class="news-date">March 25</span> At ICRA'25 in Atlanta - presenting work on predicting what humans will do before they do it.</span>
-- <span style="font-size: 85%;"><span class="news-date">Feb 25</span> GTC'25 in San Jose - where GPU nerds unite.</span>
-- <span style="font-size: 85%;"><span class="news-date">Dec 24</span> Co-developed [GRID](https://grid.generalrobotics.dev/)'s Isaac Sim integration - now powering 3000+ active users and multiple enterprise clients. Turns out robots need a playground too ([announcement](https://x.com/genrobotics_ai/status/1892250420711481524)).</span>
-- <span style="font-size: 85%;"><span class="news-date">Aug 24</span> Serving as a Program Committee Member at AAAI'25.</span>
-- <span style="font-size: 85%;"><span class="news-date">July 24</span> Paper on zero-shot task-oriented grasping via LLM-guided semantic part segmentation accepted as oral at IROS'24.</span>
-- <span style="font-size: 85%;"><span class="news-date">June 24</span> Joined [General Robotics](https://scaledfoundations.ai/) as employee #6. Building safe general robot intelligence from the ground up.</span>
-- <span style="font-size: 85%;"><span class="news-date">June 24</span> Officially a CMU Robotics grad! Two years flew by.</span>
-- <span style="font-size: 85%;"><span class="news-date">June 24</span> Work on predicting human actions for robot collaboration accepted to RA-L'24.</span>
-- <span style="font-size: 85%;"><span class="news-date">Dec 23</span> Reviewing papers for ICML'24, ICLR'24, and CoLLAs'24.</span>
+- <span style="font-size: 85%;"><span class="news-date">March'26</span> Speaking on a panel at [GTC 2026](https://luma.com/lez0njlh) on building AI systems that perceive, reason, and act in the real world - with folks working on humanoids, embodied agents, and physical AI ([thread](https://x.com/sarthak__bhagat/status/2034825450326040960)).</span>
+- <span style="font-size: 85%;"><span class="news-date">March'26</span> Joined the [AI Circle](https://www.ai-circle.org/) - a community of researchers and builders pushing the frontiers of AI.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jan'26</span> [DreamControl](https://genrobo.github.io/DreamControl/) accepted to ICRA'26! Teaching humanoids to interact with scenes like humans do - diffusion meets whole-body control ([thread](https://x.com/sarthak__bhagat/status/1968742625369809366)).</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec'25</span> Went back to where it all started - gave an AMA on robotics at IIIT Delhi. Full circle moment.</span>
+- <span style="font-size: 85%;"><span class="news-date">Nov'25</span> Joined [1X](https://www.1x.tech/) to work on robot manipulation with [NEO](https://www.1x.tech/neo). Excited to be building the future of humanoids.</span>
+- <span style="font-size: 85%;"><span class="news-date">Sept'25</span> Presented our General Robotics work at the Scaleup Summit in SF.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug'25</span> Teaching robots at SIGGRAPH'25 in Vancouver via [NVIDIA DLI](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/). The irony of teaching humans to teach machines.</span>
+- <span style="font-size: 85%;"><span class="news-date">May'25</span> Our paper won best paper at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25! The reviewers were kind.</span>
+- <span style="font-size: 85%;"><span class="news-date">April'25</span> Got into Y Combinator Startup School. Learning from the best in the game.</span>
+- <span style="font-size: 85%;"><span class="news-date">March'25</span> At ICRA'25 in Atlanta - presenting work on predicting what humans will do before they do it.</span>
+- <span style="font-size: 85%;"><span class="news-date">Feb'25</span> GTC'25 in San Jose - where GPU nerds unite.</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec'24</span> Co-developed [GRID](https://grid.generalrobotics.dev/)'s Isaac Sim integration - now powering 3000+ active users and multiple enterprise clients. Turns out robots need a playground too ([announcement](https://x.com/genrobotics_ai/status/1892250420711481524)).</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug'24</span> Serving as a Program Committee Member at AAAI'25.</span>
+- <span style="font-size: 85%;"><span class="news-date">July'24</span> Paper on zero-shot task-oriented grasping via LLM-guided semantic part segmentation accepted as oral at IROS'24.</span>
+- <span style="font-size: 85%;"><span class="news-date">June'24</span> Joined [General Robotics](https://scaledfoundations.ai/) as employee #6. Building safe general robot intelligence from the ground up.</span>
+- <span style="font-size: 85%;"><span class="news-date">June'24</span> Officially a CMU Robotics grad! Two years flew by.</span>
+- <span style="font-size: 85%;"><span class="news-date">June'24</span> Work on predicting human actions for robot collaboration accepted to RA-L'24.</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec'23</span> Reviewing papers for ICML'24, ICLR'24, and CoLLAs'24.</span>
 - <span style="font-size: 85%;"><span class="news-date">Sept 23</span> Two papers at ICCV'23 [CVEU workshop](https://cveu.github.io/) - one on predicting actions, one on making faces talk. Also got to see Paris!</span>
 - <span style="font-size: 85%;"><span class="news-date">Sept 23</span> Student volunteer at ICCV'23.</span>
 - <span style="font-size: 85%;"><span class="news-date">May 23</span> Selected among 200 researchers for [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html). Got to meet Turing and Fields Medal winners!</span>
