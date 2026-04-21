@@ -24,6 +24,7 @@ permalink:  /
 
 ## News
 
+- <span style="font-size: 85%;"><span class="news-date">Apr'26</span> Accepted into [Y Combinator Startup School](https://www.startupschool.org/) again! Back for round two ([post](https://x.com/sarthak__bhagat/status/2044980175654490385)).</span>
 - <span style="font-size: 85%;"><span class="news-date">Mar'26</span> Speaking on a panel at [GTC 2026](https://luma.com/lez0njlh) on building AI systems that perceive, reason, and act in the real world - with folks working on humanoids, embodied agents, and physical AI ([thread](https://x.com/sarthak__bhagat/status/2034825450326040960)).</span>
 - <span style="font-size: 85%;"><span class="news-date">Mar'26</span> Joined the [AI Circle](https://www.ai-circle.org/) - a community of researchers and builders pushing the frontiers of AI.</span>
 - <span style="font-size: 85%;"><span class="news-date">Jan'26</span> [DreamControl](https://genrobo.github.io/DreamControl/) accepted to ICRA'26! Teaching humanoids to interact with scenes like humans do - diffusion meets whole-body control ([thread](https://x.com/sarthak__bhagat/status/1968742625369809366)).</span>
