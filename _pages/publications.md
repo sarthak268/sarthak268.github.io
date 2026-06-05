@@ -26,7 +26,7 @@ permalink:  /publications/
     <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, <u>S. Bhagat</u>, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
     <span class="conf">International Conference on Robotics and Automation (ICRA), 2026</span><br>
     <span class="conf">Workshop on Crossroads of Control: Model-based vs Learning-based Control, Humanoids, 2025</span><br>
-    <span class="trophy">&#x1F3C6; 100+ stars on GitHub</span>
+    <span class="trophy">&#x1F3C6; 200+ stars on GitHub</span>
     <span class="links">
         <a target="_blank" href="https://genrobo.github.io/DreamControl/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2509.14353">Paper</a>
