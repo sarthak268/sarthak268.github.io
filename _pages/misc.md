@@ -20,6 +20,12 @@ permalink:  /misc/
 
 <div class="talks-timeline">
     <div class="talks-year">
+        <div class="talks-year-marker">2026</div>
+        <div class="talks-year-items">
+            <div class="talks-item">Y Combinator AI Startup School</div>
+        </div>
+    </div>
+    <div class="talks-year">
         <div class="talks-year-marker">2025</div>
         <div class="talks-year-items">
             <div class="talks-item">Y Combinator AI Startup School</div>
