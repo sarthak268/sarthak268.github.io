@@ -87,7 +87,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2026 - Present</div>
         <div class="timeline-content">
-            <div class="timeline-title">Co-founder</div>
+            <div class="timeline-title">Co-founder and CEO</div>
             <ul class="timeline-details">
                 <li>We're in stealth and building in robotics. That's all I can share.</li>
             </ul>
