@@ -85,7 +85,17 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 <div class="timeline">
     <div class="timeline-item">
         <div class="timeline-dot"></div>
-        <div class="timeline-date">2024 - Present</div>
+        <div class="timeline-date">2026 - Present</div>
+        <div class="timeline-content">
+            <div class="timeline-title">Co-founder</div>
+            <ul class="timeline-details">
+                <li>We're in stealth and building in robotics. That's all I can share.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-date">2025 - 2026</div>
         <div class="timeline-content">
             <div class="timeline-title">Research Engineer, <a href="https://www.1x.tech/">1X Technologies</a></div>
             <ul class="timeline-details">
