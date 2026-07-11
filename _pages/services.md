@@ -61,6 +61,8 @@ permalink:  /activity/
 
 ## Responsibilities
 
+<span class="list-item">• Member, South Park Commons</span><br>
+<span class="list-item">• Member, Savant Explorers</span><br>
 <span class="list-item">• Member, [AI Circle](https://www.ai-circle.org/)</span><br>
 <span class="list-item">• Program Committee Member, AAAI'25</span><br>
 <span class="list-item">• IEEE Student Chapter Founder & Chair</span><br>
