@@ -40,7 +40,7 @@ permalink:  /
 - <span style="font-size: 85%;"><span class="news-date">Dec'24</span> Co-developed [GRID](https://grid.generalrobotics.dev/)'s Isaac Sim integration - now powering 3000+ active users and multiple enterprise clients. Turns out robots need a playground too ([announcement](https://x.com/genrobotics_ai/status/1892250420711481524)).</span>
 - <span style="font-size: 85%;"><span class="news-date">Aug'24</span> Serving as a Program Committee Member at AAAI'25.</span>
 - <span style="font-size: 85%;"><span class="news-date">Jul'24</span> Paper on zero-shot task-oriented grasping via LLM-guided semantic part segmentation accepted as oral at IROS'24.</span>
-- <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Joined [General Robotics](https://scaledfoundations.ai/) as employee #6. Building safe general robot intelligence from the ground up.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Joined [General Robotics](https://scaledfoundations.ai/) as employee #5. Building safe general robot intelligence from the ground up.</span>
 - <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Officially a CMU Robotics grad! Two years flew by.</span>
 - <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Work on predicting human actions for robot collaboration accepted to RA-L'24.</span>
 - <span style="font-size: 85%;"><span class="news-date">Dec'23</span> Reviewing papers for ICML'24, ICLR'24, and CoLLAs'24.</span>
@@ -112,7 +112,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></div>
             <ul class="timeline-details">
-                <li>Employee #6, first hire for the robotics team</li>
+                <li>Employee #5, first hire for the robotics team</li>
                 <li>Led sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), led technical BD, co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
                 <li>Humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds (<a href="https://x.com/genrobotics_ai/status/1958227979680772121">post</a>), manipulator arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agentic AI for robotic skill composition (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</li>
             </ul>
