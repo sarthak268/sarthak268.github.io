@@ -112,7 +112,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></div>
             <ul class="timeline-details">
-                <li>Employee #5, first hire for the robotics team</li>
+                <li>Employee #5, first hire for the robotics team (preseed --&gt; Series A)</li>
                 <li>Led sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), led technical BD, co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
                 <li>Humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds (<a href="https://x.com/genrobotics_ai/status/1958227979680772121">post</a>), manipulator arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agentic AI for robotic skill composition (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</li>
             </ul>
