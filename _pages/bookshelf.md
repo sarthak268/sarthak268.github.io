@@ -33,6 +33,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 <span class="book-entry">15. <a href="/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierl and Brendan Rosseau</a></span>
 <span class="book-entry">16. <span class="highlight-book"><a href="/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span></span>
 <span class="book-entry">17. <span class="highlight-book"><a href="/bookshelf/space_time_motion/">Space, Time, and Motion (The Biggest Ideas Series) by Sean Carroll</a></span></span>
+<span class="book-entry">18. <a href="/bookshelf/brief_history_of_intelligence/">A Brief History of Intelligence by Max Bennett</a></span>
 </p>
 </details>
 
