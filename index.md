@@ -9,7 +9,7 @@ permalink:  /
         <img src="/img/me.jpg">
     </div>
     <div class="col-sm-8 col-xs-12" style="margin-bottom: 0; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-        <p style="font-size: 85%; margin-top: 0;">Driven by a relentless curiosity about the nature of reality, I aim to push the boundaries of human consciousness and understanding. Humanity stands at the earliest stage of its journey, with the potential to evolve into a civilization that shapes the universe itself. I seek to pursue questions so fundamental that their answers redefine our understanding of existence. Human creativity is not just a tool for discovery, but a force capable of expanding what is possible. Science remains the most powerful path to truth, and at the intersection of AI and science lies the opportunity to accelerate discovery and unlock entirely new frontiers of knowledge.</p>
+        <p style="font-size: 85%; margin-top: 0;">building something new in AI for science</p>
         <div style="text-align: left;">
         <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="./img/twitter.svg" alt="Twitter" class="social-icon social-icon-color" style="width: 20px; height: 16px;"></a>
         <a href="https://github.com/sarthak268" target="_blank"><img src="./img/github.jpg" alt="GitHub" class="social-icon" style="width: 20px; height: 20px;"></a>
