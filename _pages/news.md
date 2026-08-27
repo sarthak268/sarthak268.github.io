@@ -1,0 +1,45 @@
+---
+layout:     page
+title:      News
+permalink:  /news/
+---
+
+- <span style="font-size: 85%;"><span class="news-date">May'26</span> Joined South Park Commons and Savant Explorers - learning and building alongside ambitious founders.</span>
+- <span style="font-size: 85%;"><span class="news-date">Apr'26</span> Accepted into [Y Combinator Startup School](https://www.startupschool.org/) again! Back for round two ([post](https://x.com/sarthak__bhagat/status/2044980175654490385)).</span>
+- <span style="font-size: 85%;"><span class="news-date">Mar'26</span> Speaking on a panel at [GTC 2026](https://luma.com/lez0njlh) on building AI systems that perceive, reason, and act in the real world - with folks working on humanoids, embodied agents, and physical AI ([thread](https://x.com/sarthak__bhagat/status/2034825450326040960)).</span>
+- <span style="font-size: 85%;"><span class="news-date">Mar'26</span> Joined the [AI Circle](https://www.ai-circle.org/) - a community of researchers and builders pushing the frontiers of AI.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jan'26</span> [DreamControl](https://genrobo.github.io/DreamControl/) accepted to ICRA'26! Teaching humanoids to interact with scenes like humans do - diffusion meets whole-body control ([thread](https://x.com/sarthak__bhagat/status/1968742625369809366)).</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec'25</span> Went back to where it all started - gave an AMA on robotics at IIIT Delhi. Full circle moment.</span>
+- <span style="font-size: 85%;"><span class="news-date">Nov'25</span> Joined [1X](https://www.1x.tech/) to work on robot manipulation with [NEO](https://www.1x.tech/neo). Excited to be building the future of humanoids.</span>
+- <span style="font-size: 85%;"><span class="news-date">Sept'25</span> Presented our General Robotics work at the Scaleup Summit in SF.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug'25</span> Teaching robots at SIGGRAPH'25 in Vancouver via [NVIDIA DLI](https://www.nvidia.com/en-us/on-demand/session/siggraph25-s13/). The irony of teaching humans to teach machines.</span>
+- <span style="font-size: 85%;"><span class="news-date">May'25</span> Our paper won best paper at [NoC Workshop](https://nocworkshop.github.io/2025/), ICRA'25! The reviewers were kind.</span>
+- <span style="font-size: 85%;"><span class="news-date">Apr'25</span> Got into Y Combinator Startup School. Learning from the best in the game.</span>
+- <span style="font-size: 85%;"><span class="news-date">Mar'25</span> At ICRA'25 in Atlanta - presenting work on predicting what humans will do before they do it.</span>
+- <span style="font-size: 85%;"><span class="news-date">Feb'25</span> GTC'25 in San Jose - where GPU nerds unite.</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec'24</span> Co-developed [GRID](https://grid.generalrobotics.dev/)'s Isaac Sim integration - now powering 3000+ active users and multiple enterprise clients. Turns out robots need a playground too ([announcement](https://x.com/genrobotics_ai/status/1892250420711481524)).</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug'24</span> Serving as a Program Committee Member at AAAI'25.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jul'24</span> Paper on zero-shot task-oriented grasping via LLM-guided semantic part segmentation accepted as oral at IROS'24.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Joined [General Robotics](https://scaledfoundations.ai/) as employee #5. Building safe general robot intelligence from the ground up.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Officially a CMU Robotics grad! Two years flew by.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jun'24</span> Work on predicting human actions for robot collaboration accepted to RA-L'24.</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec'23</span> Reviewing papers for ICML'24, ICLR'24, and CoLLAs'24.</span>
+- <span style="font-size: 85%;"><span class="news-date">Sept 23</span> Two papers at ICCV'23 [CVEU workshop](https://cveu.github.io/) - one on predicting actions, one on making faces talk. Also got to see Paris!</span>
+- <span style="font-size: 85%;"><span class="news-date">Sept 23</span> Student volunteer at ICCV'23.</span>
+- <span style="font-size: 85%;"><span class="news-date">May 23</span> Selected among 200 researchers for [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/10th-hlf-2023.html). Got to meet Turing and Fields Medal winners!</span>
+- <span style="font-size: 85%;"><span class="news-date">May 23</span> Oral presentation at [CoLLAs'23](https://lifelong-ml.cc/Conferences/2023/venue) - 12 orals out of all submissions. Teaching robots to learn concepts like humans do.</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec 22</span> Best Demo Paper at ACM MM Asia'23 for our talking face generation work. The judges liked our digital puppets.</span>
+- <span style="font-size: 85%;"><span class="news-date">Sept 22</span> Started research at AART Lab, CMU. Teaching robots to understand humans better.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 22</span> Landed at CMU Robotics Institute. Dream school, dream program.</span>
+- <span style="font-size: 85%;"><span class="news-date">Jan 22</span> Joined [Preimage](https://www.preimage.ai/) - reconstructing 3D scenes from just a handful of drone images.</span>
+- <span style="font-size: 85%;"><span class="news-date">Oct 20</span> Started at [CLVR Lab](https://www.clvrai.com/), USC with Joseph Lim. Robots that don't forget old tricks when learning new ones.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 20</span> Research assistant at [DeCLaRe Lab](https://declare-lab.net/), SUTD - teaching machines to see and read at the same time.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 20</span> Graduated from [IIIT-Delhi](https://www.iiitd.edu.in/) with Honors. Four years, many all-nighters, worth it.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 19</span> Dean's Award for Academic Performance - 4 semesters in a row.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 19</span> Dean's Award for Innovation, R&D for my Bachelor's thesis.</span>
+- <span style="font-size: 85%;"><span class="news-date">May 19</span> Summer at SUTD Brain Lab in Singapore - untangling the mess inside video data with Gaussian processes.</span>
+- <span style="font-size: 85%;"><span class="news-date">Dec 18</span> Research intern at Medical Mechatronics Lab & Advanced Robotics Center, NUS with [Dr. Hongliang Ren](https://www.eng.nus.edu.sg/bme/staff/ren-hongliang/).</span>
+- <span style="font-size: 85%;"><span class="news-date">May 19</span> [INAE Fellowship](https://www.inae.in/#) from IISc.</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 18</span> 6th out of 70 international teams at [AUVSI SUAS](https://suas-competition.org/) in Maryland. Our drone didn't crash!</span>
+- <span style="font-size: 85%;"><span class="news-date">Aug 16</span> Chairman's Merit Scholarship - top 4 out of 278 students.</span>
+- <span style="font-size: 85%;"><span class="news-date">May 15</span> KVPY Fellowship - top 0.3% of applicants. The exam that started it all.</span>
