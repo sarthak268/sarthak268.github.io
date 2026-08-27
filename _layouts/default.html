@@ -230,5 +230,33 @@
                 });
             });
         </script>
+
+        <!-- News "Show more" batch reveal -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var showMoreBtn = document.getElementById('news-show-more');
+                if (!showMoreBtn) return;
+
+                var items = document.querySelectorAll('.news-extra-item');
+                var maxBatch = 0;
+                items.forEach(function(item) {
+                    var batch = parseInt(item.getAttribute('data-batch'), 10);
+                    if (batch > maxBatch) maxBatch = batch;
+                });
+
+                var currentBatch = 0;
+                showMoreBtn.addEventListener('click', function() {
+                    currentBatch++;
+                    items.forEach(function(item) {
+                        if (parseInt(item.getAttribute('data-batch'), 10) === currentBatch) {
+                            item.classList.add('visible');
+                        }
+                    });
+                    if (currentBatch >= maxBatch) {
+                        showMoreBtn.parentElement.style.display = 'none';
+                    }
+                });
+            });
+        </script>
     </body>
 </html>

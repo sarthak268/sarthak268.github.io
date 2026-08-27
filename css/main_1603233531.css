@@ -565,6 +565,25 @@ span.cite-count img, span.cite-count .gs-icon {
   z-index: 2;
 }
 
+.news-extra-item {
+  display: none;
+}
+
+.news-extra-item.visible {
+  display: list-item;
+}
+
+#news-show-more-wrap {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.news-toggle-label {
+  cursor: pointer;
+  color: var(--accent-link);
+  font-size: 0.85em;
+}
+
 #read-more-button > a {
   cursor: pointer;
 }
