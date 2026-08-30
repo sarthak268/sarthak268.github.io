@@ -54,10 +54,12 @@ permalink:  /activity/
 <span class="list-item">• Computer Vision</span><br>
 <span class="list-item">&emsp;WACV'23</span><br>
 
+<!--
 ## Mentoring
 
 <span class="list-item">• CMU Undergraduate AI Mentoring</span><br>
 <span class="list-item">• IIIT Student Mentorship Program</span><br>
+-->
 
 ## Responsibilities
 
@@ -71,10 +73,12 @@ permalink:  /activity/
 <span class="list-item">&emsp;Introduction to Robot Simulation, Nvidia GTC'25 [(Recording)](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/)</span><br>
 <span class="list-item">&emsp;Prototype of Interactive Systems (500+ freshmen students)</span><br>
 
+<!--
 ## Volunteering
 
 <span class="list-item">• Conferences</span><br>
 <span class="list-item">&emsp;ICCV'23 · NeurIPS'20-21 · ICML'20-21 · ICLR'21</span><br>
+-->
 
 
 
