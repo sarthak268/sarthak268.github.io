@@ -84,21 +84,21 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
     </div>
     <div class="timeline-item">
         <div class="timeline-dot"></div>
-        <div class="timeline-date">2018</div>
-        <div class="timeline-content">
-            <div class="timeline-title">Research Intern, NUS</div>
-            <ul class="timeline-details">
-                <li>Medical Robotics (advisor: <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Dr. Hongliang Ren</a>)</li>
-            </ul>
-        </div>
-    </div>
-    <div class="timeline-item">
-        <div class="timeline-dot"></div>
         <div class="timeline-date">2019 - 2020</div>
         <div class="timeline-content">
             <div class="timeline-title">Visiting Student, SUTD Brain Lab</div>
             <ul class="timeline-details">
                 <li>Disentangling video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</li>
+            </ul>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-date">2018</div>
+        <div class="timeline-content">
+            <div class="timeline-title">Research Intern, National University of Singapore (NUS)</div>
+            <ul class="timeline-details">
+                <li>Medical Robotics (advisor: <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Dr. Hongliang Ren</a>)</li>
             </ul>
         </div>
     </div>
