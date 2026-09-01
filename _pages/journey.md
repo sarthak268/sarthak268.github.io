@@ -84,6 +84,16 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
     </div>
     <div class="timeline-item">
         <div class="timeline-dot"></div>
+        <div class="timeline-date">2018</div>
+        <div class="timeline-content">
+            <div class="timeline-title">Research Intern, NUS</div>
+            <ul class="timeline-details">
+                <li>Medical Robotics (advisor: <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Dr. Hongliang Ren</a>)</li>
+            </ul>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-dot"></div>
         <div class="timeline-date">2019 - 2020</div>
         <div class="timeline-content">
             <div class="timeline-title">Visiting Student, SUTD Brain Lab</div>
