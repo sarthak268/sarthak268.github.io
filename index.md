@@ -36,7 +36,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
             <ul class="timeline-details">
                 <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</li>
                 <li>Contributor to 1X World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video generation model that imagines the future, then acts on it</li>
-                <li>RL for manipulation, WM inference stack, whole-body controller</li>
+                <!-- <li>RL for manipulation, WM inference stack, whole-body controller</li> -->
             </ul>
         </div>
     </div>
@@ -46,7 +46,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></div>
             <ul class="timeline-details">
-                <li>Employee #5, Engineer #1</li>
+                <li>First Hire, Employee #5</li>
                 <li>Led sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), led technical BD, co-led Isaac Sim integration into <a href="https://grid.generalrobotics.dev/">GRID</a> (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>)</li>
                 <li>Humanoids (<a href="https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills">blog</a>), quadrupeds (<a href="https://x.com/genrobotics_ai/status/1958227979680772121">post</a>), manipulator arms (<a href="https://x.com/genrobotics_ai/status/1947357457229164729">post</a>), agentic AI for robotic skill composition (<a href="https://www.generalrobotics.company/post/agentic-robotics">blog</a>)</li>
             </ul>
