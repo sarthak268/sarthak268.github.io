@@ -13,3 +13,5 @@ permalink:  /
         <p style="font-size: 90%; margin-bottom: 0;">Outside of work, I'm endlessly curious about physics, always <a href="/bookshelf/">reading something</a>, and chasing <a href="/travel/">new places to travel to</a>. I'm also working through a <a href="/100_things/">bucket list of 100 things</a> I want to do.</p>
     </div>
 </div>
+
+<span style="font-size: 85%;">Interested in collaborating, advice, or chatting? Drop me an email at <a href="mailto:sarthakbhagatoutreach@gmail.com">sarthakbhagatoutreach@gmail.com</a>.</span>

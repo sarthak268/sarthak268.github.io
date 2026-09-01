@@ -56,7 +56,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2022 - 2024</div>
         <div class="timeline-content">
-            <div class="timeline-title">Master's in Robotics, CMU</div>
+            <div class="timeline-title">Master's in Robotics, Carnegie Mellon University (CMU)</div>
             <ul class="timeline-details">
                 <li>Improving robotic perception and interaction using domain knowledge (<a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">thesis</a>, advisor: <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>)</li>
             </ul>
@@ -76,7 +76,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2020 - 2021</div>
         <div class="timeline-content">
-            <div class="timeline-title">Visiting Researcher, <a href="https://www.clvrai.com/">CLVR Lab</a>, USC</div>
+            <div class="timeline-title">Visiting Researcher, <a href="https://www.clvrai.com/">CLVR Lab</a>, University of Southern California (USC)</div>
             <ul class="timeline-details">
                 <li>Adapting robot policies to new environments without forgetting old skills (advisor: <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a>)</li>
             </ul>
@@ -116,9 +116,6 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
 </div>
 
 
-<span style="font-size: 85%;">Interested in collaborating, advice, or chatting? Drop me an email at <a href="mailto:sarthakbhagatoutreach@gmail.com">sarthakbhagatoutreach@gmail.com</a>.</span>
-
-<br><br>
 
 <!-- <div class="row" id="timeline-logos">
     <div class="col-xs-3">
