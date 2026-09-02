@@ -4,6 +4,7 @@ title:      News
 permalink:  /news/
 ---
 
+- <span style="font-size: 85%;"><span class="news-date">Aug'26</span> Started working on something new in AI x science.</span>
 - <span style="font-size: 85%;"><span class="news-date">May'26</span> Joined South Park Commons and Savant Explorers - learning and building alongside ambitious founders.</span>
 - <span style="font-size: 85%;"><span class="news-date">Apr'26</span> Accepted into [Y Combinator Startup School](https://www.startupschool.org/) again! Back for round two ([post](https://x.com/sarthak__bhagat/status/2044980175654490385)).</span>
 - <span style="font-size: 85%;"><span class="news-date">Mar'26</span> Speaking on a panel at [GTC 2026](https://luma.com/lez0njlh) on building AI systems that perceive, reason, and act in the real world - with folks working on humanoids, embodied agents, and physical AI ([thread](https://x.com/sarthak__bhagat/status/2034825450326040960)).</span>
