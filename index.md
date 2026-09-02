@@ -4,6 +4,8 @@ title:
 permalink:  /
 ---
 
+<p>Building something new at the intersection of AI x science.</p>
+
 <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
     <div class="col-sm-4 col-xs-12">
         <img src="/img/me.jpg">
