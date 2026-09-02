@@ -98,7 +98,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Research Intern, National University of Singapore (NUS)</div>
             <ul class="timeline-details">
-                <li>Medical Robotics (advisor: <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Dr. Hongliang Ren</a>)</li>
+                <li>Medical robotics (advisor: <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Dr. Hongliang Ren</a>)</li>
             </ul>
         </div>
     </div>
