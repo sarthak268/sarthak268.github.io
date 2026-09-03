@@ -10,3 +10,5 @@ permalink:  /travel/
 <span class="list-item">Here's everywhere I've wandered so far. Still plenty of pins left to drop.</span>
 
 <img src="/img/travel.png">
+
+<span class="list-item"><a href="/100_things/">List of things I want to do in my lifetime</a></span>
