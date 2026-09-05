@@ -40,7 +40,7 @@ permalink:  /100_things/
 <span class="list-item">32. Learn to play an instrument</span><br>
 <span class="list-item">33. Read 1000 books</span><br>
 <span class="list-item">34. Visit all continents (3 / 10)</span><br>
-<span class="list-item">35. Week-long cruise</span><br>
+<span class="list-item">35. Cruise on the Nile</span><br>
 <span class="list-item">36. <s>Route 66 East to West Coast</s> (Pittsburgh to San Francisco, 8 days on the road)</span><br>
 <span class="list-item">37. Visit all US states</span><br>
 <span class="list-item">38. Visit all Indian states</span><br>
@@ -91,7 +91,7 @@ permalink:  /100_things/
 <span class="list-item">83. Northern Lights in Alaska</span><br>
 <span class="list-item">84. Meet Elon Musk</span><br>
 <span class="list-item">85. Meet Demis Hassabis</span><br>
-<span class="list-item">86. </span><br>
+<span class="list-item">86. Party in Ibiza</span><br>
 <span class="list-item">87. </span><br>
 <span class="list-item">88. </span><br>
 <span class="list-item">89. </span><br>
