@@ -151,7 +151,7 @@ permalink:  /travel/
     .width(el.clientWidth)
     .height(600);
 
-  globe.pointOfView({ altitude: 1.8 }, 0);
+  globe.pointOfView({ lat: 39.8283, lng: -98.5795, altitude: 1.8 }, 0);
 
   globe.controls().autoRotate = true;
   globe.controls().autoRotateSpeed = 0.4;
