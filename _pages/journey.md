@@ -34,8 +34,8 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Research Engineer, <a href="https://www.1x.tech/">1X Technologies</a></div>
             <ul class="timeline-details">
-                <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven mobile manipulation stack</li>
-                <li>Contributor to 1X World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video generation model that imagines the future, then acts on it</li>
+                <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven navigation stack</li>
+                <li>Contributor to 1X World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video action generation model that predicts what happens next and how to get there</li>
                 <!-- <li>RL for manipulation, WM inference stack, whole-body controller</li> -->
             </ul>
         </div>
