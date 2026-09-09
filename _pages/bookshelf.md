@@ -8,131 +8,404 @@ permalink:  /bookshelf/
 > – George R.R. Martin
 
 <span class="list-item">Immersed in the enchanting world of words, I find solace and inspiration, my mind liberated as I embark on literary journeys.
-Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are <span class="highlight-book">highlighted</span>.</span><br>
+Here lies a cherished collection (a subset) of the books that have captivated my heart and nourished my soul. My favorites are marked with <span class="shelf-fav-inline">★</span>.</span><br>
 
 <br>
 
-<details class="bookshelf-section">
-<summary>🔬 Science & History</summary>
-<span class="list-item">Exploring the cosmos, evolution, and the forces that shaped our world. I get endlessly lost in these — most of them I've re-read, and I'm always re-reading something from this shelf. I know I've highlighted way too many here, but this is my favorite pastime.</span>
-<p>
-<span class="book-entry">1. <a href="/bookshelf/sapiens/">Sapiens by Yuval Noah Harari</a></span>
-<span class="book-entry">2. <a href="/bookshelf/theory_of_everything/">The Theory of Everything by Stephen W. Hawking</a></span>
-<span class="book-entry">3. <a href="/bookshelf/21_lessons/">21 Lessons from the 21st Century by Yuval Noah Harari</a></span>
-<span class="book-entry">4. <span class="highlight-book"><a href="/bookshelf/fabric_of_reality/">The Fabric of Reality by David Deutsch</a></span></span>
-<span class="book-entry">5. <a href="/bookshelf/pale_blue_dot/">Pale Blue Dot by Carl Sagan</a></span>
-<span class="book-entry">6. <a href="/bookshelf/cosmos/">Cosmos by Carl Sagan</a></span>
-<span class="book-entry">7. <span class="highlight-book"><a href="/bookshelf/beginning_of_infinity/">The Beginning of Infinity by David Deutsch</a></span></span>
-<span class="book-entry">8. <span class="highlight-book"><a href="/bookshelf/reality_rovelli/">Reality is not what it seems by Carlo Rovelli</a></span></span>
-<span class="book-entry">9. <a href="/bookshelf/red_queen/">The Red Queen by Matt Ridley</a></span>
-<span class="book-entry">10. <a href="/bookshelf/aliens/">The Little Book of Aliens by Adam Frank</a></span>
-<span class="book-entry">11. <span class="highlight-book"><a href="/bookshelf/selfish_gene/">The Selfish Gene by Richard Dawkins</a></span></span>
-<span class="book-entry">12. <a href="/bookshelf/cycles_of_time/">Cycles of Time by Roger Penrose</a></span>
-<span class="book-entry">13. <span class="highlight-book"><a href="/bookshelf/life_assembly/">Life As No One Knows It by Sara Imari Walker</a></span></span>
-<span class="book-entry">14. <a href="/bookshelf/moon_shot/">Moon Shot by Alan Shepard and Deke Slayton</a></span>
-<span class="book-entry">15. <a href="/bookshelf/space_to_grow/">Space to Grow by Matthew Weinzierl and Brendan Rosseau</a></span>
-<span class="book-entry">16. <span class="highlight-book"><a href="/bookshelf/lords_of_cosmos/">Lords of the Cosmos by Arjun Khemani and Logan Chipkin</a></span></span>
-<span class="book-entry">17. <span class="highlight-book"><a href="/bookshelf/space_time_motion/">Space, Time, and Motion (The Biggest Ideas Series) by Sean Carroll</a></span></span>
-<span class="book-entry">18. <a href="/bookshelf/brief_history_of_intelligence/">A Brief History of Intelligence by Max Bennett</a></span>
-</p>
-</details>
+<div id="shelf-root"></div>
 
-<details class="bookshelf-section">
-<summary>🧠 Mindset & Wisdom</summary>
-<span class="list-item">Books that rewired how I think, decide, and live. Haven't been reading too many of these lately.</span>
-<p>
-<span class="book-entry">1. <span class="highlight-book"><a href="/bookshelf/naval/">The Almanack of Naval Ravikant</a></span></span>
-<span class="book-entry">2. <a href="/bookshelf/anthology_of_balaji/">The Anthology of Balaji by Eric Jorgenson</a></span>
-<span class="book-entry">3. <a href="/bookshelf/subtle_art/">The Subtle Art of Not Giving a F*ck by Mark Manson</a></span>
-<span class="book-entry">4. <a href="/bookshelf/compound_effect/">The Compound Effect by Darren Hardy</a></span>
-<span class="book-entry">5. <a href="/bookshelf/ikigai/">Ikigai by Francesc Miralles and Hector Garcia</a></span>
-<span class="book-entry">6. <a href="/bookshelf/courage_to_be_disliked/">The Courage to be Disliked by Fumitake Koga and Ichiro Kishimi</a></span>
-<span class="book-entry">7. <a href="/bookshelf/12_rules/">12 Rules for Life by Jordan B. Peterson</a></span>
-<span class="book-entry">8. <a href="/bookshelf/give_and_take/">Give and Take by Adam Grant</a></span>
-<span class="book-entry">9. <a href="/bookshelf/winner_effect/">The Winner Effect by Ian Robertson</a></span>
-<span class="book-entry">10. <a href="/bookshelf/principles/">Principles by Ray Dalio</a></span>
-<span class="book-entry">11. <a href="/bookshelf/art_of_thinking_clearly/">The Art of Thinking Clearly by Rolf Dobelli</a></span>
-</p>
-</details>
+<style>
+.shelf-section { margin-bottom: 34px; }
+.shelf-section-head { font-size: 105%; font-weight: 600; margin-bottom: 4px; }
+.shelf-section-desc { font-size: 90%; color: var(--text-secondary); margin-bottom: 12px; }
+.shelf-row-wrap { position: relative; display: flex; align-items: center; }
+.shelf-row {
+  display: flex;
+  gap: 14px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 4px 2px 12px;
+  scrollbar-width: thin;
+}
+.shelf-row::-webkit-scrollbar { height: 6px; }
+.shelf-row::-webkit-scrollbar-thumb { background: var(--border-medium); border-radius: 3px; }
+.shelf-arrow {
+  flex: none;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-medium);
+  color: var(--text-primary);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 90%;
+  line-height: 1;
+  z-index: 2;
+}
+.shelf-arrow:hover { color: var(--accent-blue); border-color: var(--accent-blue); }
+.shelf-arrow.left { margin-right: 6px; }
+.shelf-arrow.right { margin-left: 6px; }
+.book-card {
+  flex: none;
+  width: 108px;
+  text-decoration: none;
+  display: block;
+}
+.book-cover-frame {
+  position: relative;
+  width: 108px;
+  height: 160px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+  background: var(--bg-secondary);
+  transition: transform 0.15s ease;
+}
+.book-card:hover .book-cover-frame { transform: translateY(-3px); box-shadow: 0 6px 14px rgba(0,0,0,0.45); }
+.book-cover-frame img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.book-cover-fallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 8px;
+  font-size: 78%;
+  line-height: 1.3;
+  color: var(--text-primary);
+  background: linear-gradient(160deg, var(--bg-secondary), var(--bg-primary));
+}
+.book-fav-badge {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  font-size: 80%;
+  color: #f4b942;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+.book-fav-ring { box-shadow: inset 0 0 0 2px #f4b942; border-radius: 4px; }
+.book-card-title {
+  font-size: 76%;
+  color: var(--text-secondary);
+  margin-top: 6px;
+  line-height: 1.25;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.shelf-fav-inline { color: #f4b942; }
+.shelf-toggle-bar { display: flex; justify-content: flex-end; margin-bottom: 18px; }
+.shelf-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 85%;
+  color: var(--text-secondary);
+  cursor: pointer;
+  user-select: none;
+}
+.shelf-toggle-input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.shelf-toggle-track {
+  position: relative;
+  flex: none;
+  width: 34px;
+  height: 18px;
+  background: var(--border-medium);
+  border-radius: 999px;
+  transition: background 0.2s ease;
+}
+.shelf-toggle-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  transition: transform 0.2s ease;
+}
+.shelf-toggle-input:checked + .shelf-toggle-track { background: #f4b942; }
+.shelf-toggle-input:checked + .shelf-toggle-track .shelf-toggle-thumb { transform: translateX(16px); }
+.shelf-toggle-input:focus-visible + .shelf-toggle-track { outline: 2px solid var(--accent-blue); outline-offset: 2px; }
+.shelf-toggle-text { color: var(--text-secondary); }
+.shelf-favonly .book-card { display: none; }
+.shelf-favonly .book-card.is-fav { display: block; }
+.shelf-favonly .shelf-section.no-fav { display: none; }
+</style>
 
-<details class="bookshelf-section">
-<summary>📖 Biographies & Memoirs</summary>
-<span class="list-item">Lives worth studying — from athletes to astronauts to entrepreneurs. My favourite section, and I'm always looking for more recommendations.</span>
-<p>
-<span class="book-entry">1. <span class="highlight-book"><a href="/bookshelf/shoe_dog/">Shoe Dog by Phil Knight</a></span></span>
-<span class="book-entry">2. <a href="/bookshelf/steve_jobs/">Steve Jobs by Walter Isaacson</a></span>
-<span class="book-entry">3. <a href="/bookshelf/cant_hurt_me/">Can't Hurt Me by David Goggins</a></span>
-<span class="book-entry">4. <a href="/bookshelf/becoming/">Becoming by Michelle Obama</a></span>
-<span class="book-entry">5. <a href="/bookshelf/born_a_crime/">Born A Crime by Trevor Noah</a></span>
-<span class="book-entry">6. <a href="/bookshelf/limitless/">Limitless by Radhika Gupta</a></span>
-<span class="book-entry">7. <a href="/bookshelf/elon_musk/">Elon Musk by Ashlee Vance</a></span>
-<span class="book-entry">8. <a href="/bookshelf/starbucks/">Pour Your Heart Into It by Howard Schultz</a></span>
-<span class="book-entry">9. <span class="highlight-book"><a href="/bookshelf/when_breath_becomes_air/">When Breath Becomes Air by Paul Kalanithi</a></span></span>
-<span class="book-entry">10. <a href="/bookshelf/mind_master/">Mind Master by Viswanathan Anand</a></span>
-<span class="book-entry">11. <a href="/bookshelf/shot_at_history/">A Shot at History by Abhinav Bindra</a></span>
-<span class="book-entry">12. <a href="/bookshelf/charlie/">Poor Charlie's Almanack by Charlie Munger</a></span>
-<span class="book-entry">13. <a href="/bookshelf/no_dream_too_high/">No Dream Is Too High by Buzz Aldrin</a></span>
-<span class="book-entry">14. <a href="/bookshelf/my_journey_kalam/">My Journey: Transforming Dreams Into Actions by A.P.J Abdul Kalam</a></span>
-<span class="book-entry">15. <a href="/bookshelf/einstein/">Einstein by Steven Gimbel</a></span>
-<span class="book-entry">16. <a href="/bookshelf/unseen/">Unseen by Megha Vishwanath</a></span>
-<span class="book-entry">17. <a href="/bookshelf/surely_youre_joking/">Surely You're Joking, Mr. Feynman! by Richard P. Feynman</a></span>
-</p>
-</details>
+<script>
+(function () {
+  var SECTIONS = [
+    {
+      key: "science", emoji: "🔬", title: "Science & History",
+      desc: "Exploring the cosmos, evolution, and the forces that shaped our world. I get endlessly lost in these — most of them I've re-read, and I'm always re-reading something from this shelf.",
+      books: [
+        { slug: "sapiens", title: "Sapiens", author: "Yuval Noah Harari", cover: 8634250 },
+        { slug: "theory_of_everything", title: "The Theory of Everything", author: "Stephen W. Hawking", cover: 942436 },
+        { slug: "21_lessons", title: "21 Lessons for the 21st Century", author: "Yuval Noah Harari", cover: 10108277 },
+        { slug: "fabric_of_reality", title: "The Fabric of Reality", author: "David Deutsch", cover: 452204, fav: true },
+        { slug: "pale_blue_dot", title: "Pale Blue Dot", author: "Carl Sagan", cover: 14417175 },
+        { slug: "cosmos", title: "Cosmos", author: "Carl Sagan", cover: 8283901 },
+        { slug: "beginning_of_infinity", title: "The Beginning of Infinity", author: "David Deutsch", cover: 8622269, fav: true },
+        { slug: "reality_rovelli", title: "Reality is not what it seems", author: "Carlo Rovelli", cover: 10866486, fav: true },
+        { slug: "red_queen", title: "The Red Queen", author: "Matt Ridley", cover: 29174 },
+        { slug: "aliens", title: "The Little Book of Aliens", author: "Adam Frank", cover: 14601430 },
+        { slug: "selfish_gene", title: "The Selfish Gene", author: "Richard Dawkins", cover: 133936, fav: true },
+        { slug: "cycles_of_time", title: "Cycles of Time", author: "Roger Penrose", cover: 7889572 },
+        { slug: "life_assembly", title: "Life As No One Knows It", author: "Sara Imari Walker", cover: 15121306, fav: true },
+        { slug: "moon_shot", title: "Moon Shot", author: "Alan Shepard and Deke Slayton", cover: 11682298 },
+        { slug: "space_to_grow", title: "Space to Grow", author: "Weinzierl and Rosseau", coverGoogle: "d2jwEAAAQBAJ" },
+        { slug: "lords_of_cosmos", title: "Lords of the Cosmos", author: "Khemani and Chipkin", coverDirect: "https://www.lordsofcosmos.com/lordsofcosmos.png", fav: true },
+        { slug: "space_time_motion", title: "Space, Time, and Motion", author: "Sean Carroll", cover: 12933717, fav: true },
+        { slug: "brief_history_of_intelligence", title: "A Brief History of Intelligence", author: "Max Bennett", coverGoogle: "tymCEAAAQBAJ" }
+      ]
+    },
+    {
+      key: "mindset", emoji: "🧠", title: "Mindset & Wisdom",
+      desc: "Books that rewired how I think, decide, and live. Haven't been reading too many of these lately.",
+      books: [
+        { slug: "naval", title: "The Almanack of Naval Ravikant", author: "Eric Jorgenson", cover: 10449931, fav: true },
+        { slug: "anthology_of_balaji", title: "The Anthology of Balaji", author: "Eric Jorgenson", cover: 15178491 },
+        { slug: "subtle_art", title: "The Subtle Art of Not Giving a F*ck", author: "Mark Manson", cover: 8231990 },
+        { slug: "compound_effect", title: "The Compound Effect", author: "Darren Hardy", cover: 7115046 },
+        { slug: "ikigai", title: "Ikigai", author: "Miralles and Garcia", cover: 11300391 },
+        { slug: "courage_to_be_disliked", title: "The Courage to be Disliked", author: "Koga and Kishimi", cover: 10873626 },
+        { slug: "12_rules", title: "12 Rules for Life", author: "Jordan B. Peterson", cover: 8131760 },
+        { slug: "give_and_take", title: "Give and Take", author: "Adam Grant", cover: 7391212 },
+        { slug: "winner_effect", title: "The Winner Effect", author: "Ian Robertson", cover: 9076261 },
+        { slug: "principles", title: "Principles", author: "Ray Dalio", cover: 8315355 },
+        { slug: "art_of_thinking_clearly", title: "The Art of Thinking Clearly", author: "Rolf Dobelli", cover: 8270423 }
+      ]
+    },
+    {
+      key: "bio", emoji: "📖", title: "Biographies & Memoirs",
+      desc: "Lives worth studying — from athletes to astronauts to entrepreneurs. My favourite section, and I'm always looking for more recommendations.",
+      books: [
+        { slug: "shoe_dog", title: "Shoe Dog", author: "Phil Knight", cover: 8858487, fav: true },
+        { slug: "steve_jobs", title: "Steve Jobs", author: "Walter Isaacson", cover: 12374726 },
+        { slug: "cant_hurt_me", title: "Can't Hurt Me", author: "David Goggins", coverIsbn: "9781544512280" },
+        { slug: "becoming", title: "Becoming", author: "Michelle Obama", cover: 8824664 },
+        { slug: "born_a_crime", title: "Born A Crime", author: "Trevor Noah", cover: 8294078 },
+        { slug: "limitless", title: "Limitless", author: "Radhika Gupta", coverGoogle: "iu5mEAAAQBAJ" },
+        { slug: "elon_musk", title: "Elon Musk", author: "Ashlee Vance", cover: 8463846 },
+        { slug: "starbucks", title: "Pour Your Heart Into It", author: "Howard Schultz", cover: 545501 },
+        { slug: "when_breath_becomes_air", title: "When Breath Becomes Air", author: "Paul Kalanithi", cover: 11463139, fav: true },
+        { slug: "mind_master", title: "Mind Master", author: "Viswanathan Anand", cover: 10845864 },
+        { slug: "shot_at_history", title: "A Shot at History", author: "Abhinav Bindra", coverGoogle: "IlJLDQAAQBAJ" },
+        { slug: "charlie", title: "Poor Charlie's Almanack", author: "Charlie Munger", cover: 8337563 },
+        { slug: "no_dream_too_high", title: "No Dream Is Too High", author: "Buzz Aldrin", cover: 12803742 },
+        { slug: "my_journey_kalam", title: "My Journey", author: "A.P.J Abdul Kalam", cover: 10899260 },
+        { slug: "einstein", title: "Einstein", author: "Steven Gimbel", cover: 9168994 },
+        { slug: "unseen", title: "Unseen", author: "Megha Vishwanath", coverGoogle: "rsCREQAAQBAJ" },
+        { slug: "surely_youre_joking", title: "Surely You're Joking, Mr. Feynman!", author: "Richard P. Feynman", cover: 14766391 }
+      ]
+    },
+    {
+      key: "fiction", emoji: "✨", title: "Fiction",
+      desc: "Stories that stretched my imagination beyond the real. I don't read fiction too often, but these were worth it.",
+      books: [
+        { slug: "alchemist", title: "The Alchemist", author: "Paulo Coelho", cover: 14846382 },
+        { slug: "life_3", title: "Life 3.0", author: "Max Tegmark", cover: 10239283 },
+        { slug: "three_body_problem", title: "The Three-Body Problem", author: "Cixin Liu", cover: 9157544 }
+      ]
+    },
+    {
+      key: "startups", emoji: "🚀", title: "Entrepreneurship",
+      desc: "Lessons from the builders — on starting, scaling, and surviving. These inspired me on how to build, and to build something.",
+      books: [
+        { slug: "hard_things", title: "Hard Things about Hard Things", author: "Ben Horowitz", cover: 7279515 },
+        { slug: "zero_to_one", title: "Zero to One", author: "Peter Thiel", cover: 9002334 },
+        { slug: "radical_candor", title: "Radical Candor", author: "Kim Scott", cover: 11457329 },
+        { slug: "five_moves_ahead", title: "Your Next Five Moves", author: "Patrick Bet-David", cover: 10961423 },
+        { slug: "paul_graham", title: "Essays", author: "Paul Graham", cover: 388913 },
+        { slug: "no_rules_rules", title: "No Rules Rules", author: "Hastings and Meyer", cover: 10524294 },
+        { slug: "that_will_never_work", title: "That Will Never Work", author: "Marc Randolph", cover: 10663066, fav: true }
+      ]
+    },
+    {
+      key: "finance", emoji: "💰", title: "Finance & Investing",
+      desc: "Understanding money, markets, and the psychology behind both.",
+      books: [
+        { slug: "intelligent_investor", title: "The Intelligent Investor", author: "Benjamin Graham", cover: 36434 },
+        { slug: "think_and_grow_rich", title: "Think and Grow Rich", author: "Napoleon Hill", cover: 14542536 },
+        { slug: "coffee_can_investing", title: "Coffee Can Investing", author: "Saurabh Mukherjee", cover: 10848634 },
+        { slug: "just_keep_buying", title: "Just Keep Buying", author: "Nick Maggiulli", cover: 14561679 },
+        { slug: "psychology_of_money", title: "The Psychology of Money", author: "Morgan Housel", cover: 10389354 },
+        { slug: "rich_dad_poor_dad", title: "Rich Dad Poor Dad", author: "Robert T. Kiyosaki", cover: 8315603 }
+      ]
+    },
+    {
+      key: "eclectic", emoji: "🎲", title: "Eclectic Picks",
+      desc: "A mix of everything else that left a mark.",
+      books: [
+        { slug: "think_again", title: "Think Again", author: "Adam Grant", cover: 10470266 },
+        { slug: "what_i_know_for_sure", title: "What I Know For Sure", author: "Oprah Winfrey", cover: 7414838 },
+        { slug: "make_your_own_luck", title: "Make Your Own Luck", author: "Miglani and Khan", coverGoogle: "tIhFzQEACAAJ" },
+        { slug: "factfulness", title: "Factfulness", author: "Hans Rosling et al.", cover: 8186237 },
+        { slug: "do_epic_shit", title: "Do Epic Shit", author: "Ankur Warikoo", cover: 12550538 },
+        { slug: "mans_search_for_meaning", title: "Man's Search for Meaning", author: "Victor E. Frankl", cover: 8513458 },
+        { slug: "rational_optimist", title: "The Rational Optimist", author: "Matt Ridley", cover: 7024445, fav: true },
+        { slug: "antifragile", title: "Antifragile", author: "Nassim Taleb", cover: 9180157 },
+        { slug: "stardust", title: "We Are All Stardust", author: "Stefan Klein", cover: 11327789 },
+        { slug: "when_heavens_went_on_sale", title: "When the Heavens Went on Sale", author: "Ashlee Vance", cover: 13234791, fav: true },
+        { slug: "moonwalking_with_einstein", title: "Moonwalking with Einstein", author: "Joshua Foer", cover: 14426425 }
+      ]
+    }
+  ];
 
-<details class="bookshelf-section">
-<summary>✨ Fiction</summary>
-<span class="list-item">Stories that stretched my imagination beyond the real. I don't read fiction too often, but these were worth it.</span>
-<p>
-<span class="book-entry">1. <a href="/bookshelf/alchemist/">The Alchemist by Paulo Coelho</a></span>
-<span class="book-entry">2. <a href="/bookshelf/life_3/">Life 3.0 by Max Tegmark</a></span>
-<span class="book-entry">3. <a href="/bookshelf/three_body_problem/">The Three-Body Problem by Cixin Liu</a></span>
-</p>
-</details>
+  function coverUrl(id) {
+    return "https://covers.openlibrary.org/b/id/" + id + "-M.jpg";
+  }
 
-<details class="bookshelf-section">
-<summary>🚀 Entrepreneurship</summary>
-<span class="list-item">Lessons from the builders — on starting, scaling, and surviving. These inspired me on how to build, and to build something.</span>
-<p>
-<span class="book-entry">1. <a href="/bookshelf/hard_things/">Hard Things about Hard Things by Ben Horowitz</a></span>
-<span class="book-entry">2. <a href="/bookshelf/zero_to_one/">Zero to One by Peter Thiel</a></span>
-<span class="book-entry">3. <a href="/bookshelf/radical_candor/">Radical Candor by Kim Scott</a></span>
-<span class="book-entry">4. <a href="/bookshelf/five_moves_ahead/">Your Next Five Moves by Patrick Bet-David</a></span>
-<span class="book-entry">5. <a href="/bookshelf/paul_graham/">Essays by Paul Graham</a></span>
-<span class="book-entry">6. <a href="/bookshelf/no_rules_rules/">No Rules Rules by Reed Hastings, Erin Meyer</a></span>
-<span class="book-entry">7. <span class="highlight-book"><a href="/bookshelf/that_will_never_work/">That Will Never Work by Marc Randolph</a></span></span>
-</p>
-</details>
+  function coverUrlByIsbn(isbn) {
+    return "https://covers.openlibrary.org/b/isbn/" + isbn + "-M.jpg";
+  }
 
-<details class="bookshelf-section">
-<summary>💰 Finance & Investing</summary>
-<span class="list-item">Understanding money, markets, and the psychology behind both.</span>
-<p>
-<span class="book-entry">1. <a href="/bookshelf/intelligent_investor/">The Intelligent Investor by Benjamin Graham</a></span>
-<span class="book-entry">2. <a href="/bookshelf/think_and_grow_rich/">Think and Grow Rich by Napoleon Hill</a></span>
-<span class="book-entry">3. <a href="/bookshelf/coffee_can_investing/">Coffee Can Investing by Saurabh Mukherjee</a></span>
-<span class="book-entry">4. <a href="/bookshelf/just_keep_buying/">Just Keep Buying by Nick Maggiulli</a></span>
-<span class="book-entry">5. <a href="/bookshelf/psychology_of_money/">The Psychology of Money by Morgan Housel</a></span>
-<span class="book-entry">6. <a href="/bookshelf/rich_dad_poor_dad/">Rich Dad Poor Dad by Robert T. Kiyosaki</a></span>
-</p>
-</details>
+  function coverUrlByGoogleId(id) {
+    return "https://books.google.com/books/content?id=" + id + "&printsec=frontcover&img=1&zoom=1";
+  }
 
-<details class="bookshelf-section">
-<summary>🎲 Eclectic Picks</summary>
-<span class="list-item">A mix of everything else that left a mark.</span>
-<p>
-<span class="book-entry">1. <a href="/bookshelf/think_again/">Think Again by Adam Grant</a></span>
-<span class="book-entry">2. <a href="/bookshelf/what_i_know_for_sure/">What I Know For Sure by Oprah Winfrey</a></span>
-<span class="book-entry">3. <a href="/bookshelf/make_your_own_luck/">Make Your Own Luck by Bob Miglani and Rehan Yar Khan</a></span>
-<span class="book-entry">4. <a href="/bookshelf/factfulness/">Factfulness by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling</a></span>
-<span class="book-entry">5. <a href="/bookshelf/do_epic_shit/">Do Epic Shit by Ankur Warikoo</a></span>
-<span class="book-entry">6. <a href="/bookshelf/mans_search_for_meaning/">Man's Search for Meaning by Victor E. Frankl</a></span>
-<span class="book-entry">7. <span class="highlight-book"><a href="/bookshelf/rational_optimist/">The Rational Optimist by Matt Ridley</a></span></span>
-<span class="book-entry">8. <a href="/bookshelf/antifragile/">Antifragile by Nassim Taleb</a></span>
-<span class="book-entry">9. <a href="/bookshelf/stardust/">We Are All Stardust by Stefan Klein</a></span>
-<span class="book-entry">10. <span class="highlight-book"><a href="/bookshelf/when_heavens_went_on_sale/">When the Heavens Went on Sale by Ashlee Vance</a></span></span>
-<span class="book-entry">11. <a href="/bookshelf/moonwalking_with_einstein/">Moonwalking with Einstein by Joshua Foer</a></span>
-</p>
-</details>
+  function bookCard(book) {
+    var a = document.createElement("a");
+    a.className = "book-card";
+    if (book.fav) a.classList.add("is-fav");
+    a.href = "/bookshelf/" + book.slug + "/";
+
+    var frame = document.createElement("div");
+    frame.className = "book-cover-frame";
+    if (book.fav) frame.classList.add("book-fav-ring");
+
+    if (book.cover || book.coverIsbn || book.coverGoogle || book.coverDirect) {
+      var img = document.createElement("img");
+      img.src = book.cover
+        ? coverUrl(book.cover)
+        : book.coverIsbn
+        ? coverUrlByIsbn(book.coverIsbn)
+        : book.coverGoogle
+        ? coverUrlByGoogleId(book.coverGoogle)
+        : book.coverDirect;
+      img.alt = book.title;
+      img.loading = "lazy";
+      frame.appendChild(img);
+    } else {
+      var fb = document.createElement("div");
+      fb.className = "book-cover-fallback";
+      fb.textContent = book.title;
+      frame.appendChild(fb);
+    }
+
+    if (book.fav) {
+      var star = document.createElement("span");
+      star.className = "book-fav-badge";
+      star.textContent = "★";
+      frame.appendChild(star);
+    }
+
+    var caption = document.createElement("div");
+    caption.className = "book-card-title";
+    caption.textContent = book.title;
+
+    a.appendChild(frame);
+    a.appendChild(caption);
+    return a;
+  }
+
+  var root = document.getElementById("shelf-root");
+
+  var toggleBar = document.createElement("div");
+  toggleBar.className = "shelf-toggle-bar";
+  var toggleLabel = document.createElement("label");
+  toggleLabel.className = "shelf-toggle";
+  var toggleInput = document.createElement("input");
+  toggleInput.type = "checkbox";
+  toggleInput.id = "shelf-fav-toggle";
+  toggleInput.className = "shelf-toggle-input";
+  var toggleTrack = document.createElement("span");
+  toggleTrack.className = "shelf-toggle-track";
+  var toggleThumb = document.createElement("span");
+  toggleThumb.className = "shelf-toggle-thumb";
+  toggleTrack.appendChild(toggleThumb);
+  var toggleText = document.createElement("span");
+  toggleText.className = "shelf-toggle-text";
+  toggleText.textContent = "★ Favorites only";
+  toggleLabel.appendChild(toggleInput);
+  toggleLabel.appendChild(toggleTrack);
+  toggleLabel.appendChild(toggleText);
+  toggleBar.appendChild(toggleLabel);
+  root.appendChild(toggleBar);
+
+  toggleInput.addEventListener("change", function () {
+    root.classList.toggle("shelf-favonly", toggleInput.checked);
+  });
+
+  SECTIONS.forEach(function (section) {
+    var wrap = document.createElement("div");
+    wrap.className = "shelf-section";
+    if (!section.books.some(function (b) { return b.fav; })) {
+      wrap.classList.add("no-fav");
+    }
+
+    var head = document.createElement("div");
+    head.className = "shelf-section-head";
+    head.textContent = section.emoji + " " + section.title;
+    wrap.appendChild(head);
+
+    var desc = document.createElement("div");
+    desc.className = "shelf-section-desc";
+    desc.textContent = section.desc;
+    wrap.appendChild(desc);
+
+    var rowWrap = document.createElement("div");
+    rowWrap.className = "shelf-row-wrap";
+
+    var leftBtn = document.createElement("button");
+    leftBtn.className = "shelf-arrow left";
+    leftBtn.setAttribute("aria-label", "Scroll left");
+    leftBtn.textContent = "←";
+
+    var row = document.createElement("div");
+    row.className = "shelf-row";
+    section.books.forEach(function (book) {
+      row.appendChild(bookCard(book));
+    });
+
+    var rightBtn = document.createElement("button");
+    rightBtn.className = "shelf-arrow right";
+    rightBtn.setAttribute("aria-label", "Scroll right");
+    rightBtn.textContent = "→";
+
+    leftBtn.addEventListener("click", function () {
+      if (row.scrollLeft <= 1) {
+        row.scrollTo({ left: row.scrollWidth, behavior: "smooth" });
+      } else {
+        row.scrollBy({ left: -300, behavior: "smooth" });
+      }
+    });
+    rightBtn.addEventListener("click", function () {
+      if (row.scrollLeft + row.clientWidth >= row.scrollWidth - 1) {
+        row.scrollTo({ left: 0, behavior: "smooth" });
+      } else {
+        row.scrollBy({ left: 300, behavior: "smooth" });
+      }
+    });
+
+    rowWrap.appendChild(leftBtn);
+    rowWrap.appendChild(row);
+    rowWrap.appendChild(rightBtn);
+    wrap.appendChild(rowWrap);
+
+    root.appendChild(wrap);
+  });
+})();
+</script>
 
 <details class="bookshelf-section">
 <summary>🎙️ Podcasts & Talks</summary>
