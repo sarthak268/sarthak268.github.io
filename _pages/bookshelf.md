@@ -212,7 +212,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
       key: "fiction", emoji: "✨", title: "Fiction",
       desc: "Stories that stretched my imagination beyond the real. I don't read fiction too often, but these were worth it.",
       books: [
-        { slug: "alchemist", title: "The Alchemist", author: "Paulo Coelho", cover: 14846382 },
+        { slug: "alchemist", title: "The Alchemist", author: "Paulo Coelho", cover: 7414780 },
         { slug: "life_3", title: "Life 3.0", author: "Max Tegmark", cover: 10239283 },
         { slug: "three_body_problem", title: "The Three-Body Problem", author: "Cixin Liu", cover: 9157544 }
       ]
