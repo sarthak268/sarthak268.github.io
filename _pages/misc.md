@@ -4,18 +4,6 @@ title:      Miscellaneous
 permalink:  /misc/
 ---
 
-## Interests
-
-<span class="list-item">• Reading - biographies, physics, philosophy, business. Check out my [bookshelf](https://sarthak268.github.io/bookshelf/).</span><br>
-<span class="list-item">• Physics & astronomy - black holes, quantum mechanics, the origin of the universe.</span><br>
-<span class="list-item">• [Traveling](https://sarthak268.github.io/travel/) & hiking - chasing mountains, sunsets, and places off the beaten path.</span><br>
-<span class="list-item">• Startups - fascinated by how things get built from zero. [Let's chat!](https://x.com/sarthak__bhagat)</span><br>
-<span class="list-item">• Chess - ELO 1644. Always looking for a game.</span><br>
-<span class="list-item">• Football - watching, playing, and FIFA</span><br>
-<span class="list-item">• Gym + racket sports (still a noob)</span><br>
-<span class="list-item">• Photography - <a href="https://www.instagram.com/shot.by.sarthak/" target="_blank">places through my lens</a></span><br>
-<span class="list-item">• Food - chasing good food & hidden gems ([my food diary](https://beliapp.co/app/sarthakbhagat))</span><br>
-
 ## Awards and Honors
 
 <div class="talks-timeline">
