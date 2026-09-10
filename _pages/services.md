@@ -4,6 +4,20 @@ title:      Activity
 permalink:  /activity/
 ---
 
+<style>
+.kv-row {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+.kv-row + br { display: none; }
+.kv-label { flex: none; white-space: nowrap; }
+.kv-value { text-align: right; color: var(--text-secondary); }
+</style>
+
 ## Invited Talks
 
 <div class="talks-timeline">
@@ -34,9 +48,9 @@ permalink:  /activity/
 
 ## Reviewing
 
-<span class="list-item">• Robotics — ICRA'25-26 · CoRL'24 · RA-L'24-26</span><br>
-<span class="list-item">• AI / ML — AAAI'25 · ICML'24 · ICLR'24 · CoLLAs'24 · NeurIPS'23</span><br>
-<span class="list-item">• Computer Vision — WACV'23</span><br>
+<span class="list-item kv-row"><span class="kv-label">• Robotics</span><span class="kv-value">ICRA'25-26 · CoRL'24 · RA-L'24-26</span></span><br>
+<span class="list-item kv-row"><span class="kv-label">• AI / ML</span><span class="kv-value">AAAI'25 · ICML'24 · ICLR'24 · CoLLAs'24 · NeurIPS'23</span></span><br>
+<span class="list-item kv-row"><span class="kv-label">• Computer Vision</span><span class="kv-value">WACV'23</span></span><br>
 
 <!--
 ## Mentoring
@@ -47,10 +61,11 @@ permalink:  /activity/
 
 ## Responsibilities
 
-<span class="list-item">• Member, [South Park Commons](https://www.southparkcommons.com/) · [Savant Explorers](https://www.savantvc.com/) · [AI Circle](https://www.ai-circle.org/)</span><br>
-<span class="list-item">• Program Committee Member, AAAI'25</span><br>
-<span class="list-item">• IEEE Student Chapter Founder & Chair; Administrator, Robotics Club, IIIT-Delhi</span><br>
-<span class="list-item">• Teaching Assistant — [Robot Simulation, Nvidia GTC'25](https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/); Prototype of Interactive Systems (500+ students)</span><br>
+<span class="list-item kv-row"><span class="kv-label">• Member</span><span class="kv-value"><a href="https://www.southparkcommons.com/">South Park Commons</a> · <a href="https://www.savantvc.com/">Savant Explorers</a> · <a href="https://www.ai-circle.org/">AI Circle</a></span></span><br>
+<span class="list-item kv-row"><span class="kv-label">• Program Committee Member</span><span class="kv-value">AAAI'25</span></span><br>
+<span class="list-item kv-row"><span class="kv-label">• IEEE Student Chapter Founder & Chair</span><span class="kv-value">IIIT-Delhi</span></span><br>
+<span class="list-item kv-row"><span class="kv-label">• Robotics Club Administrator</span><span class="kv-value">IIIT-Delhi</span></span><br>
+<span class="list-item kv-row"><span class="kv-label">• Teaching Assistant</span><span class="kv-value"><a href="https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/">Robot Simulation, GTC'25</a></span></span><br>
 
 <!--
 ## Volunteering

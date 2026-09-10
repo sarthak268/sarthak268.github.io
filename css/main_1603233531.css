@@ -936,6 +936,11 @@ a {
   margin-bottom: 0;
 }
 
+/* Keep the Side Quests heading aligned with the Activity page's section rhythm. */
+.post section #side-quests {
+  margin-top: 12px;
+}
+
 .talks-year-marker {
   position: absolute;
   left: -58px;
