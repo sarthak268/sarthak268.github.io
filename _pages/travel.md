@@ -198,7 +198,7 @@ permalink:  /travel/
     .pointLat("lat")
     .pointLng("lng")
     .pointColor(function (d) { return COLORS[d.type]; })
-    .pointAltitude(0.015)
+    .pointAltitude(0)
     .pointRadius(pointRadius)
     .pointResolution(24)
     .pointsTransitionDuration(120)
