@@ -34,54 +34,88 @@ permalink:  /travel/
 <script>
 (function () {
   var places = [
-    { lat: 36.7783, lng: -119.4179, name: "California", region: "United States", type: "lived", posts: [
-      { shortcode: "DceXiEqAQOo", date: "Aug 25, 2026", caption: "California Mule Deer, Mariposa Grove of Giant Sequoias, Yosemite National Park" },
-      { shortcode: "DVVeimsFB5k", date: "Mar 1, 2026", caption: "Big Sur, California" },
-      { shortcode: "DUZSPYeEhST", date: "Feb 5, 2026", caption: "Yosemite Falls, Yosemite National Park, California" },
-      { shortcode: "DT7aZv_FE-d", date: "Jan 25, 2026", caption: "Madera, California" },
-      { shortcode: "DTuScvlFEn4", date: "Jan 19, 2026", caption: "Lake Tahoe, California & Nevada" },
-      { shortcode: "DTXaJi0FBk7", date: "Jan 11, 2026", caption: "Tunnel View, Yosemite National Park, California" },
+    { lat: 37.3382, lng: -121.8863, name: "San Jose", region: "California", type: "visited" },
+    { lat: 37.5630, lng: -122.3255, name: "San Mateo", region: "California", type: "lived" },
+    { lat: 37.7208, lng: -121.6527, name: "Altamont", region: "California", type: "visited", posts: [
       { shortcode: "DTPUmf8EfDH", date: "Jan 7, 2026", caption: "Altamont Pass Wind Farm, Altamont, California" }
     ] },
-    { lat: 47.7511, lng: -120.7401, name: "Washington", region: "United States", type: "lived", posts: [
+    { lat: 34.0522, lng: -118.2437, name: "Los Angeles", region: "California", type: "visited" },
+    { lat: 37.7749, lng: -122.4194, name: "San Francisco", region: "California", type: "visited", posts: [
+      { shortcode: "DTuScvlFEn4", date: "Jan 19, 2026", caption: "Lake Tahoe, California & Nevada" }
+    ] },
+    { lat: 36.9613, lng: -120.0607, name: "Madera", region: "California", type: "visited", posts: [
+      { shortcode: "DceXiEqAQOo", date: "Aug 25, 2026", caption: "California Mule Deer, Mariposa Grove of Giant Sequoias, Yosemite National Park" },
+      { shortcode: "DUZSPYeEhST", date: "Feb 5, 2026", caption: "Yosemite Falls, Yosemite National Park, California" },
+      { shortcode: "DT7aZv_FE-d", date: "Jan 25, 2026", caption: "Madera, California" },
+      { shortcode: "DTXaJi0FBk7", date: "Jan 11, 2026", caption: "Tunnel View, Yosemite National Park, California" }
+    ] },
+    { lat: 36.2704, lng: -121.8081, name: "Big Sur", region: "California", type: "visited", posts: [
+      { shortcode: "DVVeimsFB5k", date: "Mar 1, 2026", caption: "Big Sur, California" }
+    ] },
+    { lat: 36.4627, lng: -116.8668, name: "Furnace Creek", region: "California", type: "visited" },
+    { lat: 34.1347, lng: -116.3190, name: "Joshua Tree", region: "California", type: "visited" },
+    { lat: 36.4388, lng: -118.9045, name: "Three Rivers", region: "California", type: "visited" },
+    { lat: 36.4247, lng: -121.3263, name: "Soledad", region: "California", type: "visited" },
+    { lat: 34.2746, lng: -119.2290, name: "Ventura", region: "California", type: "visited" },
+    { lat: 47.6062, lng: -122.3321, name: "Seattle", region: "Washington", type: "lived", posts: [
       { shortcode: "DS1jcmVEWzg", date: "Dec 28, 2025", caption: "Ann Lake, North Cascades, Washington" }
     ] },
-    { lat: 41.2033, lng: -77.1945, name: "Pennsylvania", region: "United States", type: "lived" },
+    { lat: 46.7580, lng: -122.0309, name: "Ashford", region: "Washington", type: "visited" },
+    { lat: 48.1181, lng: -123.4307, name: "Port Angeles", region: "Washington", type: "visited" },
+    { lat: 48.5279, lng: -121.4471, name: "Marblemount", region: "Washington", type: "visited" },
+    { lat: 40.4406, lng: -79.9959, name: "Pittsburgh", region: "Pennsylvania", type: "lived" },
+    { lat: 39.9526, lng: -75.1652, name: "Philadelphia", region: "Pennsylvania", type: "visited" },
     { lat: 28.7041, lng: 77.1025, name: "Delhi", region: "India", type: "lived" },
 
-    { lat: 34.0489, lng: -111.0937, name: "Arizona", region: "United States", type: "visited", posts: [
+    { lat: 36.9147, lng: -111.4558, name: "Page", region: "Arizona", type: "visited", posts: [
       { shortcode: "DUFmcZEFbZr", date: "Jan 29, 2026", caption: "Upper Antelope Canyon, Navajo Nation, Arizona" }
     ] },
-    { lat: 39.5501, lng: -105.7821, name: "Colorado", region: "United States", type: "visited" },
-    { lat: 41.6032, lng: -73.0877, name: "Connecticut", region: "United States", type: "visited" },
-    { lat: 27.6648, lng: -81.5158, name: "Florida", region: "United States", type: "visited" },
-    { lat: 32.1656, lng: -82.9001, name: "Georgia", region: "United States", type: "visited" },
-    { lat: 40.6331, lng: -89.3985, name: "Illinois", region: "United States", type: "visited" },
-    { lat: 40.2672, lng: -86.1349, name: "Indiana", region: "United States", type: "visited" },
-    { lat: 39.0119, lng: -98.4842, name: "Kansas", region: "United States", type: "visited" },
-    { lat: 45.2538, lng: -69.4455, name: "Maine", region: "United States", type: "visited" },
-    { lat: 39.0458, lng: -76.6413, name: "Maryland", region: "United States", type: "visited" },
-    { lat: 42.4072, lng: -71.3824, name: "Massachusetts", region: "United States", type: "visited" },
-    { lat: 44.3148, lng: -85.6024, name: "Michigan", region: "United States", type: "visited" },
-    { lat: 38.5739, lng: -92.6038, name: "Missouri", region: "United States", type: "visited" },
-    { lat: 38.8026, lng: -116.4194, name: "Nevada", region: "United States", type: "visited" },
-    { lat: 43.1939, lng: -71.5724, name: "New Hampshire", region: "United States", type: "visited" },
-    { lat: 40.0583, lng: -74.4057, name: "New Jersey", region: "United States", type: "visited" },
-    { lat: 43.2994, lng: -74.2179, name: "New York", region: "United States", type: "visited" },
-    { lat: 35.7596, lng: -79.0193, name: "North Carolina", region: "United States", type: "visited" },
-    { lat: 40.4173, lng: -82.9071, name: "Ohio", region: "United States", type: "visited" },
-    { lat: 43.8041, lng: -120.5542, name: "Oregon", region: "United States", type: "visited", posts: [
+    { lat: 39.7392, lng: -104.9903, name: "Denver", region: "Colorado", type: "visited" },
+    { lat: 40.0150, lng: -105.2705, name: "Boulder", region: "Colorado", type: "visited" },
+    { lat: 40.3772, lng: -105.5217, name: "Estes Park", region: "Colorado", type: "visited" },
+    { lat: 25.7617, lng: -80.1918, name: "Miami", region: "Florida", type: "visited" },
+    { lat: 33.7490, lng: -84.3880, name: "Atlanta", region: "Georgia", type: "visited" },
+    { lat: 41.8781, lng: -87.6298, name: "Chicago", region: "Illinois", type: "visited" },
+    { lat: 39.7684, lng: -86.1581, name: "Indianapolis", region: "Indiana", type: "visited" },
+    { lat: 39.1141, lng: -94.6275, name: "Kansas City", region: "Kansas", type: "visited" },
+    { lat: 44.3876, lng: -68.2039, name: "Bar Harbor", region: "Maine", type: "visited" },
+    { lat: 39.2904, lng: -76.6122, name: "Baltimore", region: "Maryland", type: "visited" },
+    { lat: 42.3601, lng: -71.0589, name: "Boston", region: "Massachusetts", type: "visited" },
+    { lat: 42.3736, lng: -71.1097, name: "Cambridge", region: "Massachusetts", type: "visited" },
+    { lat: 42.3314, lng: -83.0458, name: "Detroit", region: "Michigan", type: "visited" },
+    { lat: 42.2808, lng: -83.7430, name: "Ann Arbor", region: "Michigan", type: "visited" },
+    { lat: 38.6270, lng: -90.1994, name: "St. Louis", region: "Missouri", type: "visited" },
+    { lat: 39.0997, lng: -94.5786, name: "Kansas City", region: "Missouri", type: "visited" },
+    { lat: 36.1699, lng: -115.1398, name: "Las Vegas", region: "Nevada", type: "visited" },
+    { lat: 39.5296, lng: -119.8138, name: "Reno", region: "Nevada", type: "visited" },
+    { lat: 40.7178, lng: -74.0435, name: "Jersey City", region: "New Jersey", type: "visited" },
+    { lat: 40.7128, lng: -74.0060, name: "New York City", region: "New York", type: "visited" },
+    { lat: 42.8864, lng: -78.8784, name: "Buffalo", region: "New York", type: "visited" },
+    { lat: 35.4767, lng: -83.3206, name: "Cherokee", region: "North Carolina", type: "visited" },
+    { lat: 39.9612, lng: -82.9988, name: "Columbus", region: "Ohio", type: "visited" },
+    { lat: 41.4993, lng: -81.6944, name: "Cleveland", region: "Ohio", type: "visited" },
+    { lat: 45.5152, lng: -122.6784, name: "Portland", region: "Oregon", type: "visited", posts: [
       { shortcode: "DU2WM2KkQ-q", date: "Feb 16, 2026", caption: "Portland, Oregon" }
     ] },
-    { lat: 41.5801, lng: -71.4774, name: "Rhode Island", region: "United States", type: "visited" },
-    { lat: 35.5175, lng: -86.5804, name: "Tennessee", region: "United States", type: "visited" },
-    { lat: 39.3210, lng: -111.0937, name: "Utah", region: "United States", type: "visited", posts: [
-      { shortcode: "DcWqxMHDzq6", date: "Aug 22, 2026", caption: "Zion National Park, Utah" },
+    { lat: 42.2249, lng: -121.7817, name: "Klamath Falls", region: "Oregon", type: "visited" },
+    { lat: 41.8240, lng: -71.4128, name: "Providence", region: "Rhode Island", type: "visited" },
+    { lat: 41.4901, lng: -71.3128, name: "Newport", region: "Rhode Island", type: "visited" },
+    { lat: 35.7143, lng: -83.5102, name: "Gatlinburg", region: "Tennessee", type: "visited" },
+    { lat: 38.5733, lng: -109.5498, name: "Moab", region: "Utah", type: "visited", posts: [
       { shortcode: "DT4gAoOkd_B", date: "Jan 23, 2026", caption: "Canyonlands National Park, Utah" },
       { shortcode: "DTj_qnFlJMP", date: "Jan 15, 2026", caption: "Arches National Park, Utah" }
     ] },
-    { lat: 37.4316, lng: -78.6569, name: "Virginia", region: "United States", type: "visited" },
-    { lat: 38.5976, lng: -80.4549, name: "West Virginia", region: "United States", type: "visited" },
+    { lat: 37.1677, lng: -113.0008, name: "Springdale", region: "Utah", type: "visited", posts: [
+      { shortcode: "DcWqxMHDzq6", date: "Aug 22, 2026", caption: "Zion National Park, Utah" },
+    ] },
+    { lat: 38.8816, lng: -77.0910, name: "Arlington", region: "Virginia", type: "visited" },
+    { lat: 38.0293, lng: -78.4767, name: "Charlottesville", region: "Virginia", type: "visited" },
+    { lat: 38.9182, lng: -78.1944, name: "Front Royal", region: "Virginia", type: "visited" },
+    { lat: 38.3498, lng: -81.6326, name: "Charleston", region: "West Virginia", type: "visited" },
+    { lat: 38.9072, lng: -77.0369, name: "Washington", region: "DC", type: "visited" },
+    { lat: 43.4799, lng: -110.7624, name: "Jackson", region: "Wyoming", type: "visited" },
+    { lat: 44.6621, lng: -111.1041, name: "West Yellowstone", region: "Montana", type: "visited" },
+    { lat: 45.2033, lng: -111.6786, name: "Cameron", region: "Montana", type: "visited" },
 
     { lat: 49.2827, lng: -123.1207, name: "Vancouver", region: "Canada", type: "visited" },
 
