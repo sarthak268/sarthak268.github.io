@@ -133,7 +133,6 @@ permalink:  /travel/
     { lat: 17.3850, lng: 78.4867, name: "Hyderabad", region: "Telangana", type: "visited" },
     { lat: 30.3165, lng: 78.0322, name: "Dehradun", region: "Uttarakhand", type: "visited" },
     { lat: 30.0869, lng: 78.2676, name: "Rishikesh", region: "Uttarakhand", type: "visited" },
-    { lat: 29.9457, lng: 78.1642, name: "Haridwar", region: "Uttarakhand", type: "visited" },
     { lat: 30.4598, lng: 78.0644, name: "Mussoorie", region: "Uttarakhand", type: "visited" },
     { lat: 29.3919, lng: 79.4542, name: "Nainital", region: "Uttarakhand", type: "visited" },
     { lat: 26.8467, lng: 80.9462, name: "Lucknow", region: "Uttar Pradesh", type: "visited" },
