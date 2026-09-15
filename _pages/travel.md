@@ -151,7 +151,7 @@ permalink:  /travel/
   var hoveredPoint = null;
 
   function baseRadius(d) {
-    return d.type === "lived" ? 0.65 : 0.45;
+    return d.type === "lived" ? 0.45 : 0.3;
   }
 
   function pointRadius(d) {
