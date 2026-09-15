@@ -119,7 +119,6 @@ permalink:  /travel/
 
     { lat: 49.2827, lng: -123.1207, name: "Vancouver", region: "Canada", type: "visited" },
 
-    { lat: 15.2993, lng: 74.1240, name: "Goa", region: "India", type: "visited" },
     { lat: 15.4909, lng: 73.8278, name: "Panaji", region: "Goa", type: "visited" },
     { lat: 28.4595, lng: 77.0266, name: "Gurugram", region: "Haryana", type: "visited" },
     { lat: 31.1048, lng: 77.1734, name: "Shimla", region: "Himachal Pradesh", type: "visited" },
@@ -143,7 +142,7 @@ permalink:  /travel/
     { lat: 27.0410, lng: 88.2663, name: "Darjeeling", region: "West Bengal", type: "visited" },
 
     { lat: -8.3405, lng: 115.0920, name: "Bali", region: "Indonesia", type: "visited" },
-    { lat: 28.3949, lng: 84.1240, name: "Nepal", region: "Nepal", type: "visited" },
+    { lat: 28.2096, lng: 83.9856, name: "Pokhara", region: "Nepal", type: "visited" },
     { lat: 1.3521, lng: 103.8198, name: "Singapore", region: "Singapore", type: "visited" },
     { lat: 13.7563, lng: 100.5018, name: "Bangkok", region: "Thailand", type: "visited" },
     { lat: 7.7407, lng: 98.7784, name: "Phi Phi Island", region: "Thailand", type: "visited" },
@@ -154,6 +153,21 @@ permalink:  /travel/
     { lat: 50.1109, lng: 8.6821, name: "Frankfurt", region: "Germany", type: "visited" },
     { lat: 47.3769, lng: 8.5417, name: "Zurich", region: "Switzerland", type: "visited" }
   ];
+
+  var livedLocations = places.filter(function (place) {
+    return place.type === "lived";
+  });
+  places = places.filter(function (place) {
+    if (place.type === "lived") return true;
+    return !livedLocations.some(function (livedPlace) {
+      var sameLabel = livedPlace.name === place.name && livedPlace.region === place.region;
+      var sameCoordinates = livedPlace.lat === place.lat && livedPlace.lng === place.lng;
+      return sameLabel || sameCoordinates;
+    });
+  });
+  places.sort(function (a, b) {
+    return (a.type === "lived" ? 1 : 0) - (b.type === "lived" ? 1 : 0);
+  });
 
   var COLORS = { lived: "#f4b942", visited: "#e74c3c" };
 
