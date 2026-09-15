@@ -120,17 +120,27 @@ permalink:  /travel/
     { lat: 49.2827, lng: -123.1207, name: "Vancouver", region: "Canada", type: "visited" },
 
     { lat: 15.2993, lng: 74.1240, name: "Goa", region: "India", type: "visited" },
-    { lat: 29.0588, lng: 76.0856, name: "Haryana", region: "India", type: "visited" },
-    { lat: 31.1048, lng: 77.1734, name: "Himachal Pradesh", region: "India", type: "visited" },
-    { lat: 15.3173, lng: 75.7139, name: "Karnataka", region: "India", type: "visited" },
-    { lat: 20.9517, lng: 85.0985, name: "Odisha", region: "India", type: "visited" },
-    { lat: 31.1471, lng: 75.3412, name: "Punjab", region: "India", type: "visited" },
-    { lat: 27.0238, lng: 74.2179, name: "Rajasthan", region: "India", type: "visited" },
-    { lat: 27.5330, lng: 88.5122, name: "Sikkim", region: "India", type: "visited" },
-    { lat: 18.1124, lng: 79.0193, name: "Telangana", region: "India", type: "visited" },
-    { lat: 30.0668, lng: 79.0193, name: "Uttarakhand", region: "India", type: "visited" },
-    { lat: 26.8467, lng: 80.9462, name: "Uttar Pradesh", region: "India", type: "visited" },
-    { lat: 22.9868, lng: 87.8550, name: "West Bengal", region: "India", type: "visited" },
+    { lat: 15.4909, lng: 73.8278, name: "Panaji", region: "Goa", type: "visited" },
+    { lat: 28.4595, lng: 77.0266, name: "Gurugram", region: "Haryana", type: "visited" },
+    { lat: 31.1048, lng: 77.1734, name: "Shimla", region: "Himachal Pradesh", type: "visited" },
+    { lat: 32.2432, lng: 77.1892, name: "Manali", region: "Himachal Pradesh", type: "visited" },
+    { lat: 32.2190, lng: 76.3234, name: "Dharamshala", region: "Himachal Pradesh", type: "visited" },
+    { lat: 30.9010, lng: 76.9650, name: "Kasauli", region: "Himachal Pradesh", type: "visited" },
+    { lat: 32.5387, lng: 75.9710, name: "Dalhousie", region: "Himachal Pradesh", type: "visited" },
+    { lat: 12.9716, lng: 77.5946, name: "Bengaluru", region: "Karnataka", type: "visited" },
+    { lat: 19.8135, lng: 85.8312, name: "Puri", region: "Odisha", type: "visited" },
+    { lat: 26.9124, lng: 75.7873, name: "Jaipur", region: "Rajasthan", type: "visited" },
+    { lat: 27.3389, lng: 88.6065, name: "Gangtok", region: "Sikkim", type: "visited" },
+    { lat: 17.3850, lng: 78.4867, name: "Hyderabad", region: "Telangana", type: "visited" },
+    { lat: 30.3165, lng: 78.0322, name: "Dehradun", region: "Uttarakhand", type: "visited" },
+    { lat: 30.0869, lng: 78.2676, name: "Rishikesh", region: "Uttarakhand", type: "visited" },
+    { lat: 29.9457, lng: 78.1642, name: "Haridwar", region: "Uttarakhand", type: "visited" },
+    { lat: 30.4598, lng: 78.0644, name: "Mussoorie", region: "Uttarakhand", type: "visited" },
+    { lat: 29.3919, lng: 79.4542, name: "Nainital", region: "Uttarakhand", type: "visited" },
+    { lat: 26.8467, lng: 80.9462, name: "Lucknow", region: "Uttar Pradesh", type: "visited" },
+    { lat: 27.1767, lng: 78.0081, name: "Agra", region: "Uttar Pradesh", type: "visited" },
+    { lat: 28.5355, lng: 77.3910, name: "Noida", region: "Uttar Pradesh", type: "visited" },
+    { lat: 27.0410, lng: 88.2663, name: "Darjeeling", region: "West Bengal", type: "visited" },
 
     { lat: -8.3405, lng: 115.0920, name: "Bali", region: "Indonesia", type: "visited" },
     { lat: 28.3949, lng: 84.1240, name: "Nepal", region: "Nepal", type: "visited" },
@@ -151,7 +161,7 @@ permalink:  /travel/
   var hoveredPoint = null;
 
   function baseRadius(d) {
-    return d.type === "lived" ? 0.45 : 0.3;
+    return 0.3;
   }
 
   function pointRadius(d) {
