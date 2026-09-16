@@ -35,14 +35,19 @@ permalink:  /travel/
 (function () {
   var places = [
     { lat: 37.3382, lng: -121.8863, name: "San Jose", region: "California", type: "visited" },
+    { lat: 37.5483, lng: -121.9886, name: "Fremont", region: "California", type: "visited" },
     { lat: 37.5630, lng: -122.3255, name: "San Mateo", region: "California", type: "lived" },
     { lat: 37.7208, lng: -121.6527, name: "Altamont", region: "California", type: "visited", posts: [
       { shortcode: "DTPUmf8EfDH", date: "Jan 7, 2026", caption: "Altamont Pass Wind Farm, Altamont, California" }
     ] },
     { lat: 34.0522, lng: -118.2437, name: "Los Angeles", region: "California", type: "visited" },
+    { lat: 33.6846, lng: -117.8265, name: "Irvine", region: "California", type: "visited" },
+    { lat: 34.4208, lng: -119.6982, name: "Santa Barbara", region: "California", type: "visited" },
     { lat: 37.7749, lng: -122.4194, name: "San Francisco", region: "California", type: "visited", posts: [
       { shortcode: "DTuScvlFEn4", date: "Jan 19, 2026", caption: "Lake Tahoe, California & Nevada" }
     ] },
+    { lat: 36.9741, lng: -122.0308, name: "Santa Cruz", region: "California", type: "visited" },
+    { lat: 38.2975, lng: -122.2869, name: "Napa", region: "California", type: "visited" },
     { lat: 36.9613, lng: -120.0607, name: "Madera", region: "California", type: "visited", posts: [
       { shortcode: "DceXiEqAQOo", date: "Aug 25, 2026", caption: "California Mule Deer, Mariposa Grove of Giant Sequoias, Yosemite National Park" },
       { shortcode: "DUZSPYeEhST", date: "Feb 5, 2026", caption: "Yosemite Falls, Yosemite National Park, California" },
@@ -123,6 +128,7 @@ permalink:  /travel/
     { lat: 28.4595, lng: 77.0266, name: "Gurugram", region: "Haryana", type: "visited" },
     { lat: 31.1048, lng: 77.1734, name: "Shimla", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.2432, lng: 77.1892, name: "Manali", region: "Himachal Pradesh", type: "visited" },
+    { lat: 32.0096, lng: 77.3147, name: "Kasol", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.2190, lng: 76.3234, name: "Dharamshala", region: "Himachal Pradesh", type: "visited" },
     { lat: 30.9010, lng: 76.9650, name: "Kasauli", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.5387, lng: 75.9710, name: "Dalhousie", region: "Himachal Pradesh", type: "visited" },
