@@ -47,7 +47,9 @@ permalink:  /travel/
       { shortcode: "DTuScvlFEn4", date: "Jan 19, 2026", caption: "Lake Tahoe, California & Nevada" }
     ] },
     { lat: 36.9741, lng: -122.0308, name: "Santa Cruz", region: "California", type: "visited" },
+    { lat: 36.6002, lng: -121.8947, name: "Monterey Bay", region: "California", type: "visited" },
     { lat: 38.2975, lng: -122.2869, name: "Napa", region: "California", type: "visited" },
+    { lat: 37.6485, lng: -118.9721, name: "Mammoth Lakes", region: "California", type: "visited" },
     { lat: 36.9613, lng: -120.0607, name: "Madera", region: "California", type: "visited", posts: [
       { shortcode: "DceXiEqAQOo", date: "Aug 25, 2026", caption: "California Mule Deer, Mariposa Grove of Giant Sequoias, Yosemite National Park" },
       { shortcode: "DUZSPYeEhST", date: "Feb 5, 2026", caption: "Yosemite Falls, Yosemite National Park, California" },
@@ -68,6 +70,7 @@ permalink:  /travel/
     { lat: 46.7580, lng: -122.0309, name: "Ashford", region: "Washington", type: "visited" },
     { lat: 48.1181, lng: -123.4307, name: "Port Angeles", region: "Washington", type: "visited" },
     { lat: 48.5279, lng: -121.4471, name: "Marblemount", region: "Washington", type: "visited" },
+    { lat: 47.5962, lng: -120.6615, name: "Leavenworth", region: "Washington", type: "visited" },
     { lat: 40.4406, lng: -79.9959, name: "Pittsburgh", region: "Pennsylvania", type: "lived" },
     { lat: 39.9526, lng: -75.1652, name: "Philadelphia", region: "Pennsylvania", type: "visited" },
     { lat: 28.7041, lng: 77.1025, name: "Delhi", region: "India", type: "lived" },
@@ -99,6 +102,7 @@ permalink:  /travel/
     { lat: 35.4767, lng: -83.3206, name: "Cherokee", region: "North Carolina", type: "visited" },
     { lat: 39.9612, lng: -82.9988, name: "Columbus", region: "Ohio", type: "visited" },
     { lat: 41.4993, lng: -81.6944, name: "Cleveland", region: "Ohio", type: "visited" },
+    { lat: 39.5401, lng: -82.4071, name: "Logan", region: "Ohio", type: "visited" },
     { lat: 45.5152, lng: -122.6784, name: "Portland", region: "Oregon", type: "visited", posts: [
       { shortcode: "DU2WM2KkQ-q", date: "Feb 16, 2026", caption: "Portland, Oregon" }
     ] },
@@ -117,6 +121,7 @@ permalink:  /travel/
     { lat: 38.0293, lng: -78.4767, name: "Charlottesville", region: "Virginia", type: "visited" },
     { lat: 38.9182, lng: -78.1944, name: "Front Royal", region: "Virginia", type: "visited" },
     { lat: 38.3498, lng: -81.6326, name: "Charleston", region: "West Virginia", type: "visited" },
+    { lat: 38.4251, lng: -79.8164, name: "Green Bank", region: "West Virginia", type: "visited" },
     { lat: 38.9072, lng: -77.0369, name: "Washington", region: "DC", type: "visited" },
     { lat: 43.4799, lng: -110.7624, name: "Jackson", region: "Wyoming", type: "visited" },
     { lat: 44.6621, lng: -111.1041, name: "West Yellowstone", region: "Montana", type: "visited" },
