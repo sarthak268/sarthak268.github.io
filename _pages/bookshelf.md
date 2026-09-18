@@ -373,7 +373,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 
     var row = document.createElement("div");
     row.className = "shelf-row";
-    section.books.forEach(function (book) {
+    section.books.slice().reverse().forEach(function (book) {
       row.appendChild(bookCard(book));
     });
 
