@@ -92,7 +92,7 @@ permalink:  /100_things/
 <span class="list-item">84. Meet Elon Musk</span><br>
 <span class="list-item">85. Meet Demis Hassabis</span><br>
 <span class="list-item">86. Party in Ibiza</span><br>
-<span class="list-item">87. </span><br>
+<span class="list-item">87. Watch a volcano in Guatemala</span><br>
 <span class="list-item">88. </span><br>
 <span class="list-item">89. </span><br>
 <span class="list-item">90. </span><br>
