@@ -184,9 +184,12 @@ permalink:  /travel/
 
   var el = document.getElementById("globeViz");
   var hoveredPoint = null;
+  var referenceCameraDistance;
+  var lastCameraDistance;
+  var zoomScale = 1;
 
   function baseRadius(d) {
-    return 0.3;
+    return 0.3 * zoomScale;
   }
 
   function pointRadius(d) {
@@ -222,9 +225,23 @@ permalink:  /travel/
 
   globe.pointOfView({ lat: 39.8283, lng: -98.5795, altitude: 1.8 }, 0);
 
+  // Keep markers the same apparent size as the camera zooms. Point radii are
+  // specified in globe-space units, so they must shrink as the camera gets
+  // closer and grow as it moves away.
+  referenceCameraDistance = globe.camera().position.length();
+  lastCameraDistance = referenceCameraDistance;
+  function updatePointScale() {
+    var cameraDistance = globe.camera().position.length();
+    if (Math.abs(cameraDistance - lastCameraDistance) / referenceCameraDistance < 0.001) return;
+    lastCameraDistance = cameraDistance;
+    zoomScale = cameraDistance ? cameraDistance / referenceCameraDistance : 1;
+    globe.pointRadius(pointRadius);
+  }
+
   globe.controls().autoRotate = true;
   globe.controls().autoRotateSpeed = 0.4;
   globe.controls().enableZoom = true;
+  globe.controls().addEventListener("change", updatePointScale);
 
   el.addEventListener("pointerdown", function () {
     globe.controls().autoRotate = false;
