@@ -189,6 +189,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
       key: "bio", emoji: "📖", title: "Biographies & Memoirs",
       desc: "Lives worth studying — from athletes to astronauts to entrepreneurs. My favourite section, and I'm always looking for more recommendations.",
       books: [
+        { slug: "infinity_machine", title: "The Infinity Machine", author: "Sebastian Mallaby", coverGoogle: "E7eJEQAAQBAJ" },
         { slug: "shoe_dog", title: "Shoe Dog", author: "Phil Knight", cover: 8858487, fav: true },
         { slug: "steve_jobs", title: "Steve Jobs", author: "Walter Isaacson", cover: 12374726 },
         { slug: "cant_hurt_me", title: "Can't Hurt Me", author: "David Goggins", coverIsbn: "9781544512280" },
@@ -196,7 +197,6 @@ Here lies a cherished collection (a subset) of the books that have captivated my
         { slug: "born_a_crime", title: "Born A Crime", author: "Trevor Noah", cover: 8294078 },
         { slug: "limitless", title: "Limitless", author: "Radhika Gupta", coverGoogle: "iu5mEAAAQBAJ" },
         { slug: "elon_musk", title: "Elon Musk", author: "Ashlee Vance", cover: 8463846 },
-        { slug: "infinity_machine", title: "The Infinity Machine", author: "Sebastian Mallaby", coverGoogle: "E7eJEQAAQBAJ" },
         { slug: "starbucks", title: "Pour Your Heart Into It", author: "Howard Schultz", cover: 545501 },
         { slug: "when_breath_becomes_air", title: "When Breath Becomes Air", author: "Paul Kalanithi", cover: 11463139, fav: true },
         { slug: "mind_master", title: "Mind Master", author: "Viswanathan Anand", cover: 10845864 },
