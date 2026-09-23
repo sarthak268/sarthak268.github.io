@@ -196,6 +196,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
         { slug: "born_a_crime", title: "Born A Crime", author: "Trevor Noah", cover: 8294078 },
         { slug: "limitless", title: "Limitless", author: "Radhika Gupta", coverGoogle: "iu5mEAAAQBAJ" },
         { slug: "elon_musk", title: "Elon Musk", author: "Ashlee Vance", cover: 8463846 },
+        { slug: "infinity_machine", title: "The Infinity Machine", author: "Sebastian Mallaby", coverGoogle: "E7eJEQAAQBAJ" },
         { slug: "starbucks", title: "Pour Your Heart Into It", author: "Howard Schultz", cover: 545501 },
         { slug: "when_breath_becomes_air", title: "When Breath Becomes Air", author: "Paul Kalanithi", cover: 11463139, fav: true },
         { slug: "mind_master", title: "Mind Master", author: "Viswanathan Anand", cover: 10845864 },
