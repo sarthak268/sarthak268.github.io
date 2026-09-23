@@ -46,6 +46,7 @@ permalink:  /travel/
     { lat: 37.7749, lng: -122.4194, name: "San Francisco", region: "California", type: "visited", posts: [
       { shortcode: "DTuScvlFEn4", date: "Jan 19, 2026", caption: "Lake Tahoe, California & Nevada" }
     ] },
+    { lat: 37.8715, lng: -122.2730, name: "Berkeley", region: "California", type: "visited" },
     { lat: 37.8970, lng: -122.5811, name: "Muir Woods", region: "California", type: "visited" },
     { lat: 36.9741, lng: -122.0308, name: "Santa Cruz", region: "California", type: "visited" },
     { lat: 36.6002, lng: -121.8947, name: "Monterey Bay", region: "California", type: "visited" },
