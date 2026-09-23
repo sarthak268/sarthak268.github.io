@@ -24,7 +24,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-content">
             <div class="timeline-title">Building in Stealth</div>
             <ul class="timeline-details">
-                <li>We're in stealth and building in robotics. That's all I can share.</li>
+                <li>Building digital and physical scientific superintelligence.</li>
             </ul>
         </div>
     </div>
