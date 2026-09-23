@@ -189,7 +189,6 @@ Here lies a cherished collection (a subset) of the books that have captivated my
       key: "bio", emoji: "📖", title: "Biographies & Memoirs",
       desc: "Lives worth studying — from athletes to astronauts to entrepreneurs. My favourite section, and I'm always looking for more recommendations.",
       books: [
-        { slug: "infinity_machine", title: "The Infinity Machine", author: "Sebastian Mallaby", coverGoogle: "E7eJEQAAQBAJ" },
         { slug: "shoe_dog", title: "Shoe Dog", author: "Phil Knight", cover: 8858487, fav: true },
         { slug: "steve_jobs", title: "Steve Jobs", author: "Walter Isaacson", cover: 12374726 },
         { slug: "cant_hurt_me", title: "Can't Hurt Me", author: "David Goggins", coverIsbn: "9781544512280" },
@@ -206,7 +205,8 @@ Here lies a cherished collection (a subset) of the books that have captivated my
         { slug: "my_journey_kalam", title: "My Journey", author: "A.P.J Abdul Kalam", cover: 10899260 },
         { slug: "einstein", title: "Einstein", author: "Steven Gimbel", cover: 9168994 },
         { slug: "unseen", title: "Unseen", author: "Megha Vishwanath", coverGoogle: "rsCREQAAQBAJ" },
-        { slug: "surely_youre_joking", title: "Surely You're Joking, Mr. Feynman!", author: "Richard P. Feynman", cover: 14766391 }
+        { slug: "surely_youre_joking", title: "Surely You're Joking, Mr. Feynman!", author: "Richard P. Feynman", cover: 14766391 },
+        { slug: "infinity_machine", title: "The Infinity Machine", author: "Sebastian Mallaby", coverGoogle: "E7eJEQAAQBAJ" }
       ]
     },
     {
