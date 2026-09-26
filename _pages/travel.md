@@ -69,12 +69,16 @@ permalink:  /travel/
     { lat: 47.6062, lng: -122.3321, name: "Seattle", region: "Washington", type: "lived", posts: [
       { shortcode: "DS1jcmVEWzg", date: "Dec 28, 2025", caption: "Ann Lake, North Cascades, Washington" }
     ] },
+    { lat: 47.5707, lng: -122.2221, name: "Mercer Island", region: "Washington", type: "visited" },
+    { lat: 47.6262, lng: -122.5212, name: "Bainbridge Island", region: "Washington", type: "visited" },
     { lat: 46.7580, lng: -122.0309, name: "Ashford", region: "Washington", type: "visited" },
     { lat: 48.1181, lng: -123.4307, name: "Port Angeles", region: "Washington", type: "visited" },
     { lat: 48.5279, lng: -121.4471, name: "Marblemount", region: "Washington", type: "visited" },
     { lat: 47.5962, lng: -120.6615, name: "Leavenworth", region: "Washington", type: "visited" },
     { lat: 40.4406, lng: -79.9959, name: "Pittsburgh", region: "Pennsylvania", type: "lived" },
     { lat: 39.9526, lng: -75.1652, name: "Philadelphia", region: "Pennsylvania", type: "visited" },
+    { lat: 40.4212, lng: -79.7881, name: "Monroeville", region: "Pennsylvania", type: "visited" },
+    { lat: 39.8667, lng: -79.5000, name: "Ohiopyle", region: "Pennsylvania", type: "visited" },
     { lat: 28.7041, lng: 77.1025, name: "Delhi", region: "India", type: "lived" },
 
     { lat: 36.9147, lng: -111.4558, name: "Page", region: "Arizona", type: "visited", posts: [
@@ -83,6 +87,7 @@ permalink:  /travel/
     { lat: 39.7392, lng: -104.9903, name: "Denver", region: "Colorado", type: "visited" },
     { lat: 40.0150, lng: -105.2705, name: "Boulder", region: "Colorado", type: "visited" },
     { lat: 40.3772, lng: -105.5217, name: "Estes Park", region: "Colorado", type: "visited" },
+    { lat: 40.0734, lng: -106.1020, name: "Hot Sulphur Springs", region: "Colorado", type: "visited" },
     { lat: 25.7617, lng: -80.1918, name: "Miami", region: "Florida", type: "visited" },
     { lat: 33.7490, lng: -84.3880, name: "Atlanta", region: "Georgia", type: "visited" },
     { lat: 41.8781, lng: -87.6298, name: "Chicago", region: "Illinois", type: "visited" },
@@ -136,6 +141,8 @@ permalink:  /travel/
     { lat: 31.1048, lng: 77.1734, name: "Shimla", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.2432, lng: 77.1892, name: "Manali", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.0096, lng: 77.3147, name: "Kasol", region: "Himachal Pradesh", type: "visited" },
+    { lat: 30.8876, lng: 77.0782, name: "Barog", region: "Himachal Pradesh", type: "visited" },
+    { lat: 32.0250, lng: 77.4000, name: "Sosan", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.2190, lng: 76.3234, name: "Dharamshala", region: "Himachal Pradesh", type: "visited" },
     { lat: 30.9010, lng: 76.9650, name: "Kasauli", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.5387, lng: 75.9710, name: "Dalhousie", region: "Himachal Pradesh", type: "visited" },
@@ -163,6 +170,7 @@ permalink:  /travel/
     { lat: 48.8566, lng: 2.3522, name: "Paris", region: "France", type: "visited" },
     { lat: 49.3988, lng: 8.6724, name: "Heidelberg", region: "Germany", type: "visited" },
     { lat: 50.1109, lng: 8.6821, name: "Frankfurt", region: "Germany", type: "visited" },
+    { lat: 49.3173, lng: 8.4412, name: "Speyer", region: "Germany", type: "visited" },
     { lat: 47.3769, lng: 8.5417, name: "Zurich", region: "Switzerland", type: "visited" }
   ];
 
