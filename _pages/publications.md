@@ -4,6 +4,64 @@ title:       Publications
 permalink:  /publications/
 ---
 
+<style>
+.publication-media-card {
+    display: flex;
+    align-items: stretch;
+    gap: 18px;
+    margin: 18px 0 20px;
+    padding: 14px;
+    border: 1px solid var(--border-color, rgba(128, 128, 128, 0.25));
+    border-radius: 12px;
+    background: var(--surface-color, rgba(128, 128, 128, 0.05));
+}
+.publication-media {
+    position: relative;
+    flex: 0 0 220px;
+    min-height: 138px;
+    overflow: hidden;
+    border-radius: 8px;
+    background: #111827;
+}
+.publication-media a,
+.publication-media img,
+.publication-media iframe,
+.publication-media video {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.publication-media iframe { border: 0; }
+.publication-media img {
+    object-fit: contain;
+    background: #fff;
+    transition: transform 0.2s ease;
+}
+.publication-media a:hover img { transform: scale(1.04); }
+.publication-media-play {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.72);
+    color: #fff;
+    font-size: 20px;
+    line-height: 42px;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+}
+.publication-media-card .pub-card-copy { flex: 1; min-width: 0; }
+.publication-media-card h2.pubt { margin-top: 2px; }
+.publication-media-card p.pubd { margin-bottom: 0; }
+@media (max-width: 640px) {
+    .publication-media-card { display: block; }
+    .publication-media { width: 100%; height: 190px; min-height: 0; margin-bottom: 14px; }
+}
+</style>
+
 ## Reports
 
 <a name="/agenticrobotics"></a>
@@ -14,6 +72,7 @@ permalink:  /publications/
         <a target="_blank" href="https://genrobo.github.io/Agentic-Robotics/paper.pdf">Paper</a>
         <a target="_blank" href="https://www.generalrobotics.company/post/agentic-robotics">Blog</a>
         <a target="_blank" href="https://x.com/genrobotics_ai/status/1973421349646618954">Thread</a>
+        <a target="_blank" href="https://vimeo.com/1123351369?fl=pl&amp;fe=sh">Video</a>
     </span>
 </p>
 <hr>
@@ -400,6 +459,134 @@ permalink:  /publications/
                 console.log('Could not fetch Scholar citations:', err);
             });
     })();
+</script>
+
+<script>
+(function () {
+    function youtubeId(url) {
+        var match = url.match(/youtu\.be\/([^?&#/]+)/) || url.match(/[?&]v=([^?&#/]+)/);
+        return match ? match[1] : null;
+    }
+
+    function vimeoId(url) {
+        var match = url.match(/vimeo\.com\/(?:.*\/)?(\d+)/);
+        return match ? match[1] : null;
+    }
+
+    var localPreviews = [
+        { match: 'ShapeGrasp:', src: '/img/publications/shapegrasp.png' }
+    ];
+
+    function makeMedia(publication) {
+        var links = Array.prototype.slice.call(publication.querySelectorAll('.links a'));
+        var title = publication.previousElementSibling;
+        var anchor = title && title.previousElementSibling;
+        var titleText = title ? title.textContent.trim() : '';
+        var videoTitles = [
+            'Agentic Architectures for Robotics:',
+            'DreamControl:',
+            'ShapeGrasp:',
+            'Let Me Help You!',
+            'WROOM:'
+        ];
+        var wantsVideo = videoTitles.some(function (match) {
+            return titleText.indexOf(match) === 0;
+        });
+        var localPreview = localPreviews.find(function (preview) {
+            return titleText.indexOf(preview.match) === 0;
+        });
+        var localVideo = titleText.indexOf('Agentic Architectures for Robotics:') === 0
+            ? '/img/publications/agentic-ur5.mp4'
+            : titleText.indexOf('ShapeGrasp:') === 0
+                ? '/img/publications/shapegrasp.mp4'
+                : null;
+        var overrideVideo = anchor && anchor.getAttribute('name') === '/agenticrobotics'
+            ? 'https://vimeo.com/1123351369?fl=pl&fe=sh'
+            : titleText.indexOf('Let Me Help You!') === 0
+                ? 'https://youtu.be/OaKrj9vav4E?t=57'
+            : null;
+        var videoLink = wantsVideo && links.find(function (link) {
+            return /video|demo/i.test(link.textContent) && youtubeId(link.href);
+        });
+        var videoUrl = overrideVideo || (videoLink && videoLink.href);
+        var sourceLink = videoLink || links[0];
+        if (!sourceLink && !videoUrl) return null;
+
+        var media = document.createElement('div');
+        media.className = 'publication-media';
+        if (localVideo) {
+            var localPlayer = document.createElement('video');
+            localPlayer.src = localVideo;
+            localPlayer.controls = true;
+            localPlayer.autoplay = true;
+            localPlayer.loop = true;
+            localPlayer.muted = true;
+            localPlayer.playsInline = true;
+            localPlayer.preload = 'metadata';
+            media.appendChild(localPlayer);
+        } else if (videoUrl) {
+            var player = document.createElement('iframe');
+            var vimeo = vimeoId(videoUrl);
+            var startMatch = videoUrl.match(/[?&]t=(\d+)/);
+            player.src = vimeo
+                ? 'https://player.vimeo.com/video/' + vimeo + '?title=0&byline=0&portrait=0&muted=1&autoplay=1&loop=1'
+                : 'https://www.youtube.com/embed/' + youtubeId(videoUrl) + '?rel=0&mute=1&autoplay=1&loop=1&playlist=' + youtubeId(videoUrl) + (startMatch ? '&start=' + startMatch[1] : '');
+            player.title = 'Paper video';
+            player.loading = 'lazy';
+            player.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+            player.allowFullscreen = true;
+            media.appendChild(player);
+        } else {
+            var link = document.createElement('a');
+            link.href = sourceLink.href;
+            link.target = '_blank';
+            link.rel = 'noopener';
+            var image = document.createElement('img');
+            image.loading = 'lazy';
+            image.alt = 'Preview of the paper or project';
+            image.src = localPreview
+                ? localPreview.src
+                : 'https://image.thum.io/get/width/1000/crop/600/noanimate/' + sourceLink.href;
+            link.appendChild(image);
+            media.appendChild(link);
+        }
+        return media;
+    }
+
+    function enhancePublications() {
+        var mediaTitles = [
+            'Agentic Architectures for Robotics:',
+            'DreamControl:',
+            'ShapeGrasp:',
+            'Let Me Help You!'
+        ];
+        document.querySelectorAll('h2.pubt').forEach(function (title) {
+            if (title.closest('.publication-media-card')) return;
+            var titleText = title.textContent.trim();
+            if (!mediaTitles.some(function (match) { return titleText.indexOf(match) === 0; })) return;
+            var description = title.nextElementSibling;
+            if (!description || !description.matches('p.pubd')) return;
+            var media = makeMedia(description);
+            if (!media) return;
+
+            var card = document.createElement('div');
+            card.className = 'publication-media-card';
+            var copy = document.createElement('div');
+            copy.className = 'pub-card-copy';
+            title.parentNode.insertBefore(card, title);
+            copy.appendChild(title);
+            copy.appendChild(description);
+            card.appendChild(media);
+            card.appendChild(copy);
+        });
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', enhancePublications);
+    } else {
+        enhancePublications();
+    }
+})();
 </script>
 
 
