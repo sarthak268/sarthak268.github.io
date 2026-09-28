@@ -6,6 +6,60 @@ permalink:  /100_things/
 
 <span class="list-item">Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>. Life's short - here's what I want to do with it.</span>
 
+<style>
+.things-progress {
+  margin: 20px 0 22px;
+  padding: 16px 18px;
+  border: 1px solid var(--border-color, rgba(128, 128, 128, 0.25));
+  border-radius: 14px;
+  background: linear-gradient(145deg, var(--bg-secondary, rgba(128, 128, 128, 0.08)), rgba(244, 185, 66, 0.06));
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.things-progress-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 8px;
+  font-size: 0.9em;
+  color: var(--text-secondary);
+}
+.things-progress-value {
+  color: var(--text-primary);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.things-progress-track {
+  height: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(128, 128, 128, 0.18);
+  border-radius: 999px;
+  background: rgba(128, 128, 128, 0.16);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.12);
+}
+.things-progress-fill {
+  position: relative;
+  width: 23%;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #06b6d4 0%, #2563eb 100%);
+  box-shadow: 0 0 10px rgba(37, 99, 235, 0.3);
+}
+.things-progress-fill::after {
+  content: "";
+  position: absolute;
+  inset: 1px 0 auto;
+  height: 2px;
+  border-radius: inherit;
+  background: rgba(255, 255, 255, 0.45);
+}
+</style>
+
+<div class="things-progress" aria-label="100 Things progress">
+  <div class="things-progress-label"><span>Completed goals</span><span class="things-progress-value">20 / 87 · 23%</span></div>
+  <div class="things-progress-track" role="progressbar" aria-label="Completed 100 Things goals" aria-valuemin="0" aria-valuemax="100" aria-valuenow="23"><div class="things-progress-fill"></div></div>
+</div>
+
 <span class="list-item">1. Trek the Himalayas</span><br>
 <span class="list-item">2. Hot air balloon in Cappadocia</span><br>
 <span class="list-item">3. <s>Broadway show in New York</s></span><br>
