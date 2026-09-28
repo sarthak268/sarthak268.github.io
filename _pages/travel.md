@@ -102,6 +102,7 @@ permalink:  /travel/
     { lat: 38.6270, lng: -90.1994, name: "St. Louis", region: "Missouri", type: "visited" },
     { lat: 39.0997, lng: -94.5786, name: "Kansas City", region: "Missouri", type: "visited" },
     { lat: 36.1699, lng: -115.1398, name: "Las Vegas", region: "Nevada", type: "visited" },
+    { lat: 36.5436, lng: -114.4430, name: "Overton", region: "Nevada", type: "visited" },
     { lat: 39.5296, lng: -119.8138, name: "Reno", region: "Nevada", type: "visited" },
     { lat: 40.7178, lng: -74.0435, name: "Jersey City", region: "New Jersey", type: "visited" },
     { lat: 40.7128, lng: -74.0060, name: "New York City", region: "New York", type: "visited" },
@@ -348,5 +349,81 @@ permalink:  /travel/
   });
 })();
 </script>
+
+<style>
+.travel-stats {
+  margin: 32px 0 24px;
+  padding: 22px 22px 18px;
+  border: 1px solid var(--border-color, rgba(128, 128, 128, 0.25));
+  border-radius: 14px;
+  background: linear-gradient(145deg, var(--bg-secondary, rgba(128, 128, 128, 0.08)), rgba(244, 185, 66, 0.06));
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.travel-stats h2 {
+  margin: 0 0 18px;
+  font-size: 1.1em;
+  letter-spacing: 0.01em;
+}
+.travel-stat { margin: 16px 0; }
+.travel-stat-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 7px;
+  font-size: 0.9em;
+  color: var(--text-secondary);
+}
+.travel-stat-value {
+  color: var(--text-primary);
+  font-size: 0.86em;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.travel-stat-track {
+  height: 11px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: rgba(128, 128, 128, 0.16);
+  border: 1px solid rgba(128, 128, 128, 0.18);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.12);
+}
+.travel-stat-fill {
+  position: relative;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #06b6d4 0%, #2563eb 100%);
+  box-shadow: 0 0 10px rgba(37, 99, 235, 0.3);
+}
+.travel-stat-fill::after {
+  content: "";
+  position: absolute;
+  inset: 1px 0 auto;
+  height: 2px;
+  border-radius: inherit;
+  background: rgba(255, 255, 255, 0.45);
+}
+</style>
+
+<div class="travel-stats" aria-label="Travel progress">
+  <h2>Travel progress</h2>
+  <div class="travel-stat">
+    <div class="travel-stat-label"><span>Countries</span><span class="travel-stat-value">11 / 195 · 6%</span></div>
+    <div class="travel-stat-track" role="progressbar" aria-label="Countries visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="6"><div class="travel-stat-fill" style="width:6%"></div></div>
+  </div>
+  <div class="travel-stat">
+    <div class="travel-stat-label"><span>Continents</span><span class="travel-stat-value">3 / 7 · 43%</span></div>
+    <div class="travel-stat-track" role="progressbar" aria-label="Continents visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="43"><div class="travel-stat-fill" style="width:43%"></div></div>
+  </div>
+  <div class="travel-stat">
+    <div class="travel-stat-label"><span>United States</span><span class="travel-stat-value">28 / 50 states · 56%</span></div>
+    <div class="travel-stat-track" role="progressbar" aria-label="United States states visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="56"><div class="travel-stat-fill" style="width:56%"></div></div>
+  </div>
+  <div class="travel-stat">
+    <div class="travel-stat-label"><span>India</span><span class="travel-stat-value">12 / 36 states &amp; UTs · 33%</span></div>
+    <div class="travel-stat-track" role="progressbar" aria-label="India states and union territories visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="33"><div class="travel-stat-fill" style="width:33%"></div></div>
+  </div>
+</div>
 
 <span class="list-item"><a href="/100_things/">List of things I want to do in my lifetime</a></span>
