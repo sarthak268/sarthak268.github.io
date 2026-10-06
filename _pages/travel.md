@@ -51,6 +51,8 @@ permalink:  /travel/
     { lat: 36.9741, lng: -122.0308, name: "Santa Cruz", region: "California", type: "visited" },
     { lat: 36.6002, lng: -121.8947, name: "Monterey Bay", region: "California", type: "visited" },
     { lat: 38.2975, lng: -122.2869, name: "Napa", region: "California", type: "visited" },
+    { lat: 40.6804, lng: -122.3708, name: "Shasta Lake", region: "California", type: "visited" },
+    { lat: 41.3099, lng: -122.3106, name: "Mount Shasta", region: "California", type: "visited" },
     { lat: 37.6485, lng: -118.9721, name: "Mammoth Lakes", region: "California", type: "visited" },
     { lat: 36.9613, lng: -120.0607, name: "Madera", region: "California", type: "visited", posts: [
       { shortcode: "DceXiEqAQOo", date: "Aug 25, 2026", caption: "California Mule Deer, Mariposa Grove of Giant Sequoias, Yosemite National Park" },
@@ -107,6 +109,7 @@ permalink:  /travel/
     { lat: 40.7178, lng: -74.0435, name: "Jersey City", region: "New Jersey", type: "visited" },
     { lat: 40.7128, lng: -74.0060, name: "New York City", region: "New York", type: "visited" },
     { lat: 42.8864, lng: -78.8784, name: "Buffalo", region: "New York", type: "visited" },
+    { lat: 41.7780, lng: -78.7536, name: "Allegany National Forest", region: "New York", type: "visited" },
     { lat: 35.4767, lng: -83.3206, name: "Cherokee", region: "North Carolina", type: "visited" },
     { lat: 39.9612, lng: -82.9988, name: "Columbus", region: "Ohio", type: "visited" },
     { lat: 41.4993, lng: -81.6944, name: "Cleveland", region: "Ohio", type: "visited" },
@@ -139,6 +142,7 @@ permalink:  /travel/
 
     { lat: 15.4909, lng: 73.8278, name: "Panaji", region: "Goa", type: "visited" },
     { lat: 28.4595, lng: 77.0266, name: "Gurugram", region: "Haryana", type: "visited" },
+    { lat: 29.3909, lng: 76.9635, name: "Panipat", region: "Haryana", type: "visited" },
     { lat: 31.1048, lng: 77.1734, name: "Shimla", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.2432, lng: 77.1892, name: "Manali", region: "Himachal Pradesh", type: "visited" },
     { lat: 32.0096, lng: 77.3147, name: "Kasol", region: "Himachal Pradesh", type: "visited" },
