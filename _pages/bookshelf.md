@@ -154,6 +154,7 @@ Here lies a cherished collection (a subset) of the books that have captivated my
         { slug: "fabric_of_reality", title: "The Fabric of Reality", author: "David Deutsch", cover: 452204, fav: true },
         { slug: "pale_blue_dot", title: "Pale Blue Dot", author: "Carl Sagan", cover: 14417175 },
         { slug: "cosmos", title: "Cosmos", author: "Carl Sagan", cover: 8283901 },
+        { slug: "black_holes", title: "Black Holes: The Reith Lectures", author: "Stephen Hawking", coverGoogle: "ZdElDAAAQBAJ" },
         { slug: "beginning_of_infinity", title: "The Beginning of Infinity", author: "David Deutsch", cover: 8622269, fav: true },
         { slug: "reality_rovelli", title: "Reality is not what it seems", author: "Carlo Rovelli", cover: 10866486, fav: true },
         { slug: "red_queen", title: "The Red Queen", author: "Matt Ridley", cover: 29174 },
