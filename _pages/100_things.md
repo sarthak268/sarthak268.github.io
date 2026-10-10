@@ -56,7 +56,7 @@ permalink:  /100_things/
 </style>
 
 <div class="things-progress" aria-label="100 Things progress">
-  <div class="things-progress-label"><span>Completed goals</span><span class="things-progress-value">20 / 87 · 23%</span></div>
+  <div class="things-progress-label"><span>Completed goals</span><span class="things-progress-value">20 / 88 · 23%</span></div>
   <div class="things-progress-track" role="progressbar" aria-label="Completed 100 Things goals" aria-valuemin="0" aria-valuemax="100" aria-valuenow="23"><div class="things-progress-fill"></div></div>
 </div>
 
@@ -103,50 +103,51 @@ permalink:  /100_things/
 <span class="list-item">41. Hike Machu Picchu</span><br>
 <span class="list-item">42. Climb Mount Fuji</span><br>
 <span class="list-item">43. Paragliding</span><br>
-<span class="list-item">44. Walk the Great Wall of China</span><br>
-<span class="list-item">45. <s>Sunset at Taj Mahal</s></span><br>
-<span class="list-item">46. Attend a traditional tea ceremony</span><br>
-<span class="list-item">47. <s>Watch magic in Vegas</s> (David Copperfield — some of us never stopped believing in magic)</span><br>
-<span class="list-item">48. Stay in an overwater bungalow</span><br>
-<span class="list-item">49. Go dog sledding in Lapland </span><br>
-<span class="list-item">50. <s>Go whale watching</s> (spotted humpbacks at Channel Islands NP, CA)</span><br>
-<span class="list-item">51. Party at Rio carnival</span><br>
-<span class="list-item">52. Float in the Dead Sea</span><br>
-<span class="list-item">53. Swim in the Great Barrier Reef</span><br>
-<span class="list-item">54. <s>Attend a rave</s> (Hocus Pocus, Miami — now I get it)</span><br>
-<span class="list-item">55. Give a TED talk</span><br>
-<span class="list-item">56. <s>Desert safari in Dubai</s></span><br>
-<span class="list-item">57. Explore the caves in Vietnam</span><br>
-<span class="list-item">58. Visit Banff National Park</span><br>
-<span class="list-item">59. Guest lecture at a university</span><br>
-<span class="list-item">60. Visit 20 national parks in the US (15 / 20)</span><br>
-<span class="list-item">61. Go on a solo hike</span><br>
-<span class="list-item">62. Go shark cage diving</span><br>
-<span class="list-item">63. <s>Wine at Napa Valley</s> (Castello di Amorosa — turns out I'm a wine person now)</span><br>
-<span class="list-item">64. Visit 10+ ski resorts (3 / 10)</span><br>
-<span class="list-item">65. <s>Visit a tulip farm</s> (endless colors at Roozengaarde, WA)</span><br>
-<span class="list-item">66. Tour the Colosseum</span><br>
-<span class="list-item">67. <s>Tour the Louvre museum</s></span><br>
-<span class="list-item">68. Michelin star date</span><br>
-<span class="list-item">69. Psychedlic or mind expanding retreats</span><br>
-<span class="list-item">70. Try sandboarding</span><br>
-<span class="list-item">71. Sleep on the beach under the stars</span><br>
-<span class="list-item">72. Author a patent</span><br>
-<span class="list-item">73. Camp under the stars in a desert</span><br>
-<span class="list-item">74. See a comet with the naked eye</span><br>
-<span class="list-item">75. <s>Watch a meteor shower</s> (Geminids on a freezing night near Pittsburgh)</span><br>
-<span class="list-item">76. Run a marathon</span><br>
-<span class="list-item">77. Watch a rocket launch in person</span><br>
-<span class="list-item">78. Stargazing in Hawaii</span><br>
-<span class="list-item">79. Watch a football game in Spain</span><br>
-<span class="list-item">80. Get featured in a news channel or newspaper</span><br>
-<span class="list-item">81. <s>Have a centibillionaire come see your work</s> (Jeff Bezos — can't say more)</span><br>
-<span class="list-item">82. See Earth from space</span><br>
-<span class="list-item">83. Northern Lights in Alaska</span><br>
-<span class="list-item">84. Meet Elon Musk</span><br>
-<span class="list-item">85. Meet Demis Hassabis</span><br>
-<span class="list-item">86. Party in Ibiza</span><br>
-<span class="list-item">87. Watch a volcano in Guatemala</span><br>
+<span class="list-item">44. Buy a Tesla (a dumb childhood dream)</span><br>
+<span class="list-item">45. Walk the Great Wall of China</span><br>
+<span class="list-item">46. <s>Sunset at Taj Mahal</s></span><br>
+<span class="list-item">47. Attend a traditional tea ceremony</span><br>
+<span class="list-item">48. <s>Watch magic in Vegas</s> (David Copperfield — some of us never stopped believing in magic)</span><br>
+<span class="list-item">49. Stay in an overwater bungalow</span><br>
+<span class="list-item">50. Go dog sledding in Lapland </span><br>
+<span class="list-item">51. <s>Go whale watching</s> (spotted humpbacks at Channel Islands NP, CA)</span><br>
+<span class="list-item">52. Party at Rio carnival</span><br>
+<span class="list-item">53. Float in the Dead Sea</span><br>
+<span class="list-item">54. Swim in the Great Barrier Reef</span><br>
+<span class="list-item">55. <s>Attend a rave</s> (Hocus Pocus, Miami — now I get it)</span><br>
+<span class="list-item">56. Give a TED talk</span><br>
+<span class="list-item">57. <s>Desert safari in Dubai</s></span><br>
+<span class="list-item">58. Explore the caves in Vietnam</span><br>
+<span class="list-item">59. Visit Banff National Park</span><br>
+<span class="list-item">60. Guest lecture at a university</span><br>
+<span class="list-item">61. Visit 20 national parks in the US (15 / 20)</span><br>
+<span class="list-item">62. Go on a solo hike</span><br>
+<span class="list-item">63. Go shark cage diving</span><br>
+<span class="list-item">64. <s>Wine at Napa Valley</s> (Castello di Amorosa — turns out I'm a wine person now)</span><br>
+<span class="list-item">65. Visit 10+ ski resorts (3 / 10)</span><br>
+<span class="list-item">66. <s>Visit a tulip farm</s> (endless colors at Roozengaarde, WA)</span><br>
+<span class="list-item">67. Tour the Colosseum</span><br>
+<span class="list-item">68. <s>Tour the Louvre museum</s></span><br>
+<span class="list-item">69. Michelin star date</span><br>
+<span class="list-item">70. Psychedlic or mind expanding retreats</span><br>
+<span class="list-item">71. Try sandboarding</span><br>
+<span class="list-item">72. Sleep on the beach under the stars</span><br>
+<span class="list-item">73. Author a patent</span><br>
+<span class="list-item">74. Camp under the stars in a desert</span><br>
+<span class="list-item">75. See a comet with the naked eye</span><br>
+<span class="list-item">76. <s>Watch a meteor shower</s> (Geminids on a freezing night near Pittsburgh)</span><br>
+<span class="list-item">77. Run a marathon</span><br>
+<span class="list-item">78. Watch a rocket launch in person</span><br>
+<span class="list-item">79. Stargazing in Hawaii</span><br>
+<span class="list-item">80. Watch a football game in Spain</span><br>
+<span class="list-item">81. Get featured in a news channel or newspaper</span><br>
+<span class="list-item">82. <s>Have a centibillionaire come see your work</s> (Jeff Bezos — can't say more)</span><br>
+<span class="list-item">83. See Earth from space</span><br>
+<span class="list-item">84. Northern Lights in Alaska</span><br>
+<span class="list-item">85. Meet Elon Musk</span><br>
+<span class="list-item">86. Meet Demis Hassabis</span><br>
+<span class="list-item">87. Party in Ibiza</span><br>
+<span class="list-item">88. Watch a volcano in Guatemala</span><br>
 <span class="list-item">88. </span><br>
 <span class="list-item">89. </span><br>
 <span class="list-item">90. </span><br>
