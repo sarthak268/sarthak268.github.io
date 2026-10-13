@@ -207,7 +207,7 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, P.B. Sujit</span><br>
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
-    <span class="trophy">&#x1F3C6; Oral</span>
+    <span class="trophy">&#x1F3C6; Oral; 100+ citations</span>
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
         <a target="_blank" href="https://youtu.be/4hAEp5aE88A">Video</a>
