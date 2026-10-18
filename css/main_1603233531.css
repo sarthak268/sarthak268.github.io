@@ -832,12 +832,105 @@ a {
 }
 
 .timeline-title {
+  display: flex;
+  align-items: center;
   font-size: 85%;
   font-weight: 500;
   color: var(--text-heading);
   margin: 0 0 -3px 0;
   line-height: 1.2;
 }
+
+.journey-title-text {
+  min-width: 0;
+  flex: 1 1 auto;
+  order: 1;
+}
+
+.timeline-title .journey-logo-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  order: 2;
+  flex: 0 0 auto;
+  margin-left: 10px;
+  border-bottom: 0;
+}
+
+.timeline-title .journey-logo-link .journey-logo {
+  margin-left: 0 !important;
+}
+
+.journey-logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 23px;
+  height: 23px;
+  margin-right: 0;
+  flex: 0 0 auto;
+  border-radius: 5px;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  line-height: 1;
+  color: #fff;
+  background: #354052;
+}
+
+/* The article image rule gives all content images a wide presentation size;
+   journey marks are deliberately small inline icons instead. */
+.post section .timeline-title .journey-logo {
+  width: 30px !important;
+  height: 30px !important;
+  max-width: 30px !important;
+  max-height: 30px !important;
+  order: 2;
+  margin-left: 10px;
+}
+
+.journey-logo-image {
+  object-fit: contain;
+  padding: 2px;
+  background: transparent !important;
+  border: 0;
+  transform: scale(1.3);
+}
+
+.journey-logo-cmu-ri {
+  transform: scale(1.7);
+}
+
+.journey-logo-gr {
+  transform: scale(0.85);
+}
+
+.journey-logo-1x-image {
+  transform: scale(1.2);
+}
+
+.journey-logo-nus-image {
+  transform: scale(1.6);
+}
+
+.journey-logo-iiit-image {
+  transform: scale(1.35);
+}
+
+.journey-logo-sutd-image {
+  transform: scale(1.35);
+}
+
+[data-theme="dark"] .post section .timeline-title .journey-logo-gr {
+  filter: invert(1);
+}
+
+[data-theme="dark"] .post section .timeline-title .journey-logo-sutd-image {
+  filter: invert(1);
+}
+
+.journey-logo-1x { background: #111; }
+.journey-logo-nus { background: #ef3340; font-size: 8px; }
 
 .timeline-title a {
   color: var(--accent-link);
@@ -863,6 +956,10 @@ a {
   line-height: 1.3;
   list-style: disc;
   display: block !important;
+}
+
+.journey-gr-content .timeline-details {
+  margin-top: -9px;
 }
 
 .timeline-details li {
@@ -908,6 +1005,12 @@ a {
   .timeline-title {
     font-size: 15px;
   }
+
+  .post section .timeline-title .journey-logo-gr {
+    width: 118px !important;
+    max-width: 118px !important;
+  }
+
 }
 
 /* Talks Timeline - compact year-based layout */

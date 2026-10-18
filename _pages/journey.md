@@ -32,7 +32,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2025 - 2026</div>
         <div class="timeline-content">
-            <div class="timeline-title">Research Engineer, <a href="https://www.1x.tech/">1X Technologies</a></div>
+<div class="timeline-title"><a class="journey-logo-link" href="https://www.1x.tech/" aria-label="1X Technologies"><img class="journey-logo journey-logo-image journey-logo-1x-image" src="/img/logos/one-x-robot.png" alt="1X robot"></a><span class="journey-title-text">Research Engineer, <a href="https://www.1x.tech/">1X Technologies</a></span></div>
             <ul class="timeline-details">
                 <li>Contributor to Redwood AI (<a href="https://www.1x.tech/discover/redwood-mobility">blog</a>) - our end-to-end VLA-driven navigation stack</li>
                 <li>Contributor to 1X World Model (<a href="https://www.1x.tech/discover/world-model-self-learning">blog</a>) - video action generation model that predicts what happens next and how to get there</li>
@@ -43,8 +43,8 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
     <div class="timeline-item">
         <div class="timeline-dot"></div>
         <div class="timeline-date">2024 - 2025</div>
-        <div class="timeline-content">
-            <div class="timeline-title">Founding Research Engineer, <a href="https://www.generalrobotics.company/">General Robotics</a></div>
+        <div class="timeline-content journey-gr-content">
+            <div class="timeline-title"><a class="journey-logo-link" href="https://www.generalrobotics.company/" aria-label="General Robotics"><img class="journey-logo journey-logo-image journey-logo-gr" src="/img/logos/general-robotics.svg" alt="General Robotics logo"></a><span class="journey-title-text">Founding Research Engineer</span></div>
             <ul class="timeline-details">
                 <li>First Hire, Employee #5</li>
                 <li>Led sim2real RL (<a href="https://www.generalrobotics.company/post/general-purpose-intelligence-for-every-robot">blog</a>), led technical business development, co-led NVIDIA x <a href="https://grid.generalrobotics.dev/">GRID</a> integration (<a href="https://www.generalrobotics.company/post/general-robotics-integrates-nvidia-isaac-sim-into-grid">blog</a>, <a href="https://docs.nvidia.com/learning/physical-ai/going-further-with-robotics/latest/develop-simulate-and-deploy-intelligence-with-general-robotics/index.html">link</a>)</li>
@@ -56,7 +56,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2022 - 2024</div>
         <div class="timeline-content">
-            <div class="timeline-title">Master's in Robotics, Carnegie Mellon University (CMU)</div>
+            <div class="timeline-title"><a class="journey-logo-link" href="https://www.cmu.edu/" aria-label="Carnegie Mellon University"><img class="journey-logo journey-logo-image journey-logo-cmu-ri" src="/img/logos/cmu-ri-logo.png" alt="Carnegie Mellon Robotics logo"></a><span class="journey-title-text">Master's in Robotics, Carnegie Mellon University (CMU)</span></div>
             <ul class="timeline-details">
                 <li>Improving robotic perception and interaction using domain knowledge (<a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/">thesis</a>, advisor: <a href="https://en.wikipedia.org/wiki/Katia_Sycara">Dr. Katia Sycara</a>)</li>
             </ul>
@@ -66,7 +66,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2021 - 2022</div>
         <div class="timeline-content">
-            <div class="timeline-title">Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a></div>
+            <div class="timeline-title"><a class="journey-logo-link" href="https://preimage.ai/" aria-label="Preimage"><img class="journey-logo journey-logo-image" src="/img/logos/preimage.png" alt="Preimage logo"></a><span class="journey-title-text">Deep Learning Research Engineer, <a href="https://preimage.ai/">Preimage</a></span></div>
             <ul class="timeline-details">
                 <li>Reconstructing 3D scenes from sparse drone images</li>
             </ul>
@@ -76,7 +76,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2020 - 2021</div>
         <div class="timeline-content">
-            <div class="timeline-title">Visiting Researcher, <a href="https://www.clvrai.com/">CLVR Lab</a>, University of Southern California (USC)</div>
+            <div class="timeline-title"><a class="journey-logo-link" href="https://www.usc.edu/" aria-label="University of Southern California"><img class="journey-logo journey-logo-image journey-logo-usc-image" src="/img/logos/usc-trojans.webp" alt="USC Trojans logo"></a><span class="journey-title-text">Visiting Researcher, <a href="https://www.clvrai.com/">CLVR Lab</a>, University of Southern California (USC)</span></div>
             <ul class="timeline-details">
                 <li>Adapting robot policies to new environments without forgetting old skills (advisor: <a href="https://clvrai.com/web_lim/">Dr. Joseph Lim</a>)</li>
             </ul>
@@ -86,7 +86,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2019 - 2020</div>
         <div class="timeline-content">
-            <div class="timeline-title">Visiting Student, SUTD Brain Lab</div>
+            <div class="timeline-title"><a class="journey-logo-link" href="https://www.sutd.edu.sg/" aria-label="Singapore University of Technology and Design"><img class="journey-logo journey-logo-image journey-logo-sutd-image" src="/img/logos/sutd-mark.png" alt="SUTD logo"></a><span class="journey-title-text">Visiting Student, SUTD Brain Lab</span></div>
             <ul class="timeline-details">
                 <li>Disentangling video sequences using Gaussian processes (<a href="https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7">paper</a>)</li>
             </ul>
@@ -96,7 +96,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2018</div>
         <div class="timeline-content">
-            <div class="timeline-title">Research Intern, National University of Singapore (NUS)</div>
+            <div class="timeline-title"><a class="journey-logo-link" href="https://www.nus.edu.sg/" aria-label="National University of Singapore"><img class="journey-logo journey-logo-image journey-logo-nus-image" src="/img/logos/nus-crest.png" alt="National University of Singapore crest"></a><span class="journey-title-text">Research Intern, National University of Singapore (NUS)</span></div>
             <ul class="timeline-details">
                 <li>Medical robotics (advisor: <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang">Dr. Hongliang Ren</a>)</li>
             </ul>
@@ -106,7 +106,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2016 - 2020</div>
         <div class="timeline-content">
-            <div class="timeline-title">B.Tech (with honors), IIIT Delhi</div>
+            <div class="timeline-title"><a class="journey-logo-link" href="https://www.iiitd.ac.in/" aria-label="IIIT Delhi"><img class="journey-logo journey-logo-image journey-logo-iiit-image" src="/img/logos/iiit-delhi-insignia.png" alt="IIIT Delhi insignia"></a><span class="journey-title-text">B.Tech (with honors), IIIT Delhi</span></div>
             <ul class="timeline-details">
                 <li>Disentangling factors of variation in images (<a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf">thesis</a>, advisors: <a href="http://faculty.iiitd.ac.in/~anands/">Dr. Saket Anand</a> and <a href="https://pavanturaga.com/">Dr. Pavan Turaga</a>)</li>
                 <li>Target tracking with deep RL (<a href="https://ieeexplore.ieee.org/abstract/document/9213856">paper</a>), autonomous driving team <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive/home">ALIVE</a> (<a href="https://youtu.be/Oei8r27vscQ?si=5WRmf-hmvOrOGMQk">demo</a>)</li>
