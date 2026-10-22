@@ -22,9 +22,10 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
         <div class="timeline-dot"></div>
         <div class="timeline-date">2026 - Present</div>
         <div class="timeline-content">
-            <div class="timeline-title">Building in Stealth</div>
+            <div class="timeline-title">Founding Team at <a href="https://warp.xyz">Warp Sciences</a></div>
             <ul class="timeline-details">
-                <li>Building digital and physical scientific superintelligence.</li>
+                <li>Employee #1</li>
+                <li>Leading the robotics effort</li>
             </ul>
         </div>
     </div>
