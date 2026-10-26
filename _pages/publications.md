@@ -104,7 +104,7 @@ permalink:  /publications/
     <span class="authors">S. Li, <u>S. Bhagat</u>, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
     <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span><br>
-    <span class="trophy">&#x1F3C6; Oral</span>
+    <span class="trophy">&#x1F3C6; Oral; 50+ citations</span>
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2403.18062">Paper</a>
