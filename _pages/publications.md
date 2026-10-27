@@ -563,11 +563,10 @@ permalink:  /publications/
         document.querySelectorAll('h2.pubt').forEach(function (title) {
             if (title.closest('.publication-media-card')) return;
             var titleText = title.textContent.trim();
-            if (!mediaTitles.some(function (match) { return titleText.indexOf(match) === 0; })) return;
+            var hasMedia = mediaTitles.some(function (match) { return titleText.indexOf(match) === 0; });
             var description = title.nextElementSibling;
             if (!description || !description.matches('p.pubd')) return;
-            var media = makeMedia(description);
-            if (!media) return;
+            var media = hasMedia ? makeMedia(description) : null;
 
             var card = document.createElement('div');
             card.className = 'publication-media-card';
@@ -576,7 +575,7 @@ permalink:  /publications/
             title.parentNode.insertBefore(card, title);
             copy.appendChild(title);
             copy.appendChild(description);
-            card.appendChild(media);
+            if (media) card.appendChild(media);
             card.appendChild(copy);
         });
     }

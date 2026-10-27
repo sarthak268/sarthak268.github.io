@@ -11,6 +11,30 @@ function initializeMotion() {
 
   const homeParagraphs = document.querySelectorAll('.home-portrait + div > p');
   homeParagraphs.forEach(paragraph => paragraph.classList.add('home-copy-entry'));
+  if (!preference.matches && 'IntersectionObserver' in window) {
+    homeParagraphs.forEach(paragraph => {
+      // Animate the existing words; preserve the text, spaces, and live links.
+      const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      const nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      let index = 0;
+      nodes.forEach(node => {
+        const fragment = document.createDocumentFragment();
+        node.textContent.split(/(\s+)/).forEach(word => {
+          if (!word || /^\s+$/.test(word)) {
+            fragment.append(document.createTextNode(word));
+            return;
+          }
+          const span = document.createElement('span');
+          span.className = 'home-copy-word';
+          span.textContent = word;
+          span.style.setProperty('--word-delay', `${Math.min(index++ * 12, 450)}ms`);
+          fragment.append(span);
+        });
+        node.replaceWith(fragment);
+      });
+    });
+  }
   const textPage = ['/misc', '/activity'].includes(normalize(location.pathname));
   if (textPage) document.documentElement.classList.add('motion-text-page');
 
@@ -55,8 +79,8 @@ function initializeMotion() {
     photo.addEventListener('pointermove', event => {
       if (preference.matches || !finePointer.matches) return;
       const bounds = photo.getBoundingClientRect();
-      photo.style.setProperty('--tilt-x', `${(0.5 - (event.clientY - bounds.top) / bounds.height) * 5}deg`);
-      photo.style.setProperty('--tilt-y', `${((event.clientX - bounds.left) / bounds.width - 0.5) * 5}deg`);
+      photo.style.setProperty('--tilt-x', `${(0.5 - (event.clientY - bounds.top) / bounds.height) * 12}deg`);
+      photo.style.setProperty('--tilt-y', `${((event.clientX - bounds.left) / bounds.width - 0.5) * 12}deg`);
     });
     photo.addEventListener('pointerleave', reset);
     preference.addEventListener('change', reset);
