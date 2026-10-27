@@ -5,8 +5,8 @@ permalink:  /
 ---
 
 <div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
-    <div class="col-sm-4 col-xs-12">
-        <img src="/img/me.jpg">
+    <div class="col-sm-4 col-xs-12 home-portrait">
+        <img class="portrait-photo" src="/img/me.jpg" alt="Sarthak Bhagat">
     </div>
     <div class="col-sm-8 col-xs-12">
         <p style="font-size: 90%;">Building scientific superintelligence at <a href="https://warp.xyz">Warp Sciences</a>.</p>

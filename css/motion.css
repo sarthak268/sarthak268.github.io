@@ -1,0 +1,131 @@
+/* Motion on existing content; the original layout stays intact. */
+.nav-bar a {
+  position: relative;
+  display: inline-block;
+  transition: color 180ms ease, transform 180ms ease;
+}
+.nav-bar a::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: var(--accent-blue);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 220ms ease;
+}
+.nav-bar a:hover::after,
+.nav-bar a:focus-visible::after,
+.nav-bar a[aria-current="page"]::after { transform: scaleX(1); }
+.nav-bar a:hover { transform: translateY(-2px); }
+.page-content a { transition: color 180ms ease, border-color 180ms ease; }
+.theme-toggle { transition: transform 350ms cubic-bezier(.2,.8,.2,1); }
+.theme-toggle:hover { transform: rotate(18deg); }
+.page-footer a { display: inline-block; transition: transform 250ms cubic-bezier(.2,.9,.3,1.6); }
+.page-footer a:hover, .page-footer a:focus-visible { transform: translateY(-5px) rotate(-7deg); }
+.home-portrait { perspective: 700px; }
+.portrait-photo {
+  transition: transform 450ms cubic-bezier(.2,.8,.2,1), box-shadow 450ms ease;
+  border-radius: 4px;
+}
+@media (hover: hover) {
+  .portrait-photo:hover { transform: rotateX(var(--tilt-x, 0deg)) rotateY(var(--tilt-y, 0deg)) translateY(-3px); box-shadow: 0 12px 26px rgba(0, 0, 0, .14); }
+}
+.timeline-content {
+  transition: transform 300ms cubic-bezier(.2,.8,.2,1), border-color 300ms ease, box-shadow 300ms ease;
+}
+.timeline-content:hover, .timeline-content:focus-within {
+  transform: translateX(4px);
+  border-color: var(--accent-blue);
+  box-shadow: -3px 0 0 var(--accent-blue);
+}
+.journey-logo-link { transition: transform 350ms cubic-bezier(.2,.9,.3,1.6); }
+.timeline-content:hover .journey-logo-link { transform: translateY(-3px) rotate(3deg); }
+.timeline-dot { transition: background-color 300ms ease, box-shadow 300ms ease; }
+.timeline-item:hover .timeline-dot { background: var(--accent-blue); box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent-blue) 15%, transparent); }
+
+/* Paper cards and their existing resource links. */
+.publication-media-card {
+  transition: translate 300ms cubic-bezier(.2,.8,.2,1), border-color 300ms ease, box-shadow 300ms ease;
+}
+.publication-media-card:focus-within {
+  border-color: var(--accent-blue);
+}
+.post section .pubt { transition: color 220ms ease; }
+.post section .pubd .links a,
+.post section .pubd .links a:hover {
+  transition: transform 220ms cubic-bezier(.2,.8,.2,1), background-color 220ms ease, color 220ms ease, box-shadow 220ms ease;
+}
+.post section .pubd .links a:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 3px;
+}
+.home-copy-entry a,
+.motion-text-page .post-content .list-item a,
+.motion-text-page .talks-item a {
+  background-image: linear-gradient(color-mix(in srgb, var(--accent-blue) 12%, transparent), color-mix(in srgb, var(--accent-blue) 12%, transparent));
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  transition: background-size 250ms ease, color 250ms ease, border-color 250ms ease;
+}
+.home-copy-entry a:hover, .home-copy-entry a:focus-visible,
+.motion-text-page .post-content .list-item a:hover,
+.motion-text-page .post-content .list-item a:focus-visible,
+.motion-text-page .talks-item a:hover, .motion-text-page .talks-item a:focus-visible {
+  background-size: 100% 100%;
+  border-bottom-color: var(--accent-blue);
+  color: var(--accent-link);
+}
+.motion-text-page .list-item:not(.kv-row) { display: inline-block; }
+.motion-text-page .talks-item,
+.motion-text-page .kv-row { transition: color 220ms ease, translate 220ms ease; }
+@media (hover: hover) and (pointer: fine) {
+  .publication-media-card:hover {
+    translate: 0 -3px;
+    border-color: var(--accent-blue);
+    box-shadow: 0 7px 18px rgba(0, 0, 0, .1);
+  }
+  .post section .pubt:hover,
+  .publication-media-card:hover .pubt { color: var(--accent-link); }
+  .post section .pubd .links a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 3px 0 color-mix(in srgb, var(--accent-blue) 20%, transparent);
+  }
+  .motion-text-page .talks-item:hover,
+  .motion-text-page .kv-row:hover { translate: 3px 0; color: var(--text-heading); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .page-header { animation: arrive 650ms both; }
+  .page-content { animation: content-fade 500ms both; }
+  @keyframes content-fade { from { opacity: 0; } to { opacity: 1; } }
+  .motion-ready .reveal-pending { opacity: 0; transform: translateY(18px); }
+  .motion-ready .reveal-visible { animation: arrive 650ms var(--reveal-delay, 0ms) both; }
+  .motion-ready .home-copy-entry.reveal-visible {
+    animation: copy-arrive 850ms var(--reveal-delay, 0ms) both;
+  }
+  @keyframes copy-arrive {
+    from { opacity: 0; transform: translateY(18px); filter: blur(2px); }
+    to { opacity: 1; transform: translateY(0); filter: blur(0); }
+  }
+  @keyframes arrive {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .nav-bar a, .nav-bar a::after, .page-footer a, .theme-toggle,
+  .portrait-photo, .timeline-content, .journey-logo-link, .timeline-dot { transition: none; }
+  .nav-bar a:hover, .page-footer a:hover, .page-footer a:focus-visible,
+  .theme-toggle:hover, .portrait-photo:hover, .timeline-content:hover,
+  .timeline-content:focus-within, .timeline-content:hover .journey-logo-link { transform: none; }
+  .publication-media-card, .post section .pubt, .post section .pubd .links a,
+  .post section .pubd .links a:hover, .home-copy-entry a,
+  .motion-text-page .list-item a, .motion-text-page .talks-item,
+  .motion-text-page .talks-item a, .motion-text-page .kv-row { transition: none; }
+  .publication-media-card:hover, .motion-text-page .talks-item:hover,
+  .motion-text-page .kv-row:hover { translate: none; }
+  .post section .pubd .links a:hover,
+  .publication-media a:hover img { transform: none; }
+}
