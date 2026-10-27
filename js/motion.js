@@ -3,10 +3,36 @@ function initializeMotion() {
   'use strict';
   const preference = window.matchMedia('(prefers-reduced-motion: reduce)');
   const normalize = path => path.replace(/\/$/, '') || '/';
+  const finePointer = window.matchMedia('(hover: hover) and (pointer: fine)');
+  const name = document.querySelector('#name-block a');
+  if (name) {
+    const label = name.textContent;
+    name.setAttribute('aria-label', label);
+    name.replaceChildren(...Array.from(label, (letter, index) => {
+      const glyph = document.createElement('span');
+      glyph.className = 'name-glyph';
+      glyph.setAttribute('aria-hidden', 'true');
+      glyph.textContent = letter === ' ' ? '\u00a0' : letter;
+      glyph.style.setProperty('--glyph-delay', `${index * 25}ms`);
+      return glyph;
+    }));
+  }
   document.querySelectorAll('.nav-bar a').forEach(link => {
     if (link.origin === location.origin && normalize(link.pathname) === normalize(location.pathname)) {
       link.setAttribute('aria-current', 'page');
     }
+    const reset = () => {
+      link.style.removeProperty('--nav-x');
+      link.style.removeProperty('--nav-y');
+    };
+    link.addEventListener('pointermove', event => {
+      if (preference.matches || !finePointer.matches) return;
+      const bounds = link.getBoundingClientRect();
+      link.style.setProperty('--nav-x', `${((event.clientX - bounds.left) / bounds.width - .5) * 5}px`);
+      link.style.setProperty('--nav-y', `${((event.clientY - bounds.top) / bounds.height - .5) * 4}px`);
+    });
+    link.addEventListener('pointerleave', reset);
+    preference.addEventListener('change', reset);
   });
 
   const homeParagraphs = document.querySelectorAll('.home-portrait + div > p');
@@ -35,11 +61,11 @@ function initializeMotion() {
       });
     });
   }
-  const textPage = ['/misc', '/activity'].includes(normalize(location.pathname));
+  const textPage = ['/misc', '/activity', '/100_things'].includes(normalize(location.pathname));
   if (textPage) document.documentElement.classList.add('motion-text-page');
 
   if ('IntersectionObserver' in window && !preference.matches) {
-    const items = [...document.querySelectorAll('.home-portrait, .home-copy-entry, .timeline-item, .entries > li, .publication-media-card')];
+    const items = [...document.querySelectorAll('.home-portrait, .home-copy-entry, .timeline-item, .entries > li, .publication-media-card, .shelf-section, .things-progress, .travel-stats, .post-content > h2:not(.pubt)')];
     if (textPage) items.push(...document.querySelectorAll('.talks-year, .list-item'));
     const groups = new Map();
     // Keep each paper's title and metadata together without changing the markup.
@@ -69,8 +95,59 @@ function initializeMotion() {
     });
   }
 
+  const journey = document.querySelectorAll('.timeline-item');
+  if (journey.length && 'IntersectionObserver' in window) {
+    const visible = new Set();
+    let current;
+    const tracker = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) visible.add(entry.target);
+        else visible.delete(entry.target);
+      });
+      const next = [...visible].sort((a, b) =>
+        Math.abs(a.getBoundingClientRect().top - innerHeight * .3) -
+        Math.abs(b.getBoundingClientRect().top - innerHeight * .3)
+      )[0];
+      if (!next || next === current) return;
+      current?.classList.remove('journey-current');
+      next.classList.add('journey-current');
+      current = next;
+    }, { rootMargin: '-15% 0px -45% 0px', threshold: 0 });
+    journey.forEach(item => tracker.observe(item));
+  }
+
   const photo = document.querySelector('.portrait-photo');
-  const finePointer = window.matchMedia('(hover: hover) and (pointer: fine)');
+  const shelfRoot = document.querySelector('#shelf-root');
+  if (shelfRoot) {
+    const discovery = document.createElement('div');
+    discovery.className = 'book-discovery';
+    const heading = document.createElement('span');
+    heading.className = 'book-discovery-title';
+    heading.textContent = 'Need a suggestion?';
+    const pick = document.createElement('button');
+    pick.type = 'button';
+    pick.className = 'book-pick';
+    pick.textContent = 'Pick a random book';
+    pick.title = 'Let the bookshelf choose something for you';
+    const announcement = document.createElement('span');
+    announcement.className = 'sr-only';
+    announcement.setAttribute('role', 'status');
+    let selected;
+    pick.addEventListener('click', () => {
+      const books = [...document.querySelectorAll('.book-card')].filter(book =>
+        book !== selected && book.getClientRects().length > 0
+      );
+      if (!books.length) return;
+      selected?.classList.remove('book-picked');
+      selected = books[Math.floor(Math.random() * books.length)];
+      selected.classList.add('book-picked');
+      selected.scrollIntoView({ behavior: preference.matches ? 'auto' : 'smooth', block: 'center', inline: 'center' });
+      selected.focus({ preventScroll: true });
+      announcement.textContent = `Selected ${selected.querySelector('.book-card-title')?.textContent || 'a book'}. Press Enter to open it.`;
+    });
+    discovery.append(heading, pick, announcement);
+    shelfRoot.after(discovery);
+  }
   if (photo) {
     const reset = () => {
       photo.style.removeProperty('--tilt-x');

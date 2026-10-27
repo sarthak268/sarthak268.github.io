@@ -1,8 +1,25 @@
 /* Motion on existing content; the original layout stays intact. */
+/* Bootstrap's old :focus rule draws a box after mouse clicks, too. */
+@supports selector(:focus-visible) {
+  :is(a, button, summary, [role="button"], input[type="button"], input[type="submit"]):focus:not(:focus-visible) {
+    outline: none;
+  }
+  :is(a, button, summary, [role="button"], input[type="button"], input[type="submit"]):focus-visible {
+    outline: 2px solid var(--accent-blue);
+    outline-offset: 4px;
+  }
+  /* This toggle previously suppressed keyboard focus as well. */
+  .theme-toggle:focus-visible {
+    outline: 2px solid var(--accent-blue);
+    outline-offset: 4px;
+  }
+}
+:is(a, button, summary, [role="button"]) { -webkit-tap-highlight-color: transparent; }
 .nav-bar a {
   position: relative;
   display: inline-block;
-  transition: color 180ms ease, transform 180ms ease;
+  transition: color 180ms ease, transform 180ms ease, translate 220ms cubic-bezier(.2,.9,.3,1.4);
+  translate: var(--nav-x, 0px) var(--nav-y, 0px);
 }
 .nav-bar a::after {
   content: "";
@@ -45,6 +62,70 @@
 .timeline-content:hover .journey-logo-link { transform: translateY(-3px) rotate(3deg); }
 .timeline-dot { transition: background-color 300ms ease, box-shadow 300ms ease; }
 .timeline-item:hover .timeline-dot { background: var(--accent-blue); box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent-blue) 15%, transparent); }
+.timeline-item.journey-current .timeline-dot {
+  background: var(--accent-blue);
+  box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent-blue) 15%, transparent);
+}
+.timeline-date { transition: color 250ms ease; }
+.journey-current .timeline-date { color: var(--accent-link); }
+
+/* Playful details on the existing header, shelves, and page content. */
+.name-glyph { display: inline-block; }
+.post-content .shelf-row { padding-top: 12px; padding-bottom: 16px; }
+.post-content .book-cover-frame {
+  transform-origin: left center;
+  transition: transform 400ms cubic-bezier(.2,.8,.2,1), box-shadow 400ms ease;
+}
+.post-content .book-card-title { transition: color 220ms ease; }
+.book-discovery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 16px 0 24px;
+}
+.book-discovery-title {
+  margin: 0;
+  font-size: 85%;
+  color: var(--text-secondary);
+  text-align: left;
+}
+.book-pick {
+  flex: 0 0 auto;
+  min-height: 38px;
+  padding: 6px 12px;
+  border: 1px solid var(--accent-link);
+  border-radius: 6px;
+  background: var(--accent-link);
+  color: var(--bg-primary);
+  font: inherit;
+  font-size: 85%;
+  font-weight: 500;
+  cursor: pointer;
+  transition: box-shadow 200ms ease, translate 200ms ease;
+}
+.book-pick:hover { box-shadow: 0 4px 12px color-mix(in srgb, var(--accent-blue) 20%, transparent); translate: 0 -2px; }
+.book-pick:focus-visible { outline: 2px solid var(--accent-blue); outline-offset: 3px; }
+@media (pointer: coarse) {
+  .book-pick { min-height: 44px; }
+}
+.book-picked .book-cover-frame { outline: 2px solid var(--accent-blue); outline-offset: 3px; }
+.post-content .book-card:focus-visible { outline: 2px solid var(--accent-blue); outline-offset: 4px; }
+.post-content .shelf-arrow { transition: transform 220ms cubic-bezier(.2,.9,.3,1.4), color 200ms ease, border-color 200ms ease; }
+.post-content .shelf-arrow:active { transform: scale(.9); }
+.post-content > h2:not(.pubt) { transition: border-color 250ms ease, color 250ms ease; }
+.post-content > h2:not(.pubt):hover { color: var(--accent-link); border-color: var(--accent-blue); }
+@media (hover: hover) and (pointer: fine) {
+  .post-content .book-card:hover .book-cover-frame,
+  .post-content .book-card:focus-visible .book-cover-frame {
+    transform: perspective(600px) rotateY(-14deg) rotateZ(-1.5deg) translateY(-5px);
+    box-shadow: 6px 10px 16px rgba(0, 0, 0, .25);
+  }
+  .post-content .book-card:hover .book-card-title { color: var(--accent-link); }
+  .post-content .shelf-arrow.left:hover { transform: translateX(-3px); }
+  .post-content .shelf-arrow.right:hover { transform: translateX(3px); }
+}
 
 /* Paper cards and their existing resource links. */
 .publication-media-card {
@@ -97,6 +178,26 @@
   .motion-text-page .kv-row:hover { translate: 3px 0; color: var(--text-heading); }
 }
 @media (prefers-reduced-motion: no-preference) {
+  #name-block a:hover .name-glyph, #name-block a:focus-visible .name-glyph {
+    animation: name-ripple 650ms var(--glyph-delay, 0ms) cubic-bezier(.2,.8,.2,1) both;
+  }
+  @keyframes name-ripple {
+    0%, 100% { transform: translateY(0) rotate(0); }
+    45% { transform: translateY(-5px) rotate(-3deg); color: var(--accent-blue); }
+  }
+  .things-progress.reveal-visible .things-progress-fill,
+  .travel-stats.reveal-visible .travel-stat-fill {
+    transform-origin: left;
+    animation: progress-fill 1000ms 150ms cubic-bezier(.2,.8,.2,1) backwards;
+  }
+  @keyframes progress-fill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  #travel-photo-modal[style*="display: flex"] > div {
+    animation: photo-panel-arrive 400ms cubic-bezier(.2,.8,.2,1) both;
+  }
+  @keyframes photo-panel-arrive {
+    from { opacity: 0; transform: translateY(14px) scale(.97); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
   .page-header { animation: arrive 650ms both; }
   .page-content { animation: content-fade 500ms both; }
   @keyframes content-fade { from { opacity: 0; } to { opacity: 1; } }
@@ -133,6 +234,15 @@
   }
 }
 @media (prefers-reduced-motion: reduce) {
+  .post-content .shelf-row { scroll-behavior: auto; }
+  body { transition: none; }
+  .nav-bar a { translate: none; }
+  .timeline-date, .post-content .book-cover-frame, .post-content .book-card-title,
+  .post-content .shelf-arrow, .post-content > h2:not(.pubt), .book-pick { transition: none; }
+  .book-pick:hover { translate: none; }
+  .post-content .book-card:hover .book-cover-frame,
+  .post-content .book-card:focus-visible .book-cover-frame,
+  .post-content .shelf-arrow:hover, .post-content .shelf-arrow:active { transform: none; }
   .nav-bar a, .nav-bar a::after, .page-footer a, .theme-toggle,
   .portrait-photo, .timeline-content, .journey-logo-link, .timeline-dot { transition: none; }
   .nav-bar a:hover, .page-footer a:hover, .page-footer a:focus-visible,
