@@ -56,6 +56,18 @@ permalink:  /publications/
 .publication-media-card .pub-card-copy { flex: 1; min-width: 0; }
 .publication-media-card h2.pubt { margin-top: 2px; }
 .publication-media-card p.pubd { margin-bottom: 0; }
+.post section h2.pubt a {
+    border-bottom: 0;
+}
+.post section h2.pubt a:hover,
+.post section h2.pubt a:focus-visible {
+    color: var(--accent-link);
+    text-decoration: none;
+}
+.post section h2.pubt a:focus-visible {
+    outline: 2px solid var(--accent-blue);
+    outline-offset: 4px;
+}
 @media (max-width: 640px) {
     .publication-media-card { display: block; }
     .publication-media { width: 100%; height: 190px; min-height: 0; margin-bottom: 14px; }
@@ -65,7 +77,7 @@ permalink:  /publications/
 ## Reports
 
 <a name="/agenticrobotics"></a>
-<h2 class="pubt">Agentic Architectures for Robotics: Design Principles and Model Abilities</h2>
+<h2 class="pubt"><a href="https://www.generalrobotics.company/post/agentic-robotics" target="_blank" rel="noopener noreferrer">Agentic Architectures for Robotics: Design Principles and Model Abilities</a></h2>
 <p class="pubd">
     <span class="authors">General Robotics</span><br>
     <span class="links">
@@ -80,7 +92,7 @@ permalink:  /publications/
 ## Conference Publications
 
 <a name="/dreamcontrol"></a>
-<h2 class="pubt">DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion</h2>
+<h2 class="pubt"><a href="https://genrobo.github.io/DreamControl/" target="_blank" rel="noopener noreferrer">DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion</a></h2>
 <p class="pubd">
     <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, <u>S. Bhagat</u>, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
     <span class="conf">International Conference on Robotics and Automation (ICRA), 2026</span><br>
@@ -99,7 +111,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/shapegrasp"></a>
-<h2 class="pubt">ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition</h2>
+<h2 class="pubt"><a href="https://shapegrasp.github.io/" target="_blank" rel="noopener noreferrer">ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition</a></h2>
 <p class="pubd">
     <span class="authors">S. Li, <u>S. Bhagat</u>, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
@@ -116,7 +128,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/nesca"></a>
-<h2 class="pubt">Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation</h2>
+<h2 class="pubt"><a href="https://sarthak268.github.io/NeSCA/" target="_blank" rel="noopener noreferrer">Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, S. Li, J. Campbell, Y. Xie, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">Robotics and Automation Letters (RA-L), 2024</span><br>
@@ -136,7 +148,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/relate"></a>
-<h2 class="pubt">Sample-Efficient Learning of Novel Visual Concepts</h2>
+<h2 class="pubt"><a href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/" target="_blank" rel="noopener noreferrer">Sample-Efficient Learning of Novel Visual Concepts</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span><br>
@@ -154,7 +166,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/faircop"></a>
-<h2 class="pubt">FaIRCoP: Facial Image Retrieval using Contrastive Personalization</h2>
+<h2 class="pubt"><a href="https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_A_Suspect_Identification_Framework_Using_Contrastive_Relevance_Feedback_WACV_2023_paper.pdf" target="_blank" rel="noopener noreferrer">FaIRCoP: Facial Image Retrieval using Contrastive Personalization</a></h2>
 <p class="pubd">
     <span class="authors">D. Gupta, A. Saini, D. Bhasin, <u>S. Bhagat</u>, S. Uppal, P. Kumaraguru, R. Shah</span><br>
     <span class="conf">Winter Conference on Applications of Computer Vision (WACV), 2023</span>
@@ -168,7 +180,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/emogen"></a>
-<h2 class="pubt">Emotional Talking Faces: Making Videos More Expressive and Realistic</h2>
+<h2 class="pubt"><a href="https://midas.iiitd.edu.in/emo/" target="_blank" rel="noopener noreferrer">Emotional Talking Faces: Making Videos More Expressive and Realistic</a></h2>
 <p class="pubd">
     <span class="authors">S. Goyal, S. Uppal, <u>S. Bhagat</u>, D. Goel, S. Mali, Y. Yu, Y. Yin, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022</span><br>
@@ -187,7 +199,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/mgpvae"></a>
-<h2 class="pubt">Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders</h2>
+<h2 class="pubt"><a href="https://arxiv.org/pdf/2001.02408.pdf" target="_blank" rel="noopener noreferrer">Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, S. Uppal*, Z. Yin, N. Lim</span><br>
     <span class="conf">European Conference on Computer Vision (ECCV), 2020</span><br>
@@ -203,7 +215,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/uav"></a>
-<h2 class="pubt">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</h2>
+<h2 class="pubt"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856" target="_blank" rel="noopener noreferrer">UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, P.B. Sujit</span><br>
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
@@ -218,7 +230,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/c3vqg"></a>
-<h2 class="pubt">C3VQG: Category Consistent Cyclic Visual Question Generation.</h2>
+<h2 class="pubt"><a href="https://dl.acm.org/doi/pdf/10.1145/3444685.3446302" target="_blank" rel="noopener noreferrer">C3VQG: Category Consistent Cyclic Visual Question Generation.</a></h2>
 <p class="pubd">
     <span class="authors">S. Uppal*, A. Madan*, <u>S. Bhagat</u>*, Y. Yu, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2020</span><br>
@@ -235,7 +247,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/prose"></a>
-<h2 class="pubt">PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning</h2>
+<h2 class="pubt"><a href="https://arxiv.org/pdf/1907.09554.pdf" target="_blank" rel="noopener noreferrer">PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning</a></h2>
 <p class="pubd">
     <span class="authors">A. Shukla, <u>S. Bhagat</u>*, S. Uppal*, S. Anand, P. Turaga</span><br>
     <span class="conf">British Machine Vision Conference (BMVC), 2019</span>
@@ -249,7 +261,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/icvgip"></a>
-<h2 class="pubt">Geometry of Deep Generative Models for Disentangled Representations</h2>
+<h2 class="pubt"><a href="https://dl.acm.org/doi/pdf/10.1145/3293353.3293422" target="_blank" rel="noopener noreferrer">Geometry of Deep Generative Models for Disentangled Representations</a></h2>
 <p class="pubd">
     <span class="authors">A. Shukla, S. Uppal*, <u>S. Bhagat</u>*, S. Anand, P. Turaga</span><br>
     <span class="conf">Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2018</span>
@@ -265,7 +277,7 @@ permalink:  /publications/
 ## Journal Publications
 
 <a name="/infofus"></a>
-<h2 class="pubt">Multimodal Research in Vision and Language: A Review of Current and Emerging Trends</h2>
+<h2 class="pubt"><a href="https://www.sciencedirect.com/science/article/pii/S1566253521001512" target="_blank" rel="noopener noreferrer">Multimodal Research in Vision and Language: A Review of Current and Emerging Trends</a></h2>
 <p class="pubd">
     <span class="authors">S. Uppal*, <u>S. Bhagat</u>*, D. Hazarika, N. Majumdar, S. Poria, R. Zimmermann, A. Zadeh</span><br>
     <span class="conf">Information Fusion Journal, 2021 (Impact Factor: 15.7)</span><br>
@@ -279,7 +291,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/mdpi"></a>
-<h2 class="pubt">Deep Reinforcement Learning for Soft Robotic Applications: Brief Overview with Impending Challenges</h2>
+<h2 class="pubt"><a href="https://www.mdpi.com/2218-6581/8/1/4" target="_blank" rel="noopener noreferrer">Deep Reinforcement Learning for Soft Robotic Applications: Brief Overview with Impending Challenges</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, H. Banerjee*, Z. Tse, H. Ren</span><br>
     <span class="conf">Robotics 2019, 8(1), 4 </span><br>
@@ -295,7 +307,7 @@ permalink:  /publications/
 ## Thesis
 
 <a name="/msr"></a>
-<h2 class="pubt">Enhancing Robot Perception and Interaction Through Structured Domain Knowledge</h2>
+<h2 class="pubt"><a href="https://www.ri.cmu.edu/publications/enhancing-robot-perception-and-interaction-through-structured-domain-knowledge/" target="_blank" rel="noopener noreferrer">Enhancing Robot Perception and Interaction Through Structured Domain Knowledge</a></h2>
 <p class="pubd">
     <span class="authors">Advisor: Katia Sycara (Carnegie Mellon University)</span><br>
     <span class="conf">Master's Thesis</span>
@@ -306,7 +318,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/btech"></a>
-<h2 class="pubt">Geometry of Neural Network based Disentangled Latent Space Models</h2>
+<h2 class="pubt"><a href="https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf" target="_blank" rel="noopener noreferrer">Geometry of Neural Network based Disentangled Latent Space Models</a></h2>
 <p class="pubd">
     <span class="authors">Advisors: S. Anand (IIIT-Delhi), P. Turaga (Arizona State University)</span><br>
     <span class="conf">Bachelor's Thesis</span>
@@ -319,7 +331,7 @@ permalink:  /publications/
 ## Workshop Publications
 
 <a name="/wroom"></a>
-<h2 class="pubt">WROOM: An Autonomous Driving Approach for Off-Road Navigation</h2>
+<h2 class="pubt"><a href="https://sites.google.com/view/wroom-utd/home" target="_blank" rel="noopener noreferrer">WROOM: An Autonomous Driving Approach for Off-Road Navigation</a></h2>
 <p class="pubd">
     <span class="authors">D. Kalaria, S. Sharma, <u>S. Bhagat</u>, H. Xue, J. Dolan</span><br>
     <span class="conf">Off-road Autonomy Workshop, ICRA 2024</span><br>
@@ -334,7 +346,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/contr"></a>
-<h2 class="pubt">Symbolic Graph Inference for Compound Scene Understanding</h2>
+<h2 class="pubt"><a href="https://arxiv.org/abs/2410.22626" target="_blank" rel="noopener noreferrer">Symbolic Graph Inference for Compound Scene Understanding</a></h2>
 <p class="pubd">
     <span class="authors">A. Mangal, S. Stepputtis, <u>S. Bhagat</u>, J. Campbell, K. Lee, H. Mahjoub, K Sycara</span><br>
     <span class="conf">Workshop on Ontologies and Standards for Robotics and Automation, ICRA 2024</span>
@@ -346,7 +358,7 @@ permalink:  /publications/
 
 
 <a name="/contr"></a>
-<h2 class="pubt">Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos</h2>
+<h2 class="pubt"><a href="https://arxiv.org/abs/2309.05943" target="_blank" rel="noopener noreferrer">Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, S. Stepputtis, J. Campbell, K. Sycara</span><br>
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span>
@@ -359,7 +371,7 @@ permalink:  /publications/
 <hr>
 
 <a name="/contr"></a>
-<h2 class="pubt">Contrastive Personalization Approach to Suspect Identification</h2>
+<h2 class="pubt"><a href="https://ojs.aaai.org/index.php/AAAI/article/download/21617/21366" target="_blank" rel="noopener noreferrer">Contrastive Personalization Approach to Suspect Identification</a></h2>
 <p class="pubd">
     <span class="authors">D. Gupta, D. Bhasin, <u>S. Bhagat</u>, S. Uppal, P. Kumaraguru, R. Shah</span><br>
     <span class="conf">AAAI Student Abstract 2021</span>
@@ -373,7 +385,7 @@ permalink:  /publications/
 
 
 <a name="/discont"></a>
-<h2 class="pubt">DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors</h2>
+<h2 class="pubt"><a href="https://arxiv.org/pdf/2006.05895.pdf" target="_blank" rel="noopener noreferrer">DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors</a></h2>
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, V. Udandarao*, S. Uppal*, S. Anand</span><br>
     <span class="conf">Perception Through Structured Generative Models, ECCV 2020</span><br>
