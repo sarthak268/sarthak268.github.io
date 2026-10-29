@@ -10,7 +10,7 @@ permalink:  /publications/
     align-items: stretch;
     gap: 18px;
     margin: 18px 0 20px;
-    padding: 14px;
+    padding: 14px 14px 4px;
     border: 1px solid var(--border-color, rgba(128, 128, 128, 0.25));
     border-radius: 12px;
     background: var(--surface-color, rgba(128, 128, 128, 0.05));
