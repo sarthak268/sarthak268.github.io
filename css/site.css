@@ -249,13 +249,15 @@ button { font-family: inherit; }
 }
 @media (max-width: 540px) {
   .container { padding-left: 22px; padding-right: 22px; }
-  .home-hero { grid-template-columns: 1fr; gap: 20px; }
-  .post section .home-hero h1 { font-size: clamp(26px, 8vw, 30px); max-width: 380px; }
-  .post section .current-work { margin-bottom: 12px; }
-  .post section p.hero-intro { margin-bottom: 18px; }
-  .home-portrait { max-width: none; display: flex; align-items: center; gap: 18px; }
-  .post section .portrait-photo { width: 96px; height: 120px; aspect-ratio: auto; flex: 0 0 auto; }
-  .home-portrait figcaption { max-width: 150px; margin: 0; font-size: 11px; }
+  .home-hero { grid-template-columns: minmax(0, 1fr) 104px; gap: 16px 20px; align-items: start; }
+  .home-hero .hero-copy { display: contents; }
+  .post section .current-work { grid-column: 1 / -1; margin-bottom: 0; }
+  .post section .home-hero h1 { grid-column: 1 / -1; margin: 0 0 4px; font-size: clamp(26px, 8vw, 30px); max-width: 380px; }
+  .post section p.hero-intro { grid-column: 1; margin: 0; }
+  .home-hero .hero-actions { grid-column: 1; }
+  .home-portrait { grid-column: 2; grid-row: 3 / span 2; margin: 0; }
+  .post section .portrait-photo { width: 104px; height: 140px; aspect-ratio: auto; }
+  .home-portrait figcaption { display: none; }
   .home-section { grid-template-columns: 1fr; gap: 18px; padding: 30px 0; }
   .post .home-section h2 { margin-bottom: 0; }
   .section-heading br { display: none; }
