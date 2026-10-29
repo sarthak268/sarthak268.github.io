@@ -33,152 +33,7 @@ permalink:  /travel/
 <script src="//www.instagram.com/embed.js"></script>
 <script>
 (function () {
-  var places = [
-    { lat: 37.3382, lng: -121.8863, name: "San Jose", region: "California", type: "visited" },
-    { lat: 37.5483, lng: -121.9886, name: "Fremont", region: "California", type: "visited" },
-    { lat: 37.5630, lng: -122.3255, name: "San Mateo", region: "California", type: "lived" },
-    { lat: 37.7208, lng: -121.6527, name: "Altamont", region: "California", type: "visited", posts: [
-      { shortcode: "DTPUmf8EfDH", date: "Jan 7, 2026", caption: "Altamont Pass Wind Farm, Altamont, California" }
-    ] },
-    { lat: 34.0522, lng: -118.2437, name: "Los Angeles", region: "California", type: "visited" },
-    { lat: 33.6846, lng: -117.8265, name: "Irvine", region: "California", type: "visited" },
-    { lat: 34.4208, lng: -119.6982, name: "Santa Barbara", region: "California", type: "visited" },
-    { lat: 37.7749, lng: -122.4194, name: "San Francisco", region: "California", type: "visited", posts: [
-      { shortcode: "DTuScvlFEn4", date: "Jan 19, 2026", caption: "Lake Tahoe, California & Nevada" }
-    ] },
-    { lat: 37.8715, lng: -122.2730, name: "Berkeley", region: "California", type: "visited" },
-    { lat: 37.8970, lng: -122.5811, name: "Muir Woods", region: "California", type: "visited" },
-    { lat: 36.9741, lng: -122.0308, name: "Santa Cruz", region: "California", type: "visited" },
-    { lat: 36.6002, lng: -121.8947, name: "Monterey Bay", region: "California", type: "visited" },
-    { lat: 38.2975, lng: -122.2869, name: "Napa", region: "California", type: "visited" },
-    { lat: 40.6804, lng: -122.3708, name: "Shasta Lake", region: "California", type: "visited" },
-    { lat: 41.3099, lng: -122.3106, name: "Mount Shasta", region: "California", type: "visited" },
-    { lat: 37.6485, lng: -118.9721, name: "Mammoth Lakes", region: "California", type: "visited" },
-    { lat: 36.9613, lng: -120.0607, name: "Madera", region: "California", type: "visited", posts: [
-      { shortcode: "DceXiEqAQOo", date: "Aug 25, 2026", caption: "California Mule Deer, Mariposa Grove of Giant Sequoias, Yosemite National Park" },
-      { shortcode: "DUZSPYeEhST", date: "Feb 5, 2026", caption: "Yosemite Falls, Yosemite National Park, California" },
-      { shortcode: "DT7aZv_FE-d", date: "Jan 25, 2026", caption: "Madera, California" },
-      { shortcode: "DTXaJi0FBk7", date: "Jan 11, 2026", caption: "Tunnel View, Yosemite National Park, California" }
-    ] },
-    { lat: 36.2704, lng: -121.8081, name: "Big Sur", region: "California", type: "visited", posts: [
-      { shortcode: "DVVeimsFB5k", date: "Mar 1, 2026", caption: "Big Sur, California" }
-    ] },
-    { lat: 36.4627, lng: -116.8668, name: "Furnace Creek", region: "California", type: "visited" },
-    { lat: 34.1347, lng: -116.3190, name: "Joshua Tree", region: "California", type: "visited" },
-    { lat: 36.4388, lng: -118.9045, name: "Three Rivers", region: "California", type: "visited" },
-    { lat: 36.4247, lng: -121.3263, name: "Soledad", region: "California", type: "visited" },
-    { lat: 34.2746, lng: -119.2290, name: "Ventura", region: "California", type: "visited" },
-    { lat: 47.6062, lng: -122.3321, name: "Seattle", region: "Washington", type: "lived", posts: [
-      { shortcode: "DS1jcmVEWzg", date: "Dec 28, 2025", caption: "Ann Lake, North Cascades, Washington" }
-    ] },
-    { lat: 47.5707, lng: -122.2221, name: "Mercer Island", region: "Washington", type: "visited" },
-    { lat: 47.6262, lng: -122.5212, name: "Bainbridge Island", region: "Washington", type: "visited" },
-    { lat: 46.7580, lng: -122.0309, name: "Ashford", region: "Washington", type: "visited" },
-    { lat: 48.1181, lng: -123.4307, name: "Port Angeles", region: "Washington", type: "visited" },
-    { lat: 48.5279, lng: -121.4471, name: "Marblemount", region: "Washington", type: "visited" },
-    { lat: 47.5962, lng: -120.6615, name: "Leavenworth", region: "Washington", type: "visited" },
-    { lat: 40.4406, lng: -79.9959, name: "Pittsburgh", region: "Pennsylvania", type: "lived" },
-    { lat: 39.9526, lng: -75.1652, name: "Philadelphia", region: "Pennsylvania", type: "visited" },
-    { lat: 40.4212, lng: -79.7881, name: "Monroeville", region: "Pennsylvania", type: "visited" },
-    { lat: 39.8667, lng: -79.5000, name: "Ohiopyle", region: "Pennsylvania", type: "visited" },
-    { lat: 28.7041, lng: 77.1025, name: "Delhi", region: "India", type: "lived" },
-
-    { lat: 36.9147, lng: -111.4558, name: "Page", region: "Arizona", type: "visited", posts: [
-      { shortcode: "DUFmcZEFbZr", date: "Jan 29, 2026", caption: "Upper Antelope Canyon, Navajo Nation, Arizona" }
-    ] },
-    { lat: 39.7392, lng: -104.9903, name: "Denver", region: "Colorado", type: "visited" },
-    { lat: 40.0150, lng: -105.2705, name: "Boulder", region: "Colorado", type: "visited" },
-    { lat: 40.3772, lng: -105.5217, name: "Estes Park", region: "Colorado", type: "visited" },
-    { lat: 40.0734, lng: -106.1020, name: "Hot Sulphur Springs", region: "Colorado", type: "visited" },
-    { lat: 25.7617, lng: -80.1918, name: "Miami", region: "Florida", type: "visited" },
-    { lat: 33.7490, lng: -84.3880, name: "Atlanta", region: "Georgia", type: "visited" },
-    { lat: 41.8781, lng: -87.6298, name: "Chicago", region: "Illinois", type: "visited" },
-    { lat: 39.7684, lng: -86.1581, name: "Indianapolis", region: "Indiana", type: "visited" },
-    { lat: 39.1141, lng: -94.6275, name: "Kansas City", region: "Kansas", type: "visited" },
-    { lat: 44.3876, lng: -68.2039, name: "Bar Harbor", region: "Maine", type: "visited" },
-    { lat: 39.2904, lng: -76.6122, name: "Baltimore", region: "Maryland", type: "visited" },
-    { lat: 42.3601, lng: -71.0589, name: "Boston", region: "Massachusetts", type: "visited" },
-    { lat: 42.3736, lng: -71.1097, name: "Cambridge", region: "Massachusetts", type: "visited" },
-    { lat: 42.3314, lng: -83.0458, name: "Detroit", region: "Michigan", type: "visited" },
-    { lat: 42.2808, lng: -83.7430, name: "Ann Arbor", region: "Michigan", type: "visited" },
-    { lat: 38.6270, lng: -90.1994, name: "St. Louis", region: "Missouri", type: "visited" },
-    { lat: 39.0997, lng: -94.5786, name: "Kansas City", region: "Missouri", type: "visited" },
-    { lat: 36.1699, lng: -115.1398, name: "Las Vegas", region: "Nevada", type: "visited" },
-    { lat: 36.5436, lng: -114.4430, name: "Overton", region: "Nevada", type: "visited" },
-    { lat: 39.5296, lng: -119.8138, name: "Reno", region: "Nevada", type: "visited" },
-    { lat: 40.7178, lng: -74.0435, name: "Jersey City", region: "New Jersey", type: "visited" },
-    { lat: 40.7128, lng: -74.0060, name: "New York City", region: "New York", type: "visited" },
-    { lat: 42.8864, lng: -78.8784, name: "Buffalo", region: "New York", type: "visited" },
-    { lat: 41.7780, lng: -78.7536, name: "Allegany National Forest", region: "New York", type: "visited" },
-    { lat: 35.4767, lng: -83.3206, name: "Cherokee", region: "North Carolina", type: "visited" },
-    { lat: 39.9612, lng: -82.9988, name: "Columbus", region: "Ohio", type: "visited" },
-    { lat: 41.4993, lng: -81.6944, name: "Cleveland", region: "Ohio", type: "visited" },
-    { lat: 39.5401, lng: -82.4071, name: "Logan", region: "Ohio", type: "visited" },
-    { lat: 45.5152, lng: -122.6784, name: "Portland", region: "Oregon", type: "visited", posts: [
-      { shortcode: "DU2WM2KkQ-q", date: "Feb 16, 2026", caption: "Portland, Oregon" }
-    ] },
-    { lat: 42.2249, lng: -121.7817, name: "Klamath Falls", region: "Oregon", type: "visited" },
-    { lat: 41.8240, lng: -71.4128, name: "Providence", region: "Rhode Island", type: "visited" },
-    { lat: 41.4901, lng: -71.3128, name: "Newport", region: "Rhode Island", type: "visited" },
-    { lat: 35.7143, lng: -83.5102, name: "Gatlinburg", region: "Tennessee", type: "visited" },
-    { lat: 38.5733, lng: -109.5498, name: "Moab", region: "Utah", type: "visited", posts: [
-      { shortcode: "DT4gAoOkd_B", date: "Jan 23, 2026", caption: "Canyonlands National Park, Utah" },
-      { shortcode: "DTj_qnFlJMP", date: "Jan 15, 2026", caption: "Arches National Park, Utah" }
-    ] },
-    { lat: 37.1677, lng: -113.0008, name: "Springdale", region: "Utah", type: "visited", posts: [
-      { shortcode: "DcWqxMHDzq6", date: "Aug 22, 2026", caption: "Zion National Park, Utah" },
-    ] },
-    { lat: 38.8816, lng: -77.0910, name: "Arlington", region: "Virginia", type: "visited" },
-    { lat: 38.0293, lng: -78.4767, name: "Charlottesville", region: "Virginia", type: "visited" },
-    { lat: 38.9182, lng: -78.1944, name: "Front Royal", region: "Virginia", type: "visited" },
-    { lat: 38.3498, lng: -81.6326, name: "Charleston", region: "West Virginia", type: "visited" },
-    { lat: 38.4251, lng: -79.8164, name: "Green Bank", region: "West Virginia", type: "visited" },
-    { lat: 38.9072, lng: -77.0369, name: "Washington", region: "DC", type: "visited" },
-    { lat: 43.4799, lng: -110.7624, name: "Jackson", region: "Wyoming", type: "visited" },
-    { lat: 44.6621, lng: -111.1041, name: "West Yellowstone", region: "Montana", type: "visited" },
-    { lat: 45.2033, lng: -111.6786, name: "Cameron", region: "Montana", type: "visited" },
-
-    { lat: 49.2827, lng: -123.1207, name: "Vancouver", region: "Canada", type: "visited" },
-
-    { lat: 15.4909, lng: 73.8278, name: "Panaji", region: "Goa", type: "visited" },
-    { lat: 28.4595, lng: 77.0266, name: "Gurugram", region: "Haryana", type: "visited" },
-    { lat: 29.3909, lng: 76.9635, name: "Panipat", region: "Haryana", type: "visited" },
-    { lat: 31.1048, lng: 77.1734, name: "Shimla", region: "Himachal Pradesh", type: "visited" },
-    { lat: 32.2432, lng: 77.1892, name: "Manali", region: "Himachal Pradesh", type: "visited" },
-    { lat: 32.0096, lng: 77.3147, name: "Kasol", region: "Himachal Pradesh", type: "visited" },
-    { lat: 30.8876, lng: 77.0782, name: "Barog", region: "Himachal Pradesh", type: "visited" },
-    { lat: 32.0250, lng: 77.4000, name: "Sosan", region: "Himachal Pradesh", type: "visited" },
-    { lat: 32.2190, lng: 76.3234, name: "Dharamshala", region: "Himachal Pradesh", type: "visited" },
-    { lat: 30.9010, lng: 76.9650, name: "Kasauli", region: "Himachal Pradesh", type: "visited" },
-    { lat: 32.5387, lng: 75.9710, name: "Dalhousie", region: "Himachal Pradesh", type: "visited" },
-    { lat: 12.9716, lng: 77.5946, name: "Bengaluru", region: "Karnataka", type: "visited" },
-    { lat: 19.8135, lng: 85.8312, name: "Puri", region: "Odisha", type: "visited" },
-    { lat: 26.9124, lng: 75.7873, name: "Jaipur", region: "Rajasthan", type: "visited" },
-    { lat: 27.3389, lng: 88.6065, name: "Gangtok", region: "Sikkim", type: "visited" },
-    { lat: 17.3850, lng: 78.4867, name: "Hyderabad", region: "Telangana", type: "visited" },
-    { lat: 30.3165, lng: 78.0322, name: "Dehradun", region: "Uttarakhand", type: "visited" },
-    { lat: 30.0869, lng: 78.2676, name: "Rishikesh", region: "Uttarakhand", type: "visited" },
-    { lat: 30.4598, lng: 78.0644, name: "Mussoorie", region: "Uttarakhand", type: "visited" },
-    { lat: 29.3919, lng: 79.4542, name: "Nainital", region: "Uttarakhand", type: "visited" },
-    { lat: 26.8467, lng: 80.9462, name: "Lucknow", region: "Uttar Pradesh", type: "visited" },
-    { lat: 27.1767, lng: 78.0081, name: "Agra", region: "Uttar Pradesh", type: "visited" },
-    { lat: 28.5355, lng: 77.3910, name: "Noida", region: "Uttar Pradesh", type: "visited" },
-    { lat: 27.0410, lng: 88.2663, name: "Darjeeling", region: "West Bengal", type: "visited" },
-
-    { lat: -8.3405, lng: 115.0920, name: "Bali", region: "Indonesia", type: "visited" },
-    { lat: 28.2096, lng: 83.9856, name: "Pokhara", region: "Nepal", type: "visited" },
-    { lat: 1.3521, lng: 103.8198, name: "Singapore", region: "Singapore", type: "visited" },
-    { lat: 13.7563, lng: 100.5018, name: "Bangkok", region: "Thailand", type: "visited" },
-    { lat: 7.7407, lng: 98.7784, name: "Phi Phi Island", region: "Thailand", type: "visited" },
-    { lat: 7.8804, lng: 98.3923, name: "Phuket", region: "Thailand", type: "visited" },
-    { lat: 25.2048, lng: 55.2708, name: "Dubai", region: "United Arab Emirates", type: "visited" },
-    { lat: 48.8566, lng: 2.3522, name: "Paris", region: "France", type: "visited" },
-    { lat: 49.3988, lng: 8.6724, name: "Heidelberg", region: "Germany", type: "visited" },
-    { lat: 50.1109, lng: 8.6821, name: "Frankfurt", region: "Germany", type: "visited" },
-    { lat: 49.3173, lng: 8.4412, name: "Speyer", region: "Germany", type: "visited" },
-    { lat: 47.3769, lng: 8.5417, name: "Zurich", region: "Switzerland", type: "visited" }
-  ];
-
+  var places = {{ site.data.travel_places | jsonify }};
   var livedLocations = places.filter(function (place) {
     return place.type === "lived";
   });
@@ -232,7 +87,16 @@ permalink:  /travel/
     .pointsTransitionDuration(120)
     .pointLabel(function (d) {
       var loc = d.region && d.region !== d.name ? d.name + ", " + d.region : d.name;
-      return "<div style=\"font-size:12px; padding:2px 4px;\">" + loc + "</div>";
+      var tooltip = document.createElement("div");
+      tooltip.style.cssText = "font-size:12px; padding:2px 4px;";
+      tooltip.textContent = loc;
+      (d.national_parks || []).forEach(function (name) {
+        var park = document.createElement("div");
+        park.style.cssText = "font-size:11px; margin-top:4px;";
+        park.textContent = name + " National Park";
+        tooltip.appendChild(park);
+      });
+      return tooltip.outerHTML;
     })
     .width(el.clientWidth)
     .height(600);
@@ -354,80 +218,33 @@ permalink:  /travel/
 })();
 </script>
 
-<style>
-.travel-stats {
-  margin: 32px 0 24px;
-  padding: 22px 22px 18px;
-  border: 1px solid var(--border-color, rgba(128, 128, 128, 0.25));
-  border-radius: 14px;
-  background: linear-gradient(145deg, var(--bg-secondary, rgba(128, 128, 128, 0.08)), rgba(244, 185, 66, 0.06));
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-}
-.travel-stats h2 {
-  margin: 0 0 18px;
-  font-size: 1.1em;
-  letter-spacing: 0.01em;
-}
-.travel-stat { margin: 16px 0; }
-.travel-stat-label {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  margin-bottom: 7px;
-  font-size: 0.9em;
-  color: var(--text-secondary);
-}
-.travel-stat-value {
-  color: var(--text-primary);
-  font-size: 0.86em;
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
-  white-space: nowrap;
-}
-.travel-stat-track {
-  height: 11px;
-  overflow: hidden;
-  border-radius: 999px;
-  background: rgba(128, 128, 128, 0.16);
-  border: 1px solid rgba(128, 128, 128, 0.18);
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.12);
-}
-.travel-stat-fill {
-  position: relative;
-  height: 100%;
-  border-radius: inherit;
-  background: linear-gradient(90deg, #06b6d4 0%, #2563eb 100%);
-  box-shadow: 0 0 10px rgba(37, 99, 235, 0.3);
-}
-.travel-stat-fill::after {
-  content: "";
-  position: absolute;
-  inset: 1px 0 auto;
-  height: 2px;
-  border-radius: inherit;
-  background: rgba(255, 255, 255, 0.45);
-}
-</style>
+{% assign visited_parks = '' | split: ',' %}
+{% for place in site.data.travel_places %}
+  {% if place.national_parks %}{% assign visited_parks = visited_parks | concat: place.national_parks %}{% endif %}
+{% endfor %}
+{% assign visited_parks = visited_parks | uniq | sort %}
 
-<div class="travel-stats" aria-label="Travel progress">
-  <h2>Travel progress</h2>
-  <div class="travel-stat">
-    <div class="travel-stat-label"><span>Countries</span><span class="travel-stat-value">11 / 195 · 6%</span></div>
-    <div class="travel-stat-track" role="progressbar" aria-label="Countries visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="6"><div class="travel-stat-fill" style="width:6%"></div></div>
+<section class="travel-stats" aria-labelledby="travel-stats-title">
+  <header class="travel-stats-heading">
+    <span class="section-index">STILL EXPLORING</span>
+    <h2 id="travel-stats-title">The journey so far</h2>
+  </header>
+  <div class="travel-stats-grid">
+    {% for stat in site.data.travel_stats %}
+    {% assign stat_count = stat.count %}
+    {% if stat.source == 'national_parks' %}{% assign stat_count = visited_parks | size %}{% endif %}
+    {% if stat.total %}{% assign percent = stat_count | times: 100.0 | divided_by: stat.total %}{% endif %}
+    <div class="travel-stat">
+      <h3>{{ stat.title }}</h3>
+      <p class="travel-stat-number">{{ stat_count }}{% if stat.total %} <span>/ {{ stat.total }}</span>{% endif %}</p>
+      <div class="travel-stat-detail"><span>{{ stat.unit }}</span>{% if stat.total %}<span>{{ percent | round }}%</span>{% endif %}</div>
+      {% if stat.total %}
+      <div class="travel-stat-track" role="progressbar" aria-label="{{ stat.label }}" aria-valuemin="0" aria-valuemax="{{ stat.total }}" aria-valuenow="{{ stat_count }}" aria-valuetext="{{ stat_count }} of {{ stat.total }} {{ stat.unit }} visited">
+        <div class="travel-stat-fill" style="width: {{ percent }}%"></div>
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
   </div>
-  <div class="travel-stat">
-    <div class="travel-stat-label"><span>Continents</span><span class="travel-stat-value">3 / 7 · 43%</span></div>
-    <div class="travel-stat-track" role="progressbar" aria-label="Continents visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="43"><div class="travel-stat-fill" style="width:43%"></div></div>
-  </div>
-  <div class="travel-stat">
-    <div class="travel-stat-label"><span>United States</span><span class="travel-stat-value">28 / 50 states · 56%</span></div>
-    <div class="travel-stat-track" role="progressbar" aria-label="United States states visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="56"><div class="travel-stat-fill" style="width:56%"></div></div>
-  </div>
-  <div class="travel-stat">
-    <div class="travel-stat-label"><span>India</span><span class="travel-stat-value">12 / 36 states &amp; UTs · 33%</span></div>
-    <div class="travel-stat-track" role="progressbar" aria-label="India states and union territories visited" aria-valuemin="0" aria-valuemax="100" aria-valuenow="33"><div class="travel-stat-fill" style="width:33%"></div></div>
-  </div>
-</div>
-
-<span class="list-item"><a href="/100_things/">List of things I want to do in my lifetime</a></span>
+  <a class="text-link" href="/100_things/">More to explore: my list of 100 things <span aria-hidden="true">→</span></a>
+</section>

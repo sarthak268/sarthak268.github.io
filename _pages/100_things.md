@@ -4,6 +4,12 @@ title:      100 Things
 permalink:  /100_things/
 ---
 
+{% assign visited_parks = '' | split: ',' %}
+{% for place in site.data.travel_places %}
+  {% if place.national_parks %}{% assign visited_parks = visited_parks | concat: place.national_parks %}{% endif %}
+{% endfor %}
+{% assign park_count = visited_parks | uniq | size %}
+
 <span class="list-item">Inspired by <a href="https://huyenchip.com/list-100/">Chip Huyen's List 100</a>. Life's short - here's what I want to do with it.</span>
 
 <style>
@@ -120,7 +126,7 @@ permalink:  /100_things/
 <span class="list-item">58. Explore the caves in Vietnam</span><br>
 <span class="list-item">59. Visit Banff National Park</span><br>
 <span class="list-item">60. Guest lecture at a university</span><br>
-<span class="list-item">61. Visit 20 national parks in the US (15 / 20)</span><br>
+<span class="list-item">61. {% if park_count >= 20 %}<s>Visit 20 national parks in the US</s> ({{ park_count }} visited){% else %}Visit 20 national parks in the US ({{ park_count }} / 20){% endif %}</span><br>
 <span class="list-item">62. Go on a solo hike</span><br>
 <span class="list-item">63. Go shark cage diving</span><br>
 <span class="list-item">64. <s>Wine at Napa Valley</s> (Castello di Amorosa — turns out I'm a wine person now)</span><br>

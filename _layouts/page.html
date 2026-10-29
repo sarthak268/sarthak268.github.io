@@ -2,12 +2,16 @@
 layout: default
 ---
 
-<article class="post">
-    <div class="row">
-        <div class="col-xs-12">
-            <h1 class="content">{{page.title}}</h1>
-        </div>
-    </div>
+<article class="post{% if page.url == '/' %} home-page{% endif %}{% if page.url == '/misc/' or page.url == '/activity/' %} text-list-page{% endif %}">
+    {% if page.title and page.title != '' %}
+    <header class="page-intro">
+        <p class="section-index">{{ site.name }}</p>
+        <h1 class="content">{{ page.title }}</h1>
+        {% assign intro = site.data.page_intros[page.url] %}
+        {% if intro %}<p class="page-description">{{ intro }}</p>{% endif %}
+        {% if page.intro_note %}<p class="page-note">{{ page.intro_note | escape }}</p>{% endif %}
+    </header>
+    {% endif %}
     <section class="post-content">
         {{ content }}
     </section>

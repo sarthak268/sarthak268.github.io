@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+- title: Journey
+  url: /journey/
+- title: Publications
+  url: /publications/
+- title: Bookshelf
+  url: /bookshelf/
+- title: Misc
+  url: /misc/
+- title: Travel
+  url: /travel/
+- title: Photography
+  url: https://www.instagram.com/shot.by.sarthak/
+  external: true
+- title: Activity
+  url: /activity/

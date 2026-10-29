@@ -1,5 +1,5 @@
 ---
-layout:     art
+layout:     null
 title:      Tatters
 permalink:  /art/tatters
 ---

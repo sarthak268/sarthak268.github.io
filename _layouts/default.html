@@ -1,238 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% assign page_title = page.title | default: site.name %}
+        {% assign route_description = site.data.page_intros[page.url] %}
+        {% assign page_description = page.description | default: page.excerpt | default: route_description | default: site.description | strip_html | normalize_whitespace %}
+        {% assign page_image = page.logo | default: '/img/me.jpg' %}
+        <title>{% if page.title and page.title != '' %}{{ page.title | escape }} · {% endif %}{{ site.name }}</title>
+        <meta name="author" content="{{ site.author.name | escape }}">
+        <meta name="description" content="{{ page_description | escape }}">
+        <meta name="theme-color" content="#121212">
+        <link rel="canonical" href="{{ page.url | absolute_url }}">
+        <meta property="og:title" content="{{ page_title | escape }}">
+        <meta property="og:description" content="{{ page_description | escape }}">
+        <meta property="og:url" content="{{ page.url | absolute_url }}">
+        <meta property="og:site_name" content="{{ site.name }}">
+        <meta property="og:image" content="{{ page_image | absolute_url }}">
+        <meta property="og:image:alt" content="{{ site.name }}">
+        <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+        {% if page.date %}<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{ page_title | escape }}">
+        <meta name="twitter:description" content="{{ page_description | escape }}">
+        <meta name="twitter:image" content="{{ page_image | absolute_url }}">
+        <meta name="twitter:creator" content="@sarthak__bhagat">
         <link rel="icon" type="image/png" sizes="32x32" href="/ico/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/ico/favicon-16x16.png">
-
-        <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-        <meta name="author" content="{{ site.author.name }}">
-        <meta name="keywords" content="yoda, sarthak268, sarthak bhagat, sdslabs, jekyll, deep learning, computer vision, neural networks, cmu, iiit, machine learning">
-        {% if page.excerpt %}
-        <meta name="description" content="{{ page.excerpt }}">
-        {% else %}
-        <meta name="description" content="{{ site.description }}">
-        {% endif %}
-        <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/atom.xml" />
-        <!--Open Graph Related Stuff-->
-        <meta property="fb:app_id" content="1666933880208467"/>
-        <meta property="og:title" content="{{ page.title }}"/>
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-        {% if page.excerpt %}
-        <meta name='og:description' content='{{ page.excerpt }}'/>
-        {% else %}
-        <meta name='og:description' content='{{ site.description }}'/>
-        {% endif %}
-        {% if page.date %}
-        <meta property="og:type" content="article"/>
-        <meta property="article:published_time" content='{{ page.date | date: "%Y-%m-%d" }}'/>
-        <!-- <meta property="article:publisher" content="https://www.facebook.com/abhshkdz"/> -->
-        <!-- <meta property="article:author" content="abhshkdz"/> -->
-        {% endif %}
-        <meta property="og:site_name" content="{{ site.name }}"/>
-        {% if page.logo %}
-        <meta property="og:image" content="{{ site.url }}{{ page.logo }}"/>
-        <meta property="og:image:url" content="{{ site.url }}{{ page.logo }}"/>
-        {% else %}
-        <meta property="og:image" content="http://sarthak268.github.io/img/avatar.jpg"/>
-        <meta property="og:image:url" content="http://sarthak268.github.io/img/avatar.jpg"/>
-        {% endif %}
-
-        <!--Twitter Card Stuff-->
-        <meta name='twitter:card' content='summary_large_image'/>
-        {% if page.title %}
-        <meta name='twitter:title' content='{{ page.title }}'/>
-        {% else %}
-        <meta name='twitter:title' content='{{ site.name }}'/>
-        {% endif %}
-        {% if page.logo %}
-        <meta name='twitter:image' content='{{ site.url }}{{ page.logo }}'/>
-        {% else %}
-        <meta name='twitter:image' content='http://sarthak268.github.io/img/avatar.jpg'/>
-        {% endif %}
-        <meta name='twitter:creator' content='@sarthak__bhagat'/>
-        <meta name='twitter:site' content='@sarthak__bhagat'/>
-        <meta name='twitter:url' content='{{ site.url }}{{ page.url }}'/>
-        {% if page.excerpt %}
-        <meta name='twitter:description' content='{{ page.excerpt }}'/>
-        {% else %}
-        <meta name='twitter:description' content='{{ site.description }}'/>
-        {% endif %}
-
+        <link rel="manifest" href="/ico/manifest.json">
+        <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ '/atom.xml' | absolute_url }}">
+        <link rel="preload" href="/font/avenirnext-regular.woff" as="font" type="font/woff" crossorigin>
+        <script>
+            // Apply the saved theme before paint; storage can be blocked in private browsers.
+            (function () {
+                var theme = 'dark';
+                try {
+                    var saved = localStorage.getItem('theme');
+                    if (saved === 'light' || saved === 'dark') theme = saved;
+                } catch (error) {}
+                document.documentElement.setAttribute('data-theme', theme);
+                document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#121212' : '#faf9f6';
+            })();
+        </script>
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/main_1603233531.css">
         <link rel="stylesheet" href="/css/motion.css">
+        <link rel="stylesheet" href="/css/site.css">
+        <script src="/js/site.js" defer></script>
         <script src="/js/motion.js" defer></script>
-        <script>
-            // Initialize theme before page renders to prevent flash
-            (function() {
-                const savedTheme = localStorage.getItem('theme');
-                const theme = savedTheme || 'dark';
-                if (theme === 'dark') {
-                    document.documentElement.setAttribute('data-theme', 'dark');
-                }
-                // Update meta theme-color
-                const metaTheme = document.querySelector('meta[name="theme-color"]');
-                if (metaTheme) {
-                    metaTheme.content = theme === 'dark' ? '#121212' : '#ffffff';
-                }
-            })();
-        </script>
-        <!--[if IE 7]>
-            <html class="ie7">
-            <link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
-        <![endif]-->
-        <!--[if IE 8]><html class="ie8"> <![endif]-->
-        <!--[if lt IE 9]>
-          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-
-        <!-- <link rel="apple-touch-icon" sizes="57x57" href="/ico/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="/ico/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="/ico/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="/ico/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="/ico/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="/ico/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="/ico/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="/ico/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="/ico/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="/ico/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/ico/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="/ico/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/ico/favicon-16x16.png">
-        <link rel="shortcut icon" href="/ico/favicon-96x96.png"> -->
-        <link rel="manifest" href="/ico/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <!-- <meta name="msapplication-TileImage" content="/ico/ms-icon-144x144.png"> -->
-        <meta name="theme-color" content="#121212">
-
-        <!--Authorship-->
-        <link rel="me" href="//plus.google.com/u/0/100610196494221761914/">
-        <link rel="me" href="//facebook.com/abhshkdz">
-
-        <!--[if lt IE 9]>
-            <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-        <![endif]-->
-
     </head>
     <body>
-        <!-- Header
-            ================================================== -->
-        <div class="top-strip"></div>
-        <div class="container">
-            <div class="page-header">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <h1 id="name-block"><a href="/">Sarthak Bhagat</b></a></h1>
-                    </div>
-                    <div class="col-xs-12">
-                        <ul class="nav-bar">
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/journey">Journey</a></li>
-                            <!-- <li><a href="/news">News</a></li> -->
-                            <!-- <li><a target="_blank" href="https://drive.google.com/file/d/1nObeNzl-sTy8I5QN1Jv8wscebKLv-6RY/view?usp=sharing">CV</a></li> -->
-                            <!-- <li><a href="/archive">Blog</a></li> -->
-                            <!-- <li><a href="/#/publications">Publications</a></li> -->
-                            <!-- <li class="hide-link-on-small-screens"><a href="/publications">Publications</a></li>
-                            <li class="hide-link-on-small-screens"><a href="/bookshelf">Bookshelf</a></li>
-                            <li class="hide-link-on-small-screens"><a href="/misc">Misc</a></li>
-                            <li class="hide-link-on-small-screens"><a href="/travel">Travel</a></li>
-                            <li class="hide-link-on-small-screens"><a href="/activity">Activity</a></li> -->
-                            <li><a href="/publications">Publications</a></li>
-                            <li><a href="/bookshelf">Bookshelf</a></li>
-                            <li><a href="/misc">Misc</a></li>
-                            <li><a href="/travel">Travel</a></li>
-                            <li><a href="https://www.instagram.com/shot.by.sarthak/" target="_blank">Photography</a></li>
-                            <li><a href="/activity">Activity</a></li>
-                            <!-- <li><a target="_blank" href="//github.com/sarthak268">GitHub</a></li>
-                            <li><a target="_blank" href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
-                            <li><a target="_blank" href="//twitter.com/sarthak__bhagat">Twitter</a></li> -->
-                            <!-- <li><a target="_blank" href="//x.abhishekdas.com">Tumblr</a></li> -->
-                            <!-- <li class="hide-link-on-small-screens"><a target="_blank" href="//mastodon.social/web/accounts/1011404">Mastodon</a></li> -->
-                            <!-- <li class="hide-link-on-small-screens"><a target="_blank" href="//instagram.com/abhshkdz">Instagram</a></li> -->
-                            <li class="theme-toggle-wrapper">
-                                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
-                                    <span class="icon-moon">&#9790;</span>
-                                    <span class="icon-sun">&#9788;</span>
-                                </button>
-                            </li>
-                        </ul>
-                    </div>
+        <a class="skip-link" href="#main-content">Skip to content</a>
+        <header class="site-header container">
+            <div class="header-top">
+                <div class="site-identity">
+                    <p id="name-block"><a href="/">Sarthak Bhagat</a></p>
+                </div>
+                <div class="header-controls">
+                    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to light mode">
+                        <span class="icon-moon" aria-hidden="true">&#9790;</span>
+                        <span class="icon-sun" aria-hidden="true">&#9788;</span>
+                    </button>
+                    <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu <span aria-hidden="true">+</span></button>
                 </div>
             </div>
-            <div class="page-content">
-                {{ content }}
+            <nav id="site-nav" aria-label="Main navigation">
+                <ul class="nav-bar">
+                    {% for item in site.data.navigation %}
+                    <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}{% if item.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}{% if item.external %}<span class="external-mark" aria-hidden="true"> ↗</span>{% endif %}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </header>
+        <main id="main-content" class="container page-content" tabindex="-1">
+            {{ content }}
+        </main>
+        <footer class="container">
+            <div class="page-footer">
+                <p>{{ site.name }}<span>Always a work in progress.</span></p>
+                <nav aria-label="Social profiles">
+                    <a href="https://github.com/sarthak268" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+                    <a href="https://scholar.google.com/citations?hl=en&amp;user=SLRQlXEAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer">Scholar <span aria-hidden="true">↗</span></a>
+                    <a href="https://www.linkedin.com/in/sarthak-bhagat-1b5206135/" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+                    <a href="https://twitter.com/sarthak__bhagat" target="_blank" rel="noopener noreferrer">X <span aria-hidden="true">↗</span></a>
+                </nav>
             </div>
-        </div>
-
-
-        <!-- Footer
-            ================================================== -->
-        <div class="container">
-            <div class="page-footer" style="text-align: center; padding: 20px 0;">
-                <a href="https://twitter.com/sarthak__bhagat" target="_blank"><img src="/img/twitter.svg?v=2" alt="Twitter" class="social-icon" style="width: 20px; height: 16px;"></a>
-                <a href="https://github.com/sarthak268" target="_blank"><img src="/img/github.jpg" alt="GitHub" class="social-icon" style="width: 20px; height: 20px;"></a>
-                <a href="https://scholar.google.com/citations?hl=en&user=SLRQlXEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="/img/google_scholar.png" alt="Google Scholar" class="social-icon social-icon-color" style="width: 24px; height: 20px;"></a>
-                <a href="https://www.linkedin.com/in/sarthak-bhagat-1b5206135/" target="_blank"><img src="/img/linkedin.png" alt="LinkedIn" class="social-icon social-icon-color" style="width: 20px; height: 20px;"></a>
-            </div>
-        </div>
-
-        <!-- Javascripts
-            ================================================= -->
-
-        <!-- Analytics
-        ================================================== -->
-        <script>
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-42127951-1']);
-            _gaq.push(['_trackPageview']);
-
-            (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-
-        </script>
-
-        <!-- Dark mode toggle script -->
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                const themeToggle = document.getElementById('theme-toggle');
-
-                function setTheme(theme) {
-                    if (theme === 'dark') {
-                        document.documentElement.setAttribute('data-theme', 'dark');
-                    } else {
-                        document.documentElement.removeAttribute('data-theme');
-                    }
-                    localStorage.setItem('theme', theme);
-                    // Update meta theme-color
-                    const metaTheme = document.querySelector('meta[name="theme-color"]');
-                    if (metaTheme) {
-                        metaTheme.content = theme === 'dark' ? '#121212' : '#ffffff';
-                    }
-                }
-
-                themeToggle.addEventListener('click', function() {
-                    const currentTheme = document.documentElement.getAttribute('data-theme');
-                    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-                    setTheme(newTheme);
-                });
-
-                // Listen for system theme changes
-                window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-                    if (!localStorage.getItem('theme')) {
-                        setTheme(e.matches ? 'dark' : 'light');
-                    }
-                });
-            });
-        </script>
-
+        </footer>
         <!-- News "Show more" batch reveal -->
         <script>
             document.addEventListener('DOMContentLoaded', function() {

@@ -2,6 +2,7 @@
 layout:     page
 title:       Publications
 permalink:  /publications/
+intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
 ---
 
 <style>

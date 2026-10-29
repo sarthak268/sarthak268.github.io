@@ -117,37 +117,6 @@ function initializeMotion() {
   }
 
   const photo = document.querySelector('.portrait-photo');
-  const shelfRoot = document.querySelector('#shelf-root');
-  if (shelfRoot) {
-    const discovery = document.createElement('div');
-    discovery.className = 'book-discovery';
-    const heading = document.createElement('span');
-    heading.className = 'book-discovery-title';
-    heading.textContent = 'Need a suggestion?';
-    const pick = document.createElement('button');
-    pick.type = 'button';
-    pick.className = 'book-pick';
-    pick.textContent = 'Pick a random book';
-    pick.title = 'Let the bookshelf choose something for you';
-    const announcement = document.createElement('span');
-    announcement.className = 'sr-only';
-    announcement.setAttribute('role', 'status');
-    let selected;
-    pick.addEventListener('click', () => {
-      const books = [...document.querySelectorAll('.book-card')].filter(book =>
-        book !== selected && book.getClientRects().length > 0
-      );
-      if (!books.length) return;
-      selected?.classList.remove('book-picked');
-      selected = books[Math.floor(Math.random() * books.length)];
-      selected.classList.add('book-picked');
-      selected.scrollIntoView({ behavior: preference.matches ? 'auto' : 'smooth', block: 'center', inline: 'center' });
-      selected.focus({ preventScroll: true });
-      announcement.textContent = `Selected ${selected.querySelector('.book-card-title')?.textContent || 'a book'}. Press Enter to open it.`;
-    });
-    discovery.append(heading, pick, announcement);
-    shelfRoot.after(discovery);
-  }
   if (photo) {
     const reset = () => {
       photo.style.removeProperty('--tilt-x');

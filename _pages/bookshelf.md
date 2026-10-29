@@ -410,31 +410,33 @@ Here lies a cherished collection (a subset) of the books that have captivated my
 </script>
 
 <details class="bookshelf-section">
-<summary>🎙️ Podcasts & Talks</summary>
-<span class="list-item">When I'm not reading, I'm probably listening to one of these podcasts or talks:</span>
-<p>
-<span class="book-entry">1. <a href="https://open.spotify.com/episode/6nE2aDcXQye5R402hYIbGI">David Deutsch and Naval Ravikant - The Tim Ferriss Show</a></span>
-<span class="book-entry">2. <a href="https://open.spotify.com/episode/3ijkVfaht5kcFPvHcCbYYD">Joe Rogan Experience #1309 - Naval Ravikant</a></span>
-<span class="book-entry">3. <a href="https://open.spotify.com/episode/2f1cO0R0P2UOTI5rCcg0qH">Why Rejection is Awesome - Talks at Google (Ep369)</a></span>
-<span class="book-entry">4. <a href="https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m">How To Get Rich: Every Episode - Naval</a></span>
-<span class="book-entry">5. <a href="https://open.spotify.com/episode/1ikGgmQzkw1OsCxKcHwlxq">Sara Imari Walker #2184 - Joe Rogan</a></span>
-<span class="book-entry">6. <a href="https://open.spotify.com/episode/1hGNQQhkuoewA6TNK3KOAc">Naval Ravikant: The Beginning of Infinity - Arjun Khemani</a></span>
-<span class="book-entry">7. <a href="https://open.spotify.com/episode/67fjltTOUn6ypGqXHcPRXi">Joe Rogan Experience #2217 - Brian Cox</a></span>
-<span class="book-entry">8. Brian Cox: Why black holes could hold the secret to time and space - Big Think</span>
-<span class="book-entry">9. <a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></span>
-<span class="book-entry">10. <a href="https://open.spotify.com/episode/3KSOxrjalScxHFQF9u8M46">Lex Fridman Podcast #468 - Janna Levin</a></span>
-<span class="book-entry">11. <a href="https://open.spotify.com/episode/2lqNevhLx08QPmvCLjhS4g">Hardcore History: Supernova in the East - Dan Carlin</a></span>
-<span class="book-entry">12. <a href="https://open.spotify.com/episode/3CUzPLZC4OEj9aROCEiEAe">Joe Rogan Experience #1003 - Sean Carroll</a></span>
-</p>
+<summary>Podcasts &amp; talks</summary>
+<p class="bookshelf-media-intro">When I'm not reading, I'm probably listening to one of these podcasts or talks:</p>
+<ol class="bookshelf-media-list">
+    <li><a href="https://open.spotify.com/episode/6nE2aDcXQye5R402hYIbGI">David Deutsch and Naval Ravikant - The Tim Ferriss Show</a></li>
+    <li><a href="https://open.spotify.com/episode/3ijkVfaht5kcFPvHcCbYYD">Joe Rogan Experience #1309 - Naval Ravikant</a></li>
+    <li><a href="https://open.spotify.com/episode/2f1cO0R0P2UOTI5rCcg0qH">Why Rejection is Awesome - Talks at Google (Ep369)</a></li>
+    <li><a href="https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m">How To Get Rich: Every Episode - Naval</a></li>
+    <li><a href="https://open.spotify.com/episode/1ikGgmQzkw1OsCxKcHwlxq">Sara Imari Walker #2184 - Joe Rogan</a></li>
+    <li><a href="https://open.spotify.com/episode/1hGNQQhkuoewA6TNK3KOAc">Naval Ravikant: The Beginning of Infinity - Arjun Khemani</a></li>
+    <li><a href="https://open.spotify.com/episode/67fjltTOUn6ypGqXHcPRXi">Joe Rogan Experience #2217 - Brian Cox</a></li>
+    <li>Brian Cox: Why black holes could hold the secret to time and space - Big Think</li>
+    <li><a href="https://sarthak268.github.io/bookshelf/lex_elon_252/">Lex Fridman Podcast #252 - Elon Musk</a></li>
+    <li><a href="https://open.spotify.com/episode/3KSOxrjalScxHFQF9u8M46">Lex Fridman Podcast #468 - Janna Levin</a></li>
+    <li><a href="https://open.spotify.com/episode/2lqNevhLx08QPmvCLjhS4g">Hardcore History: Supernova in the East - Dan Carlin</a></li>
+    <li><a href="https://open.spotify.com/episode/3CUzPLZC4OEj9aROCEiEAe">Joe Rogan Experience #1003 - Sean Carroll</a></li>
+</ol>
 </details>
 
 <details class="bookshelf-section">
-<summary>🎬 Documentaries</summary>
-<span class="list-item">And a few documentaries that left a mark:</span>
-<p>
-<span class="book-entry">1. <a href="https://youtu.be/d95J8yzvjbQ?si=rX04eGo_SIrlgyZZ">The Thinking Game</a>: the story of DeepMind and Demis Hassabis 🧠</span>
-</p>
+<summary>Documentaries</summary>
+<p class="bookshelf-media-intro">And a few documentaries that left a mark:</p>
+<ol class="bookshelf-media-list">
+    <li><a href="https://youtu.be/d95J8yzvjbQ?si=rX04eGo_SIrlgyZZ">The Thinking Game: the story of DeepMind and Demis Hassabis 🧠</a></li>
+</ol>
 </details>
 
-<br>
-<span class="list-item">Got a book I should read? [I'm all ears.](//twitter.com/@sarthak__bhagat)</span><br>
+<div class="book-recommendation">
+    <p>What should I read next?</p>
+    <a class="text-link" href="https://twitter.com/sarthak__bhagat" target="_blank" rel="noopener noreferrer">Send me a recommendation <span aria-hidden="true">↗</span></a>
+</div>

@@ -1,9 +1,11 @@
 encoding: utf-8
 name: Sarthak Bhagat
-url: http://sarthak268.github.io
+url: https://sarthak268.github.io
 author:
   name: Sarthak Bhagat
   email: sarthakb@andrew.cmu.edu
-description: MSR, CMU. 
+description: Sarthak Bhagat — robotics and machine learning researcher, building scientific superintelligence at Warp Sciences.
 permalink: /posts/:title/
 include: ['_pages']
+
+exclude: [Gemfile, Gemfile.lock, README.md, scripts]
