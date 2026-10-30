@@ -1,0 +1,112 @@
+---
+layout: null
+title: X Scholar
+permalink: /x-scholar/
+---
+{% assign scholar = site.data.x_scholar %}
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.name }} — X Scholar</title>
+    <meta name="description" content="Sarthak Bhagat's posts on X, presented as a Scholar profile. Robotics, AI, and scientific discovery.">
+    <meta property="og:title" content="Sarthak Bhagat — X Scholar">
+    <meta property="og:description" content="Thoughts on robotics, AI, and science. A Scholar-style collection of posts, ranked by likes.">
+    <meta property="og:image" content="{{ '/img/me.jpg' | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@sarthak__bhagat">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="icon" type="image/png" href="/ico/favicon-32x32.png">
+    <link rel="stylesheet" href="/css/x-scholar.css?v={{ site.time | date: '%s' }}">
+    <script src="/js/x-scholar.js?v={{ site.time | date: '%s' }}" defer></script>
+</head>
+<body>
+    <a class="skip-link" href="#scholar-posts">Skip to posts</a>
+    <header class="scholar-header">
+        <a class="scholar-brand" href="/x-scholar/" aria-label="X Scholar home"><span aria-hidden="true">𝕏</span> Scholar</a>
+        <a class="home-link" href="/">← Personal website</a>
+    </header>
+    <main class="scholar-layout">
+        <section class="scholar-profile" aria-labelledby="profile-name">
+            <img class="scholar-avatar" src="/img/me.jpg" alt="Sarthak Bhagat" width="104" height="104">
+            <div class="profile-copy">
+                <h1 id="profile-name">Sarthak Bhagat</h1>
+                <p class="profile-affiliation"><a href="https://warp.xyz" target="_blank" rel="noopener noreferrer">Warp Sciences</a></p>
+                <p class="profile-handle"><a href="https://x.com/sarthak__bhagat" target="_blank" rel="noopener noreferrer">@sarthak__bhagat</a> · Robotics &amp; AI for science</p>
+                <div class="profile-interests" aria-label="Search posts by topic">
+                    <a href="https://x.com/search?q=from%3Asarthak__bhagat%20robotics&amp;f=live">Robotics</a>
+                    <a href="https://x.com/search?q=from%3Asarthak__bhagat%20science&amp;f=live">Scientific discovery</a>
+                    <a href="https://x.com/search?q=from%3Asarthak__bhagat%20learning&amp;f=live">Machine learning</a>
+                </div>
+            </div>
+            <a class="follow-button" href="https://x.com/intent/follow?screen_name=sarthak__bhagat" target="_blank" rel="noopener noreferrer">Follow on X</a>
+        </section>
+        <aside class="scholar-metrics" aria-label="Post engagement statistics">
+            <h2>Liked by</h2>
+            <table class="metrics-table">
+                <caption class="sr-only">Metrics use likes instead of citations, from the indexed posts.</caption>
+                <thead><tr><td></td><th scope="col">All</th><th scope="col">Since {{ scholar.since_year }}</th></tr></thead>
+                <tbody>
+                    <tr><th scope="row">Likes</th><td>{{ scholar.metrics.likes }}</td><td>{{ scholar.recent_metrics.likes }}</td></tr>
+                    <tr><th scope="row"><abbr title="h posts with at least h likes each">h-index</abbr></th><td>{{ scholar.metrics.h_index }}</td><td>{{ scholar.recent_metrics.h_index }}</td></tr>
+                    <tr><th scope="row"><abbr title="Number of indexed posts with at least 10 likes">i10-index</abbr></th><td>{{ scholar.metrics.i10_index }}</td><td>{{ scholar.recent_metrics.i10_index }}</td></tr>
+                </tbody>
+            </table>
+            <p class="metrics-explainer">Likes in place of citations.</p>
+            <div class="yearly-chart">
+                <h3>Likes per year</h3>
+                <div class="chart-bars">
+                    {% for item in scholar.years %}
+                    <button type="button" class="chart-year" data-year="{{ item.year }}" aria-label="{{ item.year }}: {{ item.likes }} likes. Filter posts from this year." aria-pressed="false" disabled>
+                        <span class="chart-count">{{ item.likes }}</span>
+                        <span class="chart-track"><span class="chart-bar" style="height: {{ item.height }}%"></span></span>
+                        <span class="chart-label">{{ item.year }}</span>
+                    </button>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="snapshot-note">
+                <p><span class="snapshot-dot" aria-hidden="true"></span> {{ scholar.post_count }} posts indexed</p>
+                <p>Snapshot: <time datetime="{{ scholar.updated_date }}">{{ scholar.updated_date | date: '%b %-d, %Y' }}</time></p>
+                <p class="scope-note">Original posts and quote posts. Replies and reposts excluded. Metrics describe this collection.</p>
+            </div>
+            <nav class="profile-links" aria-label="More from Sarthak">
+                <a href="https://scholar.google.com/citations?user=SLRQlXEAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar, the real thing ↗</a>
+                <a href="https://x.com/sarthak__bhagat" target="_blank" rel="noopener noreferrer">View profile on X ↗</a>
+            </nav>
+        </aside>
+        <section id="scholar-posts" class="scholar-posts" aria-labelledby="posts-title" tabindex="-1">
+            <h2 id="posts-title" class="sr-only">Posts</h2>
+            <form class="post-tools" id="post-tools" role="search" hidden>
+                <label class="search-field"><span class="sr-only">Search posts</span><input id="post-search" type="search" placeholder="Search posts" autocomplete="off"></label>
+                <label><span class="sr-only">Filter by year</span><select id="post-year"><option value="">All years</option>{% assign reversed_years = scholar.years | reverse %}{% for item in reversed_years %}<option value="{{ item.year }}">{{ item.year }}</option>{% endfor %}</select></label>
+                <button id="post-export" class="export-button" type="button">Export CSV</button>
+            </form>
+            <div class="post-results-bar"><p id="post-result-count" role="status" aria-live="polite">{{ scholar.post_count }} posts</p><button id="clear-filters" type="button" hidden>Clear filters</button></div>
+            <table class="posts-table">
+                <caption class="sr-only">Original X posts sorted by likes. Select a title to read the original post.</caption>
+                <thead><tr>
+                    <th scope="col" data-sort="title" aria-sort="none"><button type="button" disabled>Title <span class="sort-arrow" aria-hidden="true"></span></button></th>
+                    <th scope="col" data-sort="likes" aria-sort="descending"><button type="button" disabled>Liked by <span class="sort-arrow" aria-hidden="true">↓</span></button></th>
+                    <th scope="col" data-sort="year" aria-sort="none"><button type="button" disabled>Year <span class="sort-arrow" aria-hidden="true"></span></button></th>
+                </tr></thead>
+                <tbody id="post-rows">
+                    {% for post in scholar.posts %}
+                    <tr data-id="{{ post.id }}" data-title="{{ post.title | escape }}" data-text="{{ post.text | escape }}" data-year="{{ post.year }}" data-date="{{ post.date }}" data-likes="{{ post.likes }}" data-url="{{ post.url }}">
+                        <td class="post-description"><a class="post-title" href="{{ post.url }}" target="_blank" rel="noopener noreferrer">{{ post.title | escape }}</a><p class="post-author">S Bhagat</p><p class="post-venue">X post · {{ post.date | date: '%b %-d, %Y' }}</p></td>
+                        <td class="post-likes"><a href="{{ post.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ post.likes }} likes. Open original post.">{% if post.likes != nil %}{{ post.likes }}{% else %}—{% endif %}</a></td>
+                        <td class="post-year">{{ post.year }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <p class="empty-results" id="empty-results" hidden>No posts match your search.</p>
+            <div class="posts-pagination"><button id="show-more-posts" type="button" hidden>Show more</button><span id="posts-range"></span></div>
+        </section>
+    </main>
+    <footer class="scholar-footer"><p>An independent, playful take on Google Scholar. Likes measure engagement, not academic citations.</p><p>Inspired by <a href="https://wenhaochai.com/pages/x-scholar.html" target="_blank" rel="noopener noreferrer">Wenhao Chai's X Scholar</a> · Public data via <a href="https://docs.fxembed.com" target="_blank" rel="noopener noreferrer">FxEmbed</a> · <a href="/">Back to my website</a></p></footer>
+</body>
+</html>

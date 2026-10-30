@@ -68,6 +68,7 @@ permalink:  /misc/
 
 ## Side Quests
 
+<span class="list-item">• [X Scholar: my posts, Google Scholar style](/x-scholar/) (inspired by [Wenhao Chai](https://wenhaochai.com/pages/x-scholar.html))</span><br>
 <span class="list-item">• [Grad Peer: Curated Resources for GRE/TOEFL](https://gradpeer.gumroad.com/)</span><br>
 <span class="list-item">• [Autonomous Driving Demonstration on Mahindra's e2o from 2018](https://youtu.be/Oei8r27vscQ)</span><br>
 <span class="list-item">• [Collaborate: Open-Source Project Management App](https://github.com/sarthak268/collaborate-app)</span><br>

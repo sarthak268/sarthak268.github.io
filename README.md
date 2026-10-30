@@ -33,3 +33,19 @@ provide the specialized bookshelf, travel, and publication layouts.
 The travel map uses `_data/travel_places.json`. Add confirmed park names to a
 location's `national_parks` array to update the national-park count automatically.
 The count uses unique park names, so multiple locations in one park count once.
+
+## X Scholar
+
+`/x-scholar/` presents a static snapshot of public X posts with likes-based
+metrics, search, sorting, year filters, and CSV export. Refresh the snapshot with:
+
+```sh
+python3 scripts/update_x_scholar.py
+```
+
+The updater uses the public FxTwitter API and writes `_data/x_scholar.json`
+atomically. Replies and reposts are excluded, and each post is checked against
+the profile's handle. The page remains available if the API is unavailable;
+statistics only change when the snapshot is refreshed and the site is rebuilt.
+Pinned or otherwise omitted posts can be retained across refreshes by adding
+their status IDs to `_data/x_scholar_includes.json`.
