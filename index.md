@@ -35,7 +35,7 @@ permalink: /
     </div>
 </section>
 
-<section class="home-section" aria-labelledby="research-title">
+<section class="home-section home-section-compact" aria-labelledby="research-title">
     <div class="section-heading">
         <span class="section-index" aria-hidden="true">02 / WORK &amp; RESEARCH</span>
         <h2 id="research-title">Learning to act<br>in the real world</h2>
@@ -60,13 +60,13 @@ permalink: /
     </div>
 </section>
 
-<section class="home-section" aria-labelledby="outside-title">
+<section class="home-section home-section-compact" aria-labelledby="outside-title">
     <div class="section-heading">
         <span class="section-index" aria-hidden="true">03 / BEYOND WORK</span>
         <h2 id="outside-title">Always curious</h2>
     </div>
     <div class="section-body">
-        <p class="outside-intro">Outside of work, I'm endlessly curious about physics, into football and tennis, and always looking for a great meal. You can find my food adventures on <a href="https://beliapp.co/app/sarthakbhagat">Beli</a>.</p>
+        <p class="outside-intro">Outside of work, I enjoy exploring physics, following football and tennis, and discovering great places to eat. My food finds are on <a href="https://beliapp.co/app/sarthakbhagat">Beli</a>.</p>
         <div class="explore-grid">
             <a class="explore-link" href="/bookshelf/"><span>Bookshelf <span aria-hidden="true">↗</span></span><small>What I'm reading</small></a>
             <a class="explore-link" href="/travel/"><span>Travel <span aria-hidden="true">↗</span></span><small>Places and perspectives</small></a>
