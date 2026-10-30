@@ -195,6 +195,15 @@ button { font-family: inherit; }
 .post-content .book-recommendation { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px 24px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--border-light); }
 .post section .book-recommendation p { margin: 0; font-size: 15px; color: var(--text-heading); }
 /* Travel counts share one compact grid; percentages derive from the source counts. */
+.post-content .things-progress { margin: 24px 0; padding: 18px 0; border-top: 1px solid var(--border-light); border-bottom: 1px solid var(--border-light); }
+.post-content .things-progress-summary { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin: 0; }
+.post .things-progress-count { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; margin: 0; line-height: 1.3; font-variant-numeric: tabular-nums; }
+.things-progress-number { font-size: 26px; font-weight: 600; color: var(--text-heading); }
+.things-progress-total { font-size: 16px; color: var(--text-secondary); }
+.things-progress-caption { margin-left: 4px; font-size: 12px; color: var(--text-secondary); }
+.things-progress-percent { font-size: 12px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+.post-content .things-progress-track { height: 4px; margin: 14px 0 0; overflow: hidden; border-radius: 4px; background: var(--border-light); }
+.post-content .things-progress-fill { height: 100%; width: calc(100% * 20 / 88); margin: 0; border-radius: inherit; background: var(--accent-blue); }
 .travel-stats { margin: 32px 0 24px; padding-top: 28px; border-top: 1px solid var(--border-light); }
 .post .travel-stats h2 { margin: 0 0 24px; font-size: 25px; line-height: 1.3; }
 .post .travel-stats div { margin-bottom: 0; }
