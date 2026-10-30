@@ -25,7 +25,7 @@ I also interned at the <a href="https://sutdbrain.wordpress.com/about/">SUTD Bra
             <div class="timeline-title"><a class="journey-logo-link" href="https://warp.xyz" aria-label="Warp Sciences"><img class="journey-logo journey-logo-image" src="/img/logos/warp-sciences.svg" alt="Warp Sciences logo"></a><span class="journey-title-text">Founding Team, <a href="https://warp.xyz">Warp Sciences</a></span></div>
             <ul class="timeline-details">
                 <li>Employee #1</li>
-                <li>Leading the robotics effort</li>
+                <li>Co-leading the robot learning effort</li>
             </ul>
         </div>
     </div>
