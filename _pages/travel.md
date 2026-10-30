@@ -14,7 +14,7 @@ permalink:  /travel/
   <span style="display:inline-flex; align-items:center;"><span style="display:inline-block; width:10px; height:10px; border-radius:50%; background:#e74c3c; margin-right:6px;"></span>Visited</span>
 </div>
 
-<div id="globeViz" style="width:100%; height:600px; margin:0 auto; cursor:grab;"></div>
+<div id="globeViz" style="width:100%; height:600px; margin:0 auto; cursor:pointer;"></div>
 
 <div id="travel-photo-modal" style="display:none; position:fixed; inset:0; z-index:1000; background:rgba(0,0,0,0.75); align-items:center; justify-content:center; padding:24px;">
   <div style="position:relative; max-width:540px; width:100%; max-height:90vh; overflow-y:auto; background:var(--bg-secondary); border-radius:8px; padding:16px;">
@@ -123,14 +123,9 @@ permalink:  /travel/
 
   el.addEventListener("pointerdown", function () {
     globe.controls().autoRotate = false;
-    el.style.cursor = "grabbing";
-  });
-  el.addEventListener("pointerup", function () {
-    el.style.cursor = "grab";
   });
 
   globe.onPointHover(function (point) {
-    el.style.cursor = point && point.posts && point.posts.length ? "pointer" : "grab";
     if (point !== hoveredPoint) {
       hoveredPoint = point;
       globe.pointRadius(pointRadius);
