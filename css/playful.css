@@ -1,0 +1,115 @@
+/* Small moments of motion. Layout, content, and links keep their usual behavior. */
+.reading-progress {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 1200;
+  height: 2px;
+  background: var(--accent-blue, #4d90fe);
+  transform: scaleX(0);
+  transform-origin: left;
+  pointer-events: none;
+}
+.playful-counter { display: inline-block; font-variant-numeric: tabular-nums; }
+.travel-stat-number > .playful-counter { font: inherit; letter-spacing: inherit; color: inherit; }
+.playful-sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0;
+}
+.work-item, .explore-link { position: relative; }
+.work-item::after {
+  content: ''; position: absolute; inset: auto 0 -1px; height: 1px;
+  background: var(--accent-blue); transform: scaleX(0); transform-origin: left;
+}
+.status-dot { position: relative; }
+.status-dot::after {
+  content: ''; position: absolute; inset: -6px;
+  border: 1px solid var(--accent-blue); border-radius: 50%; opacity: 0;
+  pointer-events: none;
+}
+.timeline-dot::after {
+  content: ''; position: absolute; inset: -6px;
+  border: 1px solid var(--accent-blue); border-radius: 50%; opacity: 0;
+  pointer-events: none;
+}
+.goal-item { position: relative; }
+.goal-item.is-complete::before {
+  content: '✓'; position: absolute; left: -16px; top: 0;
+  font-size: 10px; color: var(--accent-blue); opacity: 0; pointer-events: none;
+}
+.book-cover-frame::after {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(105deg, transparent 25%, rgb(255 255 255 / .18) 50%, transparent 75%);
+  transform: translateX(-130%);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .post section .work-item:hover::after, .post section .work-item:focus-visible::after { transform: scaleX(1); }
+  .post section .explore-link:hover > span, .post section .explore-link:focus-visible > span { color: var(--accent-blue); }
+  .metrics-table tbody tr:hover { color: var(--scholar-link, #1a0dab); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .work-item::after { transition: transform 320ms cubic-bezier(.2,.8,.2,1); }
+  .work-item h3 > span, .explore-link > span > span,
+  .text-link > span, .contact-email > span, .page-footer a > span {
+    display: inline-block;
+    transition: transform 300ms cubic-bezier(.2,.9,.3,1.5), color 180ms ease;
+  }
+  .current-work.reveal-visible .status-dot::after { animation: discovery-ring 1100ms 500ms ease-out backwards; }
+  .journey-current .timeline-dot::after { animation: discovery-ring 950ms ease-out; }
+  .site-ready #site-nav.is-open .nav-bar { animation: menu-unfold 250ms ease-out both; }
+  .earlier-chapters[open] > p, .bookshelf-section[open] > .bookshelf-media-intro,
+  .bookshelf-section[open] > .bookshelf-media-list { animation: detail-arrive 300ms ease-out both; }
+  .playful-enhanced .yearly-chart.is-playful-visible .chart-bar {
+    transform-origin: bottom;
+    animation: chart-grow 650ms calc(var(--bar-index, 0) * 45ms) cubic-bezier(.2,.8,.2,1) backwards;
+  }
+  @keyframes discovery-ring {
+    from { opacity: .5; transform: scale(.4); }
+    to { opacity: 0; transform: scale(1.7); }
+  }
+  @keyframes menu-unfold {
+    from { opacity: 0; transform: translateY(-6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes detail-arrive {
+    from { opacity: 0; transform: translateY(-4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes chart-grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+}
+
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .work-item:hover h3 > span, .work-item:focus-visible h3 > span,
+  .explore-link:hover > span > span, .explore-link:focus-visible > span > span,
+  .text-link:hover > span, .text-link:focus-visible > span,
+  .contact-email:hover > span, .contact-email:focus-visible > span,
+  .page-footer a:hover > span, .page-footer a:focus-visible > span { transform: translate(3px, -2px); }
+  #home-title:hover > span {
+    background: linear-gradient(110deg, var(--accent-blue) 30%, var(--text-heading) 50%, var(--accent-blue) 70%);
+    background-size: 260% 100%; background-position: 100% 0;
+    background-clip: text; -webkit-background-clip: text; color: transparent;
+    animation: idea-shine 950ms ease-out both;
+  }
+  .current-work:hover .status-dot::after, .current-work:focus-visible .status-dot::after { animation: discovery-ring 950ms ease-out; }
+  .book-cover-frame::after { transition: transform 600ms ease; }
+  .book-card:hover .book-cover-frame::after, .book-card:focus-visible .book-cover-frame::after { transform: translateX(130%); }
+  .goal-item.is-complete:hover::before { animation: tiny-check 350ms cubic-bezier(.2,.9,.3,1.4) both; }
+  .person-link { transition: translate 200ms ease, background-color 200ms ease; }
+  .person-avatar { transition: transform 300ms cubic-bezier(.2,.9,.3,1.4); }
+  .person-link:hover { translate: 2px 0; }
+  .person-link:hover .person-avatar { transform: rotate(-4deg) scale(1.06); }
+  @keyframes idea-shine { from { background-position: 100% 0; } to { background-position: -100% 0; } }
+  @keyframes tiny-check {
+    from { opacity: 0; transform: scale(.3) rotate(-20deg); }
+    to { opacity: 1; transform: scale(1) rotate(0); }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reading-progress, .work-item::after, .person-link, .person-avatar { transition: none; }
+  .playful-enhanced .chart-bar { animation: none; }
+}
+@media print {
+  .reading-progress, .status-dot::after, .goal-item.is-complete::before { display: none; }
+}

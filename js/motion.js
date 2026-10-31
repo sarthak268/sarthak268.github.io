@@ -35,7 +35,7 @@ function initializeMotion() {
     preference.addEventListener('change', reset);
   });
 
-  const homeParagraphs = document.querySelectorAll('.home-portrait + div > p');
+  const homeParagraphs = document.querySelectorAll('.hero-intro');
   homeParagraphs.forEach(paragraph => paragraph.classList.add('home-copy-entry'));
   if (!preference.matches && 'IntersectionObserver' in window) {
     homeParagraphs.forEach(paragraph => {
@@ -65,7 +65,7 @@ function initializeMotion() {
   if (textPage) document.documentElement.classList.add('motion-text-page');
 
   if ('IntersectionObserver' in window && !preference.matches) {
-    const items = [...document.querySelectorAll('.home-portrait, .home-copy-entry, .timeline-item, .entries > li, .publication-media-card, .shelf-section, .things-progress, .travel-stats, .post-content > h2:not(.pubt)')];
+    const items = [...document.querySelectorAll('.home-portrait, .home-copy-entry, .hero-copy > .current-work, #home-title, .hero-actions, .home-section .section-heading, .home-bio, .work-item, .outside-intro, .explore-link, .contact-section, .timeline-item, .entries > li, .publication-media-card, .shelf-section, .things-progress, .travel-stats, .post-content > h2:not(.pubt)')];
     if (textPage) items.push(...document.querySelectorAll('.talks-year, .list-item'));
     const groups = new Map();
     // Keep each paper's title and metadata together without changing the markup.
