@@ -158,21 +158,22 @@ button { font-family: inherit; }
 .explore-link small { color: var(--text-secondary); font-size: 11px; }
 .post section .explore-link:hover > span { color: var(--accent-blue); }
 .post .home-section-compact p.outside-intro { margin-bottom: 12px; font-size: 14px; }
-.contact-section { border-top: 1px solid var(--border-light); padding: 44px 0 24px; }
-.post .contact-section h2 { margin: 0 0 12px; padding: 0; border: 0; font-size: 31px; letter-spacing: -1px; }
-.post .contact-section p { margin: 0 0 16px; color: var(--text-secondary); font-size: 14px; }
-.contact-row { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 12px 24px; }
+.contact-section { border-top: 1px solid var(--border-light); padding: 24px 0 12px; }
+.contact-section > .section-index { margin-bottom: 8px; font-size: 9px; }
+.post section.contact-section h2 { margin: 0 0 8px; padding: 0; border: 0; font-size: 20px; line-height: 1.4; letter-spacing: -.4px; }
+.post .contact-section p { margin: 0; color: var(--text-secondary); font-size: 12px; }
+.contact-row { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px 24px; }
 .post section a.contact-email { display: inline; margin-left: auto; border: 0; overflow-wrap: anywhere; font-size: inherit; color: var(--text-heading); }
 .contact-email span { margin-left: 10px; color: var(--accent-blue); }
 /* Give the existing content pages a consistent reading rhythm. */
 .text-list-page .talks-item, .text-list-page .list-item { cursor: pointer; }
 .timeline-date { display: block; color: var(--text-secondary); font: 11px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace; }
-.post-content .timeline-item { margin-bottom: 24px; }
+.post-content .timeline-item { margin-bottom: 24px; cursor: pointer; }
 .post-content .timeline-content { padding: 14px 16px; margin-bottom: 0; }
 .timeline-title { line-height: 1.6; }
 .post-content .timeline-dot { top: 5px; }
 .post-content .timeline-details { padding-left: 18px; }
-.post-content .publication-media-card { background: var(--bg-secondary); border-color: var(--border-light); }
+.post-content .publication-media-card { background: var(--bg-secondary); border-color: var(--border-light); cursor: pointer; }
 .post section h2.pubt { line-height: 1.5; font-size: 16px; }
 .post section h2.pubt a, .post section h2.pubt a:hover { border: 0; text-decoration: none; }
 .post section p.pubd { font-size: 13px; line-height: 1.8; }
@@ -290,7 +291,7 @@ button { font-family: inherit; }
   .section-heading > .text-link { margin-top: 5px; }
   .post-content .kv-row { display: block; padding-bottom: 12px; }
   .post-content .kv-label, .post-content .kv-value { display: block; white-space: normal; text-align: left; }
-  .post .contact-section h2 { font-size: 27px; line-height: 1.3; }
+  .post section.contact-section h2 { font-size: 18px; }
   .page-footer { align-items: flex-start; }
   .page-footer nav { gap: 20px; }
   .travel-stat { padding: 16px; }
