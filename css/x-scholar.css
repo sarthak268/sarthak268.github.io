@@ -52,6 +52,24 @@ button { color: inherit; }
 .scope-note { line-height: 1.6; }
 .profile-links { margin-top: 20px; padding-top: 12px; border-top: 1px solid var(--scholar-border); }
 .profile-links a { display: block; margin: 8px 0; font-size: 12px; }
+.scholar-people { margin: 22px 0; }
+.scholar-people > summary { display: flex; align-items: center; gap: 12px; min-height: 44px; padding: 0 0 10px; border-bottom: 1px solid var(--scholar-border); font-size: 17px; cursor: pointer; list-style: none; }
+.scholar-people > summary::-webkit-details-marker { display: none; }
+.people-toggle { margin-left: auto; color: #777; font-size: 16px; }
+.people-toggle::before { content: '+'; }
+.scholar-people[open] .people-toggle::before { content: '−'; }
+.people-list { margin: 8px 0 0; padding: 0; list-style: none; }
+.person-link { display: flex; align-items: center; gap: 10px; min-height: 58px; padding: 8px 3px; color: #222; border-radius: 3px; }
+.person-link:hover { background: #f7f7f7; text-decoration: none; }
+.person-link:hover .person-name { color: var(--scholar-link); }
+.person-avatar { position: relative; display: grid; place-items: center; flex: 0 0 36px; width: 36px; height: 36px; overflow: hidden; border-radius: 50%; background: #eee; color: #777; font-size: 12px; }
+.person-avatar img { position: absolute; inset: 0; width: 36px; height: 36px; object-fit: cover; }
+.person-copy { flex: 1; min-width: 0; }
+.person-name { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; }
+.person-actions { display: block; margin-top: 3px; color: #777; font-size: 10px; }
+.person-count { text-align: right; color: #666; font-size: 12px; font-variant-numeric: tabular-nums; }
+.person-count > span { display: block; font-size: 9px; }
+.people-note { margin: 10px 0 0; color: #777; font-size: 10px; line-height: 1.5; }
 .scholar-posts { grid-column: 1; min-width: 0; }
 .post-tools { display: flex; align-items: center; gap: 10px; margin: 0 0 10px; }
 .search-field { flex: 1; min-width: 0; }
@@ -112,6 +130,10 @@ button { color: inherit; }
     .chart-count { display: none; }
     .snapshot-note { grid-column: 1 / -1; margin-top: 4px; font-size: 10px; }
     .scope-note, .profile-links { display: none; }
+    .scholar-people { grid-column: 1 / -1; margin: 4px 0 0; }
+    .scholar-people > summary { min-height: 40px; padding: 6px 0; border: 0; font-size: 13px; }
+    .scholar-people[open] > summary { border-bottom: 1px solid var(--scholar-border); }
+    .person-link { min-height: 54px; }
     .post-tools { flex-wrap: wrap; }
     .post-tools input { min-height: 40px; }
     .post-tools select { min-height: 40px; }

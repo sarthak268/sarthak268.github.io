@@ -49,3 +49,15 @@ the profile's handle. The page remains available if the API is unavailable;
 statistics only change when the snapshot is refreshed and the site is rebuilt.
 Pinned or otherwise omitted posts can be retained across refreshes by adding
 their status IDs to `_data/x_scholar_includes.json`.
+
+Refresh the people sidebar after refreshing posts:
+
+```sh
+python3 scripts/update_x_scholar_people.py
+```
+
+It collects publicly available reply, repost, and quote-post authors and ranks
+them by the number of distinct indexed posts they interacted with. Self-replies,
+private profiles, and duplicate interactions are excluded. The sidebar uses
+`_data/x_scholar_people.json` and shows the top eight people. Coverage depends on
+what the public API returns; counts are not presented as a complete history.

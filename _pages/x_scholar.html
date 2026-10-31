@@ -68,6 +68,27 @@ permalink: /x-scholar/
                     {% endfor %}
                 </div>
             </div>
+            {% assign community = site.data.x_scholar_people %}
+            {% if community.people.size > 0 %}
+            <details class="scholar-people" open>
+                <summary>People who engaged <span class="people-toggle" aria-hidden="true"></span></summary>
+                <ul class="people-list">
+                    {% for person in community.people limit:8 %}
+                    <li>
+                        <a class="person-link" href="{{ person.profile_url }}" target="_blank" rel="noopener noreferrer" title="@{{ person.handle }} — interacted with {{ person.post_count }} posts">
+                            <span class="person-avatar" aria-hidden="true"><span>{{ person.initials | escape }}</span>{% if person.avatar_url != '' %}<img src="{{ person.avatar_url | escape }}" alt="" width="36" height="36" loading="lazy" decoding="async">{% endif %}</span>
+                            <span class="person-copy">
+                                <span class="person-name">{{ person.name | escape }}</span>
+                                <span class="person-actions">{% if person.replies > 0 %}Replied{% endif %}{% if person.reposts > 0 %}{% if person.replies > 0 %} · {% endif %}Reposted{% endif %}{% if person.quotes > 0 %}{% if person.replies > 0 or person.reposts > 0 %} · {% endif %}Quoted{% endif %}</span>
+                            </span>
+                            <span class="person-count" aria-label="Interacted with {{ person.post_count }} posts">{{ person.post_count }}<span>posts</span></span>
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <p class="people-note">From publicly visible interactions. Some replies and reposts may be unavailable.</p>
+            </details>
+            {% endif %}
             <div class="snapshot-note">
                 <p><span class="snapshot-dot" aria-hidden="true"></span> {{ scholar.post_count }} posts indexed</p>
                 <p>Snapshot: <time datetime="{{ scholar.updated_date }}">{{ scholar.updated_date | date: '%b %-d, %Y' }}</time></p>

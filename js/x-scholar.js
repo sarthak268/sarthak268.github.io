@@ -13,6 +13,14 @@
   const clear = document.getElementById('clear-filters');
   const sorts = Array.from(document.querySelectorAll('th[data-sort]'));
   const charts = Array.from(document.querySelectorAll('.chart-year'));
+  const people = document.querySelector('.scholar-people');
+  // Keep posts close to the top on phones; the people list is still one tap away.
+  if (people && window.matchMedia('(max-width: 760px)').matches) people.open = false;
+  document.querySelectorAll('.person-avatar img').forEach(avatar => {
+    const showInitials = () => avatar.remove();
+    avatar.addEventListener('error', showInitials, { once: true });
+    if (avatar.complete && !avatar.naturalWidth) showInitials();
+  });
   const pageSize = 20;
   let limit = pageSize;
   let sortKey = 'likes';

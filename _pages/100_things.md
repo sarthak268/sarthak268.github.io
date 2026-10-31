@@ -82,7 +82,7 @@ permalink:  /100_things/
 <span class="list-item goal-item">58. Explore the caves in Vietnam</span><br>
 <span class="list-item goal-item">59. Visit Banff National Park</span><br>
 <span class="list-item goal-item">60. Guest lecture at a university</span><br>
-<span class="list-item goal-item">61. {% if park_count >= 20 %}<s>Visit 20 national parks in the US</s> ({{ park_count }} visited){% else %}Visit 20 national parks in the US ({{ park_count }} / 20){% endif %}</span><br>
+<span class="list-item goal-item">61. {% if park_count >= 20 %}<s>Visit 20 national parks in the US</s> (turns out 20 was just the beginning){% else %}Visit 20 national parks in the US ({{ park_count }} / 20){% endif %}</span><br>
 <span class="list-item goal-item">62. Go on a solo hike</span><br>
 <span class="list-item goal-item">63. Go shark cage diving</span><br>
 <span class="list-item goal-item">64. <s>Wine at Napa Valley</s> (Castello di Amorosa — turns out I'm a wine person now)</span><br>
