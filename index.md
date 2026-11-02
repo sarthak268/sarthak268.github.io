@@ -44,18 +44,33 @@ permalink: /
     <div class="section-body selected-work">
         <a class="work-item" href="https://www.1x.tech/discover/world-model-self-learning" target="_blank" rel="noopener noreferrer">
             <div class="work-meta"><span>WORLD MODELS</span><span>1X TECHNOLOGIES</span></div>
-            <h3>1X World Model <span aria-hidden="true">↗</span></h3>
-            <p>Contributed to a generative world model that predicts how robot actions shape what happens next.</p>
+            <div class="work-content">
+                <img class="work-image" src="/img/work/world-model.webp" alt="NEO displayed on a television in the 1X World Model project" width="960" height="504" loading="lazy" decoding="async">
+                <div class="work-copy">
+                    <h3>1X World Model <span aria-hidden="true">↗</span></h3>
+                    <p>Contributed to a generative world model that predicts how robot actions shape what happens next.</p>
+                </div>
+            </div>
         </a>
         <a class="work-item" href="https://genrobo.github.io/DreamControl/" target="_blank" rel="noopener noreferrer">
             <div class="work-meta"><span>HUMANOID CONTROL</span><span>GENERAL ROBOTICS</span></div>
-            <h3>Humanoid Skill Learning <span aria-hidden="true">↗</span></h3>
-            <p>Human-inspired whole-body humanoid control for scene interaction via guided diffusion.</p>
+            <div class="work-content">
+                <img class="work-image" src="/img/work/dreamcontrol-skills-clean.png" alt="DreamControl humanoid skills: opening a drawer, bimanual picking, picking an object, and pressing a button" width="1536" height="1024" loading="lazy" decoding="async">
+                <div class="work-copy">
+                    <h3>Humanoid Skill Learning <span aria-hidden="true">↗</span></h3>
+                    <p>Human-inspired whole-body humanoid control for scene interaction via guided diffusion.</p>
+                </div>
+            </div>
         </a>
         <a class="work-item" href="https://www.generalrobotics.company/post/agentic-robotics" target="_blank" rel="noopener noreferrer">
             <div class="work-meta"><span>AGENTIC ARCHITECTURES</span><span>GENERAL ROBOTICS</span></div>
-            <h3>Agentic Robotics <span aria-hidden="true">↗</span></h3>
-            <p>Design principles and model abilities for agentic architectures in robotics.</p>
+            <div class="work-content">
+                <img class="work-image" src="/img/work/agentic-manipulation.png" alt="A robotic arm placing a metal cup into a bin while clearing objects from a table" width="2734" height="1846" loading="lazy" decoding="async">
+                <div class="work-copy">
+                    <h3>Agentic Robotics <span aria-hidden="true">↗</span></h3>
+                    <p>Design principles and model abilities for agentic architectures in robotics.</p>
+                </div>
+            </div>
         </a>
     </div>
 </section>
