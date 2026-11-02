@@ -48,7 +48,7 @@ permalink: /
                 <img class="work-image" src="/img/work/world-model.webp" alt="NEO displayed on a television in the 1X World Model project" width="960" height="504" loading="lazy" decoding="async">
                 <div class="work-copy">
                     <h3>1X World Model <span aria-hidden="true">↗</span></h3>
-                    <p>Contributed to a generative world model that predicts how robot actions shape what happens next.</p>
+                    <p>A generative world model that predicts how robot actions shape what happens next.</p>
                 </div>
             </div>
         </a>
