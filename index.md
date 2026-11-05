@@ -24,7 +24,7 @@ permalink: /
         <h2 id="background-title">A little about me</h2>
     </div>
     <div class="section-body home-bio">
-        <p>I'm the first hire at <a href="https://warp.xyz">Warp Sciences</a>, co-leading the robot learning effort. I'm building robots to automate scientific discovery, starting with small molecules.</p>
+        <p>I'm the first hire at <a href="https://warp.xyz">Warp Sciences</a>, co-leading the robotics effort. I'm building robots to automate scientific discovery, starting with small molecules.</p>
         <p>Previously, I was a research engineer at <a href="https://www.1x.tech/">1X Technologies</a>, contributing to <a href="https://www.1x.tech/discover/redwood-mobility">Redwood AI</a> and the <a href="https://www.1x.tech/discover/world-model-self-learning">1X World Model</a>. Before that, I was the first hire and founding research engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>. I led sim2real reinforcement learning and technical business development, working across humanoids, quadrupeds, and manipulator arms. I hold an MS in Robotics from Carnegie Mellon University.</p>
         <details class="earlier-chapters">
             <summary>The earlier chapters</summary>
