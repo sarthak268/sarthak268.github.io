@@ -705,6 +705,23 @@
     "type": "visited"
   },
   {
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "name": "Austin",
+    "region": "Texas",
+    "type": "visited"
+  },
+  {
+    "lat": 29.3289,
+    "lng": -103.205,
+    "name": "Panther Junction",
+    "region": "Texas",
+    "type": "visited",
+    "national_parks": [
+      "Big Bend"
+    ]
+  },
+  {
     "lat": 49.2827,
     "lng": -123.1207,
     "name": "Vancouver",

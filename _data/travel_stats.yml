@@ -9,7 +9,7 @@
   unit: continents
   label: Continents visited
 - title: United States
-  count: 28
+  count: 29
   total: 50
   unit: states
   label: United States states visited
