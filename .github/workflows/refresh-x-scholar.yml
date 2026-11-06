@@ -1,6 +1,12 @@
 name: Refresh X Scholar
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/refresh-x-scholar.yml'
+      - 'scripts/*x_scholar*.py'
+      - 'scripts/tests/test_x_scholar.py'
   schedule:
     - cron: '23 */6 * * *'
   workflow_dispatch:

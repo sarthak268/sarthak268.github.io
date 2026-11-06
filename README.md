@@ -39,7 +39,9 @@ The count uses unique park names, so multiple locations in one park count once.
 `/x-scholar/` presents a snapshot of X posts with likes-based metrics, search,
 sorting, year filters, and CSV export. The `Refresh X Scholar` GitHub Actions
 workflow refreshes it every six hours (00:23, 06:23, 12:23, and 18:23 UTC), or on
-demand from the Actions tab. Scheduled runs can be delayed by GitHub. GitHub
+demand from the Actions tab. Changes to the collectors or their workflow also
+trigger a refresh, so the automation is checked when it is installed or updated.
+Scheduled runs can be delayed by GitHub. GitHub
 also disables scheduled workflows in public repositories after 60 days without
 repository activity; re-enable it from Actions if that happens.
 
