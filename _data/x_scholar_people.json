@@ -1,6 +1,6 @@
 {
   "handle": "sarthak__bhagat",
-  "updated_at": "2026-11-06T03:52:10.714122+00:00",
+  "updated_at": "2026-11-06T23:18:57.883274+00:00",
   "updated_date": "2026-11-06",
   "posts_considered": 150,
   "people_found": 395,
@@ -5181,6 +5181,30 @@
       ]
     },
     {
+      "handle": "angkul07",
+      "name": "Angkul",
+      "profile_url": "https://x.com/angkul07",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1674721824909967360/w3LF9kqs_200x200.jpg",
+      "initials": "A",
+      "interaction_count": 1,
+      "post_count": 1,
+      "incoming": 1,
+      "outgoing": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "evidence": [
+        {
+          "kind": "replies",
+          "direction": "incoming",
+          "post_id": "2113300177910124670",
+          "id": "2113324397083938877",
+          "url": "https://x.com/angkul07/status/2113324397083938877"
+        }
+      ]
+    },
+    {
       "handle": "animesh_garg",
       "name": "Animesh Garg",
       "profile_url": "https://x.com/animesh_garg",
@@ -5393,30 +5417,6 @@
           "post_id": "1154175811508822016",
           "id": "1154175811508822016",
           "url": "https://x.com/arxiv_org/status/1154175811508822016"
-        }
-      ]
-    },
-    {
-      "handle": "AryanPa66861306",
-      "name": "Sloggers Academy",
-      "profile_url": "https://x.com/AryanPa66861306",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2067283240864624640/UKmLCagc_200x200.jpg",
-      "initials": "SA",
-      "interaction_count": 1,
-      "post_count": 1,
-      "incoming": 1,
-      "outgoing": 0,
-      "likes": 0,
-      "quotes": 0,
-      "replies": 1,
-      "reposts": 0,
-      "evidence": [
-        {
-          "kind": "replies",
-          "direction": "incoming",
-          "post_id": "2074245837593641028",
-          "id": "2074287202880852323",
-          "url": "https://x.com/AryanPa66861306/status/2074287202880852323"
         }
       ]
     },
@@ -6360,7 +6360,7 @@
       "handle": "Dr_Dark_Matter_",
       "name": "The Darkest Matter",
       "profile_url": "https://x.com/Dr_Dark_Matter_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2118459854712901632/7ihdG-un_normal.jpg",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2118738751358652416/q44myVd-_normal.jpg",
       "initials": "TD",
       "interaction_count": 1,
       "post_count": 1,
@@ -8016,7 +8016,7 @@
       "handle": "kylensorensen",
       "name": "Kyle Sorensen",
       "profile_url": "https://x.com/kylensorensen",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2096651900515131392/n7u0NwnE_200x200.jpg",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2118831891818438656/vh18d87p_200x200.jpg",
       "initials": "KS",
       "interaction_count": 1,
       "post_count": 1,
