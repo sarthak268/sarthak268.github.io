@@ -36,8 +36,25 @@ The count uses unique park names, so multiple locations in one park count once.
 
 ## X Scholar
 
-`/x-scholar/` presents a static snapshot of public X posts with likes-based
-metrics, search, sorting, year filters, and CSV export. Refresh the snapshot with:
+`/x-scholar/` presents a snapshot of X posts with likes-based metrics, search,
+sorting, year filters, and CSV export. The `Refresh X Scholar` GitHub Actions
+workflow refreshes it every six hours (00:23, 06:23, 12:23, and 18:23 UTC), or on
+demand from the Actions tab. Scheduled runs can be delayed by GitHub. GitHub
+also disables scheduled workflows in public repositories after 60 days without
+repository activity; re-enable it from Actions if that happens.
+
+Refresh both snapshots locally with:
+
+```sh
+python3 scripts/refresh_x_scholar.py
+```
+
+Both collectors must succeed before either published snapshot is replaced. The
+workflow commits only the two data files, then explicitly requests a Pages build
+(commits made with `GITHUB_TOKEN` do not trigger a Pages build on their own).
+Failures leave the existing website data available and appear in Actions.
+
+To refresh only the post index:
 
 ```sh
 python3 scripts/update_x_scholar.py
@@ -56,8 +73,46 @@ Refresh the people sidebar after refreshing posts:
 python3 scripts/update_x_scholar_people.py
 ```
 
-It collects publicly available reply, repost, and quote-post authors and ranks
-them by the number of distinct indexed posts they interacted with. Self-replies,
-private profiles, and duplicate interactions are excluded. The sidebar uses
-`_data/x_scholar_people.json` and shows the top eight people. Coverage depends on
-what the public API returns; counts are not presented as a complete history.
+The sidebar collects replies, reposts, and quotes **in both directions**:
+other people interacting with the indexed posts, and Sarthak interacting with
+other people's posts. Outgoing reposts and quotes come from his timeline;
+outgoing replies come from conversations and the replies timeline when that
+endpoint is available. Plain mentions are not treated as interactions. The
+sidebar ranks by deduplicated interactions, favoring mutual interactions on ties,
+and shows eight people. The data retains evidence IDs, types, and directions.
+Self-interactions and protected profiles are excluded. Counts describe the
+available sample, not a complete history; unavailable endpoints are recorded
+in the data rather than described as zero activity.
+
+### Optional likes in the people sidebar
+
+Public FxTwitter provides like **counts**, but does not expose the identities
+of likers or the owner's liked-post history. To include authenticated likes,
+create a read-capable X developer app and add its OAuth 1.0a user credentials
+for **@sarthak__bhagat** under repository **Settings → Secrets and variables →
+Actions → Repository secrets**:
+
+- `X_API_KEY`
+- `X_API_SECRET`
+- `X_ACCESS_TOKEN`
+- `X_ACCESS_TOKEN_SECRET`
+
+The collector checks that the authenticated account matches the site owner. It
+only sends GET requests: `/2/users/me`, `/2/users/:id/liked_tweets`, and
+`/2/tweets/:id/liking_users`. API access and any X charges depend on the app's
+plan. The default bounds are three pages of outgoing likes and the 25 most
+recent indexed own posts (up to 100 incoming likers per post). Change
+`--likes-post-limit` when running the people collector to adjust the latter.
+
+Secrets stay in the runner environment and are never written to the site or
+data files. Without credentials, replies/reposts/quotes still refresh and the
+sidebar explicitly says likes are unavailable. An authenticated endpoint failure
+is recorded as unavailable/partial, not as proof of no likes. Trigger the workflow
+manually after adding credentials to verify access; authenticated fetching cannot
+be verified without working credentials.
+
+Run collector tests with:
+
+```sh
+python3 -m unittest discover -s scripts/tests -v
+```

@@ -2,58 +2,58 @@
   "handle": "sarthak__bhagat",
   "name": "Sarthak Bhagat",
   "profile_url": "https://x.com/sarthak__bhagat",
-  "followers": 1458,
-  "updated_at": "2026-10-30T01:07:29.460423+00:00",
-  "updated_date": "2026-10-30",
+  "followers": 1459,
+  "updated_at": "2026-11-06T03:50:10.973467+00:00",
+  "updated_date": "2026-11-06",
   "since_year": 2021,
   "source": "https://api.fxtwitter.com",
   "timeline_exhausted": true,
   "scope": "Original posts and quote posts returned by the public timeline; replies and reposts excluded.",
-  "post_count": 149,
+  "post_count": 150,
   "metrics": {
-    "likes": 2273,
+    "likes": 2279,
     "h_index": 23,
-    "i10_index": 53
+    "i10_index": 52
   },
   "recent_metrics": {
-    "likes": 2185,
+    "likes": 2191,
     "h_index": 21,
-    "i10_index": 50
+    "i10_index": 49
   },
   "years": [
     {
       "year": 2020,
       "likes": 88,
-      "height": 12.21
+      "height": 12.09
     },
     {
       "year": 2021,
       "likes": 132,
-      "height": 18.31
+      "height": 18.13
     },
     {
       "year": 2022,
       "likes": 151,
-      "height": 20.94
+      "height": 20.74
     },
     {
       "year": 2023,
-      "likes": 339,
-      "height": 47.02
+      "likes": 338,
+      "height": 46.43
     },
     {
       "year": 2024,
       "likes": 502,
-      "height": 69.63
+      "height": 68.96
     },
     {
       "year": 2025,
       "likes": 340,
-      "height": 47.16
+      "height": 46.7
     },
     {
       "year": 2026,
-      "likes": 721,
+      "likes": 728,
       "height": 100.0
     }
   ],
@@ -68,7 +68,7 @@
       "likes": 197,
       "reposts": 48,
       "replies": 5,
-      "views": 46607
+      "views": 46617
     },
     {
       "id": "2113300177910124670",
@@ -77,10 +77,10 @@
       "title": "We're finally coming out of stealth at @WarpSciences! 🚀 A little story about how I ended up at Warp: A few months ago, @shagunuppls and I were building a company around robotics infrastructure for scientific discovery. We had some amazing angels backing us…",
       "date": "2026-10-22",
       "year": 2026,
-      "likes": 180,
+      "likes": 181,
       "reposts": 6,
-      "replies": 35,
-      "views": 10801
+      "replies": 36,
+      "views": 11165
     },
     {
       "id": "2074245837593641028",
@@ -92,7 +92,7 @@
       "likes": 157,
       "reposts": 6,
       "replies": 20,
-      "views": 18461
+      "views": 18471
     },
     {
       "id": "1354012392007471105",
@@ -224,7 +224,7 @@
       "likes": 27,
       "reposts": 2,
       "replies": 0,
-      "views": 1803
+      "views": 1832
     },
     {
       "id": "1278723915972407296",
@@ -272,7 +272,7 @@
       "likes": 26,
       "reposts": 5,
       "replies": 0,
-      "views": 2031
+      "views": 2032
     },
     {
       "id": "1699260126585344194",
@@ -281,7 +281,7 @@
       "title": "📢 Exciting news! I'll be at @ICCVConference in Paris🇫🇷, presenting my research on neuro-symbolic action anticipation from videos. Let's connect if you're attending & want to chat! PS: I'm looking for jobs starting Fall/Summer 2024. Open to discussing…",
       "date": "2023-09-06",
       "year": 2023,
-      "likes": 26,
+      "likes": 25,
       "reposts": 2,
       "replies": 0,
       "views": 2622
@@ -404,7 +404,7 @@
       "likes": 18,
       "reposts": 0,
       "replies": 3,
-      "views": 2032
+      "views": 2036
     },
     {
       "id": "1985528628541894839",
@@ -440,7 +440,7 @@
       "likes": 18,
       "reposts": 1,
       "replies": 2,
-      "views": 1991
+      "views": 1992
     },
     {
       "id": "2110829543363883098",
@@ -452,7 +452,7 @@
       "likes": 17,
       "reposts": 0,
       "replies": 1,
-      "views": 1872
+      "views": 1886
     },
     {
       "id": "2114865177149743312",
@@ -464,7 +464,7 @@
       "likes": 16,
       "reposts": 1,
       "replies": 0,
-      "views": 1064
+      "views": 1169
     },
     {
       "id": "2102627287959208191",
@@ -476,7 +476,7 @@
       "likes": 16,
       "reposts": 2,
       "replies": 1,
-      "views": 4070
+      "views": 4091
     },
     {
       "id": "1600276448261963777",
@@ -671,18 +671,6 @@
       "views": 1096
     },
     {
-      "id": "2094990321323294929",
-      "url": "https://x.com/sarthak__bhagat/status/2094990321323294929",
-      "text": "Great summary of @deepakpathak's perspective on generalist robot learning; especially the interplay between cross-embodiment learning, data scaling, and real-world deployment.",
-      "title": "Great summary of @deepakpathak's perspective on generalist robot learning; especially the interplay between cross-embodiment learning, data scaling, and real-world deployment.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "likes": 10,
-      "reposts": 0,
-      "replies": 1,
-      "views": 1170
-    },
-    {
       "id": "1612355292158631936",
       "url": "https://x.com/sarthak__bhagat/status/1612355292158631936",
       "text": "\"When a cheap laptop beats the smartest mathematicians at some tasks but even a supercomputer with 16,000 CPUs can't beat a child at others, you can tell that humans and computers are just more or less powerful than each other -- they are categorically different.\"",
@@ -704,7 +692,19 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 752
+      "views": 804
+    },
+    {
+      "id": "2094990321323294929",
+      "url": "https://x.com/sarthak__bhagat/status/2094990321323294929",
+      "text": "Great summary of @deepakpathak's perspective on generalist robot learning; especially the interplay between cross-embodiment learning, data scaling, and real-world deployment.",
+      "title": "Great summary of @deepakpathak's perspective on generalist robot learning; especially the interplay between cross-embodiment learning, data scaling, and real-world deployment.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "likes": 9,
+      "reposts": 0,
+      "replies": 1,
+      "views": 1170
     },
     {
       "id": "2079450967100248308",
@@ -716,7 +716,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 0,
-      "views": 1195
+      "views": 1196
     },
     {
       "id": "2044473945571922023",
@@ -788,7 +788,7 @@
       "likes": 8,
       "reposts": 0,
       "replies": 0,
-      "views": 465
+      "views": 467
     },
     {
       "id": "2077888999713317153",
@@ -875,6 +875,18 @@
       "views": 1279
     },
     {
+      "id": "2118053150645252170",
+      "url": "https://x.com/sarthak__bhagat/status/2118053150645252170",
+      "text": "Every time a human corrects an agent, there’s a lesson worth keeping. Turning those moments into evals is how you make progress measurable.\n\nExcited to see NeoEval bring this feedback loop to production agents. Congrats @gauri__gupta, @ritvikkapila and team!",
+      "title": "Every time a human corrects an agent, there’s a lesson worth keeping. Turning those moments into evals is how you make progress measurable. Excited to see NeoEval bring this feedback loop to production agents. Congrats @gauri__gupta, @ritvikkapila and team!",
+      "date": "2026-11-04",
+      "year": 2026,
+      "likes": 7,
+      "reposts": 0,
+      "replies": 1,
+      "views": 500
+    },
+    {
       "id": "2096707842921386412",
       "url": "https://x.com/sarthak__bhagat/status/2096707842921386412",
       "text": "India’s space ambitions are entering an exciting new phase.\n\nMore rockets, more satellites, higher launch cadence, and increasingly ambitious missions. Space is becoming one of the most exciting frontiers of this decade — and it’s great to see 🇮🇳 pushing deeper into it. 🚀",
@@ -932,7 +944,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 0,
-      "views": 1582
+      "views": 1583
     },
     {
       "id": "1599513373900935168",
@@ -980,7 +992,7 @@
       "likes": 6,
       "reposts": 0,
       "replies": 0,
-      "views": 712
+      "views": 713
     },
     {
       "id": "1990339411297665194",
@@ -1172,7 +1184,7 @@
       "likes": 4,
       "reposts": 0,
       "replies": 0,
-      "views": 393
+      "views": 395
     },
     {
       "id": "2097401836684894606",
@@ -1184,7 +1196,7 @@
       "likes": 4,
       "reposts": 0,
       "replies": 0,
-      "views": 530
+      "views": 532
     },
     {
       "id": "2039580702933733484",
@@ -1758,7 +1770,7 @@
       "date": "2025-10-01",
       "year": 2025,
       "likes": 0,
-      "reposts": 36,
+      "reposts": 35,
       "replies": 0,
       "views": 63
     },
@@ -1845,6 +1857,4584 @@
       "reposts": 0,
       "replies": 0,
       "views": 233
+    }
+  ],
+  "outgoing_interactions": [
+    {
+      "profile": {
+        "handle": "shagunuppls",
+        "name": "Shagunn",
+        "profile_url": "https://x.com/shagunuppls",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1279189121043292160",
+        "id": "1279192061145526272",
+        "url": "https://x.com/sarthak__bhagat/status/1279192061145526272"
+      }
+    },
+    {
+      "profile": {
+        "handle": "shagunuppls",
+        "name": "Shagunn",
+        "profile_url": "https://x.com/shagunuppls",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1299270117134536704",
+        "id": "1299272157235572736",
+        "url": "https://x.com/sarthak__bhagat/status/1299272157235572736"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Michael_J_Black",
+        "name": "Michael Black",
+        "profile_url": "https://x.com/Michael_J_Black",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_200x200.jpg",
+        "initials": "MB"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1593133722316189696",
+        "id": "1593344511807102977",
+        "url": "https://x.com/sarthak__bhagat/status/1593344511807102977"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1598038815599661056",
+        "id": "1598117832348532736",
+        "url": "https://x.com/sarthak__bhagat/status/1598117832348532736"
+      }
+    },
+    {
+      "profile": {
+        "handle": "aaronkemmer",
+        "name": "Aaron Kemmer",
+        "profile_url": "https://x.com/aaronkemmer",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1559699555477622784/4nc_saVB_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1598585075930746881",
+        "id": "1600943319005433856",
+        "url": "https://x.com/sarthak__bhagat/status/1600943319005433856"
+      }
+    },
+    {
+      "profile": {
+        "handle": "naval",
+        "name": "Naval",
+        "profile_url": "https://x.com/naval",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1602552509545041920",
+        "id": "1602579367883948032",
+        "url": "https://x.com/sarthak__bhagat/status/1602579367883948032"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ENERGY",
+        "name": "U.S. Department of Energy",
+        "profile_url": "https://x.com/ENERGY",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2072777553283006464/V7dCG52r_200x200.jpg",
+        "initials": "UD"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1602679966163906561",
+        "id": "1602859706892050432",
+        "url": "https://x.com/sarthak__bhagat/status/1602859706892050432"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ugamkamat",
+        "name": "Ugam Kamat",
+        "profile_url": "https://x.com/ugamkamat",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1598393408791248897/TaZbnT2G_200x200.jpg",
+        "initials": "UK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1603032525978603521",
+        "id": "1603124510223437824",
+        "url": "https://x.com/sarthak__bhagat/status/1603124510223437824"
+      }
+    },
+    {
+      "profile": {
+        "handle": "FIFAWorldCup",
+        "name": "FIFA World Cup",
+        "profile_url": "https://x.com/FIFAWorldCup",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_200x200.jpg",
+        "initials": "FW"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1604536301176254464",
+        "id": "1604543377705664513",
+        "url": "https://x.com/sarthak__bhagat/status/1604543377705664513"
+      }
+    },
+    {
+      "profile": {
+        "handle": "josepolanco10",
+        "name": "José Miguel Polanco ⭐️⭐️⭐️",
+        "profile_url": "https://x.com/josepolanco10",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2012171054907838464/IvkKHYeV_200x200.jpg",
+        "initials": "JM"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "579016398694805504",
+        "id": "1604564902324195328",
+        "url": "https://x.com/sarthak__bhagat/status/1604564902324195328"
+      }
+    },
+    {
+      "profile": {
+        "handle": "warikoo",
+        "name": "Ankur Warikoo",
+        "profile_url": "https://x.com/warikoo",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1658700048715366400/sWhKTETK_200x200.jpg",
+        "initials": "AW"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1605442906415804416",
+        "id": "1605679729507536896",
+        "url": "https://x.com/sarthak__bhagat/status/1605679729507536896"
+      }
+    },
+    {
+      "profile": {
+        "handle": "CountereCulture",
+        "name": "Countere Magazine",
+        "profile_url": "https://x.com/CountereCulture",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1328393823047790594/OpwG34sR_200x200.jpg",
+        "initials": "CM"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1582418983701069826",
+        "id": "1606891840464367618",
+        "url": "https://x.com/sarthak__bhagat/status/1606891840464367618"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ponguru",
+        "name": "Ponnurangam Kumaraguru “PK”",
+        "profile_url": "https://x.com/ponguru",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2111111679300005888/jmTBBh7q_200x200.jpg",
+        "initials": "PK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1583413094923251712",
+        "id": "1608913980847976448",
+        "url": "https://x.com/sarthak__bhagat/status/1608913980847976448"
+      }
+    },
+    {
+      "profile": {
+        "handle": "marcrandolph",
+        "name": "Marc Randolph",
+        "profile_url": "https://x.com/marcrandolph",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1765988913406148608/f1KH5aNH_200x200.jpg",
+        "initials": "MR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1616494735207829505",
+        "id": "1616497561367613444",
+        "url": "https://x.com/sarthak__bhagat/status/1616497561367613444"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ptrblck_de",
+        "name": "ptrblck",
+        "profile_url": "https://x.com/ptrblck_de",
+        "avatar_url": "https://pbs.twimg.com/profile_images/732154307173322752/YM1VhUkp_200x200.jpg",
+        "initials": "P"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1617367609971998720",
+        "id": "1617394003359715329",
+        "url": "https://x.com/sarthak__bhagat/status/1617394003359715329"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DhruvBatra_",
+        "name": "Dhruv Batra",
+        "profile_url": "https://x.com/DhruvBatra_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1631188382566195200/VkKw3-mp_200x200.jpg",
+        "initials": "DB"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1620844892137062406",
+        "id": "1621718954099240960",
+        "url": "https://x.com/sarthak__bhagat/status/1621718954099240960"
+      }
+    },
+    {
+      "profile": {
+        "handle": "warikoo",
+        "name": "Ankur Warikoo",
+        "profile_url": "https://x.com/warikoo",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1658700048715366400/sWhKTETK_200x200.jpg",
+        "initials": "AW"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1651462423453503489",
+        "id": "1651468141661134848",
+        "url": "https://x.com/sarthak__bhagat/status/1651468141661134848"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ylecun",
+        "name": "Yann LeCun",
+        "profile_url": "https://x.com/ylecun",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_200x200.jpg",
+        "initials": "YL"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1651746814264233984",
+        "id": "1651776449903308803",
+        "url": "https://x.com/sarthak__bhagat/status/1651776449903308803"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ylecun",
+        "name": "Yann LeCun",
+        "profile_url": "https://x.com/ylecun",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_200x200.jpg",
+        "initials": "YL"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1653417848247648256",
+        "id": "1653477750869753858",
+        "url": "https://x.com/sarthak__bhagat/status/1653477750869753858"
+      }
+    },
+    {
+      "profile": {
+        "handle": "HLForum",
+        "name": "Heidelberg Laureate Forum",
+        "profile_url": "https://x.com/HLForum",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1306244651146506240/kU6dDQYJ_200x200.png",
+        "initials": "HL"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1650832024838762498",
+        "id": "1655475402427752449",
+        "url": "https://x.com/sarthak__bhagat/status/1655475402427752449"
+      }
+    },
+    {
+      "profile": {
+        "handle": "val_iisc",
+        "name": "Vision and AI Lab, IISc",
+        "profile_url": "https://x.com/val_iisc",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1653810209016492042/uR5kr8ty_200x200.jpg",
+        "initials": "VA"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1662801516934361094",
+        "id": "1662895696582934528",
+        "url": "https://x.com/sarthak__bhagat/status/1662895696582934528"
+      }
+    },
+    {
+      "profile": {
+        "handle": "IPL",
+        "name": "IndianPremierLeague",
+        "profile_url": "https://x.com/IPL",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1304292122686713857/lrp_AtSy_200x200.jpg",
+        "initials": "I"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1663298116328759296",
+        "id": "1663299891840585728",
+        "url": "https://x.com/sarthak__bhagat/status/1663299891840585728"
+      }
+    },
+    {
+      "profile": {
+        "handle": "isro",
+        "name": "ISRO",
+        "profile_url": "https://x.com/isro",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1600118046743359488/C1_k11I7_200x200.jpg",
+        "initials": "I"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1694327198394863911",
+        "id": "1694400152411213992",
+        "url": "https://x.com/sarthak__bhagat/status/1694400152411213992"
+      }
+    },
+    {
+      "profile": {
+        "handle": "naval",
+        "name": "Naval",
+        "profile_url": "https://x.com/naval",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1701006878472569325",
+        "id": "1701026848321187917",
+        "url": "https://x.com/sarthak__bhagat/status/1701026848321187917"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ToKTeacher",
+        "name": "Brett Hall",
+        "profile_url": "https://x.com/ToKTeacher",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1599154524459241472/7RQWUjkC_200x200.jpg",
+        "initials": "BH"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1701738575069630616",
+        "id": "1701755237986627856",
+        "url": "https://x.com/sarthak__bhagat/status/1701755237986627856"
+      }
+    },
+    {
+      "profile": {
+        "handle": "vishaal_urao",
+        "name": "Vishaal Udandarao",
+        "profile_url": "https://x.com/vishaal_urao",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1733988024009003008/iTH4JPz0_200x200.jpg",
+        "initials": "VU"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1708441399073317168",
+        "id": "1708566000382148631",
+        "url": "https://x.com/sarthak__bhagat/status/1708566000382148631"
+      }
+    },
+    {
+      "profile": {
+        "handle": "balajis",
+        "name": "Balaji",
+        "profile_url": "https://x.com/balajis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2049168417710915585/egYgw1FA_200x200.jpg",
+        "initials": "B"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1732530031623299179",
+        "id": "1732543278783045728",
+        "url": "https://x.com/sarthak__bhagat/status/1732543278783045728"
+      }
+    },
+    {
+      "profile": {
+        "handle": "zipengfu",
+        "name": "Zipeng Fu",
+        "profile_url": "https://x.com/zipengfu",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2098276052615462912/51N669Eg_200x200.jpg",
+        "initials": "ZF"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1742973258528612724",
+        "id": "1742982299623588224",
+        "url": "https://x.com/sarthak__bhagat/status/1742982299623588224"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sporadica",
+        "name": "spor",
+        "profile_url": "https://x.com/sporadica",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2110118552669941760/5F4IKtgq_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1744328103839584604",
+        "id": "1744515762667368726",
+        "url": "https://x.com/sarthak__bhagat/status/1744515762667368726"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ashleevance",
+        "name": "Ashlee Vance",
+        "profile_url": "https://x.com/ashleevance",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1878247739949273088/tE5Gx-SN_200x200.jpg",
+        "initials": "AV"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1767633955933638962",
+        "id": "1767653644743430305",
+        "url": "https://x.com/sarthak__bhagat/status/1767653644743430305"
+      }
+    },
+    {
+      "profile": {
+        "handle": "neuralink",
+        "name": "Neuralink",
+        "profile_url": "https://x.com/neuralink",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1661856130535165953/zMoW6Sr1_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1770563939413496146",
+        "id": "1770587728528150685",
+        "url": "https://x.com/sarthak__bhagat/status/1770587728528150685"
+      }
+    },
+    {
+      "profile": {
+        "handle": "shagunuppls",
+        "name": "Shagunn",
+        "profile_url": "https://x.com/shagunuppls",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1795824727346606356",
+        "id": "1796127285747024211",
+        "url": "https://x.com/sarthak__bhagat/status/1796127285747024211"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ICC",
+        "name": "ICC",
+        "profile_url": "https://x.com/ICC",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_200x200.jpg",
+        "initials": "I"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1799889957948960984",
+        "id": "1799900803005599987",
+        "url": "https://x.com/sarthak__bhagat/status/1799900803005599987"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ilyasut",
+        "name": "Ilya Sutskever",
+        "profile_url": "https://x.com/ilyasut",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1961115716889030656/We74zmE-_200x200.jpg",
+        "initials": "IS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1803472978753303014",
+        "id": "1803495760996241644",
+        "url": "https://x.com/sarthak__bhagat/status/1803495760996241644"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Parvkpr",
+        "name": "Parv Kapoor ✈️ CoRL 26",
+        "profile_url": "https://x.com/Parvkpr",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1622769646095986688/JOSyUBMK_200x200.jpg",
+        "initials": "PK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1814445441620345073",
+        "id": "1814448228760510731",
+        "url": "https://x.com/sarthak__bhagat/status/1814448228760510731"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1815420311439102026",
+        "id": "1815467963824390534",
+        "url": "https://x.com/sarthak__bhagat/status/1815467963824390534"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1818688082042143149",
+        "id": "1818701067515052422",
+        "url": "https://x.com/sarthak__bhagat/status/1818701067515052422"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1838262165435802116",
+        "id": "1838797882931188103",
+        "url": "https://x.com/sarthak__bhagat/status/1838797882931188103"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1840738896423883257",
+        "id": "1840779460964216874",
+        "url": "https://x.com/sarthak__bhagat/status/1840779460964216874"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Abhinav95_",
+        "name": "Abhinav Shukla",
+        "profile_url": "https://x.com/Abhinav95_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2099413853448925184/sHwKOzRR_200x200.jpg",
+        "initials": "AS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1844389475138535765",
+        "id": "1844446425356337245",
+        "url": "https://x.com/sarthak__bhagat/status/1844446425356337245"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SimonStepputtis",
+        "name": "Simon Stepputtis",
+        "profile_url": "https://x.com/SimonStepputtis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1694360679388745728/XFUQi82o_200x200.jpg",
+        "initials": "SS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1856333375209869464",
+        "id": "1856406476404994179",
+        "url": "https://x.com/sarthak__bhagat/status/1856406476404994179"
+      }
+    },
+    {
+      "profile": {
+        "handle": "saihv",
+        "name": "Sai Vemprala",
+        "profile_url": "https://x.com/saihv",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1686226026337370112/fXPZjBNW_200x200.jpg",
+        "initials": "SV"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1876370271411593297",
+        "id": "1876373176072151129",
+        "url": "https://x.com/sarthak__bhagat/status/1876373176072151129"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1876487871085129907",
+        "id": "1876512739205795873",
+        "url": "https://x.com/sarthak__bhagat/status/1876512739205795873"
+      }
+    },
+    {
+      "profile": {
+        "handle": "MohapatraHemant",
+        "name": "Hemant Mohapatra",
+        "profile_url": "https://x.com/MohapatraHemant",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1636967753704951811/Cn6f8Atm_200x200.jpg",
+        "initials": "HM"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1898607975276958172",
+        "id": "1898615789223367158",
+        "url": "https://x.com/sarthak__bhagat/status/1898615789223367158"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1900711852650504676",
+        "id": "1900712590281687219",
+        "url": "https://x.com/sarthak__bhagat/status/1900712590281687219"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1901695793045929996",
+        "id": "1901725742846922839",
+        "url": "https://x.com/sarthak__bhagat/status/1901725742846922839"
+      }
+    },
+    {
+      "profile": {
+        "handle": "physical_int",
+        "name": "Physical Intelligence",
+        "profile_url": "https://x.com/physical_int",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1851742218887008256/gpCSC4VP_200x200.png",
+        "initials": "PI"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1914724966362440148",
+        "id": "1914859772391936329",
+        "url": "https://x.com/sarthak__bhagat/status/1914859772391936329"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1921979864967741715",
+        "id": "1921982248670159049",
+        "url": "https://x.com/sarthak__bhagat/status/1921982248670159049"
+      }
+    },
+    {
+      "profile": {
+        "handle": "trossenrobotics",
+        "name": "Trossen Robotics",
+        "profile_url": "https://x.com/trossenrobotics",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1892087328224456704/In8iCyOM_200x200.jpg",
+        "initials": "TR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1937188582042566729",
+        "id": "1937223491499229528",
+        "url": "https://x.com/sarthak__bhagat/status/1937223491499229528"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1954966074275082565",
+        "id": "1954967372646986050",
+        "url": "https://x.com/sarthak__bhagat/status/1954967372646986050"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1962974291697533367",
+        "id": "1962976898629435454",
+        "url": "https://x.com/sarthak__bhagat/status/1962976898629435454"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1968696450726142056",
+        "id": "1968742625369809366",
+        "url": "https://x.com/sarthak__bhagat/status/1968742625369809366"
+      }
+    },
+    {
+      "profile": {
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "profile_url": "https://x.com/elonmusk",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg",
+        "initials": "EM"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1972896662701101244",
+        "id": "1972903525991805232",
+        "url": "https://x.com/sarthak__bhagat/status/1972903525991805232"
+      }
+    },
+    {
+      "profile": {
+        "handle": "LiamFedus",
+        "name": "Liam Fedus",
+        "profile_url": "https://x.com/LiamFedus",
+        "avatar_url": "https://pbs.twimg.com/profile_images/946842870916448256/X0_3p45X_200x200.jpg",
+        "initials": "LF"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1973055380193431965",
+        "id": "1973127887105785926",
+        "url": "https://x.com/sarthak__bhagat/status/1973127887105785926"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1973421349646618954",
+        "id": "1973427783356522888",
+        "url": "https://x.com/sarthak__bhagat/status/1973427783356522888"
+      }
+    },
+    {
+      "profile": {
+        "handle": "BourbonCap",
+        "name": "Bourbon Capital",
+        "profile_url": "https://x.com/BourbonCap",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1826983803253846016/KZjbJcvS_200x200.jpg",
+        "initials": "BC"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1974246055282610500",
+        "id": "1975436119249764684",
+        "url": "https://x.com/sarthak__bhagat/status/1975436119249764684"
+      }
+    },
+    {
+      "profile": {
+        "handle": "IlirAliu_",
+        "name": "Ilir Aliu",
+        "profile_url": "https://x.com/IlirAliu_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1866636974339039232/YtrQjbyS_200x200.jpg",
+        "initials": "IA"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1976273441129971785",
+        "id": "1976407076663591372",
+        "url": "https://x.com/sarthak__bhagat/status/1976407076663591372"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SpaceX",
+        "name": "SpaceX",
+        "profile_url": "https://x.com/SpaceX",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1977437926041825737",
+        "id": "1977480383177646117",
+        "url": "https://x.com/sarthak__bhagat/status/1977480383177646117"
+      }
+    },
+    {
+      "profile": {
+        "handle": "oprydai",
+        "name": "Mustafa.",
+        "profile_url": "https://x.com/oprydai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1939241510907658240/-bSpu4PH_200x200.jpg",
+        "initials": "M"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1978677558196727891",
+        "id": "1978716874465575414",
+        "url": "https://x.com/sarthak__bhagat/status/1978716874465575414"
+      }
+    },
+    {
+      "profile": {
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "profile_url": "https://x.com/elonmusk",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg",
+        "initials": "EM"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1985279182004420929",
+        "id": "1985821940112863488",
+        "url": "https://x.com/sarthak__bhagat/status/1985821940112863488"
+      }
+    },
+    {
+      "profile": {
+        "handle": "1x_tech",
+        "name": "1X",
+        "profile_url": "https://x.com/1x_tech",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010794180012806144/rQHFlJok_200x200.jpg",
+        "initials": "1"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1983233494575952138",
+        "id": "1987244069274460499",
+        "url": "https://x.com/sarthak__bhagat/status/1987244069274460499"
+      }
+    },
+    {
+      "profile": {
+        "handle": "JeffBezos",
+        "name": "Jeff Bezos",
+        "profile_url": "https://x.com/JeffBezos",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_200x200.jpg",
+        "initials": "JB"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1989090084902318469",
+        "id": "1989099489622388885",
+        "url": "https://x.com/sarthak__bhagat/status/1989099489622388885"
+      }
+    },
+    {
+      "profile": {
+        "handle": "louisnandre",
+        "name": "Louis Andre",
+        "profile_url": "https://x.com/louisnandre",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1987787817037213696/nIoFr2nn_200x200.jpg",
+        "initials": "LA"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1987931173100859666",
+        "id": "1990339411297665194",
+        "url": "https://x.com/sarthak__bhagat/status/1990339411297665194"
+      }
+    },
+    {
+      "profile": {
+        "handle": "physical_int",
+        "name": "Physical Intelligence",
+        "profile_url": "https://x.com/physical_int",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1851742218887008256/gpCSC4VP_200x200.png",
+        "initials": "PI"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1990574901795979577",
+        "id": "1990658895224975773",
+        "url": "https://x.com/sarthak__bhagat/status/1990658895224975773"
+      }
+    },
+    {
+      "profile": {
+        "handle": "dwarkesh_sp",
+        "name": "Dwarkesh Patel",
+        "profile_url": "https://x.com/dwarkesh_sp",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_200x200.jpg",
+        "initials": "DP"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1993371363026125147",
+        "id": "1993589456931082496",
+        "url": "https://x.com/sarthak__bhagat/status/1993589456931082496"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NASASolarSystem",
+        "name": "NASA Solar System",
+        "profile_url": "https://x.com/NASASolarSystem",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1852211324224442369/9KHp7JLo_200x200.jpg",
+        "initials": "NS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1995896667485188462",
+        "id": "1996353465938039242",
+        "url": "https://x.com/sarthak__bhagat/status/1996353465938039242"
+      }
+    },
+    {
+      "profile": {
+        "handle": "patrick_oshag",
+        "name": "Patrick OShaughnessy",
+        "profile_url": "https://x.com/patrick_oshag",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1964115465065664512/ZFQbGjIU_200x200.jpg",
+        "initials": "PO"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1998440819078898140",
+        "id": "1998639882546315647",
+        "url": "https://x.com/sarthak__bhagat/status/1998639882546315647"
+      }
+    },
+    {
+      "profile": {
+        "handle": "humanoidsdaily",
+        "name": "Humanoids daily",
+        "profile_url": "https://x.com/humanoidsdaily",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1906703170069274624/ueaZW4dj_200x200.jpg",
+        "initials": "HD"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "1999378858747764796",
+        "id": "1999695014105104878",
+        "url": "https://x.com/sarthak__bhagat/status/1999695014105104878"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Marswalkerr",
+        "name": "Sanket Savani",
+        "profile_url": "https://x.com/Marswalkerr",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1760025340217524224/0WkZwJ-r_200x200.jpg",
+        "initials": "SS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2000194016323961196",
+        "id": "2000411558787321959",
+        "url": "https://x.com/sarthak__bhagat/status/2000411558787321959"
+      }
+    },
+    {
+      "profile": {
+        "handle": "1x_tech",
+        "name": "1X",
+        "profile_url": "https://x.com/1x_tech",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010794180012806144/rQHFlJok_200x200.jpg",
+        "initials": "1"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2010743979818836269",
+        "id": "2010777763654091087",
+        "url": "https://x.com/sarthak__bhagat/status/2010777763654091087"
+      }
+    },
+    {
+      "profile": {
+        "handle": "demishassabis",
+        "name": "Demis Hassabis",
+        "profile_url": "https://x.com/demishassabis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_200x200.jpg",
+        "initials": "DH"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2016925155277361423",
+        "id": "2017128213923975651",
+        "url": "https://x.com/sarthak__bhagat/status/2017128213923975651"
+      }
+    },
+    {
+      "profile": {
+        "handle": "OpenAI",
+        "name": "OpenAI",
+        "profile_url": "https://x.com/OpenAI",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg",
+        "initials": "O"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2022390096625078389",
+        "id": "2022431943187665314",
+        "url": "https://x.com/sarthak__bhagat/status/2022431943187665314"
+      }
+    },
+    {
+      "profile": {
+        "handle": "GuanyaShi",
+        "name": "Guanya Shi",
+        "profile_url": "https://x.com/GuanyaShi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1671648343347568640/h1d1qX58_200x200.jpg",
+        "initials": "GS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2023814130365346190",
+        "id": "2024208707702444498",
+        "url": "https://x.com/sarthak__bhagat/status/2024208707702444498"
+      }
+    },
+    {
+      "profile": {
+        "handle": "pratykumar",
+        "name": "Pratyush Kumar",
+        "profile_url": "https://x.com/pratykumar",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1530522280824295426/PR-Tv-wj_200x200.jpg",
+        "initials": "PK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2024889207324639450",
+        "id": "2025116319440638454",
+        "url": "https://x.com/sarthak__bhagat/status/2025116319440638454"
+      }
+    },
+    {
+      "profile": {
+        "handle": "jack",
+        "name": "jack",
+        "profile_url": "https://x.com/jack",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_200x200.jpg",
+        "initials": "J"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2027129697092731343",
+        "id": "2027157506863284461",
+        "url": "https://x.com/sarthak__bhagat/status/2027157506863284461"
+      }
+    },
+    {
+      "profile": {
+        "handle": "TukiFromKL",
+        "name": "Tuki",
+        "profile_url": "https://x.com/TukiFromKL",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2110611051909623808/GWrWlzIT_200x200.jpg",
+        "initials": "T"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2032920286828572858",
+        "id": "2032965897103552805",
+        "url": "https://x.com/sarthak__bhagat/status/2032965897103552805"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NASA",
+        "name": "NASA",
+        "profile_url": "https://x.com/NASA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2039490150237909144",
+        "id": "2039580702933733484",
+        "url": "https://x.com/sarthak__bhagat/status/2039580702933733484"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NASA",
+        "name": "NASA",
+        "profile_url": "https://x.com/NASA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2040059770237849635",
+        "id": "2040207896961786100",
+        "url": "https://x.com/sarthak__bhagat/status/2040207896961786100"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NASA",
+        "name": "NASA",
+        "profile_url": "https://x.com/NASA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2041557036274475228",
+        "id": "2041586035440914818",
+        "url": "https://x.com/sarthak__bhagat/status/2041586035440914818"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ousterlidar",
+        "name": "Ouster",
+        "profile_url": "https://x.com/ousterlidar",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1129440823009923072/MOQIWARr_200x200.png",
+        "initials": "O"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2043734758341914927",
+        "id": "2043758568537727351",
+        "url": "https://x.com/sarthak__bhagat/status/2043758568537727351"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2044400509835223342",
+        "id": "2044473945571922023",
+        "url": "https://x.com/sarthak__bhagat/status/2044473945571922023"
+      }
+    },
+    {
+      "profile": {
+        "handle": "eladgil",
+        "name": "Elad Gil",
+        "profile_url": "https://x.com/eladgil",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1151122652/dragonball-tenkaichi-daibouken_200x200.jpg",
+        "initials": "EG"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2046284164081864733",
+        "id": "2046420863654994249",
+        "url": "https://x.com/sarthak__bhagat/status/2046420863654994249"
+      }
+    },
+    {
+      "profile": {
+        "handle": "LiamFedus",
+        "name": "Liam Fedus",
+        "profile_url": "https://x.com/LiamFedus",
+        "avatar_url": "https://pbs.twimg.com/profile_images/946842870916448256/X0_3p45X_200x200.jpg",
+        "initials": "LF"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2048424362093797399",
+        "id": "2048597131125195239",
+        "url": "https://x.com/sarthak__bhagat/status/2048597131125195239"
+      }
+    },
+    {
+      "profile": {
+        "handle": "mexitlan",
+        "name": "Diego Prats | 🤖",
+        "profile_url": "https://x.com/mexitlan",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2036941358917967873/bCOQ2DZT_200x200.jpg",
+        "initials": "DP"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2054270932580282629",
+        "id": "2054445759265992909",
+        "url": "https://x.com/sarthak__bhagat/status/2054445759265992909"
+      }
+    },
+    {
+      "profile": {
+        "handle": "dwarkesh_sp",
+        "name": "Dwarkesh Patel",
+        "profile_url": "https://x.com/dwarkesh_sp",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_200x200.jpg",
+        "initials": "DP"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2055324348332871779",
+        "id": "2056886462755504337",
+        "url": "https://x.com/sarthak__bhagat/status/2056886462755504337"
+      }
+    },
+    {
+      "profile": {
+        "handle": "moritz_reuss",
+        "name": "Moritz Reuss",
+        "profile_url": "https://x.com/moritz_reuss",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1715675249373536256/0WHMLGP6_200x200.jpg",
+        "initials": "MR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2066530578720022835",
+        "id": "2067149428381917679",
+        "url": "https://x.com/sarthak__bhagat/status/2067149428381917679"
+      }
+    },
+    {
+      "profile": {
+        "handle": "gauri__gupta",
+        "name": "Gauri Gupta",
+        "profile_url": "https://x.com/gauri__gupta",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1613780147035045888/Wb7_dkZU_200x200.jpg",
+        "initials": "GG"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2070681459338432560",
+        "id": "2070689901113454683",
+        "url": "https://x.com/sarthak__bhagat/status/2070689901113454683"
+      }
+    },
+    {
+      "profile": {
+        "handle": "shagunuppls",
+        "name": "Shagunn",
+        "profile_url": "https://x.com/shagunuppls",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2074534216247947403",
+        "id": "2074557147564904700",
+        "url": "https://x.com/sarthak__bhagat/status/2074557147564904700"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SahilBloom",
+        "name": "Sahil Bloom",
+        "profile_url": "https://x.com/SahilBloom",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_200x200.jpg",
+        "initials": "SB"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2077738958113444103",
+        "id": "2077888999713317153",
+        "url": "https://x.com/sarthak__bhagat/status/2077888999713317153"
+      }
+    },
+    {
+      "profile": {
+        "handle": "__alpoge__",
+        "name": "levent",
+        "profile_url": "https://x.com/__alpoge__",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1824948681877155840/VqVHY3gF_200x200.jpg",
+        "initials": "L"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2079028340955197566",
+        "id": "2079450967100248308",
+        "url": "https://x.com/sarthak__bhagat/status/2079450967100248308"
+      }
+    },
+    {
+      "profile": {
+        "handle": "unnatjain2010",
+        "name": "Unnat Jain",
+        "profile_url": "https://x.com/unnatjain2010",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2064120788769460224/2bmx8HZE_200x200.jpg",
+        "initials": "UJ"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2092253412096393518",
+        "id": "2092294074128879715",
+        "url": "https://x.com/sarthak__bhagat/status/2092294074128879715"
+      }
+    },
+    {
+      "profile": {
+        "handle": "gegelz",
+        "name": "Georgi Koreli",
+        "profile_url": "https://x.com/gegelz",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1912749445411926016/LdVlPXG0_200x200.jpg",
+        "initials": "GK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2094962146706968724",
+        "id": "2094990321323294929",
+        "url": "https://x.com/sarthak__bhagat/status/2094990321323294929"
+      }
+    },
+    {
+      "profile": {
+        "handle": "polynoamial",
+        "name": "Noam Brown",
+        "profile_url": "https://x.com/polynoamial",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_200x200.jpg",
+        "initials": "NB"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2095583211950833768",
+        "id": "2095589657497268638",
+        "url": "https://x.com/sarthak__bhagat/status/2095589657497268638"
+      }
+    },
+    {
+      "profile": {
+        "handle": "GoenkaPk",
+        "name": "Pawan K Goenka",
+        "profile_url": "https://x.com/GoenkaPk",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1440712809516441601/q3vAYrxR_200x200.jpg",
+        "initials": "PK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2096523046052057215",
+        "id": "2096707842921386412",
+        "url": "https://x.com/sarthak__bhagat/status/2096707842921386412"
+      }
+    },
+    {
+      "profile": {
+        "handle": "OpenAI",
+        "name": "OpenAI",
+        "profile_url": "https://x.com/OpenAI",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg",
+        "initials": "O"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2097374640582668336",
+        "id": "2097401836684894606",
+        "url": "https://x.com/sarthak__bhagat/status/2097401836684894606"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ToKTeacher",
+        "name": "Brett Hall",
+        "profile_url": "https://x.com/ToKTeacher",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1599154524459241472/7RQWUjkC_200x200.jpg",
+        "initials": "BH"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2101515651290648952",
+        "id": "2101519824904171717",
+        "url": "https://x.com/sarthak__bhagat/status/2101519824904171717"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SGRodriques",
+        "name": "Sam Rodriques",
+        "profile_url": "https://x.com/SGRodriques",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1925326273175547904/DbNSTBKN_200x200.jpg",
+        "initials": "SR"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2102550817215779089",
+        "id": "2102627287959208191",
+        "url": "https://x.com/sarthak__bhagat/status/2102627287959208191"
+      }
+    },
+    {
+      "profile": {
+        "handle": "OpenAI",
+        "name": "OpenAI",
+        "profile_url": "https://x.com/OpenAI",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg",
+        "initials": "O"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2107596713791767021",
+        "id": "2107602772099297401",
+        "url": "https://x.com/sarthak__bhagat/status/2107602772099297401"
+      }
+    },
+    {
+      "profile": {
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "profile_url": "https://x.com/karpathy",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2109361546505966046",
+        "id": "2109447113612591116",
+        "url": "https://x.com/sarthak__bhagat/status/2109447113612591116"
+      }
+    },
+    {
+      "profile": {
+        "handle": "yogesh_origin",
+        "name": "Yogesh Ghaturle",
+        "profile_url": "https://x.com/yogesh_origin",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1396193337472815104/HfU3y7nD_200x200.jpg",
+        "initials": "YG"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2110812313716764721",
+        "id": "2110829543363883098",
+        "url": "https://x.com/sarthak__bhagat/status/2110829543363883098"
+      }
+    },
+    {
+      "profile": {
+        "handle": "kevinweil",
+        "name": "Kevin Weil 🇺🇸",
+        "profile_url": "https://x.com/kevinweil",
+        "avatar_url": "https://pbs.twimg.com/profile_images/536369378632032256/fleA5Ipm_200x200.jpeg",
+        "initials": "KW"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2114132119186530434",
+        "id": "2114133045918011898",
+        "url": "https://x.com/sarthak__bhagat/status/2114133045918011898"
+      }
+    },
+    {
+      "profile": {
+        "handle": "AzianMike",
+        "name": "Michael Luo",
+        "profile_url": "https://x.com/AzianMike",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1639289943112712192/siQIsPMq_200x200.jpg",
+        "initials": "ML"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2114214937648300310",
+        "id": "2114508715659579554",
+        "url": "https://x.com/sarthak__bhagat/status/2114508715659579554"
+      }
+    },
+    {
+      "profile": {
+        "handle": "gdb",
+        "name": "Greg Brockman",
+        "profile_url": "https://x.com/gdb",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_200x200.jpg",
+        "initials": "GB"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2114837059462627533",
+        "id": "2114865177149743312",
+        "url": "https://x.com/sarthak__bhagat/status/2114865177149743312"
+      }
+    },
+    {
+      "profile": {
+        "handle": "gauri__gupta",
+        "name": "Gauri Gupta",
+        "profile_url": "https://x.com/gauri__gupta",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1613780147035045888/Wb7_dkZU_200x200.jpg",
+        "initials": "GG"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2118036806734135403",
+        "id": "2118053150645252170",
+        "url": "https://x.com/sarthak__bhagat/status/2118053150645252170"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Ankita1Shukla",
+        "name": "Ankita Shukla",
+        "profile_url": "https://x.com/Ankita1Shukla",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1229764456424427520/SuW1OWzT_200x200.jpg",
+        "initials": "AS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1145746484152791040",
+        "id": "1145746484152791040",
+        "url": "https://x.com/Ankita1Shukla/status/1145746484152791040"
+      }
+    },
+    {
+      "profile": {
+        "handle": "arxiv_org",
+        "name": "arxiv",
+        "profile_url": "https://x.com/arxiv_org",
+        "avatar_url": "https://pbs.twimg.com/profile_images/752339815002091520/d403dpBl_200x200.jpg",
+        "initials": "A"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1154175811508822016",
+        "id": "1154175811508822016",
+        "url": "https://x.com/arxiv_org/status/1154175811508822016"
+      }
+    },
+    {
+      "profile": {
+        "handle": "agrawalamod",
+        "name": "Amod Agrawal",
+        "profile_url": "https://x.com/agrawalamod",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1541682589399801856/6HqzDuTW_200x200.jpg",
+        "initials": "AA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1162076914166579200",
+        "id": "1162076914166579200",
+        "url": "https://x.com/agrawalamod/status/1162076914166579200"
+      }
+    },
+    {
+      "profile": {
+        "handle": "anirudhg9119",
+        "name": "Anirudh Goyal",
+        "profile_url": "https://x.com/anirudhg9119",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2108196382721056769/6ge994AA_200x200.jpg",
+        "initials": "AG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1171722855882604544",
+        "id": "1171722855882604544",
+        "url": "https://x.com/anirudhg9119/status/1171722855882604544"
+      }
+    },
+    {
+      "profile": {
+        "handle": "aidangomez",
+        "name": "Aidan Gomez",
+        "profile_url": "https://x.com/aidangomez",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2103792787539779584/DI6dgoen_200x200.jpg",
+        "initials": "AG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1191994366950363137",
+        "id": "1191994366950363137",
+        "url": "https://x.com/aidangomez/status/1191994366950363137"
+      }
+    },
+    {
+      "profile": {
+        "handle": "thesasho",
+        "name": "Sasho Nikolov (thesasho@bsky.social)",
+        "profile_url": "https://x.com/thesasho",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1938619553438732288/3l1jJCqO_200x200.jpg",
+        "initials": "SN"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1197646257692524545",
+        "id": "1197646257692524545",
+        "url": "https://x.com/thesasho/status/1197646257692524545"
+      }
+    },
+    {
+      "profile": {
+        "handle": "dlowd",
+        "name": "Daniel Lowd",
+        "profile_url": "https://x.com/dlowd",
+        "avatar_url": "https://pbs.twimg.com/profile_images/455229523013808128/ta_sc2eO_200x200.jpeg",
+        "initials": "DL"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1242125692851990528",
+        "id": "1242125692851990528",
+        "url": "https://x.com/dlowd/status/1242125692851990528"
+      }
+    },
+    {
+      "profile": {
+        "handle": "o_v_shake",
+        "name": "Abhishek Maiti",
+        "profile_url": "https://x.com/o_v_shake",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113315871901028352/aoZvgOfy_200x200.jpg",
+        "initials": "AM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1254374824983564288",
+        "id": "1254374824983564288",
+        "url": "https://x.com/o_v_shake/status/1254374824983564288"
+      }
+    },
+    {
+      "profile": {
+        "handle": "midasIITK",
+        "name": "Multimodal Digital Media Analysis (MIDAS) Research",
+        "profile_url": "https://x.com/midasIITK",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_200x200.jpg",
+        "initials": "MD"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1262616340281520128",
+        "id": "1262616340281520128",
+        "url": "https://x.com/midasIITK/status/1262616340281520128"
+      }
+    },
+    {
+      "profile": {
+        "handle": "jbhuang0604",
+        "name": "Jia-Bin Huang",
+        "profile_url": "https://x.com/jbhuang0604",
+        "avatar_url": "https://pbs.twimg.com/profile_images/601424529051648000/Sr_nSuBF_200x200.jpg",
+        "initials": "JH"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1276160715473240065",
+        "id": "1276160715473240065",
+        "url": "https://x.com/jbhuang0604/status/1276160715473240065"
+      }
+    },
+    {
+      "profile": {
+        "handle": "CSProfKGD",
+        "name": "Kosta Derpanis",
+        "profile_url": "https://x.com/CSProfKGD",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2081105921774956544/j6KROvYJ_200x200.jpg",
+        "initials": "KD"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1280849246045044740",
+        "id": "1280849246045044740",
+        "url": "https://x.com/CSProfKGD/status/1280849246045044740"
+      }
+    },
+    {
+      "profile": {
+        "handle": "amlankar95",
+        "name": "Amlan Kar",
+        "profile_url": "https://x.com/amlankar95",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1611565796035117057/dM54pcsZ_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1284200803071336449",
+        "id": "1284200803071336449",
+        "url": "https://x.com/amlankar95/status/1284200803071336449"
+      }
+    },
+    {
+      "profile": {
+        "handle": "shagunuppls",
+        "name": "Shagunn",
+        "profile_url": "https://x.com/shagunuppls",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1297955168797880321",
+        "id": "1297955168797880321",
+        "url": "https://x.com/shagunuppls/status/1297955168797880321"
+      }
+    },
+    {
+      "profile": {
+        "handle": "matt_vowels",
+        "name": "Matthew Vowels",
+        "profile_url": "https://x.com/matt_vowels",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1218200249224835074/U2_MSu5t_200x200.jpg",
+        "initials": "MV"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1301109125473017858",
+        "id": "1301109125473017858",
+        "url": "https://x.com/matt_vowels/status/1301109125473017858"
+      }
+    },
+    {
+      "profile": {
+        "handle": "KarlPertsch",
+        "name": "Karl Pertsch",
+        "profile_url": "https://x.com/KarlPertsch",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1311259901071626241/ZvvZD0bS_200x200.jpg",
+        "initials": "KP"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1329345382560772096",
+        "id": "1329345382560772096",
+        "url": "https://x.com/KarlPertsch/status/1329345382560772096"
+      }
+    },
+    {
+      "profile": {
+        "handle": "o_v_shake",
+        "name": "Abhishek Maiti",
+        "profile_url": "https://x.com/o_v_shake",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113315871901028352/aoZvgOfy_200x200.jpg",
+        "initials": "AM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1346410917748211714",
+        "id": "1346410917748211714",
+        "url": "https://x.com/o_v_shake/status/1346410917748211714"
+      }
+    },
+    {
+      "profile": {
+        "handle": "EdwardDixon3",
+        "name": "Edward Dixon",
+        "profile_url": "https://x.com/EdwardDixon3",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1250895044762128384/FUYJgFAZ_200x200.jpg",
+        "initials": "ED"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1369355970598539265",
+        "id": "1369355970598539265",
+        "url": "https://x.com/EdwardDixon3/status/1369355970598539265"
+      }
+    },
+    {
+      "profile": {
+        "handle": "coursera",
+        "name": "Coursera",
+        "profile_url": "https://x.com/coursera",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1338839422851112964/-_P3vI9j_200x200.png",
+        "initials": "C"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1500620710443552768",
+        "id": "1500620710443552768",
+        "url": "https://x.com/coursera/status/1500620710443552768"
+      }
+    },
+    {
+      "profile": {
+        "handle": "dennybritz",
+        "name": "Denny Britz",
+        "profile_url": "https://x.com/dennybritz",
+        "avatar_url": "https://pbs.twimg.com/profile_images/630275497243467776/BEjW4LFU_200x200.jpg",
+        "initials": "DB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1599288760638005249",
+        "id": "1599288760638005249",
+        "url": "https://x.com/dennybritz/status/1599288760638005249"
+      }
+    },
+    {
+      "profile": {
+        "handle": "davheld",
+        "name": "David Held",
+        "profile_url": "https://x.com/davheld",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1162110767593938944/VdOr0Afo_200x200.jpg",
+        "initials": "DH"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1601054576773169152",
+        "id": "1601054576773169152",
+        "url": "https://x.com/davheld/status/1601054576773169152"
+      }
+    },
+    {
+      "profile": {
+        "handle": "bneyshabur",
+        "name": "Behnam Neyshabur",
+        "profile_url": "https://x.com/bneyshabur",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1136894710293774336/RN2vpcX0_200x200.png",
+        "initials": "BN"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1605677285255675904",
+        "id": "1605677285255675904",
+        "url": "https://x.com/bneyshabur/status/1605677285255675904"
+      }
+    },
+    {
+      "profile": {
+        "handle": "PeterDiamandis",
+        "name": "Peter H. Diamandis, MD",
+        "profile_url": "https://x.com/PeterDiamandis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_200x200.jpg",
+        "initials": "PH"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1607860104522567680",
+        "id": "1607860104522567680",
+        "url": "https://x.com/PeterDiamandis/status/1607860104522567680"
+      }
+    },
+    {
+      "profile": {
+        "handle": "joulee",
+        "name": "Julie Zhuo",
+        "profile_url": "https://x.com/joulee",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1378926301382279169/SA7mJnsA_200x200.jpg",
+        "initials": "JZ"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1609583986896171008",
+        "id": "1609583986896171008",
+        "url": "https://x.com/joulee/status/1609583986896171008"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1611787086595788800",
+        "id": "1611787086595788800",
+        "url": "https://x.com/sama/status/1611787086595788800"
+      }
+    },
+    {
+      "profile": {
+        "handle": "satyanadella",
+        "name": "Satya Nadella",
+        "profile_url": "https://x.com/satyanadella",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_200x200.jpg",
+        "initials": "SN"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1615156218838003712",
+        "id": "1615156218838003712",
+        "url": "https://x.com/satyanadella/status/1615156218838003712"
+      }
+    },
+    {
+      "profile": {
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "profile_url": "https://x.com/karpathy",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1615398117683388417",
+        "id": "1615398117683388417",
+        "url": "https://x.com/karpathy/status/1615398117683388417"
+      }
+    },
+    {
+      "profile": {
+        "handle": "naval",
+        "name": "Naval",
+        "profile_url": "https://x.com/naval",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1615829324355239939",
+        "id": "1615829324355239939",
+        "url": "https://x.com/naval/status/1615829324355239939"
+      }
+    },
+    {
+      "profile": {
+        "handle": "RomeenSheth",
+        "name": "Romeen Sheth",
+        "profile_url": "https://x.com/RomeenSheth",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1959240327123832832/RcIQN_Y4_200x200.jpg",
+        "initials": "RS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1616236740271824898",
+        "id": "1616236740271824898",
+        "url": "https://x.com/RomeenSheth/status/1616236740271824898"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NavalismHQ",
+        "name": "Navalism",
+        "profile_url": "https://x.com/NavalismHQ",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1618499099224858625",
+        "id": "1618499099224858625",
+        "url": "https://x.com/NavalismHQ/status/1618499099224858625"
+      }
+    },
+    {
+      "profile": {
+        "handle": "zachpogrob",
+        "name": "Zach Pogrob",
+        "profile_url": "https://x.com/zachpogrob",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2084442215191842816/FNENm3Bt_200x200.png",
+        "initials": "ZP"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1619048397838880768",
+        "id": "1619048397838880768",
+        "url": "https://x.com/zachpogrob/status/1619048397838880768"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NavalismHQ",
+        "name": "Navalism",
+        "profile_url": "https://x.com/NavalismHQ",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1619894041537036288",
+        "id": "1619894041537036288",
+        "url": "https://x.com/NavalismHQ/status/1619894041537036288"
+      }
+    },
+    {
+      "profile": {
+        "handle": "johnjnay",
+        "name": "John Nay",
+        "profile_url": "https://x.com/johnjnay",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2032286692023934976/fce3eDSE_200x200.jpg",
+        "initials": "JN"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1620586412230979584",
+        "id": "1620586412230979584",
+        "url": "https://x.com/johnjnay/status/1620586412230979584"
+      }
+    },
+    {
+      "profile": {
+        "handle": "jbhuang0604",
+        "name": "Jia-Bin Huang",
+        "profile_url": "https://x.com/jbhuang0604",
+        "avatar_url": "https://pbs.twimg.com/profile_images/601424529051648000/Sr_nSuBF_200x200.jpg",
+        "initials": "JH"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1626372600824844289",
+        "id": "1626372600824844289",
+        "url": "https://x.com/jbhuang0604/status/1626372600824844289"
+      }
+    },
+    {
+      "profile": {
+        "handle": "naval",
+        "name": "Naval",
+        "profile_url": "https://x.com/naval",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1626771996049801217",
+        "id": "1626771996049801217",
+        "url": "https://x.com/naval/status/1626771996049801217"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1628137684203106310",
+        "id": "1628137684203106310",
+        "url": "https://x.com/sama/status/1628137684203106310"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DannyDriess",
+        "name": "Danny Driess",
+        "profile_url": "https://x.com/DannyDriess",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1882137552859385856/JpUJqoKS_200x200.jpg",
+        "initials": "DD"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1632904675124035585",
+        "id": "1632904675124035585",
+        "url": "https://x.com/DannyDriess/status/1632904675124035585"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ylecun",
+        "name": "Yann LeCun",
+        "profile_url": "https://x.com/ylecun",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_200x200.jpg",
+        "initials": "YL"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1641274105503576064",
+        "id": "1641274105503576064",
+        "url": "https://x.com/ylecun/status/1641274105503576064"
+      }
+    },
+    {
+      "profile": {
+        "handle": "AIatMeta",
+        "name": "AI at Meta",
+        "profile_url": "https://x.com/AIatMeta",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102933421458665472/o_KTIjw3_200x200.png",
+        "initials": "AA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1643599800414380038",
+        "id": "1643599800414380038",
+        "url": "https://x.com/AIatMeta/status/1643599800414380038"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DavidDeutschOxf",
+        "name": "David Deutsch",
+        "profile_url": "https://x.com/DavidDeutschOxf",
+        "avatar_url": "https://pbs.twimg.com/profile_images/925701269041401857/ff6NE-H-_200x200.jpg",
+        "initials": "DD"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1647852045523640320",
+        "id": "1647852045523640320",
+        "url": "https://x.com/DavidDeutschOxf/status/1647852045523640320"
+      }
+    },
+    {
+      "profile": {
+        "handle": "RichardSocher",
+        "name": "Richard Socher",
+        "profile_url": "https://x.com/RichardSocher",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_200x200.jpg",
+        "initials": "RS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1648735187088601088",
+        "id": "1648735187088601088",
+        "url": "https://x.com/RichardSocher/status/1648735187088601088"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SpaceX",
+        "name": "SpaceX",
+        "profile_url": "https://x.com/SpaceX",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1649043715686793218",
+        "id": "1649043715686793218",
+        "url": "https://x.com/SpaceX/status/1649043715686793218"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Rainmaker1973",
+        "name": "Massimo",
+        "profile_url": "https://x.com/Rainmaker1973",
+        "avatar_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_200x200.jpg",
+        "initials": "M"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1650182940297494530",
+        "id": "1650182940297494530",
+        "url": "https://x.com/Rainmaker1973/status/1650182940297494530"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ylecun",
+        "name": "Yann LeCun",
+        "profile_url": "https://x.com/ylecun",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_200x200.jpg",
+        "initials": "YL"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1650798206283051009",
+        "id": "1650798206283051009",
+        "url": "https://x.com/ylecun/status/1650798206283051009"
+      }
+    },
+    {
+      "profile": {
+        "handle": "wisdom_theory",
+        "name": "Wisdom Theory",
+        "profile_url": "https://x.com/wisdom_theory",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1399633772795117568/m8pyZ3vm_200x200.png",
+        "initials": "WT"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1653924903949860864",
+        "id": "1653924903949860864",
+        "url": "https://x.com/wisdom_theory/status/1653924903949860864"
+      }
+    },
+    {
+      "profile": {
+        "handle": "kunalb11",
+        "name": "Kunal Shah",
+        "profile_url": "https://x.com/kunalb11",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1190747917998546944/D3U5FNa7_200x200.jpg",
+        "initials": "KS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1665273742862475264",
+        "id": "1665273742862475264",
+        "url": "https://x.com/kunalb11/status/1665273742862475264"
+      }
+    },
+    {
+      "profile": {
+        "handle": "IIITDelhi",
+        "name": "IIIT Delhi",
+        "profile_url": "https://x.com/IIITDelhi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/710727346148409344/88A6YRY2_200x200.jpg",
+        "initials": "ID"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1665634578453897216",
+        "id": "1665634578453897216",
+        "url": "https://x.com/IIITDelhi/status/1665634578453897216"
+      }
+    },
+    {
+      "profile": {
+        "handle": "shl",
+        "name": "Sahil Lavingia",
+        "profile_url": "https://x.com/shl",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1885323625542127616/-8EVOv3W_200x200.jpg",
+        "initials": "SL"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1681548229945741313",
+        "id": "1681548229945741313",
+        "url": "https://x.com/shl/status/1681548229945741313"
+      }
+    },
+    {
+      "profile": {
+        "handle": "CoLLAs_Conf",
+        "name": "CoLLAs 2026",
+        "profile_url": "https://x.com/CoLLAs_Conf",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1545423522759151617/AqmUFnWm_200x200.jpg",
+        "initials": "C2"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1682465032703975424",
+        "id": "1682465032703975424",
+        "url": "https://x.com/CoLLAs_Conf/status/1682465032703975424"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SimonStepputtis",
+        "name": "Simon Stepputtis",
+        "profile_url": "https://x.com/SimonStepputtis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1694360679388745728/XFUQi82o_200x200.jpg",
+        "initials": "SS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1684240523115249665",
+        "id": "1684240523115249665",
+        "url": "https://x.com/SimonStepputtis/status/1684240523115249665"
+      }
+    },
+    {
+      "profile": {
+        "handle": "CoLLAs_Conf",
+        "name": "CoLLAs 2026",
+        "profile_url": "https://x.com/CoLLAs_Conf",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1545423522759151617/AqmUFnWm_200x200.jpg",
+        "initials": "C2"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1693634489283465299",
+        "id": "1693634489283465299",
+        "url": "https://x.com/CoLLAs_Conf/status/1693634489283465299"
+      }
+    },
+    {
+      "profile": {
+        "handle": "RomeenSheth",
+        "name": "Romeen Sheth",
+        "profile_url": "https://x.com/RomeenSheth",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1959240327123832832/RcIQN_Y4_200x200.jpg",
+        "initials": "RS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1701385136624013521",
+        "id": "1701385136624013521",
+        "url": "https://x.com/RomeenSheth/status/1701385136624013521"
+      }
+    },
+    {
+      "profile": {
+        "handle": "NavalismHQ",
+        "name": "Navalism",
+        "profile_url": "https://x.com/NavalismHQ",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1350045723073671169/xB1_K1_z_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1701933998128369999",
+        "id": "1701933998128369999",
+        "url": "https://x.com/NavalismHQ/status/1701933998128369999"
+      }
+    },
+    {
+      "profile": {
+        "handle": "pushmeet",
+        "name": "Pushmeet Kohli",
+        "profile_url": "https://x.com/pushmeet",
+        "avatar_url": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_200x200.jpg",
+        "initials": "PK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1704151783407243542",
+        "id": "1704151783407243542",
+        "url": "https://x.com/pushmeet/status/1704151783407243542"
+      }
+    },
+    {
+      "profile": {
+        "handle": "KarlPertsch",
+        "name": "Karl Pertsch",
+        "profile_url": "https://x.com/KarlPertsch",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1311259901071626241/ZvvZD0bS_200x200.jpg",
+        "initials": "KP"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1709209525360656418",
+        "id": "1709209525360656418",
+        "url": "https://x.com/KarlPertsch/status/1709209525360656418"
+      }
+    },
+    {
+      "profile": {
+        "handle": "PhysInHistory",
+        "name": "Physics In History",
+        "profile_url": "https://x.com/PhysInHistory",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1456245154377916417/oPMz8-kf_200x200.jpg",
+        "initials": "PI"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1711020955915489655",
+        "id": "1711020955915489655",
+        "url": "https://x.com/PhysInHistory/status/1711020955915489655"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SimonStepputtis",
+        "name": "Simon Stepputtis",
+        "profile_url": "https://x.com/SimonStepputtis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1694360679388745728/XFUQi82o_200x200.jpg",
+        "initials": "SS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1712170194565812683",
+        "id": "1712170194565812683",
+        "url": "https://x.com/SimonStepputtis/status/1712170194565812683"
+      }
+    },
+    {
+      "profile": {
+        "handle": "AIatMeta",
+        "name": "AI at Meta",
+        "profile_url": "https://x.com/AIatMeta",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102933421458665472/o_KTIjw3_200x200.png",
+        "initials": "AA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1725182736904712520",
+        "id": "1725182736904712520",
+        "url": "https://x.com/AIatMeta/status/1725182736904712520"
+      }
+    },
+    {
+      "profile": {
+        "handle": "blader",
+        "name": "Siqi Chen",
+        "profile_url": "https://x.com/blader",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1600585199800111106/zIdLh9UL_200x200.jpg",
+        "initials": "SC"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1725733395899318592",
+        "id": "1725733395899318592",
+        "url": "https://x.com/blader/status/1725733395899318592"
+      }
+    },
+    {
+      "profile": {
+        "handle": "balajis",
+        "name": "Balaji",
+        "profile_url": "https://x.com/balajis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2049168417710915585/egYgw1FA_200x200.jpg",
+        "initials": "B"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1728740249768251638",
+        "id": "1728740249768251638",
+        "url": "https://x.com/balajis/status/1728740249768251638"
+      }
+    },
+    {
+      "profile": {
+        "handle": "paulg",
+        "name": "Paul Graham",
+        "profile_url": "https://x.com/paulg",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_200x200.jpg",
+        "initials": "PG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1729612987118256412",
+        "id": "1729612987118256412",
+        "url": "https://x.com/paulg/status/1729612987118256412"
+      }
+    },
+    {
+      "profile": {
+        "handle": "christiandean_",
+        "name": "Christian Dean",
+        "profile_url": "https://x.com/christiandean_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1753517086972825602/x4-LsEz-_200x200.jpg",
+        "initials": "CD"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1730608512714027233",
+        "id": "1730608512714027233",
+        "url": "https://x.com/christiandean_/status/1730608512714027233"
+      }
+    },
+    {
+      "profile": {
+        "handle": "zfellows",
+        "name": "Z Fellows",
+        "profile_url": "https://x.com/zfellows",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1692685189657370624/HaJDTvv1_200x200.jpg",
+        "initials": "ZF"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1733136864452673695",
+        "id": "1733136864452673695",
+        "url": "https://x.com/zfellows/status/1733136864452673695"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1737967598032326786",
+        "id": "1737967598032326786",
+        "url": "https://x.com/sama/status/1737967598032326786"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1739859434669756756",
+        "id": "1739859434669756756",
+        "url": "https://x.com/sama/status/1739859434669756756"
+      }
+    },
+    {
+      "profile": {
+        "handle": "MnkeDaniel",
+        "name": "Daniel Mahncke",
+        "profile_url": "https://x.com/MnkeDaniel",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2019885040008642561/ivW7VU93_200x200.jpg",
+        "initials": "DM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1742580327057433002",
+        "id": "1742580327057433002",
+        "url": "https://x.com/MnkeDaniel/status/1742580327057433002"
+      }
+    },
+    {
+      "profile": {
+        "handle": "PhysInHistory",
+        "name": "Physics In History",
+        "profile_url": "https://x.com/PhysInHistory",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1456245154377916417/oPMz8-kf_200x200.jpg",
+        "initials": "PI"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1742587996639998244",
+        "id": "1742587996639998244",
+        "url": "https://x.com/PhysInHistory/status/1742587996639998244"
+      }
+    },
+    {
+      "profile": {
+        "handle": "marcrandolph",
+        "name": "Marc Randolph",
+        "profile_url": "https://x.com/marcrandolph",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1765988913406148608/f1KH5aNH_200x200.jpg",
+        "initials": "MR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1743133776279224500",
+        "id": "1743133776279224500",
+        "url": "https://x.com/marcrandolph/status/1743133776279224500"
+      }
+    },
+    {
+      "profile": {
+        "handle": "daraladje",
+        "name": "Dara",
+        "profile_url": "https://x.com/daraladje",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2075330970090364928/6T4n23lU_200x200.jpg",
+        "initials": "D"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1745280644392145035",
+        "id": "1745280644392145035",
+        "url": "https://x.com/daraladje/status/1745280644392145035"
+      }
+    },
+    {
+      "profile": {
+        "handle": "abidlabs",
+        "name": "🍉 Abubakar Abid",
+        "profile_url": "https://x.com/abidlabs",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1927783340440178688/j9qLpAvM_200x200.jpg",
+        "initials": "🍉A"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1745533306492588303",
+        "id": "1745533306492588303",
+        "url": "https://x.com/abidlabs/status/1745533306492588303"
+      }
+    },
+    {
+      "profile": {
+        "handle": "johnnyxbrown",
+        "name": "Johnny Brown",
+        "profile_url": "https://x.com/johnnyxbrown",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1587819303260327939/puFtXHEi_200x200.jpg",
+        "initials": "JB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1749805940034216225",
+        "id": "1749805940034216225",
+        "url": "https://x.com/johnnyxbrown/status/1749805940034216225"
+      }
+    },
+    {
+      "profile": {
+        "handle": "readswithravi",
+        "name": "Reads with Ravi",
+        "profile_url": "https://x.com/readswithravi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1560994238434889730/jhqZEwKm_200x200.jpg",
+        "initials": "RW"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1757076633922551858",
+        "id": "1757076633922551858",
+        "url": "https://x.com/readswithravi/status/1757076633922551858"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SJobs_Stories",
+        "name": "Steve Jobs Stories",
+        "profile_url": "https://x.com/SJobs_Stories",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1155917668697985025/w4N0eB1E_200x200.jpg",
+        "initials": "SJ"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1758944412862656727",
+        "id": "1758944412862656727",
+        "url": "https://x.com/SJobs_Stories/status/1758944412862656727"
+      }
+    },
+    {
+      "profile": {
+        "handle": "burny_tech",
+        "name": "Burny - Effective Curiosity",
+        "profile_url": "https://x.com/burny_tech",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1756650143145766912/-hr0qJkx_200x200.jpg",
+        "initials": "B-"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1767191735942221968",
+        "id": "1767191735942221968",
+        "url": "https://x.com/burny_tech/status/1767191735942221968"
+      }
+    },
+    {
+      "profile": {
+        "handle": "protosphinx",
+        "name": "sphinx",
+        "profile_url": "https://x.com/protosphinx",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2113827662565392384/wakNlE0V_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1768382550412521511",
+        "id": "1768382550412521511",
+        "url": "https://x.com/protosphinx/status/1768382550412521511"
+      }
+    },
+    {
+      "profile": {
+        "handle": "anishmadan23",
+        "name": "Anish Madan",
+        "profile_url": "https://x.com/anishmadan23",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1781036477591212032/xeMhcCxf_200x200.jpg",
+        "initials": "AM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1781036202285580770",
+        "id": "1781036202285580770",
+        "url": "https://x.com/anishmadan23/status/1781036202285580770"
+      }
+    },
+    {
+      "profile": {
+        "handle": "anishmadan23",
+        "name": "Anish Madan",
+        "profile_url": "https://x.com/anishmadan23",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1781036477591212032/xeMhcCxf_200x200.jpg",
+        "initials": "AM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1781801182530331118",
+        "id": "1781801182530331118",
+        "url": "https://x.com/anishmadan23/status/1781801182530331118"
+      }
+    },
+    {
+      "profile": {
+        "handle": "timecaptales",
+        "name": "Time Capsule Tales",
+        "profile_url": "https://x.com/timecaptales",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1883226492529725440/VLZYnkz1_200x200.jpg",
+        "initials": "TC"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1784009622631616805",
+        "id": "1784009622631616805",
+        "url": "https://x.com/timecaptales/status/1784009622631616805"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DvijKalaria",
+        "name": "Dvij Kalaria",
+        "profile_url": "https://x.com/DvijKalaria",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2020341576158109696/C5QA-Qkq_200x200.jpg",
+        "initials": "DK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1791157831661400289",
+        "id": "1791157831661400289",
+        "url": "https://x.com/DvijKalaria/status/1791157831661400289"
+      }
+    },
+    {
+      "profile": {
+        "handle": "naval",
+        "name": "Naval",
+        "profile_url": "https://x.com/naval",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_200x200.jpg",
+        "initials": "N"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1809826958630613193",
+        "id": "1809826958630613193",
+        "url": "https://x.com/naval/status/1809826958630613193"
+      }
+    },
+    {
+      "profile": {
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "profile_url": "https://x.com/karpathy",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1813263734707790301",
+        "id": "1813263734707790301",
+        "url": "https://x.com/karpathy/status/1813263734707790301"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1815420311439102026",
+        "id": "1815420311439102026",
+        "url": "https://x.com/genrobotics_ai/status/1815420311439102026"
+      }
+    },
+    {
+      "profile": {
+        "handle": "adityakusupati",
+        "name": "Aditya Kusupati",
+        "profile_url": "https://x.com/adityakusupati",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1444523869251911684/m17k6cCq_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1815424707715551343",
+        "id": "1815424707715551343",
+        "url": "https://x.com/adityakusupati/status/1815424707715551343"
+      }
+    },
+    {
+      "profile": {
+        "handle": "saihv",
+        "name": "Sai Vemprala",
+        "profile_url": "https://x.com/saihv",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1686226026337370112/fXPZjBNW_200x200.jpg",
+        "initials": "SV"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1815437488900763763",
+        "id": "1815437488900763763",
+        "url": "https://x.com/saihv/status/1815437488900763763"
+      }
+    },
+    {
+      "profile": {
+        "handle": "jovisaib",
+        "name": "jvvvv",
+        "profile_url": "https://x.com/jovisaib",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2092979361523630080/OKgU0aWL_200x200.jpg",
+        "initials": "J"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1815445085502279902",
+        "id": "1815445085502279902",
+        "url": "https://x.com/jovisaib/status/1815445085502279902"
+      }
+    },
+    {
+      "profile": {
+        "handle": "rerundotio",
+        "name": "Rerun",
+        "profile_url": "https://x.com/rerundotio",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2055223281259589632/RA_C5yTJ_200x200.jpg",
+        "initials": "R"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1815493022219747399",
+        "id": "1815493022219747399",
+        "url": "https://x.com/rerundotio/status/1815493022219747399"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1816180623545098643",
+        "id": "1816180623545098643",
+        "url": "https://x.com/akapoor_av8r/status/1816180623545098643"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1818688082042143149",
+        "id": "1818688082042143149",
+        "url": "https://x.com/genrobotics_ai/status/1818688082042143149"
+      }
+    },
+    {
+      "profile": {
+        "handle": "naughtygandhi69",
+        "name": "modern bapu",
+        "profile_url": "https://x.com/naughtygandhi69",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1870572563325190144/1iSwXxCv_200x200.jpg",
+        "initials": "MB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1819336164039393682",
+        "id": "1819336164039393682",
+        "url": "https://x.com/naughtygandhi69/status/1819336164039393682"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1820516182774231284",
+        "id": "1820516182774231284",
+        "url": "https://x.com/genrobotics_ai/status/1820516182774231284"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Scobleizer",
+        "name": "Robert Scoble",
+        "profile_url": "https://x.com/Scobleizer",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_200x200.jpg",
+        "initials": "RS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1821800606706889141",
+        "id": "1821800606706889141",
+        "url": "https://x.com/Scobleizer/status/1821800606706889141"
+      }
+    },
+    {
+      "profile": {
+        "handle": "florentstroppa",
+        "name": "Florent Stroppa",
+        "profile_url": "https://x.com/florentstroppa",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1847258609358368768/XT0HmCEX_200x200.jpg",
+        "initials": "FS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1821805012185412080",
+        "id": "1821805012185412080",
+        "url": "https://x.com/florentstroppa/status/1821805012185412080"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SimonStepputtis",
+        "name": "Simon Stepputtis",
+        "profile_url": "https://x.com/SimonStepputtis",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1694360679388745728/XFUQi82o_200x200.jpg",
+        "initials": "SS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1821884400922935529",
+        "id": "1821884400922935529",
+        "url": "https://x.com/SimonStepputtis/status/1821884400922935529"
+      }
+    },
+    {
+      "profile": {
+        "handle": "IntuitMachine",
+        "name": "Carlos E. Perez",
+        "profile_url": "https://x.com/IntuitMachine",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1998536249003380736/ew_SXOsl_200x200.png",
+        "initials": "CE"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1821897950584340872",
+        "id": "1821897950584340872",
+        "url": "https://x.com/IntuitMachine/status/1821897950584340872"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1824159392708825498",
+        "id": "1824159392708825498",
+        "url": "https://x.com/genrobotics_ai/status/1824159392708825498"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1827073424482767279",
+        "id": "1827073424482767279",
+        "url": "https://x.com/genrobotics_ai/status/1827073424482767279"
+      }
+    },
+    {
+      "profile": {
+        "handle": "animesh_garg",
+        "name": "Animesh Garg",
+        "profile_url": "https://x.com/animesh_garg",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1446338341826293763/mgreXcxr_200x200.jpg",
+        "initials": "AG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1827517989106688442",
+        "id": "1827517989106688442",
+        "url": "https://x.com/animesh_garg/status/1827517989106688442"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1829241588683604123",
+        "id": "1829241588683604123",
+        "url": "https://x.com/genrobotics_ai/status/1829241588683604123"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1829256234404589709",
+        "id": "1829256234404589709",
+        "url": "https://x.com/genrobotics_ai/status/1829256234404589709"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1831724688034398528",
+        "id": "1831724688034398528",
+        "url": "https://x.com/genrobotics_ai/status/1831724688034398528"
+      }
+    },
+    {
+      "profile": {
+        "handle": "minchoi",
+        "name": "Min Choi",
+        "profile_url": "https://x.com/minchoi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_200x200.jpg",
+        "initials": "MC"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1834288594254782848",
+        "id": "1834288594254782848",
+        "url": "https://x.com/minchoi/status/1834288594254782848"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1835756714244935878",
+        "id": "1835756714244935878",
+        "url": "https://x.com/genrobotics_ai/status/1835756714244935878"
+      }
+    },
+    {
+      "profile": {
+        "handle": "arjunkhemani",
+        "name": "Arjun Khemani",
+        "profile_url": "https://x.com/arjunkhemani",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1977979925635215360/G3HAlSxE_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1837704603334226189",
+        "id": "1837704603334226189",
+        "url": "https://x.com/arjunkhemani/status/1837704603334226189"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1839462978581848301",
+        "id": "1839462978581848301",
+        "url": "https://x.com/genrobotics_ai/status/1839462978581848301"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1840747947044344013",
+        "id": "1840747947044344013",
+        "url": "https://x.com/genrobotics_ai/status/1840747947044344013"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1849088386243403994",
+        "id": "1849088386243403994",
+        "url": "https://x.com/genrobotics_ai/status/1849088386243403994"
+      }
+    },
+    {
+      "profile": {
+        "handle": "vikhyatk",
+        "name": "vik",
+        "profile_url": "https://x.com/vikhyatk",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1664559115581145088/UMD1vtMw_200x200.jpg",
+        "initials": "V"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1851057091513106692",
+        "id": "1851057091513106692",
+        "url": "https://x.com/vikhyatk/status/1851057091513106692"
+      }
+    },
+    {
+      "profile": {
+        "handle": "pranaygupta36",
+        "name": "Pranay Gupta",
+        "profile_url": "https://x.com/pranaygupta36",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1179203268582477824/6KW6vNp8_200x200.jpg",
+        "initials": "PG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1854536881213477146",
+        "id": "1854536881213477146",
+        "url": "https://x.com/pranaygupta36/status/1854536881213477146"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1857099206567088593",
+        "id": "1857099206567088593",
+        "url": "https://x.com/genrobotics_ai/status/1857099206567088593"
+      }
+    },
+    {
+      "profile": {
+        "handle": "chris_j_paxton",
+        "name": "Chris Paxton",
+        "profile_url": "https://x.com/chris_j_paxton",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1330994153518411777/2LfHg9GF_200x200.jpg",
+        "initials": "CP"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1857151198387961956",
+        "id": "1857151198387961956",
+        "url": "https://x.com/chris_j_paxton/status/1857151198387961956"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1859335988906172655",
+        "id": "1859335988906172655",
+        "url": "https://x.com/genrobotics_ai/status/1859335988906172655"
+      }
+    },
+    {
+      "profile": {
+        "handle": "readswithravi",
+        "name": "Reads with Ravi",
+        "profile_url": "https://x.com/readswithravi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1560994238434889730/jhqZEwKm_200x200.jpg",
+        "initials": "RW"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1863957214404177925",
+        "id": "1863957214404177925",
+        "url": "https://x.com/readswithravi/status/1863957214404177925"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Jayyanginspires",
+        "name": "Jay Yang",
+        "profile_url": "https://x.com/Jayyanginspires",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2036685718068850688/MAiFw7c-_200x200.jpg",
+        "initials": "JY"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1865766420732141969",
+        "id": "1865766420732141969",
+        "url": "https://x.com/Jayyanginspires/status/1865766420732141969"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1866873673526940083",
+        "id": "1866873673526940083",
+        "url": "https://x.com/genrobotics_ai/status/1866873673526940083"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1875217949918957741",
+        "id": "1875217949918957741",
+        "url": "https://x.com/akapoor_av8r/status/1875217949918957741"
+      }
+    },
+    {
+      "profile": {
+        "handle": "saihv",
+        "name": "Sai Vemprala",
+        "profile_url": "https://x.com/saihv",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1686226026337370112/fXPZjBNW_200x200.jpg",
+        "initials": "SV"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1876370271411593297",
+        "id": "1876370271411593297",
+        "url": "https://x.com/saihv/status/1876370271411593297"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1876487871085129907",
+        "id": "1876487871085129907",
+        "url": "https://x.com/genrobotics_ai/status/1876487871085129907"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1876495477916704980",
+        "id": "1876495477916704980",
+        "url": "https://x.com/akapoor_av8r/status/1876495477916704980"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1876528474208522465",
+        "id": "1876528474208522465",
+        "url": "https://x.com/genrobotics_ai/status/1876528474208522465"
+      }
+    },
+    {
+      "profile": {
+        "handle": "saihv",
+        "name": "Sai Vemprala",
+        "profile_url": "https://x.com/saihv",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1686226026337370112/fXPZjBNW_200x200.jpg",
+        "initials": "SV"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1876725910759473341",
+        "id": "1876725910759473341",
+        "url": "https://x.com/saihv/status/1876725910759473341"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1877022244653998141",
+        "id": "1877022244653998141",
+        "url": "https://x.com/akapoor_av8r/status/1877022244653998141"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1877754777616175450",
+        "id": "1877754777616175450",
+        "url": "https://x.com/genrobotics_ai/status/1877754777616175450"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1878479556908310853",
+        "id": "1878479556908310853",
+        "url": "https://x.com/akapoor_av8r/status/1878479556908310853"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1879204360602935510",
+        "id": "1879204360602935510",
+        "url": "https://x.com/genrobotics_ai/status/1879204360602935510"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1879287420321141085",
+        "id": "1879287420321141085",
+        "url": "https://x.com/akapoor_av8r/status/1879287420321141085"
+      }
+    },
+    {
+      "profile": {
+        "handle": "waiting4_asi",
+        "name": "Varun Mayya",
+        "profile_url": "https://x.com/waiting4_asi",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1980169890318209024/a_lkqgaH_200x200.jpg",
+        "initials": "VM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1879515283288903984",
+        "id": "1879515283288903984",
+        "url": "https://x.com/waiting4_asi/status/1879515283288903984"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1881741057890844892",
+        "id": "1881741057890844892",
+        "url": "https://x.com/akapoor_av8r/status/1881741057890844892"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1887176890164912399",
+        "id": "1887176890164912399",
+        "url": "https://x.com/genrobotics_ai/status/1887176890164912399"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1892250420711481524",
+        "id": "1892250420711481524",
+        "url": "https://x.com/genrobotics_ai/status/1892250420711481524"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1892250490609799579",
+        "id": "1892250490609799579",
+        "url": "https://x.com/akapoor_av8r/status/1892250490609799579"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Hesamation",
+        "name": "ℏεsam",
+        "profile_url": "https://x.com/Hesamation",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1978647680357134336/ioMmfkXF_200x200.jpg",
+        "initials": "ℏ"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1899191612854702578",
+        "id": "1899191612854702578",
+        "url": "https://x.com/Hesamation/status/1899191612854702578"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DvijKalaria",
+        "name": "Dvij Kalaria",
+        "profile_url": "https://x.com/DvijKalaria",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2020341576158109696/C5QA-Qkq_200x200.jpg",
+        "initials": "DK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1908220382081110032",
+        "id": "1908220382081110032",
+        "url": "https://x.com/DvijKalaria/status/1908220382081110032"
+      }
+    },
+    {
+      "profile": {
+        "handle": "marcrandolph",
+        "name": "Marc Randolph",
+        "profile_url": "https://x.com/marcrandolph",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1765988913406148608/f1KH5aNH_200x200.jpg",
+        "initials": "MR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1909288392405467607",
+        "id": "1909288392405467607",
+        "url": "https://x.com/marcrandolph/status/1909288392405467607"
+      }
+    },
+    {
+      "profile": {
+        "handle": "anishmadan23",
+        "name": "Anish Madan",
+        "profile_url": "https://x.com/anishmadan23",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1781036477591212032/xeMhcCxf_200x200.jpg",
+        "initials": "AM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1914811136609788322",
+        "id": "1914811136609788322",
+        "url": "https://x.com/anishmadan23/status/1914811136609788322"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Founder_Mode_",
+        "name": "Founder Mode",
+        "profile_url": "https://x.com/Founder_Mode_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2042580445494169600/aWtDDW47_200x200.jpg",
+        "initials": "FM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1917626510703239461",
+        "id": "1917626510703239461",
+        "url": "https://x.com/Founder_Mode_/status/1917626510703239461"
+      }
+    },
+    {
+      "profile": {
+        "handle": "akapoor_av8r",
+        "name": "Ashish Kapoor",
+        "profile_url": "https://x.com/akapoor_av8r",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1868916435000725504/h2twU77D_200x200.jpg",
+        "initials": "AK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1921982205037051933",
+        "id": "1921982205037051933",
+        "url": "https://x.com/akapoor_av8r/status/1921982205037051933"
+      }
+    },
+    {
+      "profile": {
+        "handle": "saihv",
+        "name": "Sai Vemprala",
+        "profile_url": "https://x.com/saihv",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1686226026337370112/fXPZjBNW_200x200.jpg",
+        "initials": "SV"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1921992012259054070",
+        "id": "1921992012259054070",
+        "url": "https://x.com/saihv/status/1921992012259054070"
+      }
+    },
+    {
+      "profile": {
+        "handle": "m_wulfmeier",
+        "name": "Markus Wulfmeier",
+        "profile_url": "https://x.com/m_wulfmeier",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1932541021335797760/VgEfPpvI_200x200.jpg",
+        "initials": "MW"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1922015671971352761",
+        "id": "1922015671971352761",
+        "url": "https://x.com/m_wulfmeier/status/1922015671971352761"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1928436369040548067",
+        "id": "1928436369040548067",
+        "url": "https://x.com/genrobotics_ai/status/1928436369040548067"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1937197715097780313",
+        "id": "1937197715097780313",
+        "url": "https://x.com/genrobotics_ai/status/1937197715097780313"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1938351183162413545",
+        "id": "1938351183162413545",
+        "url": "https://x.com/genrobotics_ai/status/1938351183162413545"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1947357457229164729",
+        "id": "1947357457229164729",
+        "url": "https://x.com/genrobotics_ai/status/1947357457229164729"
+      }
+    },
+    {
+      "profile": {
+        "handle": "saihv",
+        "name": "Sai Vemprala",
+        "profile_url": "https://x.com/saihv",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1686226026337370112/fXPZjBNW_200x200.jpg",
+        "initials": "SV"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1947367754618835186",
+        "id": "1947367754618835186",
+        "url": "https://x.com/saihv/status/1947367754618835186"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1948897628797927802",
+        "id": "1948897628797927802",
+        "url": "https://x.com/genrobotics_ai/status/1948897628797927802"
+      }
+    },
+    {
+      "profile": {
+        "handle": "goodhartproof",
+        "name": "Jessy Huang",
+        "profile_url": "https://x.com/goodhartproof",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2105401956382703616/xQs70-GT_200x200.jpg",
+        "initials": "JH"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1950276106323664949",
+        "id": "1950276106323664949",
+        "url": "https://x.com/goodhartproof/status/1950276106323664949"
+      }
+    },
+    {
+      "profile": {
+        "handle": "genrobotics_ai",
+        "name": "General Robotics",
+        "profile_url": "https://x.com/genrobotics_ai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1921819354422767616/fi49wGP-_200x200.jpg",
+        "initials": "GR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1954966074275082565",
+        "id": "1954966074275082565",
+        "url": "https://x.com/genrobotics_ai/status/1954966074275082565"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DvijKalaria",
+        "name": "Dvij Kalaria",
+        "profile_url": "https://x.com/DvijKalaria",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2020341576158109696/C5QA-Qkq_200x200.jpg",
+        "initials": "DK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1970168641049231396",
+        "id": "1970168641049231396",
+        "url": "https://x.com/DvijKalaria/status/1970168641049231396"
+      }
+    },
+    {
+      "profile": {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "profile_url": "https://x.com/nikunj",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1455548721421176841/0XHTEfkp_200x200.jpg",
+        "initials": "NK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1970266472644780369",
+        "id": "1970266472644780369",
+        "url": "https://x.com/nikunj/status/1970266472644780369"
+      }
+    },
+    {
+      "profile": {
+        "handle": "pranaygupta36",
+        "name": "Pranay Gupta",
+        "profile_url": "https://x.com/pranaygupta36",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1179203268582477824/6KW6vNp8_200x200.jpg",
+        "initials": "PG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1970561900342644907",
+        "id": "1970561900342644907",
+        "url": "https://x.com/pranaygupta36/status/1970561900342644907"
+      }
+    },
+    {
+      "profile": {
+        "handle": "nakul",
+        "name": "Nakul Mandan",
+        "profile_url": "https://x.com/nakul",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1263644697865580544/OQqSrzy5_200x200.jpg",
+        "initials": "NM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1970575908101923121",
+        "id": "1970575908101923121",
+        "url": "https://x.com/nakul/status/1970575908101923121"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DrPhiltill",
+        "name": "Phil Metzger",
+        "profile_url": "https://x.com/DrPhiltill",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1914019958440235008/ykXoDcyM_200x200.jpg",
+        "initials": "PM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1974121585159156102",
+        "id": "1974121585159156102",
+        "url": "https://x.com/DrPhiltill/status/1974121585159156102"
+      }
+    },
+    {
+      "profile": {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "profile_url": "https://x.com/nikunj",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1455548721421176841/0XHTEfkp_200x200.jpg",
+        "initials": "NK"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1974608304530952221",
+        "id": "1974608304530952221",
+        "url": "https://x.com/nikunj/status/1974608304530952221"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sundarpichai",
+        "name": "Sundar Pichai",
+        "profile_url": "https://x.com/sundarpichai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_200x200.jpg",
+        "initials": "SP"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1978507110477332582",
+        "id": "1978507110477332582",
+        "url": "https://x.com/sundarpichai/status/1978507110477332582"
+      }
+    },
+    {
+      "profile": {
+        "handle": "PhilosophyOfPhy",
+        "name": "Philosophy Of Physics",
+        "profile_url": "https://x.com/PhilosophyOfPhy",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2085384923071000577/urOwiSzI_200x200.jpg",
+        "initials": "PO"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1979201370663325954",
+        "id": "1979201370663325954",
+        "url": "https://x.com/PhilosophyOfPhy/status/1979201370663325954"
+      }
+    },
+    {
+      "profile": {
+        "handle": "agarwl_",
+        "name": "Rishabh Agarwal",
+        "profile_url": "https://x.com/agarwl_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1347289900916346886/khqL_K4W_200x200.jpg",
+        "initials": "RA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1982176029197103574",
+        "id": "1982176029197103574",
+        "url": "https://x.com/agarwl_/status/1982176029197103574"
+      }
+    },
+    {
+      "profile": {
+        "handle": "yunta_tsai",
+        "name": "Yun-Ta Tsai",
+        "profile_url": "https://x.com/yunta_tsai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2035915849819938816/b6kIsNMe_200x200.jpg",
+        "initials": "YT"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "1989371562617880642",
+        "id": "1989371562617880642",
+        "url": "https://x.com/yunta_tsai/status/1989371562617880642"
+      }
+    },
+    {
+      "profile": {
+        "handle": "rpoo",
+        "name": "Ross",
+        "profile_url": "https://x.com/rpoo",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1637189798590038016/Gj1q7-OP_200x200.jpg",
+        "initials": "R"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2000039648169738609",
+        "id": "2000039648169738609",
+        "url": "https://x.com/rpoo/status/2000039648169738609"
+      }
+    },
+    {
+      "profile": {
+        "handle": "vasuman",
+        "name": "vas",
+        "profile_url": "https://x.com/vasuman",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2084041695088590848/jHUy-1Bq_200x200.jpg",
+        "initials": "V"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2009664478095294498",
+        "id": "2009664478095294498",
+        "url": "https://x.com/vasuman/status/2009664478095294498"
+      }
+    },
+    {
+      "profile": {
+        "handle": "yatharthmann",
+        "name": "Yatharth Mann (he/him) 🏳️‍🌈🏳️‍⚧️🇵🇸☭",
+        "profile_url": "https://x.com/yatharthmann",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2041184115131916288/XdogQZvG_200x200.jpg",
+        "initials": "YM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2015142811621007554",
+        "id": "2015142811621007554",
+        "url": "https://x.com/yatharthmann/status/2015142811621007554"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Literariium",
+        "name": "✒️",
+        "profile_url": "https://x.com/Literariium",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2089371471227625472/fx--770L_200x200.jpg",
+        "initials": "✒"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2017247941736767767",
+        "id": "2017247941736767767",
+        "url": "https://x.com/Literariium/status/2017247941736767767"
+      }
+    },
+    {
+      "profile": {
+        "handle": "FortuneMagazine",
+        "name": "FORTUNE",
+        "profile_url": "https://x.com/FortuneMagazine",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1754630276116811776/N3_onOyu_200x200.jpg",
+        "initials": "F"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2021606132653977733",
+        "id": "2021606132653977733",
+        "url": "https://x.com/FortuneMagazine/status/2021606132653977733"
+      }
+    },
+    {
+      "profile": {
+        "handle": "LaceyPresley",
+        "name": "Lacey",
+        "profile_url": "https://x.com/LaceyPresley",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2117802163741028352/Qn_oP6wJ_200x200.jpg",
+        "initials": "L"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2023226203008651715",
+        "id": "2023226203008651715",
+        "url": "https://x.com/LaceyPresley/status/2023226203008651715"
+      }
+    },
+    {
+      "profile": {
+        "handle": "anishmoonka",
+        "name": "Anish Moonka",
+        "profile_url": "https://x.com/anishmoonka",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1953042191577972736/YV-bNMV2_200x200.jpg",
+        "initials": "AM"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2028512166027170028",
+        "id": "2028512166027170028",
+        "url": "https://x.com/anishmoonka/status/2028512166027170028"
+      }
+    },
+    {
+      "profile": {
+        "handle": "khoomeik",
+        "name": "Rohan Pandey",
+        "profile_url": "https://x.com/khoomeik",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1970553499902681088/He-CtSGQ_200x200.jpg",
+        "initials": "RP"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2032206230358540706",
+        "id": "2032206230358540706",
+        "url": "https://x.com/khoomeik/status/2032206230358540706"
+      }
+    },
+    {
+      "profile": {
+        "handle": "junfanzhu98",
+        "name": "Junfan Zhu 朱俊帆 ✈️ CoRL",
+        "profile_url": "https://x.com/junfanzhu98",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1875022717742682112/HhUXRPdj_200x200.jpg",
+        "initials": "JZ"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2034550853592637901",
+        "id": "2034550853592637901",
+        "url": "https://x.com/junfanzhu98/status/2034550853592637901"
+      }
+    },
+    {
+      "profile": {
+        "handle": "jawwwn_",
+        "name": "Jawwwn",
+        "profile_url": "https://x.com/jawwwn_",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1966983763801632770/I260COz2_200x200.jpg",
+        "initials": "J"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2036629099096236271",
+        "id": "2036629099096236271",
+        "url": "https://x.com/jawwwn_/status/2036629099096236271"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SahilBloom",
+        "name": "Sahil Bloom",
+        "profile_url": "https://x.com/SahilBloom",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_200x200.jpg",
+        "initials": "SB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2037495975837676013",
+        "id": "2037495975837676013",
+        "url": "https://x.com/SahilBloom/status/2037495975837676013"
+      }
+    },
+    {
+      "profile": {
+        "handle": "gauri__gupta",
+        "name": "Gauri Gupta",
+        "profile_url": "https://x.com/gauri__gupta",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1613780147035045888/Wb7_dkZU_200x200.jpg",
+        "initials": "GG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2040251170099524025",
+        "id": "2040251170099524025",
+        "url": "https://x.com/gauri__gupta/status/2040251170099524025"
+      }
+    },
+    {
+      "profile": {
+        "handle": "kazdenc",
+        "name": "Kazden",
+        "profile_url": "https://x.com/kazdenc",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1957128747716333568/11Xp9MGd_200x200.jpg",
+        "initials": "K"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2056549636559548822",
+        "id": "2056549636559548822",
+        "url": "https://x.com/kazdenc/status/2056549636559548822"
+      }
+    },
+    {
+      "profile": {
+        "handle": "bharathrajn98",
+        "name": "Bharath Raj",
+        "profile_url": "https://x.com/bharathrajn98",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1741695374656679936/ALjkFRCH_200x200.jpg",
+        "initials": "BR"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2060113857524240471",
+        "id": "2060113857524240471",
+        "url": "https://x.com/bharathrajn98/status/2060113857524240471"
+      }
+    },
+    {
+      "profile": {
+        "handle": "abursuc",
+        "name": "Andrei Bursuc",
+        "profile_url": "https://x.com/abursuc",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2067686905689374720/uNjzdJaY_200x200.jpg",
+        "initials": "AB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2062193405363470695",
+        "id": "2062193405363470695",
+        "url": "https://x.com/abursuc/status/2062193405363470695"
+      }
+    },
+    {
+      "profile": {
+        "handle": "niccruzpatane",
+        "name": "Nic Cruz Patane",
+        "profile_url": "https://x.com/niccruzpatane",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1805666868071391232/1qAqAOng_200x200.jpg",
+        "initials": "NC"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2065451688354275395",
+        "id": "2065451688354275395",
+        "url": "https://x.com/niccruzpatane/status/2065451688354275395"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SahilBloom",
+        "name": "Sahil Bloom",
+        "profile_url": "https://x.com/SahilBloom",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_200x200.jpg",
+        "initials": "SB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2066531170066846135",
+        "id": "2066531170066846135",
+        "url": "https://x.com/SahilBloom/status/2066531170066846135"
+      }
+    },
+    {
+      "profile": {
+        "handle": "ritvik_singh9",
+        "name": "Ritvik Singh",
+        "profile_url": "https://x.com/ritvik_singh9",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1549614071657414657/bgjlT6Bm_200x200.jpg",
+        "initials": "RS"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2067281136179642804",
+        "id": "2067281136179642804",
+        "url": "https://x.com/ritvik_singh9/status/2067281136179642804"
+      }
+    },
+    {
+      "profile": {
+        "handle": "shyamalanadkat",
+        "name": "shyamal",
+        "profile_url": "https://x.com/shyamalanadkat",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1590564338682560512/3bbZJqxZ_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2086380325375189252",
+        "id": "2086380325375189252",
+        "url": "https://x.com/shyamalanadkat/status/2086380325375189252"
+      }
+    },
+    {
+      "profile": {
+        "handle": "MillionInt",
+        "name": "Jerry Tworek",
+        "profile_url": "https://x.com/MillionInt",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1184690787419734016/7ija9HDY_200x200.jpg",
+        "initials": "JT"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2097517905495945288",
+        "id": "2097517905495945288",
+        "url": "https://x.com/MillionInt/status/2097517905495945288"
+      }
+    },
+    {
+      "profile": {
+        "handle": "0xDEADSHAE",
+        "name": "shae (e/acc)",
+        "profile_url": "https://x.com/0xDEADSHAE",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2080539409670344704/0JVhcUzR_200x200.jpg",
+        "initials": "S("
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2099559089521283509",
+        "id": "2099559089521283509",
+        "url": "https://x.com/0xDEADSHAE/status/2099559089521283509"
+      }
+    },
+    {
+      "profile": {
+        "handle": "npew",
+        "name": "Peter Welinder",
+        "profile_url": "https://x.com/npew",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1527047003984629761/6ZfqcDtO_200x200.jpg",
+        "initials": "PW"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2099574609817518286",
+        "id": "2099574609817518286",
+        "url": "https://x.com/npew/status/2099574609817518286"
+      }
+    },
+    {
+      "profile": {
+        "handle": "DrNickA",
+        "name": "Nick Almond",
+        "profile_url": "https://x.com/DrNickA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1895038685298450432/1LDsZTge_200x200.jpg",
+        "initials": "NA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2101734339822092379",
+        "id": "2101734339822092379",
+        "url": "https://x.com/DrNickA/status/2101734339822092379"
+      }
+    },
+    {
+      "profile": {
+        "handle": "lightspeedvp",
+        "name": "Lightspeed",
+        "profile_url": "https://x.com/lightspeedvp",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1918355794333970433/QKku_TuT_200x200.jpg",
+        "initials": "L"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2113343452004102209",
+        "id": "2113343452004102209",
+        "url": "https://x.com/lightspeedvp/status/2113343452004102209"
+      }
+    },
+    {
+      "profile": {
+        "handle": "SahilBloom",
+        "name": "Sahil Bloom",
+        "profile_url": "https://x.com/SahilBloom",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_200x200.jpg",
+        "initials": "SB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2115788753797058850",
+        "id": "2115788753797058850",
+        "url": "https://x.com/SahilBloom/status/2115788753797058850"
+      }
+    },
+    {
+      "profile": {
+        "handle": "gauri__gupta",
+        "name": "Gauri Gupta",
+        "profile_url": "https://x.com/gauri__gupta",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1613780147035045888/Wb7_dkZU_200x200.jpg",
+        "initials": "GG"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2118036806734135403",
+        "id": "2118036806734135403",
+        "url": "https://x.com/gauri__gupta/status/2118036806734135403"
+      }
+    },
+    {
+      "profile": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "profile_url": "https://x.com/sama",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_200x200.jpg",
+        "initials": "SA"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "885900622624473088",
+        "id": "885900622624473088",
+        "url": "https://x.com/sama/status/885900622624473088"
+      }
     }
   ]
 }

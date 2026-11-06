@@ -11,6 +11,8 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+from x_scholar_interactions import outgoing_from_status
+
 ROOT = Path(__file__).resolve().parents[1]
 API = 'https://api.fxtwitter.com'
 
@@ -78,6 +80,7 @@ def main():
         parser.error('Use a valid X handle and a positive page limit.')
     profile = fetch('/' + args.handle)['user']
     posts = {}
+    outgoing = {}
     cursor = None
     seen_cursors = set()
     complete = False
@@ -85,15 +88,12 @@ def main():
         query = {'count': 100}
         if cursor:
             query['cursor'] = cursor
-        try:
-            data = fetch('/2/profile/' + args.handle + '/statuses?' + urllib.parse.urlencode(query))
-        except urllib.error.HTTPError as error:
-            if error.code == 404 and posts:
-                complete = True
-                break
-            raise
+        data = fetch('/2/profile/' + args.handle + '/statuses?' + urllib.parse.urlencode(query))
         results = data.get('results', [])
         for raw in results:
+            for event in outgoing_from_status(raw, args.handle):
+                evidence = event['evidence']
+                outgoing[(evidence['kind'], evidence['id'], evidence['post_id'])] = event
             post = make_post(raw, args.handle)
             if post:
                 posts[post['id']] = post
@@ -107,6 +107,8 @@ def main():
         time.sleep(0.25)
     if not posts:
         raise RuntimeError('No original posts returned; existing snapshot left unchanged.')
+    if not complete:
+        raise RuntimeError('Timeline page limit reached; raise --max-pages before replacing the existing snapshot.')
     # The timeline can omit pinned posts; explicitly included IDs survive refreshes.
     known_ids = set()
     required_ids = set()
@@ -149,6 +151,7 @@ def main():
         'post_count': len(ordered), 'metrics': metrics(ordered),
         'recent_metrics': metrics([p for p in ordered if p['year'] >= since_year]),
         'years': years, 'posts': ordered,
+        'outgoing_interactions': [outgoing[key] for key in sorted(outgoing)],
     }
     # Replace atomically only after a successful fetch and validation.
     args.output.parent.mkdir(parents=True, exist_ok=True)

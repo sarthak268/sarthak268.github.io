@@ -1,0 +1,53 @@
+name: Refresh X Scholar
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: refresh-x-scholar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test collectors
+        run: python3 -m unittest discover -s scripts/tests -v
+      - name: Refresh posts and interactions
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: python3 scripts/refresh_x_scholar.py
+      - name: Commit snapshots
+        run: |
+          git add _data/x_scholar.json _data/x_scholar_people.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh X Scholar snapshots'
+          git pull --rebase origin master
+          git push origin HEAD:master
+      # Bot commits do not trigger the branch-based Pages build automatically.
+      # Explicitly request a build, including when retrying a previous failed build.
+      - name: Rebuild GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
