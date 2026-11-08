@@ -3,8 +3,8 @@
   "name": "Sarthak Bhagat",
   "profile_url": "https://x.com/sarthak__bhagat",
   "followers": 1459,
-  "updated_at": "2026-11-06T23:17:43.952950+00:00",
-  "updated_date": "2026-11-06",
+  "updated_at": "2026-11-08T13:41:40.251913+00:00",
+  "updated_date": "2026-11-08",
   "since_year": 2021,
   "source": "https://api.fxtwitter.com",
   "timeline_exhausted": true,
@@ -68,7 +68,7 @@
       "likes": 197,
       "reposts": 48,
       "replies": 5,
-      "views": 46619
+      "views": 46621
     },
     {
       "id": "2113300177910124670",
@@ -80,7 +80,7 @@
       "likes": 181,
       "reposts": 6,
       "replies": 36,
-      "views": 11174
+      "views": 11194
     },
     {
       "id": "2074245837593641028",
@@ -92,7 +92,7 @@
       "likes": 157,
       "reposts": 6,
       "replies": 20,
-      "views": 18472
+      "views": 18473
     },
     {
       "id": "1354012392007471105",
@@ -224,7 +224,7 @@
       "likes": 27,
       "reposts": 2,
       "replies": 0,
-      "views": 1832
+      "views": 1835
     },
     {
       "id": "1278723915972407296",
@@ -464,7 +464,7 @@
       "likes": 16,
       "reposts": 1,
       "replies": 0,
-      "views": 1169
+      "views": 1170
     },
     {
       "id": "2102627287959208191",
@@ -692,7 +692,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 804
+      "views": 806
     },
     {
       "id": "2094990321323294929",
@@ -884,7 +884,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 1,
-      "views": 516
+      "views": 525
     },
     {
       "id": "2096707842921386412",
@@ -1770,7 +1770,7 @@
       "date": "2025-10-01",
       "year": 2025,
       "likes": 0,
-      "reposts": 35,
+      "reposts": 34,
       "replies": 0,
       "views": 63
     },
@@ -3015,7 +3015,7 @@
     {
       "profile": {
         "handle": "GuanyaShi",
-        "name": "Guanya Shi",
+        "name": "Guanya Shi @ CoRL'26",
         "profile_url": "https://x.com/GuanyaShi",
         "avatar_url": "https://pbs.twimg.com/profile_images/1671648343347568640/h1d1qX58_200x200.jpg",
         "initials": "GS"
