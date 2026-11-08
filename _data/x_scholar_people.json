@@ -1,14 +1,13 @@
 {
   "handle": "sarthak__bhagat",
-  "updated_at": "2026-11-08T13:42:50.257974+00:00",
+  "updated_at": "2026-11-08T22:18:29.620647+00:00",
   "updated_date": "2026-11-08",
   "posts_considered": 150,
-  "people_found": 400,
+  "people_found": 396,
   "lists_checked": 145,
   "lists_available": {
     "reposts": 47,
-    "replies": 51,
-    "quotes": 28
+    "replies": 51
   },
   "scope": "Observed replies, reposts, and quotes in both directions, plus authenticated likes when available. A sample, not a complete history.",
   "ranking": "Deduplicated interactions in both directions; ties favor mutual interactions, then handle.",
@@ -325,142 +324,6 @@
       ]
     },
     {
-      "handle": "shagunuppls",
-      "name": "Shagunn",
-      "profile_url": "https://x.com/shagunuppls",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
-      "initials": "S",
-      "interaction_count": 17,
-      "post_count": 15,
-      "incoming": 11,
-      "outgoing": 6,
-      "likes": 0,
-      "quotes": 7,
-      "replies": 4,
-      "reposts": 6,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1599513373900935168",
-          "id": "1599514832478388224",
-          "url": "https://x.com/shagunuppls/status/1599514832478388224"
-        },
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821970131691696460",
-          "url": "https://x.com/shagunuppls/status/1821970131691696460"
-        },
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "2074245837593641028",
-          "id": "2074638918788772130",
-          "url": "https://x.com/shagunuppls/status/2074638918788772130"
-        },
-        {
-          "kind": "replies",
-          "direction": "incoming",
-          "post_id": "1987244069274460499",
-          "id": "1987345346704592901",
-          "url": "https://x.com/shagunuppls/status/1987345346704592901"
-        },
-        {
-          "kind": "replies",
-          "direction": "incoming",
-          "post_id": "2046474049971474893",
-          "id": "2046475156340752441",
-          "url": "https://x.com/shagunuppls/status/2046475156340752441"
-        },
-        {
-          "kind": "replies",
-          "direction": "incoming",
-          "post_id": "2074245837593641028",
-          "id": "2074408217560691003",
-          "url": "https://x.com/shagunuppls/status/2074408217560691003"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1278723915972407296",
-          "id": "1278723915972407296",
-          "url": "https://x.com/sarthak__bhagat/status/1278723915972407296"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1649672877992710144",
-          "id": "1649672877992710144",
-          "url": "https://x.com/sarthak__bhagat/status/1649672877992710144"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1708427796769309099",
-          "id": "1708427796769309099",
-          "url": "https://x.com/sarthak__bhagat/status/1708427796769309099"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1796127285747024211",
-          "id": "1796127285747024211",
-          "url": "https://x.com/sarthak__bhagat/status/1796127285747024211"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821757702806368329",
-          "url": "https://x.com/sarthak__bhagat/status/1821757702806368329"
-        },
-        {
-          "kind": "quotes",
-          "direction": "outgoing",
-          "post_id": "1279189121043292160",
-          "id": "1279192061145526272",
-          "url": "https://x.com/sarthak__bhagat/status/1279192061145526272"
-        },
-        {
-          "kind": "quotes",
-          "direction": "outgoing",
-          "post_id": "1299270117134536704",
-          "id": "1299272157235572736",
-          "url": "https://x.com/sarthak__bhagat/status/1299272157235572736"
-        },
-        {
-          "kind": "quotes",
-          "direction": "outgoing",
-          "post_id": "1795824727346606356",
-          "id": "1796127285747024211",
-          "url": "https://x.com/sarthak__bhagat/status/1796127285747024211"
-        },
-        {
-          "kind": "quotes",
-          "direction": "outgoing",
-          "post_id": "2074534216247947403",
-          "id": "2074557147564904700",
-          "url": "https://x.com/sarthak__bhagat/status/2074557147564904700"
-        },
-        {
-          "kind": "replies",
-          "direction": "outgoing",
-          "post_id": "1987345346704592901",
-          "id": "1987345787530191304",
-          "url": "https://x.com/sarthak__bhagat/status/1987345787530191304"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1297955168797880321",
-          "id": "1297955168797880321",
-          "url": "https://x.com/shagunuppls/status/1297955168797880321"
-        }
-      ]
-    },
-    {
       "handle": "akapoor_av8r",
       "name": "Ashish Kapoor",
       "profile_url": "https://x.com/akapoor_av8r",
@@ -593,6 +456,121 @@
           "post_id": "1921982205037051933",
           "id": "1921982205037051933",
           "url": "https://x.com/akapoor_av8r/status/1921982205037051933"
+        }
+      ]
+    },
+    {
+      "handle": "shagunuppls",
+      "name": "Shagunn",
+      "profile_url": "https://x.com/shagunuppls",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
+      "initials": "S",
+      "interaction_count": 14,
+      "post_count": 14,
+      "incoming": 8,
+      "outgoing": 6,
+      "likes": 0,
+      "quotes": 4,
+      "replies": 4,
+      "reposts": 6,
+      "evidence": [
+        {
+          "kind": "replies",
+          "direction": "incoming",
+          "post_id": "1987244069274460499",
+          "id": "1987345346704592901",
+          "url": "https://x.com/shagunuppls/status/1987345346704592901"
+        },
+        {
+          "kind": "replies",
+          "direction": "incoming",
+          "post_id": "2046474049971474893",
+          "id": "2046475156340752441",
+          "url": "https://x.com/shagunuppls/status/2046475156340752441"
+        },
+        {
+          "kind": "replies",
+          "direction": "incoming",
+          "post_id": "2074245837593641028",
+          "id": "2074408217560691003",
+          "url": "https://x.com/shagunuppls/status/2074408217560691003"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1278723915972407296",
+          "id": "1278723915972407296",
+          "url": "https://x.com/sarthak__bhagat/status/1278723915972407296"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1649672877992710144",
+          "id": "1649672877992710144",
+          "url": "https://x.com/sarthak__bhagat/status/1649672877992710144"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1708427796769309099",
+          "id": "1708427796769309099",
+          "url": "https://x.com/sarthak__bhagat/status/1708427796769309099"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1796127285747024211",
+          "id": "1796127285747024211",
+          "url": "https://x.com/sarthak__bhagat/status/1796127285747024211"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1821757702806368329",
+          "id": "1821757702806368329",
+          "url": "https://x.com/sarthak__bhagat/status/1821757702806368329"
+        },
+        {
+          "kind": "quotes",
+          "direction": "outgoing",
+          "post_id": "1279189121043292160",
+          "id": "1279192061145526272",
+          "url": "https://x.com/sarthak__bhagat/status/1279192061145526272"
+        },
+        {
+          "kind": "quotes",
+          "direction": "outgoing",
+          "post_id": "1299270117134536704",
+          "id": "1299272157235572736",
+          "url": "https://x.com/sarthak__bhagat/status/1299272157235572736"
+        },
+        {
+          "kind": "quotes",
+          "direction": "outgoing",
+          "post_id": "1795824727346606356",
+          "id": "1796127285747024211",
+          "url": "https://x.com/sarthak__bhagat/status/1796127285747024211"
+        },
+        {
+          "kind": "quotes",
+          "direction": "outgoing",
+          "post_id": "2074534216247947403",
+          "id": "2074557147564904700",
+          "url": "https://x.com/sarthak__bhagat/status/2074557147564904700"
+        },
+        {
+          "kind": "replies",
+          "direction": "outgoing",
+          "post_id": "1987345346704592901",
+          "id": "1987345787530191304",
+          "url": "https://x.com/sarthak__bhagat/status/1987345787530191304"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1297955168797880321",
+          "id": "1297955168797880321",
+          "url": "https://x.com/shagunuppls/status/1297955168797880321"
         }
       ]
     },
@@ -825,22 +803,15 @@
       "profile_url": "https://x.com/anishmadan23",
       "avatar_url": "https://pbs.twimg.com/profile_images/1781036477591212032/xeMhcCxf_200x200.jpg",
       "initials": "AM",
-      "interaction_count": 11,
-      "post_count": 10,
-      "incoming": 6,
+      "interaction_count": 10,
+      "post_count": 9,
+      "incoming": 5,
       "outgoing": 5,
       "likes": 0,
-      "quotes": 1,
+      "quotes": 0,
       "replies": 4,
       "reposts": 6,
       "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "2113300177910124670",
-          "id": "2113396182424973762",
-          "url": "https://x.com/anishmadan23/status/2113396182424973762"
-        },
         {
           "kind": "replies",
           "direction": "incoming",
@@ -1060,79 +1031,6 @@
       ]
     },
     {
-      "handle": "pranaygupta36",
-      "name": "Pranay Gupta",
-      "profile_url": "https://x.com/pranaygupta36",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1179203268582477824/6KW6vNp8_200x200.jpg",
-      "initials": "PG",
-      "interaction_count": 8,
-      "post_count": 8,
-      "incoming": 5,
-      "outgoing": 3,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 1,
-      "reposts": 6,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "2113300177910124670",
-          "id": "2113391137763508371",
-          "url": "https://x.com/pranaygupta36/status/2113391137763508371"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821757702806368329",
-          "url": "https://x.com/sarthak__bhagat/status/1821757702806368329"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1846760875438604543",
-          "id": "1846760875438604543",
-          "url": "https://x.com/sarthak__bhagat/status/1846760875438604543"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1973427783356522888",
-          "id": "1973427783356522888",
-          "url": "https://x.com/sarthak__bhagat/status/1973427783356522888"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "2074245837593641028",
-          "id": "2074245837593641028",
-          "url": "https://x.com/sarthak__bhagat/status/2074245837593641028"
-        },
-        {
-          "kind": "replies",
-          "direction": "outgoing",
-          "post_id": "2113391137763508371",
-          "id": "2113391332526117031",
-          "url": "https://x.com/sarthak__bhagat/status/2113391332526117031"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1854536881213477146",
-          "id": "1854536881213477146",
-          "url": "https://x.com/pranaygupta36/status/1854536881213477146"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1970561900342644907",
-          "id": "1970561900342644907",
-          "url": "https://x.com/pranaygupta36/status/1970561900342644907"
-        }
-      ]
-    },
-    {
       "handle": "saihv",
       "name": "Sai Vemprala",
       "profile_url": "https://x.com/saihv",
@@ -1202,6 +1100,72 @@
           "post_id": "1947367754618835186",
           "id": "1947367754618835186",
           "url": "https://x.com/saihv/status/1947367754618835186"
+        }
+      ]
+    },
+    {
+      "handle": "pranaygupta36",
+      "name": "Pranay Gupta",
+      "profile_url": "https://x.com/pranaygupta36",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1179203268582477824/6KW6vNp8_200x200.jpg",
+      "initials": "PG",
+      "interaction_count": 7,
+      "post_count": 7,
+      "incoming": 4,
+      "outgoing": 3,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "reposts": 6,
+      "evidence": [
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1821757702806368329",
+          "id": "1821757702806368329",
+          "url": "https://x.com/sarthak__bhagat/status/1821757702806368329"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1846760875438604543",
+          "id": "1846760875438604543",
+          "url": "https://x.com/sarthak__bhagat/status/1846760875438604543"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1973427783356522888",
+          "id": "1973427783356522888",
+          "url": "https://x.com/sarthak__bhagat/status/1973427783356522888"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "2074245837593641028",
+          "id": "2074245837593641028",
+          "url": "https://x.com/sarthak__bhagat/status/2074245837593641028"
+        },
+        {
+          "kind": "replies",
+          "direction": "outgoing",
+          "post_id": "2113391137763508371",
+          "id": "2113391332526117031",
+          "url": "https://x.com/sarthak__bhagat/status/2113391332526117031"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1854536881213477146",
+          "id": "1854536881213477146",
+          "url": "https://x.com/pranaygupta36/status/1854536881213477146"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1970561900342644907",
+          "id": "1970561900342644907",
+          "url": "https://x.com/pranaygupta36/status/1970561900342644907"
         }
       ]
     },
@@ -1515,58 +1479,6 @@
       ]
     },
     {
-      "handle": "Scobleizer",
-      "name": "Robert Scoble",
-      "profile_url": "https://x.com/Scobleizer",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_200x200.jpg",
-      "initials": "RS",
-      "interaction_count": 5,
-      "post_count": 5,
-      "incoming": 3,
-      "outgoing": 2,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 2,
-      "reposts": 2,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821800606706889141",
-          "url": "https://x.com/Scobleizer/status/1821800606706889141"
-        },
-        {
-          "kind": "replies",
-          "direction": "incoming",
-          "post_id": "1987244069274460499",
-          "id": "1987286481703215615",
-          "url": "https://x.com/Scobleizer/status/1987286481703215615"
-        },
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "1598469506367733765",
-          "id": "1598469506367733765",
-          "url": "https://x.com/sarthak__bhagat/status/1598469506367733765"
-        },
-        {
-          "kind": "replies",
-          "direction": "outgoing",
-          "post_id": "1987286481703215615",
-          "id": "1987314601198014501",
-          "url": "https://x.com/sarthak__bhagat/status/1987314601198014501"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1821800606706889141",
-          "id": "1821800606706889141",
-          "url": "https://x.com/Scobleizer/status/1821800606706889141"
-        }
-      ]
-    },
-    {
       "handle": "tanmayagarwal98",
       "name": "Tanmay Agarwal",
       "profile_url": "https://x.com/tanmayagarwal98",
@@ -1723,58 +1635,6 @@
       ]
     },
     {
-      "handle": "SimonStepputtis",
-      "name": "Simon Stepputtis",
-      "profile_url": "https://x.com/SimonStepputtis",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1694360679388745728/XFUQi82o_200x200.jpg",
-      "initials": "SS",
-      "interaction_count": 5,
-      "post_count": 5,
-      "incoming": 1,
-      "outgoing": 4,
-      "likes": 0,
-      "quotes": 2,
-      "replies": 0,
-      "reposts": 3,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821884400922935529",
-          "url": "https://x.com/SimonStepputtis/status/1821884400922935529"
-        },
-        {
-          "kind": "quotes",
-          "direction": "outgoing",
-          "post_id": "1856333375209869464",
-          "id": "1856406476404994179",
-          "url": "https://x.com/sarthak__bhagat/status/1856406476404994179"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1684240523115249665",
-          "id": "1684240523115249665",
-          "url": "https://x.com/SimonStepputtis/status/1684240523115249665"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1712170194565812683",
-          "id": "1712170194565812683",
-          "url": "https://x.com/SimonStepputtis/status/1712170194565812683"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1821884400922935529",
-          "id": "1821884400922935529",
-          "url": "https://x.com/SimonStepputtis/status/1821884400922935529"
-        }
-      ]
-    },
-    {
       "handle": "ayirpelle",
       "name": "priya joseph",
       "profile_url": "https://x.com/ayirpelle",
@@ -1875,6 +1735,51 @@
           "post_id": "1809826958630613193",
           "id": "1809826958630613193",
           "url": "https://x.com/naval/status/1809826958630613193"
+        }
+      ]
+    },
+    {
+      "handle": "Scobleizer",
+      "name": "Robert Scoble",
+      "profile_url": "https://x.com/Scobleizer",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_200x200.jpg",
+      "initials": "RS",
+      "interaction_count": 4,
+      "post_count": 4,
+      "incoming": 2,
+      "outgoing": 2,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 2,
+      "reposts": 2,
+      "evidence": [
+        {
+          "kind": "replies",
+          "direction": "incoming",
+          "post_id": "1987244069274460499",
+          "id": "1987286481703215615",
+          "url": "https://x.com/Scobleizer/status/1987286481703215615"
+        },
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "1598469506367733765",
+          "id": "1598469506367733765",
+          "url": "https://x.com/sarthak__bhagat/status/1598469506367733765"
+        },
+        {
+          "kind": "replies",
+          "direction": "outgoing",
+          "post_id": "1987286481703215615",
+          "id": "1987314601198014501",
+          "url": "https://x.com/sarthak__bhagat/status/1987314601198014501"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1821800606706889141",
+          "id": "1821800606706889141",
+          "url": "https://x.com/Scobleizer/status/1821800606706889141"
         }
       ]
     },
@@ -2010,6 +1915,51 @@
           "post_id": "2115788753797058850",
           "id": "2115788753797058850",
           "url": "https://x.com/SahilBloom/status/2115788753797058850"
+        }
+      ]
+    },
+    {
+      "handle": "SimonStepputtis",
+      "name": "Simon Stepputtis",
+      "profile_url": "https://x.com/SimonStepputtis",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1694360679388745728/XFUQi82o_200x200.jpg",
+      "initials": "SS",
+      "interaction_count": 4,
+      "post_count": 4,
+      "incoming": 0,
+      "outgoing": 4,
+      "likes": 0,
+      "quotes": 1,
+      "replies": 0,
+      "reposts": 3,
+      "evidence": [
+        {
+          "kind": "quotes",
+          "direction": "outgoing",
+          "post_id": "1856333375209869464",
+          "id": "1856406476404994179",
+          "url": "https://x.com/sarthak__bhagat/status/1856406476404994179"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1684240523115249665",
+          "id": "1684240523115249665",
+          "url": "https://x.com/SimonStepputtis/status/1684240523115249665"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1712170194565812683",
+          "id": "1712170194565812683",
+          "url": "https://x.com/SimonStepputtis/status/1712170194565812683"
+        },
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1821884400922935529",
+          "id": "1821884400922935529",
+          "url": "https://x.com/SimonStepputtis/status/1821884400922935529"
         }
       ]
     },
@@ -3212,37 +3162,6 @@
       ]
     },
     {
-      "handle": "IntuitMachine",
-      "name": "Carlos E. Perez",
-      "profile_url": "https://x.com/IntuitMachine",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1998536249003380736/ew_SXOsl_200x200.png",
-      "initials": "CE",
-      "interaction_count": 2,
-      "post_count": 2,
-      "incoming": 1,
-      "outgoing": 1,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 0,
-      "reposts": 1,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821897950584340872",
-          "url": "https://x.com/IntuitMachine/status/1821897950584340872"
-        },
-        {
-          "kind": "reposts",
-          "direction": "outgoing",
-          "post_id": "1821897950584340872",
-          "id": "1821897950584340872",
-          "url": "https://x.com/IntuitMachine/status/1821897950584340872"
-        }
-      ]
-    },
-    {
       "handle": "just_achetan",
       "name": "Aditya Chetan",
       "profile_url": "https://x.com/just_achetan",
@@ -3797,37 +3716,6 @@
           "post_id": "1987460945443209675",
           "id": "1987461334104264726",
           "url": "https://x.com/sarthak__bhagat/status/1987461334104264726"
-        }
-      ]
-    },
-    {
-      "handle": "xie_yaqi",
-      "name": "Yaqi Xie",
-      "profile_url": "https://x.com/xie_yaqi",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2080925913907126272/_6lj_7MP_200x200.jpg",
-      "initials": "YX",
-      "interaction_count": 2,
-      "post_count": 2,
-      "incoming": 1,
-      "outgoing": 1,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 1,
-      "reposts": 0,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821765036148240443",
-          "url": "https://x.com/xie_yaqi/status/1821765036148240443"
-        },
-        {
-          "kind": "replies",
-          "direction": "outgoing",
-          "post_id": "2049189224692220276",
-          "id": "2049190653222162450",
-          "url": "https://x.com/sarthak__bhagat/status/2049190653222162450"
         }
       ]
     },
@@ -6229,30 +6117,6 @@
       ]
     },
     {
-      "handle": "DanielleFong",
-      "name": "Danielle Fong 🔆",
-      "profile_url": "https://x.com/DanielleFong",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1757993684614922240/SjwWIKOZ_200x200.jpg",
-      "initials": "DF",
-      "interaction_count": 1,
-      "post_count": 1,
-      "incoming": 1,
-      "outgoing": 0,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 0,
-      "reposts": 0,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1822420669663240684",
-          "url": "https://x.com/DanielleFong/status/1822420669663240684"
-        }
-      ]
-    },
-    {
       "handle": "DannyDriess",
       "name": "Danny Driess",
       "profile_url": "https://x.com/DannyDriess",
@@ -6520,7 +6384,7 @@
       "handle": "Dr_Dark_Matter_",
       "name": "The Darkest Matter",
       "profile_url": "https://x.com/Dr_Dark_Matter_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2119226933229547521/-g0lolU__normal.jpg",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2119468680316669953/0GgAarfo_normal.jpg",
       "initials": "TD",
       "interaction_count": 1,
       "post_count": 1,
@@ -7525,6 +7389,30 @@
       ]
     },
     {
+      "handle": "IntuitMachine",
+      "name": "Carlos E. Perez",
+      "profile_url": "https://x.com/IntuitMachine",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1998536249003380736/ew_SXOsl_200x200.png",
+      "initials": "CE",
+      "interaction_count": 1,
+      "post_count": 1,
+      "incoming": 0,
+      "outgoing": 1,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 1,
+      "evidence": [
+        {
+          "kind": "reposts",
+          "direction": "outgoing",
+          "post_id": "1821897950584340872",
+          "id": "1821897950584340872",
+          "url": "https://x.com/IntuitMachine/status/1821897950584340872"
+        }
+      ]
+    },
+    {
       "handle": "IPL",
       "name": "IndianPremierLeague",
       "profile_url": "https://x.com/IPL",
@@ -7669,9 +7557,9 @@
       ]
     },
     {
-      "handle": "jawwwn_",
+      "handle": "Jawwwn",
       "name": "Jawwwn",
-      "profile_url": "https://x.com/jawwwn_",
+      "profile_url": "https://x.com/Jawwwn",
       "avatar_url": "https://pbs.twimg.com/profile_images/1966983763801632770/I260COz2_200x200.jpg",
       "initials": "J",
       "interaction_count": 1,
@@ -7688,7 +7576,7 @@
           "direction": "outgoing",
           "post_id": "2036629099096236271",
           "id": "2036629099096236271",
-          "url": "https://x.com/jawwwn_/status/2036629099096236271"
+          "url": "https://x.com/Jawwwn/status/2036629099096236271"
         }
       ]
     },
@@ -7809,30 +7697,6 @@
           "post_id": "1801118423767797790",
           "id": "1801118423767797790",
           "url": "https://x.com/sarthak__bhagat/status/1801118423767797790"
-        }
-      ]
-    },
-    {
-      "handle": "joecampb",
-      "name": "Joseph Campbell",
-      "profile_url": "https://x.com/joecampb",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1610003902065246210/zpZiHozz_200x200.jpg",
-      "initials": "JC",
-      "interaction_count": 1,
-      "post_count": 1,
-      "incoming": 1,
-      "outgoing": 0,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 0,
-      "reposts": 0,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821780911072899167",
-          "url": "https://x.com/joecampb/status/1821780911072899167"
         }
       ]
     },
@@ -9805,30 +9669,6 @@
       ]
     },
     {
-      "handle": "rezmeram",
-      "name": "RameshR",
-      "profile_url": "https://x.com/rezmeram",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1795917769541656576/s-J6A3RQ_200x200.jpg",
-      "initials": "R",
-      "interaction_count": 1,
-      "post_count": 1,
-      "incoming": 1,
-      "outgoing": 0,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 0,
-      "reposts": 0,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1821968228656320836",
-          "url": "https://x.com/rezmeram/status/1821968228656320836"
-        }
-      ]
-    },
-    {
       "handle": "RichardSocher",
       "name": "Richard Socher",
       "profile_url": "https://x.com/RichardSocher",
@@ -10214,7 +10054,7 @@
     },
     {
       "handle": "Shrikarhaha",
-      "name": "Shrikar Madhu",
+      "name": "Shrikar Madhu @ CoRL 🤖",
       "profile_url": "https://x.com/Shrikarhaha",
       "avatar_url": "https://pbs.twimg.com/profile_images/1587801860064169984/MvO8ZLhv_200x200.jpg",
       "initials": "SM",
@@ -10233,30 +10073,6 @@
           "post_id": "1801118423767797790",
           "id": "1801521539122164130",
           "url": "https://x.com/Shrikarhaha/status/1801521539122164130"
-        }
-      ]
-    },
-    {
-      "handle": "sierracatalina",
-      "name": "⚪️ sierra catalina",
-      "profile_url": "https://x.com/sierracatalina",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2085184458945175552/ZqfVaidA_200x200.jpg",
-      "initials": "⚪S",
-      "interaction_count": 1,
-      "post_count": 1,
-      "incoming": 1,
-      "outgoing": 0,
-      "likes": 0,
-      "quotes": 1,
-      "replies": 0,
-      "reposts": 0,
-      "evidence": [
-        {
-          "kind": "quotes",
-          "direction": "incoming",
-          "post_id": "1821757702806368329",
-          "id": "1822061671650599313",
-          "url": "https://x.com/sierracatalina/status/1822061671650599313"
         }
       ]
     },
@@ -11385,6 +11201,30 @@
           "post_id": "2113300177910124670",
           "id": "2113315862954561968",
           "url": "https://x.com/xennygrimmato_/status/2113315862954561968"
+        }
+      ]
+    },
+    {
+      "handle": "xie_yaqi",
+      "name": "xie_yaqi",
+      "profile_url": "https://x.com/xie_yaqi",
+      "avatar_url": "",
+      "initials": "X",
+      "interaction_count": 1,
+      "post_count": 1,
+      "incoming": 0,
+      "outgoing": 1,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "evidence": [
+        {
+          "kind": "replies",
+          "direction": "outgoing",
+          "post_id": "2049189224692220276",
+          "id": "2049190653222162450",
+          "url": "https://x.com/sarthak__bhagat/status/2049190653222162450"
         }
       ]
     },
