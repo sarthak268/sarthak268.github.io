@@ -712,6 +712,27 @@
     "type": "visited"
   },
   {
+    "lat": 30.7514,
+    "lng": -99.2431,
+    "name": "Mason",
+    "region": "Texas",
+    "type": "visited"
+  },
+  {
+    "lat": 30.2167,
+    "lng": -103.2489,
+    "name": "Marathon",
+    "region": "Texas",
+    "type": "visited"
+  },
+  {
+    "lat": 29.2992,
+    "lng": -103.5794,
+    "name": "Terlingua",
+    "region": "Texas",
+    "type": "visited"
+  },
+  {
     "lat": 29.3289,
     "lng": -103.205,
     "name": "Panther Junction",
@@ -720,6 +741,13 @@
     "national_parks": [
       "Big Bend"
     ]
+  },
+  {
+    "lat": 29.1875,
+    "lng": -102.9372,
+    "name": "Boquillas del Carmen",
+    "region": "Mexico",
+    "type": "visited"
   },
   {
     "lat": 49.2827,
