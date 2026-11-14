@@ -91,7 +91,7 @@ permalink:  /travel/
   var zoomScale = 1;
 
   function baseRadius(d) {
-    return (hasPhotos(d) ? 0.3 : 0.22) * zoomScale;
+    return (hasPhotos(d) ? 0.3 : 0.36) * zoomScale;
   }
 
   function pointRadius(d) {
