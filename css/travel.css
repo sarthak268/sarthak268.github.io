@@ -19,16 +19,27 @@
 .travel-map-tools button { color: #c7d5e8; background: #112034dd; border: 1px solid #ffffff24; min-height: 38px; }
 .travel-map-tools button:hover { background: #243b56; color: #fff; }
 .travel-globe-hint { position: absolute; bottom: 16px; left: 0; right: 0; text-align: center; color: #99acc2; font-size: 11px; pointer-events: none; }
+/* CSS pixel sizes stay constant as the globe zooms; avoid globe-space dot geometry. */
+.travel-visited-dot { display: block; box-sizing: border-box; width: 6px; height: 6px; border: 1px solid #ffe1d9; border-radius: 50%; background: #f26b5e; box-shadow: 0 1px 3px #000b, 0 0 0 1px #391a1750; pointer-events: auto; }
+.travel-visited-dot:hover { background: #ff9b86; box-shadow: 0 0 0 3px #f26b5e40, 0 1px 4px #000b; }
+/* Put the tooltip on a child pseudo-element so globe positioning stays untouched. */
+.travel-visited-dot::after, .travel-photo-pin::after, .travel-lived-pin::after { content: attr(data-tooltip); position: absolute; left: 50%; bottom: calc(100% + 8px); transform: translateX(-50%); width: max-content; max-width: 240px; padding: 6px 9px; border: 1px solid #ffffff30; border-radius: 5px; background: #101b2bf2; color: #fff; box-shadow: 0 2px 8px #0006; font: 11px/1.4 system-ui, sans-serif; text-align: center; white-space: normal; pointer-events: none; opacity: 0; visibility: hidden; }
+.travel-visited-dot:hover::after, .travel-photo-pin:hover::after, .travel-photo-pin:focus-visible::after, .travel-lived-pin:hover::after, .travel-lived-pin:focus-visible::after { opacity: 1; visibility: visible; }
+
 .travel-photo-pin { display: flex; align-items: center; justify-content: center; width: 16px; height: 16px; padding: 0; border: 1.5px solid #fff; border-radius: 50%; color: #162033; background: var(--pin-color); box-shadow: 0 2px 8px #0009; cursor: pointer; pointer-events: auto; }
-.travel-photo-pin:hover, .travel-photo-pin:focus-visible { width: 19px; height: 19px; box-shadow: 0 0 0 2px #ffffff30, 0 2px 6px #0009; }
+.travel-photo-pin:hover, .travel-photo-pin:focus-visible { box-shadow: 0 0 0 2px #ffffff30, 0 2px 6px #0009; }
 .travel-photo-pin svg { flex-shrink: 0; }
+.travel-lived-pin { display: flex; align-items: center; justify-content: center; width: 16px; height: 16px; padding: 0; border: 1.5px solid #fff; border-radius: 4px; color: #162033; background: #f4b942; box-shadow: 0 2px 8px #0009; pointer-events: auto; }
+.travel-lived-pin svg { flex-shrink: 0; }
+button.travel-lived-pin { cursor: pointer; }
+.travel-lived-pin:hover, .travel-lived-pin:focus-visible { box-shadow: 0 0 0 3px #f4b94240, 0 2px 8px #0009; }
 .travel-map-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 20px; }
 .travel-legend { display: flex; flex-wrap: wrap; gap: 14px; }
 .travel-legend > span { display: inline-flex; align-items: center; gap: 7px; font-size: 11px; color: var(--text-secondary); white-space: nowrap; }
 .travel-key { display: inline-flex; align-items: center; justify-content: center; width: 9px; height: 9px; border-radius: 50%; font-style: normal; }
-.travel-key-lived { background: #f4b942; }
-.travel-key-visited { background: #e74c3c; }
-.travel-key-photo { width: 17px; height: 17px; border: 2px solid var(--text-primary); color: var(--text-primary); font-size: 10px; line-height: 1; }
+.travel-key-lived { width: 18px; height: 18px; border-radius: 5px; color: #162033; background: #f4b942; }
+.travel-key-visited { box-sizing: border-box; width: 6px; height: 6px; border: 1px solid #ffe1d9; background: #f26b5e; box-shadow: 0 1px 3px #0005; }
+.travel-key-photo { width: 16px; height: 16px; border: 1.5px solid #fff; color: #162033; background: #e74c3c; line-height: 1; }
 .travel-key-plain { width: 6px; height: 6px; background: var(--text-muted); }
 #travel-map-status { font-size: 10px; color: var(--text-muted); }
 .travel-atlas button:focus-visible, .travel-atlas select:focus-visible { outline: 2px solid var(--accent-blue); outline-offset: 3px; }

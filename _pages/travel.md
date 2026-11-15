@@ -4,7 +4,7 @@ title:      My Travel Diary
 permalink:  /travel/
 ---
 
-<link rel="stylesheet" href="{{ '/css/travel.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/css/travel.css' | relative_url }}?v=screen-markers-3">
 
 <div class="travel-intro">
   <p>Here's everywhere I've wandered so far. Still plenty of pins left to drop.</p>
@@ -32,10 +32,9 @@ permalink:  /travel/
   </div>
   <div class="travel-map-footer">
     <div class="travel-legend" aria-label="Map legend">
-      <span><i class="travel-key travel-key-lived"></i>Lived</span>
+      <span><i class="travel-key travel-key-lived"><svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 10 9-7 9 7v11H3z"/><path d="M9 21v-8h6v8"/></svg></i>Lived</span>
       <span><i class="travel-key travel-key-visited"></i>Visited</span>
-      <span><i class="travel-key travel-key-photo"><svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h4l2-3h4l2 3h4v14H4z"/><circle cx="12" cy="12" r="3.5"/></svg></i>Photos to open</span>
-      <span><i class="travel-key travel-key-plain"></i>No photos yet</span>
+      <span><i class="travel-key travel-key-photo"><svg viewBox="0 0 24 24" width="9" height="9" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h4l2-3h4l2 3h4v14H4z"/><circle cx="12" cy="12" r="3.5"/></svg></i>Photos</span>
     </div>
     <span id="travel-map-status" role="status">Camera pins open the photo journal</span>
   </div>
@@ -82,26 +81,11 @@ permalink:  /travel/
   document.getElementById("travel-place-total").textContent = places.length;
   document.getElementById("travel-photo-total").textContent = photoPlaces.length;
 
+  var HOME_ICON = '<svg viewBox="0 0 24 24" width="9" height="9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 10 9-7 9 7v11H3z"/><path d="M9 21v-8h6v8"/></svg>';
+
   var COLORS = { lived: "#f4b942", visited: "#e74c3c" };
 
   var el = document.getElementById("globeViz");
-  var hoveredPoint = null;
-  var referenceCameraDistance;
-  var lastCameraDistance;
-  var zoomScale = 1;
-
-  function baseRadius(d) {
-    return (hasPhotos(d) ? 0.3 : 0.36) * zoomScale;
-  }
-
-  function pointRadius(d) {
-    var base = baseRadius(d);
-    if (d === hoveredPoint && d.posts && d.posts.length) {
-      return base * 1.7;
-    }
-    return base;
-  }
-
   var globe = Globe()(el)
     .globeImageUrl("https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg")
     .bumpImageUrl("https://unpkg.com/three-globe/example/img/earth-topology.png")
@@ -109,31 +93,6 @@ permalink:  /travel/
     .showAtmosphere(true)
     .atmosphereColor("#3498db")
     .atmosphereAltitude(0.13)
-    .pointsData(places)
-    .pointLat("lat")
-    .pointLng("lng")
-    .pointColor(function (d) { return COLORS[d.type]; })
-    .pointAltitude(0.002)
-    .pointRadius(pointRadius)
-    .pointResolution(24)
-    .pointsTransitionDuration(120)
-    .pointLabel(function (d) {
-      var loc = d.region && d.region !== d.name ? d.name + ", " + d.region : d.name;
-      var tooltip = document.createElement("div");
-      tooltip.style.cssText = "font-size:12px; padding:2px 4px;";
-      tooltip.textContent = loc;
-      var availability = document.createElement("div");
-      availability.style.cssText = "font-size:11px; margin-top:4px; opacity:.8";
-      availability.textContent = hasPhotos(d) ? d.posts.length + " photo posts · Click to open" : "No photos yet";
-      tooltip.appendChild(availability);
-      (d.national_parks || []).forEach(function (name) {
-        var park = document.createElement("div");
-        park.style.cssText = "font-size:11px; margin-top:4px;";
-        park.textContent = name + " National Park";
-        tooltip.appendChild(park);
-      });
-      return tooltip.outerHTML;
-    })
     .width(el.clientWidth)
     .height(el.clientHeight)
     .pathPoints("coordinates")
@@ -144,23 +103,32 @@ permalink:  /travel/
     .pathColor(function (d) { return d.kind === "countries" ? "rgba(230,240,255,0.7)" : "rgba(200,220,245,0.34)"; })
     .pathTransitionDuration(0)
     .pointerEventsFilter(function (obj, data) { return !data || !data.boundary; })
-    .htmlElementsData(photoPlaces)
+    .htmlElementsData(places)
     .htmlLat("lat")
     .htmlLng("lng")
     .htmlAltitude(0.008)
     .htmlElement(function (place) {
-      var marker = document.createElement("button");
-      marker.type = "button";
-      marker.className = "travel-photo-pin";
+      var lived = place.type === "lived";
+      var photos = hasPhotos(place);
+      var marker = document.createElement(photos ? "button" : "span");
+      if (photos) marker.type = "button";
+      marker.className = lived ? "travel-lived-pin" : (photos ? "travel-photo-pin" : "travel-visited-dot");
       marker.style.setProperty("--pin-color", COLORS[place.type]);
-      marker.title = locationName(place) + " · " + place.posts.length + " photo posts";
-      marker.setAttribute("aria-label", "Open photos from " + locationName(place));
-      marker.innerHTML = '<svg viewBox="0 0 24 24" width="9" height="9" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h4l2-3h4l2 3h4v14H4z"/><circle cx="12" cy="12" r="3.5"/></svg>';
-      marker.addEventListener("click", function (event) {
-        event.stopPropagation();
-        globe.controls().autoRotate = false;
-        openModal(place.posts);
-      });
+      var label = locationName(place) + (lived ? " · Lived here" : "");
+      marker.title = label + (photos ? " · " + place.posts.length + " photo posts" : "");
+      (place.national_parks || []).forEach(function (name) { marker.title += " · " + name + " National Park"; });
+      marker.setAttribute("data-tooltip", marker.title);
+      marker.removeAttribute("title");
+      marker.setAttribute("aria-label", photos ? "Open photos from " + label : label);
+      if (!photos) marker.setAttribute("role", "img");
+      marker.innerHTML = lived ? HOME_ICON : (photos ? '<svg viewBox="0 0 24 24" width="9" height="9" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h4l2-3h4l2 3h4v14H4z"/><circle cx="12" cy="12" r="3.5"/></svg>' : '');
+      if (photos) {
+        marker.addEventListener("click", function (event) {
+          event.stopPropagation();
+          globe.controls().autoRotate = false;
+          openModal(place.posts);
+        });
+      }
       return marker;
     });
 
@@ -184,7 +152,7 @@ permalink:  /travel/
     });
 
   function showPlaces(photosOnly) {
-    globe.pointsData(photosOnly ? photoPlaces : places);
+    globe.htmlElementsData(photosOnly ? photoPlaces : places);
     document.getElementById("travel-all").setAttribute("aria-pressed", String(!photosOnly));
     document.getElementById("travel-photos").setAttribute("aria-pressed", String(photosOnly));
   }
@@ -218,33 +186,13 @@ permalink:  /travel/
 
   globe.pointOfView({ lat: 39.8283, lng: -98.5795, altitude: 1.8 }, 0);
 
-  // Keep markers the same apparent size as the camera zooms. Point radii are
-  // specified in globe-space units, so they must shrink as the camera gets
-  // closer and grow as it moves away.
-  referenceCameraDistance = globe.camera().position.length();
-  lastCameraDistance = referenceCameraDistance;
-  function updatePointScale() {
-    var cameraDistance = globe.camera().position.length();
-    if (Math.abs(cameraDistance - lastCameraDistance) / referenceCameraDistance < 0.001) return;
-    lastCameraDistance = cameraDistance;
-    zoomScale = cameraDistance ? cameraDistance / referenceCameraDistance : 1;
-    globe.pointRadius(pointRadius);
-  }
-
+  // HTML markers use CSS pixels, so all markers keep the same screen size at every zoom.
   globe.controls().autoRotate = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   globe.controls().autoRotateSpeed = 0.4;
   globe.controls().enableZoom = true;
-  globe.controls().addEventListener("change", updatePointScale);
 
   el.addEventListener("pointerdown", function () {
     globe.controls().autoRotate = false;
-  });
-
-  globe.onPointHover(function (point) {
-    if (point !== hoveredPoint) {
-      hoveredPoint = point;
-      globe.pointRadius(pointRadius);
-    }
   });
 
   window.addEventListener("resize", function () {
@@ -301,12 +249,6 @@ permalink:  /travel/
     embedEl.innerHTML = "";
     if (returnFocus) returnFocus.focus();
   }
-
-  globe.onPointClick(function (point) {
-    if (point && point.posts && point.posts.length) {
-      openModal(point.posts);
-    }
-  });
 
   prevBtn.addEventListener("click", function () {
     if (currentIndex > 0) {

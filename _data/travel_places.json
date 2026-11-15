@@ -223,11 +223,18 @@
     ]
   },
   {
+    "lat": 47.674,
+    "lng": -122.1215,
+    "name": "Redmond",
+    "region": "Washington",
+    "type": "lived"
+  },
+  {
     "lat": 47.6062,
     "lng": -122.3321,
     "name": "Seattle",
     "region": "Washington",
-    "type": "lived",
+    "type": "visited",
     "posts": [
       {
         "shortcode": "DS1jcmVEWzg",
@@ -292,7 +299,7 @@
     "lng": -79.9959,
     "name": "Pittsburgh",
     "region": "Pennsylvania",
-    "type": "lived"
+    "type": "visited"
   },
   {
     "lat": 39.9526,
