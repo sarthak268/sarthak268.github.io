@@ -24,6 +24,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     font-weight: 500;
     line-height: 1.5;
     font-variant-numeric: tabular-nums;
+    transition: translate .18s ease, border-color .18s ease, background-color .18s ease, box-shadow .18s ease;
 }
 .publication-badge-presentation {
     color: var(--accent-link);
@@ -36,6 +37,24 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     background: #b9812510;
 }
 [data-theme="dark"] .publication-badge-award { color: #e6bc72; }
+@media (hover: hover) {
+    .publication-badge:hover {
+        translate: 0 -2px;
+        border-color: var(--accent-blue);
+        background: color-mix(in srgb, var(--accent-blue) 13%, var(--bg-primary));
+        box-shadow: 0 3px 10px #0002;
+    }
+    .publication-badge-award:hover {
+        border-color: #c59749;
+        background: color-mix(in srgb, #c59749 16%, var(--bg-primary));
+        box-shadow: 0 2px 12px #c597492b;
+    }
+}
+@media (prefers-reduced-motion: reduce) {
+    .publication-badge { transition: none; }
+    .publication-badge:hover { translate: none; }
+}
+
 
 .publication-media-card {
     display: flex;

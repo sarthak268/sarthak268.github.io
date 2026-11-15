@@ -176,6 +176,24 @@ button { font-family: inherit; }
 .post-content .timeline-item { margin-bottom: 24px; cursor: pointer; }
 .post-content .timeline-content { padding: 14px 16px; margin-bottom: 0; }
 .timeline-title { line-height: 1.6; }
+/* Anchor consistently sized organization marks to the card corner. */
+.post-content .timeline-content { position: relative; padding-right: 76px; }
+.post-content .timeline-title { gap: 12px; align-items: center; margin-bottom: 8px; }
+.post-content .timeline-title .journey-logo-link { position: absolute; top: 14px; right: 16px; order: 2; flex: 0 0 44px; width: 44px; height: 44px; margin: 0; padding: 7px; box-sizing: border-box; border: 1px solid var(--border-light); border-radius: 10px; background: var(--bg-primary); transition: border-color .18s ease, box-shadow .18s ease, translate .18s ease; }
+.post-content .timeline-title .journey-logo-link:hover { border-color: var(--accent-blue); box-shadow: 0 3px 12px #0002; translate: 0 -1px; }
+.post-content .timeline-title .journey-logo-link:focus-visible { outline: 2px solid var(--accent-blue); outline-offset: 3px; }
+.post section .timeline-title .journey-logo-link .journey-logo { width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; margin: 0 !important; padding: 0; border-radius: 0; transform: none; object-fit: contain; }
+.post-content .timeline-title .journey-title-text { order: 1; }
+@media (max-width: 640px) {
+  .post-content .timeline-content { padding-right: 64px; }
+  .post-content .timeline-title { gap: 10px; }
+  .post-content .timeline-title .journey-logo-link { top: 12px; right: 14px; flex-basis: 38px; width: 38px; height: 38px; padding: 6px; border-radius: 8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .post-content .timeline-title .journey-logo-link { transition: none; }
+  .post-content .timeline-title .journey-logo-link:hover { translate: none; }
+}
+
 .post-content .timeline-dot { top: 5px; }
 .post-content .timeline-details { padding-left: 18px; }
 .post-content .publication-media-card { background: var(--bg-secondary); border-color: var(--border-light); cursor: pointer; }
