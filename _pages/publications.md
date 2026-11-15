@@ -6,6 +6,37 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
 ---
 
 <style>
+.publication-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 9px 0 10px;
+}
+.publication-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 8px;
+    border: 1px solid var(--border-medium);
+    border-radius: 5px;
+    color: var(--text-secondary);
+    background: var(--bg-secondary);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.5;
+    font-variant-numeric: tabular-nums;
+}
+.publication-badge-presentation {
+    color: var(--accent-link);
+    border-color: color-mix(in srgb, var(--accent-blue) 28%, transparent);
+    background: color-mix(in srgb, var(--accent-blue) 9%, var(--bg-primary));
+}
+.publication-badge-award {
+    color: #8b5b0b;
+    border-color: #b981253b;
+    background: #b9812510;
+}
+[data-theme="dark"] .publication-badge-award { color: #e6bc72; }
+
 .publication-media-card {
     display: flex;
     align-items: stretch;
@@ -98,7 +129,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     <span class="authors">D. Kalaria, S. Harithas, P. Katara, S. Kwak, <u>S. Bhagat</u>, S. Sastry, S. Sridhar, S. Vemprala, A. Kapoor, J. Huang</span><br>
     <span class="conf">International Conference on Robotics and Automation (ICRA), 2026</span><br>
     <span class="conf">Workshop on Crossroads of Control: Model-based vs Learning-based Control, Humanoids, 2025</span><br>
-    <span class="trophy">&#x1F3C6; 200+ stars on GitHub</span>
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-metric">200+ stars on GitHub</span></span>
     <span class="links">
         <a target="_blank" href="https://genrobo.github.io/DreamControl/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2509.14353">Paper</a>
@@ -117,7 +148,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     <span class="authors">S. Li, <u>S. Bhagat</u>, J. Campbell, Y. Xie, W. Kim, K. Sycara, S. Stepputtis</span><br>
     <span class="conf">International Conference on Intelligent Robots and Systems (IROS), 2024</span><br>
     <span class="conf">Workshop on 3D Visual Representations for Robot Manipulation, ICRA 2024</span><br>
-    <span class="trophy">&#x1F3C6; Oral; 50+ citations</span>
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-presentation">Oral presentation</span><span class="publication-badge publication-badge-metric">50+ citations</span></span>
     <span class="links">
         <a target="_blank" href="https://shapegrasp.github.io/">Website</a>
         <a target="_blank" href="https://arxiv.org/abs/2403.18062">Paper</a>
@@ -135,7 +166,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     <span class="conf">Robotics and Automation Letters (RA-L), 2024</span><br>
     <span class="conf">International Conference on Robotics and Automation (ICRA), 2025</span><br>
     <span class="conf">Workshop on Nonverbal Cues for Human-Robot Cooperative Intelligence, ICRA 2025</span><br>
-    <span class="trophy">&#x1F3C6; Best Paper Award</span>    
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-award">Best Paper Award</span></span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/NeSCA/">Website</a>
         <a target="_blank" href="https://ieeexplore.ieee.org/document/10582423">Paper</a>
@@ -153,7 +184,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>*, S. Stepputtis*, J. Campbell, K. Sycara</span><br>
     <span class="conf">Conference on Lifelong Learning Agents (CoLLAs), 2023</span><br>
-    <span class="trophy">&#x1F3C6; Oral; Top 12 Publications</span>
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-presentation">Oral presentation</span><span class="publication-badge publication-badge-award">Top 12 Publications</span></span>
     <span class="links">
         <a target="_blank" href="https://sarthak268.github.io/sample-efficient-visual-concept-learning/">Website</a>
         <a target="_blank" href="https://proceedings.mlr.press/v232/bhagat23a/bhagat23a.pdf">Paper</a>
@@ -187,7 +218,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     <span class="conf">ACM Multimedia Asia (MMAsia), 2022</span><br>
     <span class="conf">Workshop on AI for Creative Video Editing and Understanding, ICCV 2023</span><br>
     <span class="conf">Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice (McGE), MM 2023</span><br>
-    <span class="trophy">&#x1F3C6; Best Demo Paper Award; 300+ stars on GitHub</span>    
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-award">Best Demo Paper Award</span><span class="publication-badge publication-badge-metric">300+ stars on GitHub</span></span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2303.11548.pdf">Paper</a>
         <a target="_blank" href="https://github.com/sahilg06/EmoGen">Code</a>
@@ -220,7 +251,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
 <p class="pubd">
     <span class="authors"><u>S. Bhagat</u>, P.B. Sujit</span><br>
     <span class="conf">International Conference on Unmanned Aircraft Systems (ICUAS), 2020 </span><br>
-    <span class="trophy">&#x1F3C6; Oral; 100+ citations</span>
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-presentation">Oral presentation</span><span class="publication-badge publication-badge-metric">100+ citations</span></span>
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9213856">Paper</a>
         <a target="_blank" href="https://youtu.be/4hAEp5aE88A">Video</a>
@@ -236,7 +267,7 @@ intro_note: "Fun fact: my Erdős number is 4 and my Dijkstra number is 3."
     <span class="authors">S. Uppal*, A. Madan*, <u>S. Bhagat</u>*, Y. Yu, R. Shah</span><br>
     <span class="conf">ACM Multimedia Asia (MMAsia), 2020</span><br>
     <span class="conf">VQA and Dialogue Workshop, Computer Vision and Pattern Recognition (CVPR), 2020</span><br>  
-    <span class="trophy">&#x1F3C6; Spotlight</span>
+    <span class="publication-highlights" aria-label="Publication highlights"><span class="publication-badge publication-badge-presentation">Spotlight</span></span>
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3444685.3446302">Paper</a>
         <a target="_blank" href="https://github.com/sarthak268/c3vqg-official">Code</a>
