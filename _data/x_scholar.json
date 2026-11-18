@@ -1,59 +1,59 @@
 {
   "handle": "sarthak__bhagat",
-  "name": "Sarthak Bhagat ✈️CoRL’2026",
+  "name": "Sarthak Bhagat",
   "profile_url": "https://x.com/sarthak__bhagat",
-  "followers": 1466,
-  "updated_at": "2026-11-13T19:53:21.980603+00:00",
-  "updated_date": "2026-11-13",
+  "followers": 1613,
+  "updated_at": "2026-11-18T20:43:22.417104+00:00",
+  "updated_date": "2026-11-18",
   "since_year": 2021,
   "source": "https://api.fxtwitter.com",
   "timeline_exhausted": true,
   "scope": "Original posts and quote posts returned by the public timeline; replies and reposts excluded.",
-  "post_count": 150,
+  "post_count": 152,
   "metrics": {
-    "likes": 2279,
+    "likes": 2469,
     "h_index": 23,
-    "i10_index": 52
+    "i10_index": 54
   },
   "recent_metrics": {
-    "likes": 2191,
-    "h_index": 21,
-    "i10_index": 49
+    "likes": 2381,
+    "h_index": 22,
+    "i10_index": 51
   },
   "years": [
     {
       "year": 2020,
       "likes": 88,
-      "height": 12.09
+      "height": 9.6
     },
     {
       "year": 2021,
       "likes": 132,
-      "height": 18.13
+      "height": 14.39
     },
     {
       "year": 2022,
       "likes": 151,
-      "height": 20.74
+      "height": 16.47
     },
     {
       "year": 2023,
-      "likes": 338,
-      "height": 46.43
+      "likes": 339,
+      "height": 36.97
     },
     {
       "year": 2024,
       "likes": 502,
-      "height": 68.96
+      "height": 54.74
     },
     {
       "year": 2025,
       "likes": 340,
-      "height": 46.7
+      "height": 37.08
     },
     {
       "year": 2026,
-      "likes": 728,
+      "likes": 917,
       "height": 100.0
     }
   ],
@@ -68,7 +68,7 @@
       "likes": 197,
       "reposts": 48,
       "replies": 5,
-      "views": 46628
+      "views": 46632
     },
     {
       "id": "2113300177910124670",
@@ -77,10 +77,22 @@
       "title": "We're finally coming out of stealth at @WarpSciences! 🚀 A little story about how I ended up at Warp: A few months ago, @shagunuppls and I were building a company around robotics infrastructure for scientific discovery. We had some amazing angels backing us…",
       "date": "2026-10-22",
       "year": 2026,
-      "likes": 181,
+      "likes": 184,
       "reposts": 6,
       "replies": 36,
-      "views": 11279
+      "views": 11907
+    },
+    {
+      "id": "2122781374323315033",
+      "url": "https://x.com/sarthak__bhagat/status/2122781374323315033",
+      "text": "We're hiring roboticists at @WarpSciences!\n\nWe're building robots that can perform real scientific experiments and accelerate discovery. 🧪\n\nWe're hiring for full-time and internship roles across:\n- Robotics Hardware\n- Robot Learning \n- Robot Operations \n\nIf you love building robots that do useful things in the real world, we'd love to talk!\n\nApply here: https://warp.xyz/careers or DM me!",
+      "title": "We're hiring roboticists at @WarpSciences! We're building robots that can perform real scientific experiments and accelerate discovery. 🧪 We're hiring for full-time and internship roles across: - Robotics Hardware - Robot Learning - Robot Operations If you…",
+      "date": "2026-11-17",
+      "year": 2026,
+      "likes": 176,
+      "reposts": 17,
+      "replies": 17,
+      "views": 25341
     },
     {
       "id": "2074245837593641028",
@@ -92,7 +104,7 @@
       "likes": 157,
       "reposts": 6,
       "replies": 20,
-      "views": 18475
+      "views": 18481
     },
     {
       "id": "1354012392007471105",
@@ -161,7 +173,7 @@
       "title": "🥳Reached 200 citations! It may not be a huge milestone, but still worth celebrating every step forward in our research journey.",
       "date": "2023-02-07",
       "year": 2023,
-      "likes": 45,
+      "likes": 46,
       "reposts": 1,
       "replies": 2,
       "views": 3017
@@ -188,7 +200,7 @@
       "likes": 33,
       "reposts": 4,
       "replies": 0,
-      "views": 5166
+      "views": 5169
     },
     {
       "id": "1708427796769309099",
@@ -224,7 +236,7 @@
       "likes": 27,
       "reposts": 2,
       "replies": 0,
-      "views": 1839
+      "views": 1849
     },
     {
       "id": "1278723915972407296",
@@ -272,7 +284,7 @@
       "likes": 26,
       "reposts": 5,
       "replies": 0,
-      "views": 2032
+      "views": 2033
     },
     {
       "id": "1699260126585344194",
@@ -284,7 +296,7 @@
       "likes": 25,
       "reposts": 2,
       "replies": 0,
-      "views": 2622
+      "views": 2623
     },
     {
       "id": "1279192061145526272",
@@ -356,7 +368,7 @@
       "likes": 21,
       "reposts": 0,
       "replies": 2,
-      "views": 3155
+      "views": 3159
     },
     {
       "id": "1927166302512132394",
@@ -404,7 +416,7 @@
       "likes": 18,
       "reposts": 0,
       "replies": 3,
-      "views": 2038
+      "views": 2046
     },
     {
       "id": "1985528628541894839",
@@ -452,7 +464,7 @@
       "likes": 17,
       "reposts": 0,
       "replies": 1,
-      "views": 1888
+      "views": 1900
     },
     {
       "id": "2114865177149743312",
@@ -464,7 +476,7 @@
       "likes": 16,
       "reposts": 1,
       "replies": 0,
-      "views": 1185
+      "views": 1204
     },
     {
       "id": "2102627287959208191",
@@ -476,7 +488,7 @@
       "likes": 16,
       "reposts": 2,
       "replies": 1,
-      "views": 4095
+      "views": 4102
     },
     {
       "id": "1600276448261963777",
@@ -620,7 +632,7 @@
       "likes": 11,
       "reposts": 0,
       "replies": 3,
-      "views": 570
+      "views": 572
     },
     {
       "id": "1973427783356522888",
@@ -671,6 +683,18 @@
       "views": 1096
     },
     {
+      "id": "2122073311811395769",
+      "url": "https://x.com/sarthak__bhagat/status/2122073311811395769",
+      "text": "“Any sufficiently advanced technology is indistinguishable from magic.”\n\n- Arthur C. Clarke, Clarke’s Third Law (1973)",
+      "title": "“Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke, Clarke’s Third Law (1973)",
+      "date": "2026-11-15",
+      "year": 2026,
+      "likes": 10,
+      "reposts": 0,
+      "replies": 0,
+      "views": 613
+    },
+    {
       "id": "1612355292158631936",
       "url": "https://x.com/sarthak__bhagat/status/1612355292158631936",
       "text": "\"When a cheap laptop beats the smartest mathematicians at some tasks but even a supercomputer with 16,000 CPUs can't beat a child at others, you can tell that humans and computers are just more or less powerful than each other -- they are categorically different.\"",
@@ -692,7 +716,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 812
+      "views": 830
     },
     {
       "id": "2094990321323294929",
@@ -704,7 +728,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 1171
+      "views": 1174
     },
     {
       "id": "2079450967100248308",
@@ -716,7 +740,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 0,
-      "views": 1197
+      "views": 1201
     },
     {
       "id": "2044473945571922023",
@@ -728,7 +752,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 0,
-      "views": 574
+      "views": 576
     },
     {
       "id": "1954967372646986050",
@@ -788,7 +812,7 @@
       "likes": 8,
       "reposts": 0,
       "replies": 0,
-      "views": 468
+      "views": 475
     },
     {
       "id": "2077888999713317153",
@@ -800,7 +824,7 @@
       "likes": 8,
       "reposts": 0,
       "replies": 1,
-      "views": 1089
+      "views": 1092
     },
     {
       "id": "2070689901113454683",
@@ -812,7 +836,7 @@
       "likes": 8,
       "reposts": 1,
       "replies": 2,
-      "views": 2009
+      "views": 2013
     },
     {
       "id": "2054445759265992909",
@@ -824,7 +848,7 @@
       "likes": 8,
       "reposts": 3,
       "replies": 0,
-      "views": 959
+      "views": 962
     },
     {
       "id": "2043758568537727351",
@@ -836,7 +860,7 @@
       "likes": 8,
       "reposts": 2,
       "replies": 0,
-      "views": 667
+      "views": 669
     },
     {
       "id": "2034010740831752305",
@@ -884,7 +908,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 1,
-      "views": 559
+      "views": 600
     },
     {
       "id": "2096707842921386412",
@@ -896,7 +920,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 0,
-      "views": 392
+      "views": 396
     },
     {
       "id": "2040207896961786100",
@@ -968,7 +992,7 @@
       "likes": 6,
       "reposts": 0,
       "replies": 0,
-      "views": 1145
+      "views": 1148
     },
     {
       "id": "2046474049971474893",
@@ -980,7 +1004,7 @@
       "likes": 6,
       "reposts": 0,
       "replies": 1,
-      "views": 480
+      "views": 482
     },
     {
       "id": "1993589456931082496",
@@ -1052,7 +1076,7 @@
       "likes": 5,
       "reposts": 0,
       "replies": 0,
-      "views": 637
+      "views": 642
     },
     {
       "id": "2048597131125195239",
@@ -1064,7 +1088,7 @@
       "likes": 5,
       "reposts": 0,
       "replies": 0,
-      "views": 817
+      "views": 820
     },
     {
       "id": "2041586035440914818",
@@ -1076,7 +1100,7 @@
       "likes": 5,
       "reposts": 0,
       "replies": 0,
-      "views": 302
+      "views": 304
     },
     {
       "id": "1999695014105104878",
@@ -1184,7 +1208,7 @@
       "likes": 4,
       "reposts": 0,
       "replies": 0,
-      "views": 396
+      "views": 401
     },
     {
       "id": "2097401836684894606",
@@ -1196,7 +1220,7 @@
       "likes": 4,
       "reposts": 0,
       "replies": 0,
-      "views": 533
+      "views": 537
     },
     {
       "id": "2039580702933733484",
@@ -1388,7 +1412,7 @@
       "likes": 3,
       "reposts": 0,
       "replies": 0,
-      "views": 475
+      "views": 478
     },
     {
       "id": "1985821940112863488",
@@ -1544,7 +1568,7 @@
       "likes": 2,
       "reposts": 0,
       "replies": 0,
-      "views": 284
+      "views": 288
     },
     {
       "id": "2032965897103552805",
@@ -1863,10 +1887,10 @@
     {
       "profile": {
         "handle": "shagunuppls",
-        "name": "Shagunn ✈️ CoRL 2026",
+        "name": "Shagunn",
         "profile_url": "https://x.com/shagunuppls",
         "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
-        "initials": "S✈"
+        "initials": "S"
       },
       "evidence": {
         "kind": "quotes",
@@ -1879,10 +1903,10 @@
     {
       "profile": {
         "handle": "shagunuppls",
-        "name": "Shagunn ✈️ CoRL 2026",
+        "name": "Shagunn",
         "profile_url": "https://x.com/shagunuppls",
         "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
-        "initials": "S✈"
+        "initials": "S"
       },
       "evidence": {
         "kind": "quotes",
@@ -2359,10 +2383,10 @@
     {
       "profile": {
         "handle": "shagunuppls",
-        "name": "Shagunn ✈️ CoRL 2026",
+        "name": "Shagunn",
         "profile_url": "https://x.com/shagunuppls",
         "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
-        "initials": "S✈"
+        "initials": "S"
       },
       "evidence": {
         "kind": "quotes",
@@ -2697,7 +2721,7 @@
         "handle": "elonmusk",
         "name": "Elon Musk",
         "profile_url": "https://x.com/elonmusk",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_200x200.jpg",
         "initials": "EM"
       },
       "evidence": {
@@ -2809,7 +2833,7 @@
         "handle": "elonmusk",
         "name": "Elon Musk",
         "profile_url": "https://x.com/elonmusk",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_200x200.jpg",
         "initials": "EM"
       },
       "evidence": {
@@ -3255,10 +3279,10 @@
     {
       "profile": {
         "handle": "shagunuppls",
-        "name": "Shagunn ✈️ CoRL 2026",
+        "name": "Shagunn",
         "profile_url": "https://x.com/shagunuppls",
         "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
-        "initials": "S✈"
+        "initials": "S"
       },
       "evidence": {
         "kind": "quotes",
@@ -3526,6 +3550,22 @@
     },
     {
       "profile": {
+        "handle": "SpaceX",
+        "name": "SpaceX",
+        "profile_url": "https://x.com/SpaceX",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg",
+        "initials": "S"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2121316300702056595",
+        "id": "2122073311811395769",
+        "url": "https://x.com/sarthak__bhagat/status/2122073311811395769"
+      }
+    },
+    {
+      "profile": {
         "handle": "Ankita1Shukla",
         "name": "Ankita Shukla",
         "profile_url": "https://x.com/Ankita1Shukla",
@@ -3719,10 +3759,10 @@
     {
       "profile": {
         "handle": "shagunuppls",
-        "name": "Shagunn ✈️ CoRL 2026",
+        "name": "Shagunn",
         "profile_url": "https://x.com/shagunuppls",
         "avatar_url": "https://pbs.twimg.com/profile_images/2113176552129388544/BO6asY4C_200x200.jpg",
-        "initials": "S✈"
+        "initials": "S"
       },
       "evidence": {
         "kind": "reposts",
@@ -3993,7 +4033,7 @@
         "handle": "zachpogrob",
         "name": "Zach Pogrob",
         "profile_url": "https://x.com/zachpogrob",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2121289747683266560/ZLBpYQMc_200x200.jpg",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2122224904107900928/QuUsVOMR_200x200.jpg",
         "initials": "ZP"
       },
       "evidence": {
@@ -6418,6 +6458,22 @@
         "post_id": "2118036806734135403",
         "id": "2118036806734135403",
         "url": "https://x.com/gauri__gupta/status/2118036806734135403"
+      }
+    },
+    {
+      "profile": {
+        "handle": "martinmbauer",
+        "name": "Martin Bauer",
+        "profile_url": "https://x.com/martinmbauer",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1459230413868703751/nZsnpMRr_200x200.jpg",
+        "initials": "MB"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2122417334501712248",
+        "id": "2122417334501712248",
+        "url": "https://x.com/martinmbauer/status/2122417334501712248"
       }
     },
     {
