@@ -258,7 +258,8 @@ Here lies a cherished collection (a subset) of the books that have captivated my
         { slug: "antifragile", title: "Antifragile", author: "Nassim Taleb", cover: 9180157 },
         { slug: "stardust", title: "We Are All Stardust", author: "Stefan Klein", cover: 11327789 },
         { slug: "when_heavens_went_on_sale", title: "When the Heavens Went on Sale", author: "Ashlee Vance", cover: 13234791, fav: true },
-        { slug: "moonwalking_with_einstein", title: "Moonwalking with Einstein", author: "Joshua Foer", cover: 14426425 }
+        { slug: "moonwalking_with_einstein", title: "Moonwalking with Einstein", author: "Joshua Foer", cover: 14426425 },
+        { slug: "disappearing_spoon", title: "The Disappearing Spoon", author: "Sam Kean", coverIsbn: "9780316051637" }
       ]
     }
   ];
