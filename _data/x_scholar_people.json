@@ -1,13 +1,13 @@
 {
   "handle": "sarthak__bhagat",
-  "updated_at": "2026-11-18T20:44:09.030265+00:00",
-  "updated_date": "2026-11-18",
+  "updated_at": "2026-11-19T20:50:12.210559+00:00",
+  "updated_date": "2026-11-19",
   "posts_considered": 152,
-  "people_found": 430,
+  "people_found": 432,
   "lists_checked": 148,
   "lists_available": {
-    "reposts": 48,
     "replies": 52,
+    "reposts": 48,
     "quotes": 48
   },
   "scope": "Observed replies, reposts, and quotes in both directions, plus authenticated likes when available. A sample, not a complete history.",
@@ -4773,7 +4773,7 @@
       "handle": "sanskxr02",
       "name": "Sanskar Pandey",
       "profile_url": "https://x.com/sanskxr02",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1936411826448953344/MjyMokf1_normal.jpg",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1936411826448953344/MjyMokf1_200x200.jpg",
       "initials": "SP",
       "interaction_count": 2,
       "post_count": 1,
@@ -5151,30 +5151,6 @@
           "post_id": "2079028340955197566",
           "id": "2079450967100248308",
           "url": "https://x.com/sarthak__bhagat/status/2079450967100248308"
-        }
-      ]
-    },
-    {
-      "handle": "_Alamaja_",
-      "name": "Alamaja",
-      "profile_url": "https://x.com/_Alamaja_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2119808144423448576/j9ZmoqqM_normal.jpg",
-      "initials": "A",
-      "interaction_count": 1,
-      "post_count": 1,
-      "incoming": 1,
-      "outgoing": 0,
-      "likes": 0,
-      "quotes": 0,
-      "replies": 0,
-      "reposts": 1,
-      "evidence": [
-        {
-          "kind": "reposts",
-          "direction": "incoming",
-          "post_id": "2122781374323315033",
-          "id": "2122781374323315033",
-          "url": "https://x.com/sarthak__bhagat/status/2122781374323315033"
         }
       ]
     },
@@ -5583,6 +5559,30 @@
           "post_id": "1284200803071336449",
           "id": "1284200803071336449",
           "url": "https://x.com/amlankar95/status/1284200803071336449"
+        }
+      ]
+    },
+    {
+      "handle": "AmoghGulati",
+      "name": "amogh gulati",
+      "profile_url": "https://x.com/AmoghGulati",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2114533338765475840/ORxKZNY-_200x200.jpg",
+      "initials": "AG",
+      "interaction_count": 1,
+      "post_count": 1,
+      "incoming": 1,
+      "outgoing": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "reposts": 0,
+      "evidence": [
+        {
+          "kind": "replies",
+          "direction": "incoming",
+          "post_id": "2113300177910124670",
+          "id": "2123260180628451700",
+          "url": "https://x.com/AmoghGulati/status/2123260180628451700"
         }
       ]
     },
@@ -6039,6 +6039,30 @@
           "post_id": "1987244069274460499",
           "id": "1987244069274460499",
           "url": "https://x.com/sarthak__bhagat/status/1987244069274460499"
+        }
+      ]
+    },
+    {
+      "handle": "baleke_gedeon",
+      "name": "Gedeon Baleke 🇨🇩",
+      "profile_url": "https://x.com/baleke_gedeon",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2122839787723735040/nD4oyrUT_normal.jpg",
+      "initials": "GB",
+      "interaction_count": 1,
+      "post_count": 1,
+      "incoming": 1,
+      "outgoing": 0,
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "reposts": 1,
+      "evidence": [
+        {
+          "kind": "reposts",
+          "direction": "incoming",
+          "post_id": "2122781374323315033",
+          "id": "2122781374323315033",
+          "url": "https://x.com/sarthak__bhagat/status/2122781374323315033"
         }
       ]
     },
@@ -10239,6 +10263,30 @@
           "post_id": "2017696891698614604",
           "id": "2017727322351407492",
           "url": "https://x.com/quickfiling2us/status/2017727322351407492"
+        }
+      ]
+    },
+    {
+      "handle": "quillstarcross",
+      "name": "Quill Starcross",
+      "profile_url": "https://x.com/quillstarcross",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1988117448504098816/cF1EnFf0_200x200.jpg",
+      "initials": "QS",
+      "interaction_count": 1,
+      "post_count": 1,
+      "incoming": 1,
+      "outgoing": 0,
+      "likes": 0,
+      "quotes": 1,
+      "replies": 0,
+      "reposts": 0,
+      "evidence": [
+        {
+          "kind": "quotes",
+          "direction": "incoming",
+          "post_id": "2122781374323315033",
+          "id": "2122930322501423566",
+          "url": "https://x.com/quillstarcross/status/2122930322501423566"
         }
       ]
     },

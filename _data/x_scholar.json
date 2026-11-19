@@ -2,21 +2,21 @@
   "handle": "sarthak__bhagat",
   "name": "Sarthak Bhagat",
   "profile_url": "https://x.com/sarthak__bhagat",
-  "followers": 1613,
-  "updated_at": "2026-11-18T20:43:22.417104+00:00",
-  "updated_date": "2026-11-18",
+  "followers": 1646,
+  "updated_at": "2026-11-19T20:49:17.109979+00:00",
+  "updated_date": "2026-11-19",
   "since_year": 2021,
   "source": "https://api.fxtwitter.com",
   "timeline_exhausted": true,
   "scope": "Original posts and quote posts returned by the public timeline; replies and reposts excluded.",
   "post_count": 152,
   "metrics": {
-    "likes": 2469,
+    "likes": 2490,
     "h_index": 23,
     "i10_index": 54
   },
   "recent_metrics": {
-    "likes": 2381,
+    "likes": 2402,
     "h_index": 22,
     "i10_index": 51
   },
@@ -24,40 +24,52 @@
     {
       "year": 2020,
       "likes": 88,
-      "height": 9.6
+      "height": 9.37
     },
     {
       "year": 2021,
       "likes": 132,
-      "height": 14.39
+      "height": 14.06
     },
     {
       "year": 2022,
       "likes": 151,
-      "height": 16.47
+      "height": 16.08
     },
     {
       "year": 2023,
       "likes": 339,
-      "height": 36.97
+      "height": 36.1
     },
     {
       "year": 2024,
-      "likes": 502,
-      "height": 54.74
+      "likes": 501,
+      "height": 53.35
     },
     {
       "year": 2025,
       "likes": 340,
-      "height": 37.08
+      "height": 36.21
     },
     {
       "year": 2026,
-      "likes": 917,
+      "likes": 939,
       "height": 100.0
     }
   ],
   "posts": [
+    {
+      "id": "2122781374323315033",
+      "url": "https://x.com/sarthak__bhagat/status/2122781374323315033",
+      "text": "We're hiring roboticists at @WarpSciences!\n\nWe're building robots that can perform real scientific experiments and accelerate discovery. 🧪\n\nWe're hiring for full-time and internship roles across:\n- Robotics Hardware\n- Robot Learning \n- Robot Operations \n\nIf you love building robots that do useful things in the real world, we'd love to talk!\n\nApply here: https://warp.xyz/careers or DM me!",
+      "title": "We're hiring roboticists at @WarpSciences! We're building robots that can perform real scientific experiments and accelerate discovery. 🧪 We're hiring for full-time and internship roles across: - Robotics Hardware - Robot Learning - Robot Operations If you…",
+      "date": "2026-11-17",
+      "year": 2026,
+      "likes": 198,
+      "reposts": 19,
+      "replies": 17,
+      "views": 32571
+    },
     {
       "id": "1821757702806368329",
       "url": "https://x.com/sarthak__bhagat/status/1821757702806368329",
@@ -79,20 +91,8 @@
       "year": 2026,
       "likes": 184,
       "reposts": 6,
-      "replies": 36,
-      "views": 11907
-    },
-    {
-      "id": "2122781374323315033",
-      "url": "https://x.com/sarthak__bhagat/status/2122781374323315033",
-      "text": "We're hiring roboticists at @WarpSciences!\n\nWe're building robots that can perform real scientific experiments and accelerate discovery. 🧪\n\nWe're hiring for full-time and internship roles across:\n- Robotics Hardware\n- Robot Learning \n- Robot Operations \n\nIf you love building robots that do useful things in the real world, we'd love to talk!\n\nApply here: https://warp.xyz/careers or DM me!",
-      "title": "We're hiring roboticists at @WarpSciences! We're building robots that can perform real scientific experiments and accelerate discovery. 🧪 We're hiring for full-time and internship roles across: - Robotics Hardware - Robot Learning - Robot Operations If you…",
-      "date": "2026-11-17",
-      "year": 2026,
-      "likes": 176,
-      "reposts": 17,
-      "replies": 17,
-      "views": 25341
+      "replies": 37,
+      "views": 12050
     },
     {
       "id": "2074245837593641028",
@@ -137,7 +137,7 @@
       "title": "🎓 Graduated from @CarnegieMellon with MS in Robotics! 🎉 It's been an incredible journey, filled with challenges and growth. Immense gratitude to my advisor, Katia Sycara. Goodbye, Pittsburgh – you and the amazing friends I've made will always have a…",
       "date": "2024-06-13",
       "year": 2024,
-      "likes": 107,
+      "likes": 106,
       "reposts": 1,
       "replies": 4,
       "views": 6972
@@ -236,7 +236,7 @@
       "likes": 27,
       "reposts": 2,
       "replies": 0,
-      "views": 1849
+      "views": 1850
     },
     {
       "id": "1278723915972407296",
@@ -464,7 +464,7 @@
       "likes": 17,
       "reposts": 0,
       "replies": 1,
-      "views": 1900
+      "views": 1901
     },
     {
       "id": "2114865177149743312",
@@ -476,7 +476,7 @@
       "likes": 16,
       "reposts": 1,
       "replies": 0,
-      "views": 1204
+      "views": 1209
     },
     {
       "id": "2102627287959208191",
@@ -692,7 +692,7 @@
       "likes": 10,
       "reposts": 0,
       "replies": 0,
-      "views": 613
+      "views": 657
     },
     {
       "id": "1612355292158631936",
@@ -716,7 +716,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 830
+      "views": 836
     },
     {
       "id": "2094990321323294929",
@@ -788,7 +788,7 @@
       "likes": 9,
       "reposts": 1,
       "replies": 1,
-      "views": 2019
+      "views": 2020
     },
     {
       "id": "1299272157235572736",
@@ -908,7 +908,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 1,
-      "views": 600
+      "views": 620
     },
     {
       "id": "2096707842921386412",
