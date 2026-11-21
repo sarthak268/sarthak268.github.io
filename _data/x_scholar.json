@@ -2,58 +2,58 @@
   "handle": "sarthak__bhagat",
   "name": "Sarthak Bhagat",
   "profile_url": "https://x.com/sarthak__bhagat",
-  "followers": 1646,
-  "updated_at": "2026-11-19T20:49:17.109979+00:00",
-  "updated_date": "2026-11-19",
+  "followers": 1652,
+  "updated_at": "2026-11-21T07:26:28.812036+00:00",
+  "updated_date": "2026-11-21",
   "since_year": 2021,
   "source": "https://api.fxtwitter.com",
   "timeline_exhausted": true,
   "scope": "Original posts and quote posts returned by the public timeline; replies and reposts excluded.",
-  "post_count": 152,
+  "post_count": 150,
   "metrics": {
-    "likes": 2490,
+    "likes": 2480,
     "h_index": 23,
-    "i10_index": 54
+    "i10_index": 53
   },
   "recent_metrics": {
-    "likes": 2402,
+    "likes": 2392,
     "h_index": 22,
-    "i10_index": 51
+    "i10_index": 50
   },
   "years": [
     {
       "year": 2020,
       "likes": 88,
-      "height": 9.37
+      "height": 9.45
     },
     {
       "year": 2021,
       "likes": 132,
-      "height": 14.06
+      "height": 14.18
     },
     {
       "year": 2022,
       "likes": 151,
-      "height": 16.08
+      "height": 16.22
     },
     {
       "year": 2023,
       "likes": 339,
-      "height": 36.1
+      "height": 36.41
     },
     {
       "year": 2024,
-      "likes": 501,
-      "height": 53.35
+      "likes": 499,
+      "height": 53.6
     },
     {
       "year": 2025,
       "likes": 340,
-      "height": 36.21
+      "height": 36.52
     },
     {
       "year": 2026,
-      "likes": 939,
+      "likes": 931,
       "height": 100.0
     }
   ],
@@ -65,10 +65,10 @@
       "title": "We're hiring roboticists at @WarpSciences! We're building robots that can perform real scientific experiments and accelerate discovery. 🧪 We're hiring for full-time and internship roles across: - Robotics Hardware - Robot Learning - Robot Operations If you…",
       "date": "2026-11-17",
       "year": 2026,
-      "likes": 198,
+      "likes": 200,
       "reposts": 19,
-      "replies": 17,
-      "views": 32571
+      "replies": 19,
+      "views": 33299
     },
     {
       "id": "1821757702806368329",
@@ -80,7 +80,7 @@
       "likes": 197,
       "reposts": 48,
       "replies": 5,
-      "views": 46632
+      "views": 46633
     },
     {
       "id": "2113300177910124670",
@@ -92,7 +92,7 @@
       "likes": 184,
       "reposts": 6,
       "replies": 37,
-      "views": 12050
+      "views": 12094
     },
     {
       "id": "2074245837593641028",
@@ -476,7 +476,7 @@
       "likes": 16,
       "reposts": 1,
       "replies": 0,
-      "views": 1209
+      "views": 1210
     },
     {
       "id": "2102627287959208191",
@@ -487,7 +487,7 @@
       "year": 2026,
       "likes": 16,
       "reposts": 2,
-      "replies": 1,
+      "replies": 0,
       "views": 4102
     },
     {
@@ -683,18 +683,6 @@
       "views": 1096
     },
     {
-      "id": "2122073311811395769",
-      "url": "https://x.com/sarthak__bhagat/status/2122073311811395769",
-      "text": "“Any sufficiently advanced technology is indistinguishable from magic.”\n\n- Arthur C. Clarke, Clarke’s Third Law (1973)",
-      "title": "“Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke, Clarke’s Third Law (1973)",
-      "date": "2026-11-15",
-      "year": 2026,
-      "likes": 10,
-      "reposts": 0,
-      "replies": 0,
-      "views": 657
-    },
-    {
       "id": "1612355292158631936",
       "url": "https://x.com/sarthak__bhagat/status/1612355292158631936",
       "text": "\"When a cheap laptop beats the smartest mathematicians at some tasks but even a supercomputer with 16,000 CPUs can't beat a child at others, you can tell that humans and computers are just more or less powerful than each other -- they are categorically different.\"",
@@ -716,7 +704,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 836
+      "views": 837
     },
     {
       "id": "2094990321323294929",
@@ -908,7 +896,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 1,
-      "views": 620
+      "views": 622
     },
     {
       "id": "2096707842921386412",
@@ -1605,18 +1593,6 @@
       "reposts": 0,
       "replies": 0,
       "views": 263
-    },
-    {
-      "id": "1770587728528150685",
-      "url": "https://x.com/sarthak__bhagat/status/1770587728528150685",
-      "text": "The dawn of a new era in brain-computer interfaces. \n\nWe're living in truly exciting times of unprecedented innovation and discovery.",
-      "title": "The dawn of a new era in brain-computer interfaces. We're living in truly exciting times of unprecedented innovation and discovery.",
-      "date": "2024-03-20",
-      "year": 2024,
-      "likes": 2,
-      "reposts": 0,
-      "replies": 1,
-      "views": 638
     },
     {
       "id": "1604564902324195328",
@@ -2362,22 +2338,6 @@
         "post_id": "1767633955933638962",
         "id": "1767653644743430305",
         "url": "https://x.com/sarthak__bhagat/status/1767653644743430305"
-      }
-    },
-    {
-      "profile": {
-        "handle": "neuralink",
-        "name": "Neuralink",
-        "profile_url": "https://x.com/neuralink",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1661856130535165953/zMoW6Sr1_200x200.jpg",
-        "initials": "N"
-      },
-      "evidence": {
-        "kind": "quotes",
-        "direction": "outgoing",
-        "post_id": "1770563939413496146",
-        "id": "1770587728528150685",
-        "url": "https://x.com/sarthak__bhagat/status/1770587728528150685"
       }
     },
     {
@@ -3546,22 +3506,6 @@
         "post_id": "2118036806734135403",
         "id": "2118053150645252170",
         "url": "https://x.com/sarthak__bhagat/status/2118053150645252170"
-      }
-    },
-    {
-      "profile": {
-        "handle": "SpaceX",
-        "name": "SpaceX",
-        "profile_url": "https://x.com/SpaceX",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg",
-        "initials": "S"
-      },
-      "evidence": {
-        "kind": "quotes",
-        "direction": "outgoing",
-        "post_id": "2121316300702056595",
-        "id": "2122073311811395769",
-        "url": "https://x.com/sarthak__bhagat/status/2122073311811395769"
       }
     },
     {
