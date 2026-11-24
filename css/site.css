@@ -231,6 +231,27 @@ button { font-family: inherit; }
 .things-progress-percent { font-size: 12px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
 .post-content .things-progress-track { height: 4px; margin: 14px 0 0; overflow: hidden; border-radius: 4px; background: var(--border-light); }
 .post-content .things-progress-fill { height: 100%; width: calc(100% * 20 / 88); margin: 0; border-radius: inherit; background: var(--accent-blue); }
+/* One square per bucket-list goal, with completion derived at build time. */
+.things-progress { --goal-done: #2da44e; --goal-todo: #e4e7e2; --goal-outline: #c8cec5; }
+[data-theme='dark'] .things-progress { --goal-done: #39b85a; --goal-todo: #252d28; --goal-outline: #39443c; }
+.post .things-grid-hint { margin: 12px 0 18px; color: var(--text-secondary); font-size: 12px; }
+.post-content .things-grid { display: grid; grid-template-columns: repeat(50, minmax(0, 1fr)); gap: 5px; width: 100%; margin: 0 0 16px; }
+.post-content .things-cell { display: block; aspect-ratio: 1; min-width: 0; border: 1px solid var(--goal-outline); border-radius: 3px; background: var(--goal-todo); box-sizing: border-box; }
+.post-content .things-cell.is-complete { background: var(--goal-done); border-color: var(--goal-done); }
+.post-content .things-cell.is-empty { background: transparent; border-style: dashed; }
+.post-content a.things-cell:hover, .post-content a.things-cell:focus-visible { outline: 2px solid var(--text-primary); outline-offset: 2px; }
+.post-content .things-grid-footer { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px 20px; margin: 0; font-size: 11px; color: var(--text-muted); }
+.post-content .things-grid-legend { display: flex; flex-wrap: wrap; gap: 14px; margin: 0; }
+.things-grid-legend > span { display: inline-flex; align-items: center; gap: 6px; }
+.things-grid-legend .things-cell { width: 11px; height: 11px; }
+.goal-item:target { background: color-mix(in srgb, var(--accent-blue) 14%, transparent); outline: 2px solid var(--accent-blue); outline-offset: 4px; }
+.goal-item[id] { scroll-margin-top: 100px; }
+@media (max-width: 760px) {
+  .post-content .things-grid { grid-template-columns: repeat(25, minmax(0, 1fr)); gap: 4px; }
+}
+@media (max-width: 480px) {
+  .post-content .things-grid { grid-template-columns: repeat(20, minmax(0, 1fr)); gap: 4px; }
+}
 .post-content .goal-item { display: inline-block; max-width: 100%; border-radius: 3px; cursor: pointer; transition: color 180ms ease, background-color 180ms ease; }
 @media (hover: hover) and (pointer: fine) {
   .post-content .goal-item:hover { color: var(--accent-link); background-color: color-mix(in srgb, var(--accent-blue) 8%, transparent); }
