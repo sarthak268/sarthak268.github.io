@@ -5,7 +5,6 @@ permalink: /
 
 <section class="home-hero" aria-labelledby="home-title">
     <div class="hero-copy">
-        <a class="current-work" href="https://warp.xyz"><span class="status-dot" aria-hidden="true"></span> Currently at Warp Sciences <span aria-hidden="true">↗</span></a>
         <h1 id="home-title">Building scientific <span>superintelligence.</span></h1>
         <p class="hero-intro">I build robotics and AI systems to advance scientific discovery.</p>
         <div class="hero-actions">
@@ -20,11 +19,10 @@ permalink: /
 
 <section class="home-section" aria-labelledby="background-title">
     <div class="section-heading">
-        <span class="section-index" aria-hidden="true">01 / BACKGROUND</span>
-        <h2 id="background-title">A little about me</h2>
+        <h2 id="background-title">About</h2>
     </div>
     <div class="section-body home-bio">
-        <p>I'm the first hire at <a href="https://warp.xyz">Warp Sciences</a>, co-leading the robotics effort. I'm building robots to automate scientific discovery, starting with small molecules.</p>
+        <p>I’m the first hire at <a href="https://warp.xyz">Warp Sciences</a>, co-leading the robotics effort. I’m building robots to automate scientific discovery, starting with small molecules.</p>
         <p>Previously, I was a research engineer at <a href="https://www.1x.tech/">1X Technologies</a>, contributing to <a href="https://www.1x.tech/discover/redwood-mobility">Redwood AI</a> and the <a href="https://www.1x.tech/discover/world-model-self-learning">1X World Model</a>. Before that, I was the first hire and founding research engineer at <a href="https://www.generalrobotics.company/">General Robotics</a>. I led sim2real reinforcement learning and technical business development, working across humanoids, quadrupeds, and manipulator arms. I hold an MS in Robotics from Carnegie Mellon University.</p>
         <details class="earlier-chapters">
             <summary>The earlier chapters</summary>
@@ -37,8 +35,7 @@ permalink: /
 
 <section class="home-section home-section-compact" aria-labelledby="research-title">
     <div class="section-heading">
-        <span class="section-index" aria-hidden="true">02 / WORK &amp; RESEARCH</span>
-        <h2 id="research-title">Learning to act<br>in the real world</h2>
+        <h2 id="research-title">Selected work</h2>
         <a class="text-link" href="/publications/">All publications <span aria-hidden="true">→</span></a>
     </div>
     <div class="section-body selected-work">
@@ -77,8 +74,7 @@ permalink: /
 
 <section class="home-section home-section-compact" aria-labelledby="outside-title">
     <div class="section-heading">
-        <span class="section-index" aria-hidden="true">03 / BEYOND WORK</span>
-        <h2 id="outside-title">Always curious</h2>
+        <h2 id="outside-title">Beyond work</h2>
     </div>
     <div class="section-body">
         <p class="outside-intro">Outside of work, I enjoy exploring physics, following football and tennis, and discovering great places to eat. My food finds are on <a href="https://beliapp.co/app/sarthakbhagat">Beli</a>.</p>
@@ -92,7 +88,6 @@ permalink: /
 </section>
 
 <section class="contact-section" aria-labelledby="contact-title">
-    <span class="section-index">LET'S CONNECT</span>
-    <h2 id="contact-title">Good work starts with a conversation.</h2>
-    <p class="contact-row"><span>Interested in collaborating, looking for advice, or just want to chat?</span> <a class="contact-email" href="mailto:sarthakbhagatoutreach@gmail.com">sarthakbhagatoutreach@gmail.com <span aria-hidden="true">↗</span></a></p>
+    <h2 id="contact-title">Say hello</h2>
+    <p class="contact-row"><span>For collaborations, questions, or a good conversation.</span> <a class="contact-email" href="mailto:sarthakbhagatoutreach@gmail.com">sarthakbhagatoutreach@gmail.com <span aria-hidden="true">↗</span></a></p>
 </section>
