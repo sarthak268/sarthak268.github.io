@@ -2,58 +2,58 @@
   "handle": "sarthak__bhagat",
   "name": "Sarthak Bhagat",
   "profile_url": "https://x.com/sarthak__bhagat",
-  "followers": 1652,
-  "updated_at": "2026-11-21T07:26:28.812036+00:00",
-  "updated_date": "2026-11-21",
+  "followers": 1661,
+  "updated_at": "2026-11-26T21:44:26.796316+00:00",
+  "updated_date": "2026-11-26",
   "since_year": 2021,
   "source": "https://api.fxtwitter.com",
   "timeline_exhausted": true,
   "scope": "Original posts and quote posts returned by the public timeline; replies and reposts excluded.",
-  "post_count": 150,
+  "post_count": 153,
   "metrics": {
-    "likes": 2480,
-    "h_index": 23,
-    "i10_index": 53
+    "likes": 2615,
+    "h_index": 24,
+    "i10_index": 55
   },
   "recent_metrics": {
-    "likes": 2392,
+    "likes": 2527,
     "h_index": 22,
-    "i10_index": 50
+    "i10_index": 52
   },
   "years": [
     {
       "year": 2020,
       "likes": 88,
-      "height": 9.45
+      "height": 8.26
     },
     {
       "year": 2021,
       "likes": 132,
-      "height": 14.18
+      "height": 12.39
     },
     {
       "year": 2022,
       "likes": 151,
-      "height": 16.22
+      "height": 14.18
     },
     {
       "year": 2023,
       "likes": 339,
-      "height": 36.41
+      "height": 31.83
     },
     {
       "year": 2024,
-      "likes": 499,
-      "height": 53.6
+      "likes": 500,
+      "height": 46.95
     },
     {
       "year": 2025,
       "likes": 340,
-      "height": 36.52
+      "height": 31.92
     },
     {
       "year": 2026,
-      "likes": 931,
+      "likes": 1065,
       "height": 100.0
     }
   ],
@@ -67,8 +67,8 @@
       "year": 2026,
       "likes": 200,
       "reposts": 19,
-      "replies": 19,
-      "views": 33299
+      "replies": 20,
+      "views": 34062
     },
     {
       "id": "1821757702806368329",
@@ -80,7 +80,7 @@
       "likes": 197,
       "reposts": 48,
       "replies": 5,
-      "views": 46633
+      "views": 46636
     },
     {
       "id": "2113300177910124670",
@@ -92,7 +92,7 @@
       "likes": 184,
       "reposts": 6,
       "replies": 37,
-      "views": 12094
+      "views": 12263
     },
     {
       "id": "2074245837593641028",
@@ -104,7 +104,7 @@
       "likes": 157,
       "reposts": 6,
       "replies": 20,
-      "views": 18481
+      "views": 18484
     },
     {
       "id": "1354012392007471105",
@@ -117,6 +117,18 @@
       "reposts": 3,
       "replies": 3,
       "views": null
+    },
+    {
+      "id": "2125928682112123038",
+      "url": "https://x.com/sarthak__bhagat/status/2125928682112123038",
+      "text": "We might be entering a decade where centuries-old scientific problems fall in a matter of weeks.\n\nNuclear fusion, aging, interstellar travel, Dyson spheres — things we've long considered science fiction might become engineering problems within our lifetimes.\n\nWe'll conquer it all. What a time to be alive.",
+      "title": "We might be entering a decade where centuries-old scientific problems fall in a matter of weeks. Nuclear fusion, aging, interstellar travel, Dyson spheres — things we've long considered science fiction might become engineering problems within our…",
+      "date": "2026-11-26",
+      "year": 2026,
+      "likes": 116,
+      "reposts": 5,
+      "replies": 5,
+      "views": 3149
     },
     {
       "id": "1987244069274460499",
@@ -137,7 +149,7 @@
       "title": "🎓 Graduated from @CarnegieMellon with MS in Robotics! 🎉 It's been an incredible journey, filled with challenges and growth. Immense gratitude to my advisor, Katia Sycara. Goodbye, Pittsburgh – you and the amazing friends I've made will always have a…",
       "date": "2024-06-13",
       "year": 2024,
-      "likes": 106,
+      "likes": 107,
       "reposts": 1,
       "replies": 4,
       "views": 6972
@@ -200,7 +212,7 @@
       "likes": 33,
       "reposts": 4,
       "replies": 0,
-      "views": 5169
+      "views": 5171
     },
     {
       "id": "1708427796769309099",
@@ -236,7 +248,7 @@
       "likes": 27,
       "reposts": 2,
       "replies": 0,
-      "views": 1850
+      "views": 1857
     },
     {
       "id": "1278723915972407296",
@@ -368,7 +380,7 @@
       "likes": 21,
       "reposts": 0,
       "replies": 2,
-      "views": 3159
+      "views": 3160
     },
     {
       "id": "1927166302512132394",
@@ -416,7 +428,7 @@
       "likes": 18,
       "reposts": 0,
       "replies": 3,
-      "views": 2046
+      "views": 2048
     },
     {
       "id": "1985528628541894839",
@@ -464,7 +476,7 @@
       "likes": 17,
       "reposts": 0,
       "replies": 1,
-      "views": 1901
+      "views": 1905
     },
     {
       "id": "2114865177149743312",
@@ -476,7 +488,7 @@
       "likes": 16,
       "reposts": 1,
       "replies": 0,
-      "views": 1210
+      "views": 1218
     },
     {
       "id": "2102627287959208191",
@@ -488,7 +500,7 @@
       "likes": 16,
       "reposts": 2,
       "replies": 0,
-      "views": 4102
+      "views": 4104
     },
     {
       "id": "1600276448261963777",
@@ -575,6 +587,18 @@
       "views": 1261
     },
     {
+      "id": "2125313332232262081",
+      "url": "https://x.com/sarthak__bhagat/status/2125313332232262081",
+      "text": "This has to be one of the most fascinating and satisfying applications of AI — helping us discover new worlds beyond our own",
+      "title": "This has to be one of the most fascinating and satisfying applications of AI — helping us discover new worlds beyond our own",
+      "date": "2026-11-24",
+      "year": 2026,
+      "likes": 13,
+      "reposts": 2,
+      "replies": 0,
+      "views": 1193
+    },
+    {
       "id": "1640934927561531392",
       "url": "https://x.com/sarthak__bhagat/status/1640934927561531392",
       "text": "Highly recommend this episode of the @tferriss podcast featuring two geniuses @DavidDeutschOxf and @naval.\nIncredible insights on life, learning, the nature of reality, and many more.\n https://tim.blog/2023/03/23/david-deutsch-naval-ravikant/",
@@ -632,7 +656,7 @@
       "likes": 11,
       "reposts": 0,
       "replies": 3,
-      "views": 572
+      "views": 574
     },
     {
       "id": "1973427783356522888",
@@ -704,7 +728,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 837
+      "views": 847
     },
     {
       "id": "2094990321323294929",
@@ -716,7 +740,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 1,
-      "views": 1174
+      "views": 1175
     },
     {
       "id": "2079450967100248308",
@@ -728,7 +752,7 @@
       "likes": 9,
       "reposts": 0,
       "replies": 0,
-      "views": 1201
+      "views": 1202
     },
     {
       "id": "2044473945571922023",
@@ -800,7 +824,7 @@
       "likes": 8,
       "reposts": 0,
       "replies": 0,
-      "views": 475
+      "views": 477
     },
     {
       "id": "2077888999713317153",
@@ -812,7 +836,7 @@
       "likes": 8,
       "reposts": 0,
       "replies": 1,
-      "views": 1092
+      "views": 1093
     },
     {
       "id": "2070689901113454683",
@@ -824,7 +848,7 @@
       "likes": 8,
       "reposts": 1,
       "replies": 2,
-      "views": 2013
+      "views": 2014
     },
     {
       "id": "2054445759265992909",
@@ -836,7 +860,7 @@
       "likes": 8,
       "reposts": 3,
       "replies": 0,
-      "views": 962
+      "views": 963
     },
     {
       "id": "2043758568537727351",
@@ -846,7 +870,7 @@
       "date": "2026-04-13",
       "year": 2026,
       "likes": 8,
-      "reposts": 2,
+      "reposts": 1,
       "replies": 0,
       "views": 669
     },
@@ -896,7 +920,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 1,
-      "views": 622
+      "views": 635
     },
     {
       "id": "2096707842921386412",
@@ -908,7 +932,7 @@
       "likes": 7,
       "reposts": 0,
       "replies": 0,
-      "views": 396
+      "views": 397
     },
     {
       "id": "2040207896961786100",
@@ -980,7 +1004,7 @@
       "likes": 6,
       "reposts": 0,
       "replies": 0,
-      "views": 1148
+      "views": 1149
     },
     {
       "id": "2046474049971474893",
@@ -992,7 +1016,7 @@
       "likes": 6,
       "reposts": 0,
       "replies": 1,
-      "views": 482
+      "views": 483
     },
     {
       "id": "1993589456931082496",
@@ -1055,6 +1079,18 @@
       "views": 431
     },
     {
+      "id": "2124337210241741059",
+      "url": "https://x.com/sarthak__bhagat/status/2124337210241741059",
+      "text": "Wouldn’t be surprised if all the remaining Millennium Prize Problems get solved by the end of 2027 👀",
+      "title": "Wouldn’t be surprised if all the remaining Millennium Prize Problems get solved by the end of 2027 👀",
+      "date": "2026-11-22",
+      "year": 2026,
+      "likes": 5,
+      "reposts": 0,
+      "replies": 0,
+      "views": 478
+    },
+    {
       "id": "2056886462755504337",
       "url": "https://x.com/sarthak__bhagat/status/2056886462755504337",
       "text": "The way @ericjang11 explains complex topics so clearly in this podcast is really impressive.\n\nAs short as my time working with @ericjang11 was, I realized he has a very rare ability to see what’s actually going to work long before it becomes obvious to everyone else.",
@@ -1064,7 +1100,7 @@
       "likes": 5,
       "reposts": 0,
       "replies": 0,
-      "views": 642
+      "views": 643
     },
     {
       "id": "2048597131125195239",
@@ -1076,7 +1112,7 @@
       "likes": 5,
       "reposts": 0,
       "replies": 0,
-      "views": 820
+      "views": 821
     },
     {
       "id": "2041586035440914818",
@@ -1196,7 +1232,7 @@
       "likes": 4,
       "reposts": 0,
       "replies": 0,
-      "views": 401
+      "views": 402
     },
     {
       "id": "2097401836684894606",
@@ -1208,7 +1244,7 @@
       "likes": 4,
       "reposts": 0,
       "replies": 0,
-      "views": 537
+      "views": 538
     },
     {
       "id": "2039580702933733484",
@@ -1244,7 +1280,7 @@
       "likes": 4,
       "reposts": 1,
       "replies": 0,
-      "views": 488
+      "views": 489
     },
     {
       "id": "2022431943187665314",
@@ -1436,7 +1472,7 @@
       "likes": 3,
       "reposts": 0,
       "replies": 0,
-      "views": 306
+      "views": 307
     },
     {
       "id": "1894920780913492279",
@@ -1556,7 +1592,7 @@
       "likes": 2,
       "reposts": 0,
       "replies": 0,
-      "views": 288
+      "views": 289
     },
     {
       "id": "2032965897103552805",
@@ -2391,7 +2427,7 @@
     {
       "profile": {
         "handle": "Parvkpr",
-        "name": "Parv Kapoor ✈️ CoRL 26",
+        "name": "Parv Kapoor ✈️ NeurIPS 26",
         "profile_url": "https://x.com/Parvkpr",
         "avatar_url": "https://pbs.twimg.com/profile_images/1622769646095986688/JOSyUBMK_200x200.jpg",
         "initials": "PK"
@@ -2617,7 +2653,7 @@
         "handle": "trossenrobotics",
         "name": "Trossen Robotics",
         "profile_url": "https://x.com/trossenrobotics",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1892087328224456704/In8iCyOM_200x200.jpg",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2125635719884328961/rhoTp834_200x200.jpg",
         "initials": "TR"
       },
       "evidence": {
@@ -3506,6 +3542,54 @@
         "post_id": "2118036806734135403",
         "id": "2118053150645252170",
         "url": "https://x.com/sarthak__bhagat/status/2118053150645252170"
+      }
+    },
+    {
+      "profile": {
+        "handle": "haider1",
+        "name": "Haider.",
+        "profile_url": "https://x.com/haider1",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2047286007003848704/u2mzg86I_200x200.jpg",
+        "initials": "H"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2124279188026691816",
+        "id": "2124337210241741059",
+        "url": "https://x.com/sarthak__bhagat/status/2124337210241741059"
+      }
+    },
+    {
+      "profile": {
+        "handle": "OpenAI",
+        "name": "OpenAI",
+        "profile_url": "https://x.com/OpenAI",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg",
+        "initials": "O"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2125305606685053416",
+        "id": "2125313332232262081",
+        "url": "https://x.com/sarthak__bhagat/status/2125313332232262081"
+      }
+    },
+    {
+      "profile": {
+        "handle": "Dr_Singularity",
+        "name": "Dr Singularity",
+        "profile_url": "https://x.com/Dr_Singularity",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1607111366397120514/j4XzXC27_200x200.jpg",
+        "initials": "DS"
+      },
+      "evidence": {
+        "kind": "quotes",
+        "direction": "outgoing",
+        "post_id": "2125922768524836879",
+        "id": "2125928682112123038",
+        "url": "https://x.com/sarthak__bhagat/status/2125928682112123038"
       }
     },
     {
@@ -6418,6 +6502,22 @@
         "post_id": "2122417334501712248",
         "id": "2122417334501712248",
         "url": "https://x.com/martinmbauer/status/2122417334501712248"
+      }
+    },
+    {
+      "profile": {
+        "handle": "tszzl",
+        "name": "roon",
+        "profile_url": "https://x.com/tszzl",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_200x200.jpg",
+        "initials": "R"
+      },
+      "evidence": {
+        "kind": "reposts",
+        "direction": "outgoing",
+        "post_id": "2125809711509336342",
+        "id": "2125809711509336342",
+        "url": "https://x.com/tszzl/status/2125809711509336342"
       }
     },
     {
